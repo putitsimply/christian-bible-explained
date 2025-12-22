@@ -1,11 +1,21 @@
 # Table of contents
 
-* [Old Testament](README.md)
+* [Bible overview (student guide)](README.md)
+
+## Old Testament
+
+* [Old Testament](old-testament.md)
+
+### The Law (Torah)
+
 * [Genesis](genesis.md)
 * [Exodus](exodus.md)
 * [Leviticus](leviticus.md)
 * [Numbers](numbers.md)
 * [Deuteronomy](deuteronomy.md)
+
+### History
+
 * [Joshua](joshua.md)
 * [Judges](judges.md)
 * [Ruth](ruth.md)
@@ -18,16 +28,25 @@
 * [Ezra](ezra.md)
 * [Nehemiah](nehemiah.md)
 * [Esther](esther.md)
+
+### Poetry and wisdom
+
 * [Job](job.md)
 * [Psalms](psalms.md)
 * [Proverbs](proverbs.md)
 * [Ecclesiastes](ecclesiastes.md)
 * [Song of Solomon](song-of-solomon.md)
+
+### Major prophets
+
 * [Isaiah](isaiah.md)
 * [Jeremiah](jeremiah.md)
 * [Lamentations](lamentations.md)
 * [Ezekiel](ezekiel.md)
 * [Daniel](daniel.md)
+
+### Minor prophets
+
 * [Hosea](hosea.md)
 * [Joel](joel.md)
 * [Amos](amos.md)
@@ -40,12 +59,24 @@
 * [Haggai](haggai.md)
 * [Zechariah](zechariah.md)
 * [Malachi](malachi.md)
-* [New Testament](readme-1.md)
+
+## New Testament
+
+* [New Testament](new-testament.md)
+
+### Gospels
+
 * [Matthew](matthew.md)
 * [Mark](mark.md)
 * [Luke](luke.md)
 * [John](john.md)
+
+### History
+
 * [Acts](acts.md)
+
+### Letters (Paul)
+
 * [Romans](romans.md)
 * [1 Corinthians](1-corinthians.md)
 * [2 Corinthians](2-corinthians.md)
@@ -59,6 +90,9 @@
 * [2 Timothy](2-timothy.md)
 * [Titus](titus.md)
 * [Philemon](philemon.md)
+
+### Other letters
+
 * [Hebrews](hebrews.md)
 * [James](james.md)
 * [1 Peter](1-peter.md)
@@ -67,4 +101,7 @@
 * [2 John](2-john.md)
 * [3 John](3-john.md)
 * [Jude](jude.md)
+
+### Apocalyptic
+
 * [Revelation](revelation.md)

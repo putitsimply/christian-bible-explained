@@ -18,6 +18,6 @@ Jesus argues with some religious leaders, especially about rules, authority, and
 In the second half of Mark, Jesus heads to Jerusalem. He predicts his suffering and death, and teaches that following him can involve sacrifice. In Jerusalem, there is a last meal with his disciples, betrayal, arrest, and a trial. Jesus is crucified (executed on a cross by the Romans). Mark describes his suffering in a serious, direct way.
 
 **The ending**\
-After Jesus dies, he is buried. Then, on the third day, women go to the tomb and find it empty. They are told that Jesus has been raised from the dead, and that his followers should go on to Galilee. Some Bibles include extra verses after this point, because ancient manuscripts end Mark in more than one way.
+After Jesus dies, he is buried. Then, on the third day, women go to the tomb and find it empty. They are told that Jesus has been raised from the dead (which Christians believe happened), and that his followers should go on to Galilee. Some Bibles include extra verses after this point, because ancient manuscripts end Mark in more than one way.
 
 Overall, Mark is a fast-moving account that highlights Jesus’ actions, the growing conflict around him, and the challenge of understanding what kind of leader he is.

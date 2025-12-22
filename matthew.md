@@ -1,6 +1,6 @@
 # Matthew
 
-The book of Matthew is one of the four Gospels, which are books that tell the story of Jesus’ life, teaching, death, and resurrection. Matthew is organised like a biography mixed with lots of teaching.
+The book of Matthew is one of the four Gospels, which are books that tell the story of Jesus’ life, teaching, and death, and (in Christian belief) his resurrection. Matthew is organised like a biography mixed with lots of teaching.
 
 Matthew starts by introducing Jesus’ family line and then tells the story of Jesus’ birth. It includes the visit of the wise men, King Herod’s fear of losing power, and how Jesus’ family escapes danger by going to Egypt and later returning to live in Nazareth.
 
@@ -14,4 +14,4 @@ As the story goes on, Jesus argues more with some religious leaders, often calle
 
 Near the end, Jesus goes to Jerusalem. He is welcomed like a king, teaches in the temple, and gives strong warnings about injustice and pretending to be good. He shares a final meal with his disciples (often called the Last Supper), is arrested, and is put on trial. He is crucified (executed on a cross), and Matthew describes events that show how shocking and significant this was for his followers.
 
-Finally, Matthew tells of Jesus’ resurrection (being raised back to life). The book ends with Jesus sending his disciples out to teach others and make new disciples, often called the Great Commission.
+Finally, Matthew tells of Jesus’ resurrection (Christians believe he was raised back to life). The book ends with Jesus sending his disciples out to teach others and make new disciples, often called the Great Commission.

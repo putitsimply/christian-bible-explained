@@ -16,9 +16,9 @@ layout:
     visible: true
 ---
 
-# New Testament
+# Old Testament
 
-The Old Testament is the first big section of the Christian Bible. It tells a long story about God, the world, and the people of Israel, across many centuries. It is made up of different kinds of writing, like stories, laws, poems, prayers, proverbs, and messages from prophets.
+The Old Testament is the first big section of the Christian Bible. Many of these books are also part of Jewish scriptures (often called the Hebrew Bible), though the order and naming can differ. The Old Testament tells a long story about God, the world, and the people of Israel, across many centuries. It is made up of different kinds of writing, like stories, laws, poems, prayers, proverbs, and messages from prophets.
 
 It begins with the early “big picture” stories. Genesis describes God creating the world and humans, and it introduces big ideas like humans choosing right and wrong, and how broken relationships lead to conflict. It then focuses on one family, starting with Abraham, then Isaac, Jacob, and Joseph. These stories explain how the Israelites see their beginnings and their relationship with God through promises.
 

@@ -1,9 +1,9 @@
 # Acts
 
-Acts is the story of what happens after Jesus’ death and resurrection, focusing on how his followers spread the Christian message across the Roman world. It follows a group called the apostles, meaning “sent ones,” who believed Jesus had chosen them to continue his work.
+Acts is the story of what happens after Jesus’ death and (in Christian belief) his resurrection, focusing on how his followers spread the Christian message across the Roman world. It follows a group called the apostles, meaning “sent ones,” who believed Jesus had chosen them to continue his work.
 
 **1) The beginning in Jerusalem**\
-Acts starts with Jesus appearing to his followers for a short time, then returning to heaven (often called the Ascension). The followers stay in Jerusalem. Soon after, a major Jewish festival called Pentecost happens. The followers believe God gives them the Holy Spirit, which in Christian belief is God’s presence and power working with people. They begin preaching boldly, and many people join them. This is often seen as the “birth” of the early church, meaning the first Christian community.
+Acts starts by saying Jesus appeared to his followers for a short time, then returned to heaven (often called the Ascension). The followers stay in Jerusalem. Soon after, a major Jewish festival called Pentecost happens. The followers believe God gives them the Holy Spirit, which in Christian belief is God’s presence and power working with people. They begin preaching boldly, and many people join them. This is often seen as the “birth” of the early church, meaning the first Christian community.
 
 **2) Peter and the early community**\
 A leader named Peter becomes very important early on. He speaks to crowds, heals people, and faces opposition from local leaders who think the apostles are causing trouble. The community shares food and money to help those in need. There are also problems, like disagreements and unfairness, and the group appoints helpers to make sure people are cared for fairly.

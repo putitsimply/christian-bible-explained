@@ -16,11 +16,11 @@ Paul urges the church to stay united. He tells them not to fight for status or a
 **4) Living faithfully in a tough world**\
 Paul reminds them that following Jesus can be challenging, especially when people around them do not agree. He tells them to “shine” by living good lives, holding on to hope, and staying steady. He also says that God helps believers grow in doing what is right.
 
-**5) Timothy and Epaphroditus**\
-Paul talks about two helpers. Timothy is someone Paul trusts and hopes to send to them. Epaphroditus is the person the Philippians sent with support for Paul, and he became very sick but recovered. Paul sends Epaphroditus back and asks them to welcome him warmly.
+**5) Paul mentions trusted helpers**\
+Paul talks briefly about two helpers, Timothy and Epaphroditus, and highlights their care for the Philippians and their courage in helping Paul while he is imprisoned.
 
 **6) Warnings and what really matters**\
-Paul warns them about teachers who insist that people must follow certain religious rules to belong. Paul argues that what matters most is trusting Christ, not trying to “earn” goodness through rule-keeping. He describes his own impressive background but says he now counts it as far less important than knowing Christ.
+Paul warns them about teachers who insist that people must follow certain religious rules to belong. Paul argues that what matters most is trusting Christ, not trying to “earn” goodness through rule-keeping.
 
 **7) Joy, peace, and practical advice**\
 Paul tells them to rejoice (choose joy) and not be overwhelmed by anxiety. He encourages them to pray, to be thankful, and to focus their minds on what is true, good, and admirable. He also thanks them again for their generosity, saying he has learned to be content whether he has plenty or very little.

@@ -2,7 +2,7 @@
 
 The book of John is one of the four Gospels, the books that tell the story of Jesus’ life. John’s Gospel is written to help readers understand who Jesus is, and why trusting him matters.
 
-It begins with a poetic introduction. John says Jesus is the “Word,” meaning God’s message and action coming into the world as a real human being. John also introduces John the Baptist, a teacher who points people toward Jesus.
+It begins with a poetic introduction that describes Jesus as the “Word,” meaning God’s message and action coming into the world as a real human being. John also introduces John the Baptist, a teacher who points people toward Jesus.
 
 After that, John tells a series of key events and teachings. John often calls Jesus’ miracles “signs,” because they are meant to show something about Jesus, not just amaze people. Some famous signs include turning water into wine at a wedding, healing people who are very sick, feeding a huge crowd with a small amount of food, walking on water, giving sight to a man born blind, and raising Lazarus from the dead.
 
@@ -12,4 +12,4 @@ A major part of the book focuses on Jesus’ final week in Jerusalem, around Pas
 
 John then tells the story of Jesus’ arrest, trial, crucifixion, and death. He emphasizes that Jesus chooses to face this, and that it fits within God’s plan.
 
-Finally, John describes Jesus rising from the dead and appearing to his followers, including a disciple named Thomas who struggles to believe at first. The book ends by saying these stories were written so readers might believe Jesus is the Messiah (a promised leader and rescuer) and have life through him.
+Finally, John describes Jesus rising from the dead (which Christians believe happened) and appearing to his followers, including a disciple named Thomas who struggles to believe at first. The book ends by saying these stories were written so readers might believe Jesus is the Messiah (a promised leader and rescuer) and have life through him.
