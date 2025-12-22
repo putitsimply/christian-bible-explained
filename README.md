@@ -1,5 +1,5 @@
 ---
-icon: hand-wave
+icon: book-bookmark
 layout:
   width: default
   title:
@@ -19,7 +19,7 @@ metaLinks:
     - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
 ---
 
-# Summary
+# Old Testament
 
 ### Jump right in
 
