@@ -21,10 +21,6 @@ metaLinks:
 
 # Old Testament
 
-### Jump right in
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>Quickstart</strong></td><td>Create your first site</td><td></td><td></td><td><a href="/broken/pages/7FvWQMF0kTK7HGhlQfmo">Broken link</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Editor basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="/broken/pages/QPzbTvC6XsT5gERiU43E">Broken link</a></td></tr></tbody></table>
-
 The Old Testament is the first big section of the Christian Bible. It tells a long story about God, the world, and the people of Israel, across many centuries. It is made up of different kinds of writing, like stories, laws, poems, prayers, proverbs, and messages from prophets.
 
 It begins with the early “big picture” stories. Genesis describes God creating the world and humans, and it introduces big ideas like humans choosing right and wrong, and how broken relationships lead to conflict. It then focuses on one family, starting with Abraham, then Isaac, Jacob, and Joseph. These stories explain how the Israelites see their beginnings and their relationship with God through promises.
