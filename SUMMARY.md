@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Summary](README.md)
+* [Old Testament](README.md)
 * [Genesis](genesis.md)
 * [Exodus](exodus.md)
 * [Leviticus](leviticus.md)
