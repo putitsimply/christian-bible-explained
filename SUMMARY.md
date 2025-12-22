@@ -40,3 +40,5 @@
 * [Haggai](haggai.md)
 * [Zechariah](zechariah.md)
 * [Malachi](malachi.md)
+* [New Testament](readme-1.md)
+* [Matthew](matthew.md)

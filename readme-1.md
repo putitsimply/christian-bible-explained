@@ -14,12 +14,9 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
 ---
 
-# Old Testament
+# New Testament
 
 The Old Testament is the first big section of the Christian Bible. It tells a long story about God, the world, and the people of Israel, across many centuries. It is made up of different kinds of writing, like stories, laws, poems, prayers, proverbs, and messages from prophets.
 
