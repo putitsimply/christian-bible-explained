@@ -6,7 +6,7 @@ The book of Job is a story that explores a big question: why do bad things happe
 
 ## What it contains
 
-Job is introduced as a man who is known for doing what is right. He has a large family, lots of animals and land, and a respected place in his community. Then the story shifts to a scene in heaven, where a challenger claims that Job is only faithful because his life is easy. [God](glossary.md#god) [^gl-god] allows Job to be tested, but with limits.
+Job is introduced as a man who is known for doing what is right. He has a large family, lots of animals and land, and a respected place in his community. Then the story shifts to a scene in heaven, where a challenger claims that Job is only faithful because his life is easy. [God[^gl_god]](glossary.md#god) allows Job to be tested, but with limits.
 
 Very quickly, Job’s life falls apart. Raiders steal his animals, a disaster kills his servants, and a storm collapses a house where his children are gathered, killing them. Soon after, Job also becomes very sick, covered in painful sores. Job is devastated, but at first he refuses to curse [God](glossary.md#god).
 
@@ -25,9 +25,9 @@ At the end, [God](glossary.md#god) tells Job’s three friends they were wrong t
 ## Big ideas
 
 * The book challenges the simple idea that suffering is always a punishment for wrongdoing.
-* It treats honest grief and hard questions as part of [faith](glossary.md#faith) [^gl-faith], not the opposite of it.
+* It treats honest grief and hard questions as part of [faith[^gl_faith]](glossary.md#faith), not the opposite of it.
 * It ends with humility: some “why” questions may not get a neat explanation.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.
 
-[^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+[^gl_faith]: Trust; in Christianity, trusting God and Jesus.

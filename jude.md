@@ -2,13 +2,13 @@
 
 ## What this book is
 
-The book of Jude is a very short letter near the end of the New Testament. It is written to Christians in general, not to one specific [church](glossary.md#church) [^gl-church].
+The book of Jude is a very short letter near the end of the New Testament. It is written to Christians in general, not to one specific [church[^gl_church]](glossary.md#church).
 
 ## What it contains
 
 ### Why Jude writes
 
-Jude says he wanted to write a positive letter about “the [salvation](glossary.md#salvation) [^gl-salvation] we share” ([salvation](glossary.md#salvation) means being rescued by [God](glossary.md#god) [^gl-god] and brought into a right relationship with him). But he changes focus because he believes the [church](glossary.md#church) is in danger from certain teachers who have slipped in and are twisting the message about Jesus.
+Jude says he wanted to write a positive letter about “the [salvation[^gl_salvation]](glossary.md#salvation) we share” ([salvation](glossary.md#salvation) means being rescued by [God[^gl_god]](glossary.md#god) and brought into a right relationship with him). But he changes focus because he believes the [church](glossary.md#church) is in danger from certain teachers who have slipped in and are twisting the message about Jesus.
 
 ### The main problem Jude warns about
 
@@ -18,9 +18,9 @@ In simple terms, Jude warns readers not to let persuasive teachers pull them awa
 
 ### How Jude makes his point
 
-Jude uses strong warning examples from earlier [Bible](glossary.md#bible) [^gl-bible] stories to show that rebellion and wrongdoing have consequences. He refers to:
+Jude uses strong warning examples from earlier [Bible[^gl_bible]](glossary.md#bible) stories to show that rebellion and wrongdoing have consequences. He refers to:
 
-* [Israelites](glossary.md#israel) [^gl-israel] in the wilderness who did not trust [God](glossary.md#god).
+* [Israelites[^gl_israel]](glossary.md#israel) in the wilderness who did not trust [God](glossary.md#god).
 * Angels who rebelled.
 * Sodom and Gomorrah as a picture of serious moral failure.
 He also mentions a couple of examples that come from Jewish traditional writings that many Jews knew at the time, like a story about a dispute over Moses’ body, and a quote linked to Enoch. Jude uses these references like illustrations to strengthen his warning, even if readers today are not familiar with the background.
@@ -29,7 +29,7 @@ He also mentions a couple of examples that come from Jewish traditional writings
 
 Jude gives practical advice:
 
-* “Contend for the [faith](glossary.md#faith) [^gl-faith].” Here “[faith](glossary.md#faith)” means the core message about Jesus and the way of life that goes with it, not just personal feelings.
+* “Contend for the [faith[^gl_faith]](glossary.md#faith).” Here “[faith](glossary.md#faith)” means the core message about Jesus and the way of life that goes with it, not just personal feelings.
 * Build each other up, pray, and stay connected to [God](glossary.md#god)’s love.
 * Be wise and kind when helping others who are being influenced, taking care not to get dragged into the same harmful behaviour.
 
@@ -43,18 +43,18 @@ Overall, Jude is a warning letter that urges readers to guard what they have bee
 
 * The letter warns against teaching that encourages harmful behaviour.
 * It uses examples from older stories to argue that choices have consequences.
-* It balances “be careful” with “help others kindly.”: Rescue; in Christianity, being saved from [sin](glossary.md#sin) [^gl-sin].
+* It balances “be careful” with “help others kindly.”: Rescue; in Christianity, being saved from [sin[^gl_sin]](glossary.md#sin).
 
-[^gl-church]: A community of Christians, not just a building.
+[^gl_church]: A community of Christians, not just a building.
 
-[^gl-salvation]: Rescue; in Christianity, being saved from sin.
+[^gl_salvation]: Rescue; in Christianity, being saved from sin.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.
 
-[^gl-bible]: Christian sacred writings: many books and types of writing.
+[^gl_bible]: Christian sacred writings: many books and types of writing.
 
-[^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+[^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
 
-[^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+[^gl_faith]: Trust; in Christianity, trusting God and Jesus.
 
-[^gl-sin]: Wrongdoing; in Christianity, also a broken relationship with God.
+[^gl_sin]: Wrongdoing; in Christianity, also a broken relationship with God.

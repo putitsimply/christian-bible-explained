@@ -2,13 +2,13 @@
 
 ## What this book is
 
-Galatians is a letter written by Paul (a Christian missionary) to several [church](glossary.md#church) [^gl-church] groups in a region called Galatia. He writes because a serious argument has started about what makes someone part of [God](glossary.md#god) [^gl-god]’s people.
+Galatians is a letter written by Paul (a Christian missionary) to several [church[^gl_church]](glossary.md#church) groups in a region called Galatia. He writes because a serious argument has started about what makes someone part of [God[^gl_god]](glossary.md#god)’s people.
 
 ## What it contains
 
 ### The problem Paul is answering
 
-After Paul left, some teachers told the Galatian Christians, “[Faith](glossary.md#faith) [^gl-faith] in Jesus is not enough. To belong, people must also follow key parts of the Jewish law, especially circumcision (a religious sign for Jewish males) and other rules.” Paul strongly disagrees.
+After Paul left, some teachers told the Galatian Christians, “[Faith[^gl_faith]](glossary.md#faith) in Jesus is not enough. To belong, people must also follow key parts of the Jewish law, especially circumcision (a religious sign for Jewish males) and other rules.” Paul strongly disagrees.
 
 ### Paul’s main message
 
@@ -17,7 +17,7 @@ Paul says people are made “right with [God](glossary.md#god)” by trusting Je
 ### How Paul argues his case
 
 * **Paul defends his authority and message:** He explains that his message came from his encounter with Jesus and that even other major leaders did not force non-Jewish believers to become Jewish first.
-* **[Faith](glossary.md#faith) versus law:** He points to Abraham, an important [Bible](glossary.md#bible) [^gl-bible] figure, saying Abraham trusted [God](glossary.md#god) before the Jewish law existed. Paul uses this to argue that trust comes first.
+* **[Faith](glossary.md#faith) versus law:** He points to Abraham, an important [Bible[^gl_bible]](glossary.md#bible) figure, saying Abraham trusted [God](glossary.md#god) before the Jewish law existed. Paul uses this to argue that trust comes first.
 * **What the law was for:** Paul says the law had a temporary role, like a supervisor or guide, showing people right and wrong and highlighting human failure, but it was not the final solution.
 * **A new family identity:** Paul says that through [faith](glossary.md#faith), people become part of [God](glossary.md#god)’s family, whether they are Jewish or non-Jewish, male or female, slave or free. His point is that social and ethnic divisions should not decide who belongs.
 
@@ -35,10 +35,10 @@ Paul finishes with practical advice, urging the community to help each other, ta
 * Unity across groups is emphasised (Jewish and non-Jewish believers should belong together).
 * Freedom is tied to responsibility: character and love matter.
 
-[^gl-church]: A community of Christians, not just a building.
+[^gl_church]: A community of Christians, not just a building.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.
 
-[^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+[^gl_faith]: Trust; in Christianity, trusting God and Jesus.
 
-[^gl-bible]: Christian sacred writings: many books and types of writing.
+[^gl_bible]: Christian sacred writings: many books and types of writing.

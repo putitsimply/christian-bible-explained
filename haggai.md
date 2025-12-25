@@ -2,23 +2,23 @@
 
 ## What this book is
 
-Haggai is a short book about getting people to restart a stalled project: rebuilding [God](glossary.md#god) [^gl-god]’s [temple](glossary.md#temple) [^gl-temple] in [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem].
+Haggai is a short book about getting people to restart a stalled project: rebuilding [God[^gl_god]](glossary.md#god)’s [temple[^gl_temple]](glossary.md#temple) in [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem).
 
 ## What it contains
 
 ### Setting
 
-The story happens after many Jewish people have returned to [Judah](glossary.md#judah) [^gl-judah] from [exile](glossary.md#exile) [^gl-exile] in Babylon ([exile](glossary.md#exile) means being forced to live away from home). They have begun rebuilding their lives, but the [temple](glossary.md#temple) is still left in ruins. The [temple](glossary.md#temple) was the main place for [worship](glossary.md#worship) [^gl-worship] and community life in [Jerusalem](glossary.md#jerusalem).
+The story happens after many Jewish people have returned to [Judah[^gl_judah]](glossary.md#judah) from [exile[^gl_exile]](glossary.md#exile) in Babylon ([exile](glossary.md#exile) means being forced to live away from home). They have begun rebuilding their lives, but the [temple](glossary.md#temple) is still left in ruins. The [temple](glossary.md#temple) was the main place for [worship[^gl_worship]](glossary.md#worship) and community life in [Jerusalem](glossary.md#jerusalem).
 
 ### What Haggai says and what happens
 
-Haggai is a [prophet](glossary.md#prophet) [^gl-prophet], meaning someone who delivers messages believed to come from [God](glossary.md#god). His messages are dated very specifically and all happen within a few months.
+Haggai is a [prophet[^gl_prophet]](glossary.md#prophet), meaning someone who delivers messages believed to come from [God](glossary.md#god). His messages are dated very specifically and all happen within a few months.
 
 1. **Haggai challenges the people’s priorities**\
  Haggai challenges the people because they are focusing on fixing up their own homes while leaving the [temple](glossary.md#temple) unfinished. He says this mixed-up priority is part of why things feel hard, like poor harvests and not enough resources. His point is that their choices are shaping their whole community.
 
 2. **The leaders and people respond and start rebuilding**\
- Two key leaders are named: **Zerubbabel** (the governor) and **Joshua** (the [high priest](glossary.md#high-priest) [^gl-high-priest], meaning the main religious leader). The people listen, and the rebuilding work begins. Haggai also brings encouragement that [God](glossary.md#god) is with them, and urges them not to be afraid or give up.
+ Two key leaders are named: **Zerubbabel** (the governor) and **Joshua** (the [high priest[^gl_high_priest]](glossary.md#high-priest), meaning the main religious leader). The people listen, and the rebuilding work begins. Haggai also brings encouragement that [God](glossary.md#god) is with them, and urges them not to be afraid or give up.
 
 3. **“This new [temple](glossary.md#temple) looks small, but do not lose heart”**\
  Some people remember the old [temple](glossary.md#temple) and feel sad because the new one seems less impressive. Haggai tells them to keep going, and promises that the future will bring greater honour and peace than they expect.
@@ -33,18 +33,18 @@ Haggai is a [prophet](glossary.md#prophet) [^gl-prophet], meaning someone who de
 
 Haggai is about priorities, community responsibility, and encouragement to finish important work even when it feels slow or unimpressive.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.
 
-[^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+[^gl_temple]: The main worship building in Jerusalem in ancient Israel.
 
-[^gl-jerusalem]: A major city in the Bible’s story.
+[^gl_jerusalem]: A major city in the Bible’s story.
 
-[^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+[^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem.
 
-[^gl-exile]: Being forced to live away from one’s homeland.
+[^gl_exile]: Being forced to live away from one’s homeland.
 
-[^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals).
 
-[^gl-prophet]: A person who speaks messages they believe come from God.
+[^gl_prophet]: A person who speaks messages they believe come from God.
 
-[^gl-high-priest]: The chief priest in ancient Israel’s worship system.
+[^gl_high_priest]: The chief priest in ancient Israel’s worship system.

@@ -2,7 +2,7 @@
 
 ## What this book is
 
-The book of Judges comes after Joshua. The [Israelites](glossary.md#israel) [^gl-israel] are living in the land of Canaan, but they do not have a king yet. Instead, the story shows a repeated pattern where the people keep drifting away from [God](glossary.md#god) [^gl-god], then getting into trouble, then calling for help, then being rescued, then falling back into the same problems again.
+The book of Judges comes after Joshua. The [Israelites[^gl_israel]](glossary.md#israel) are living in the land of Canaan, but they do not have a king yet. Instead, the story shows a repeated pattern where the people keep drifting away from [God[^gl_god]](glossary.md#god), then getting into trouble, then calling for help, then being rescued, then falling back into the same problems again.
 
 ## What it contains
 
@@ -21,7 +21,7 @@ A “judge” here is not mainly a courtroom judge. It is more like a leader or 
 
 * **Othniel** is the first judge and sets the pattern.
 * **Ehud** is a clever left-handed leader who frees [Israel](glossary.md#israel) from Moab.
-* **Deborah** is a [prophet](glossary.md#prophet) [^gl-prophet] and leader who works with Barak to defeat an enemy army led by Sisera. This is one of the clearest examples of wise leadership in the book.
+* **Deborah** is a [prophet[^gl_prophet]](glossary.md#prophet) and leader who works with Barak to defeat an enemy army led by Sisera. This is one of the clearest examples of wise leadership in the book.
 * **Gideon** starts out fearful but is called to lead. His small army defeats the Midianites, showing that winning is not just about numbers.
 * **Jephthah** becomes a leader during a conflict with the Ammonites. His story includes a tragic vow, showing how messy leadership can be when people act rashly.
 * **Samson** is famous for his great strength and his weaknesses. He fights the Philistines, but his choices often cause trouble for himself and others.
@@ -34,8 +34,8 @@ The final section does not focus on judges as much. It shows how disordered life
 
 Judges is a warning story. It shows how a community can fall apart when people forget their responsibilities to [God](glossary.md#god) and to each other, and it also shows that help and rescue can still come, even in a messy time.
 
-[^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+[^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.
 
-[^gl-prophet]: A person who speaks messages they believe come from God.
+[^gl_prophet]: A person who speaks messages they believe come from God.

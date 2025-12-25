@@ -2,13 +2,13 @@
 
 ## What this book is
 
-Acts is the story of what happens after Jesus’ death and (in Christian belief) his [resurrection](glossary.md#resurrection) [^gl-resurrection], focusing on how his followers spread the Christian message across the Roman world. It follows a group called the [apostles](glossary.md#apostle) [^gl-apostle], meaning “sent ones,” who believed Jesus had chosen them to continue his work.
+Acts is the story of what happens after Jesus’ death and (in Christian belief) his [resurrection[^gl_resurrection]](glossary.md#resurrection), focusing on how his followers spread the Christian message across the Roman world. It follows a group called the [apostles[^gl_apostle]](glossary.md#apostle), meaning “sent ones,” who believed Jesus had chosen them to continue his work.
 
 ## What it contains
 
-**1) The beginning in [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem]**
+**1) The beginning in [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem)**
 
-Acts starts by saying Jesus appeared to his followers for a short time, then returned to heaven (often called the [Ascension](glossary.md#ascension) [^gl-ascension]). The followers stay in [Jerusalem](glossary.md#jerusalem). Soon after, a major Jewish festival called [Pentecost](glossary.md#pentecost) [^gl-pentecost] happens. The followers believe [God](glossary.md#god) [^gl-god] gives them the [Holy Spirit](glossary.md#holy-spirit) [^gl-holy-spirit], which in Christian belief is [God](glossary.md#god)’s presence and power working with people. They begin preaching boldly, and many people join them.
+Acts starts by saying Jesus appeared to his followers for a short time, then returned to heaven (often called the [Ascension[^gl_ascension]](glossary.md#ascension)). The followers stay in [Jerusalem](glossary.md#jerusalem). Soon after, a major Jewish festival called [Pentecost[^gl_pentecost]](glossary.md#pentecost) happens. The followers believe [God[^gl_god]](glossary.md#god) gives them the [Holy Spirit[^gl_holy_spirit]](glossary.md#holy-spirit), which in Christian belief is [God](glossary.md#god)’s presence and power working with people. They begin preaching boldly, and many people join them.
 
 **2) Peter and the early community**
 
@@ -18,13 +18,13 @@ One major moment is when a follower named Stephen is killed for his beliefs. Thi
 
 **3) The message spreads beyond Jewish people**
 
-Acts shows a big change: the message is not only for Jewish people. A Roman officer named Cornelius and his household join, and Peter accepts them. This matters because it opens the movement to [Gentiles](glossary.md#gentile) [^gl-gentile], meaning non Jewish people.
+Acts shows a big change: the message is not only for Jewish people. A Roman officer named Cornelius and his household join, and Peter accepts them. This matters because it opens the movement to [Gentiles[^gl_gentile]](glossary.md#gentile), meaning non Jewish people.
 
 **4) Paul’s conversion and journeys**
 
 A man named Saul (later called Paul) begins as someone who tries to stop the followers. Then he has a dramatic experience and becomes a believer. Paul becomes the main figure for the rest of the book.
 
-Paul travels widely, starting communities in many cities, teaching in [synagogues](glossary.md#synagogue) [^gl-synagogue] and public places, and often facing hostility, riots, and arrests.
+Paul travels widely, starting communities in many cities, teaching in [synagogues[^gl_synagogue]](glossary.md#synagogue) and public places, and often facing hostility, riots, and arrests.
 
 **5) A key meeting in [Jerusalem](glossary.md#jerusalem)**
 
@@ -40,20 +40,20 @@ Paul is arrested, put on trial several times, and eventually appeals to Caesar, 
 * The story shows major disagreements (especially about Jews and non-Jews) and how leaders try to solve them.
 * Hardship and opposition are presented as normal parts of the early Christian story.
 
-[^gl-resurrection]: Life after death; Christians believe Jesus rose.
+[^gl_resurrection]: Life after death; Christians believe Jesus rose.
 
-[^gl-apostle]: An early Christian messenger; the word means “sent one.”
+[^gl_apostle]: An early Christian messenger; the word means “sent one.”
 
-[^gl-jerusalem]: A major city in the Bible’s story.
+[^gl_jerusalem]: A major city in the Bible’s story.
 
-[^gl-ascension]: Jesus being taken up to heaven (Christian belief).
+[^gl_ascension]: Jesus being taken up to heaven (Christian belief).
 
-[^gl-pentecost]: A Jewish festival; Acts links it to the Holy Spirit.
+[^gl_pentecost]: A Jewish festival; Acts links it to the Holy Spirit.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.
 
-[^gl-holy-spirit]: God’s active presence helping and guiding people (Christian belief).
+[^gl_holy_spirit]: God’s active presence helping and guiding people (Christian belief).
 
-[^gl-gentile]: A non-Jewish person.
+[^gl_gentile]: A non-Jewish person.
 
-[^gl-synagogue]: A Jewish meeting place for prayer and teaching.
+[^gl_synagogue]: A Jewish meeting place for prayer and teaching.

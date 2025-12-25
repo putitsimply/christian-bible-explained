@@ -2,13 +2,13 @@
 
 ## What this book is
 
-Colossians is a letter in the New Testament. It is traditionally linked to Paul (a Christian leader and missionary), writing to a [church](glossary.md#church) [^gl-church] in a town called Colossae. The main reason for the letter is that the Christians there were being confused by teachings that mixed Christianity with other ideas and rules, as if Jesus was not enough.
+Colossians is a letter in the New Testament. It is traditionally linked to Paul (a Christian leader and missionary), writing to a [church[^gl_church]](glossary.md#church) in a town called Colossae. The main reason for the letter is that the Christians there were being confused by teachings that mixed Christianity with other ideas and rules, as if Jesus was not enough.
 
 ## What it contains
 
 Here is what happens in the letter:
 
-Paul begins by thanking [God](glossary.md#god) [^gl-god] for the Colossian Christians and praying for them. He wants them to grow in wisdom, live good lives, and stay strong.
+Paul begins by thanking [God[^gl_god]](glossary.md#god) for the Colossian Christians and praying for them. He wants them to grow in wisdom, live good lives, and stay strong.
 
 Then he explains a big idea: Christians believe Jesus is supreme, meaning above everything else. He describes Jesus as the one through whom [God](glossary.md#god) made the world, and the one who holds everything together. He also says Jesus is the head of the [church](glossary.md#church), meaning the leader and source of its life. The point is clear: the Colossians do not need extra spiritual “add-ons” to be close to [God](glossary.md#god).
 
@@ -28,6 +28,6 @@ Paul ends by asking them to pray, to be wise in how they speak to outsiders, and
 * Beliefs are meant to lead to changed behaviour (kindness, forgiveness, self-control).
 * Community unity across differences is treated as essential.
 
-[^gl-church]: A community of Christians, not just a building.
+[^gl_church]: A community of Christians, not just a building.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.

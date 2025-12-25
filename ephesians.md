@@ -2,17 +2,17 @@
 
 ## What this book is
 
-Ephesians is a letter in the New Testament. It is traditionally linked to the [apostle](glossary.md#apostle) [^gl-apostle] Paul and is written to help Christians understand who they are as a community and how they should live.
+Ephesians is a letter in the New Testament. It is traditionally linked to the [apostle[^gl_apostle]](glossary.md#apostle) Paul and is written to help Christians understand who they are as a community and how they should live.
 
 ## What it contains
 
-**1) [God](glossary.md#god) [^gl-god]’s plan and kindness (chapters 1 to 3)**
+**1) [God[^gl_god]](glossary.md#god)’s plan and kindness (chapters 1 to 3)**
 
 * The writer starts by praising [God](glossary.md#god) and saying [God](glossary.md#god) has a bigger plan to bring people together through Jesus.
-* A key word is **[grace](glossary.md#grace) [^gl-grace]**, which means [God](glossary.md#god)’s gift of kindness that people do not earn. The letter says people are “saved” by [grace](glossary.md#grace) through [faith](glossary.md#faith) [^gl-faith]. **Saved** here means rescued and brought into a right relationship with [God](glossary.md#god), not because of good deeds, but because of [God](glossary.md#god)’s gift.
-* It also talks about the **[Holy Spirit](glossary.md#holy-spirit) [^gl-holy-spirit]**, described as [God](glossary.md#god)’s presence and help with believers.
+* A key word is **[grace[^gl_grace]](glossary.md#grace)**, which means [God](glossary.md#god)’s gift of kindness that people do not earn. The letter says people are “saved” by [grace](glossary.md#grace) through [faith[^gl_faith]](glossary.md#faith). **Saved** here means rescued and brought into a right relationship with [God](glossary.md#god), not because of good deeds, but because of [God](glossary.md#god)’s gift.
+* It also talks about the **[Holy Spirit[^gl_holy_spirit]](glossary.md#holy-spirit)**, described as [God](glossary.md#god)’s presence and help with believers.
 * One important theme is unity between different groups, especially Jewish and non Jewish people. The letter says Jesus breaks down the “walls” that kept people apart and creates one united community.
-* The writer uses the idea of the **[church](glossary.md#church) [^gl-church]** as a “body.” Here, [church](glossary.md#church) does not just mean a building, it means the community of believers, meant to work together like parts of one body.
+* The writer uses the idea of the **[church[^gl_church]](glossary.md#church)** as a “body.” Here, [church](glossary.md#church) does not just mean a building, it means the community of believers, meant to work together like parts of one body.
 **2) How to live as this new community (chapters 4 to 6)**
 
 * The letter shifts from beliefs to behaviour. It urges people to live in a way that matches their new identity: be humble, patient, honest, kind, and forgiving.
@@ -29,14 +29,14 @@ Ephesians is a letter in the New Testament. It is traditionally linked to the [a
 * The letter stresses unity across differences (especially Jewish and non-Jewish believers).
 * In one sentence: [God](glossary.md#god)’s [grace](glossary.md#grace) creates a united community, and that community is called to live with love, maturity, and courage.
 
-[^gl-apostle]: An early Christian messenger; the word means “sent one.”
+[^gl_apostle]: An early Christian messenger; the word means “sent one.”
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.
 
-[^gl-grace]: God’s unearned kindness (Christian idea).
+[^gl_grace]: God’s unearned kindness (Christian idea).
 
-[^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+[^gl_faith]: Trust; in Christianity, trusting God and Jesus.
 
-[^gl-holy-spirit]: God’s active presence helping and guiding people (Christian belief).
+[^gl_holy_spirit]: God’s active presence helping and guiding people (Christian belief).
 
-[^gl-church]: A community of Christians, not just a building.
+[^gl_church]: A community of Christians, not just a building.

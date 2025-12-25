@@ -2,7 +2,7 @@
 
 ## What this book is
 
-3 John is one of the shortest books in the Christian [Bible](glossary.md#bible) [^gl-bible]. It is a short letter, written by someone who calls himself “the elder,” which means an older leader in the Christian community. Many Christians have traditionally linked this writer with John, a major early Christian leader, but the letter itself does not fully explain who he is.
+3 John is one of the shortest books in the Christian [Bible[^gl_bible]](glossary.md#bible). It is a short letter, written by someone who calls himself “the elder,” which means an older leader in the Christian community. Many Christians have traditionally linked this writer with John, a major early Christian leader, but the letter itself does not fully explain who he is.
 
 ## What it contains
 
@@ -10,7 +10,7 @@
 
 **1) A warm message to a man named Gaius**
 
-The writer addresses the letter to **Gaius**, who seems to be a respected member of a local [church](glossary.md#church) [^gl-church]. He says he is happy because he hears that Gaius is “walking in the truth.” In simple terms, that means Gaius is living in a way that matches what he believes about [God](glossary.md#god) [^gl-god] and Jesus, not just talking about it.
+The writer addresses the letter to **Gaius**, who seems to be a respected member of a local [church[^gl_church]](glossary.md#church). He says he is happy because he hears that Gaius is “walking in the truth.” In simple terms, that means Gaius is living in a way that matches what he believes about [God[^gl_god]](glossary.md#god) and Jesus, not just talking about it.
 
 **2) Praise for helping travelling Christian workers**
 
@@ -38,8 +38,8 @@ Finally, the writer says he has more to say but prefers to do it face-to-face. H
 * **Leadership should be humble and fair**, not controlling or selfish.
 * **Choose good examples to follow**, not people who misuse power.
 
-[^gl-bible]: Christian sacred writings: many books and types of writing.
+[^gl_bible]: Christian sacred writings: many books and types of writing.
 
-[^gl-church]: A community of Christians, not just a building.
+[^gl_church]: A community of Christians, not just a building.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.

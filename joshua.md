@@ -2,11 +2,11 @@
 
 ## What this book is
 
-The book of Joshua is the story of what happens after Moses dies, when the [Israelites](glossary.md#israel) [^gl-israel] are about to enter the land of Canaan (often called the “Promised Land” because of an earlier promise to Abraham’s family).
+The book of Joshua is the story of what happens after Moses dies, when the [Israelites[^gl_israel]](glossary.md#israel) are about to enter the land of Canaan (often called the “Promised Land” because of an earlier promise to Abraham’s family).
 
 ## What it contains
 
-Joshua, Moses’ helper, becomes the new leader. The people cross the Jordan River. The [priests](glossary.md#priest) [^gl-priest] carry the ark of the [covenant](glossary.md#covenant) [^gl-covenant], a sacred chest that represented [God](glossary.md#god) [^gl-god]’s presence with the people, and the river stops so everyone can cross. They set up memorial stones.
+Joshua, Moses’ helper, becomes the new leader. The people cross the Jordan River. The [priests[^gl_priest]](glossary.md#priest) carry the ark of the [covenant[^gl_covenant]](glossary.md#covenant), a sacred chest that represented [God[^gl_god]](glossary.md#god)’s presence with the people, and the river stops so everyone can cross. They set up memorial stones.
 
 Next comes the most famous battle, Jericho. The [Israelites](glossary.md#israel) march around the city for several days, following specific instructions, and the city walls fall. After that, they face a setback at the town of Ai because someone disobeys [God](glossary.md#god)’s command about keeping war goods for themselves. Once the problem is dealt with, they defeat Ai.
 
@@ -28,10 +28,10 @@ Joshua finishes with Joshua’s farewell speeches. He warns them not to copy oth
 * The book includes difficult, violent scenes that many readers find challenging and interpret in different ways.
 * After conquest stories, the focus shifts to building a stable society (land division and cities of refuge).
 
-[^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+[^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
 
-[^gl-priest]: A religious leader in ancient Israel’s worship system.
+[^gl_priest]: A religious leader in ancient Israel’s worship system.
 
-[^gl-covenant]: A serious promise-based relationship.
+[^gl_covenant]: A serious promise-based relationship.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.

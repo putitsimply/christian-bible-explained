@@ -2,29 +2,29 @@
 
 ## What this book is
 
-The [Gospel](glossary.md#gospel) [^gl-gospel] of Mark is a story about Jesus’ life, told in a fast, action-focused way. It spends less time on long speeches and more time showing what Jesus does and how people react to him.
+The [Gospel[^gl_gospel]](glossary.md#gospel) of Mark is a story about Jesus’ life, told in a fast, action-focused way. It spends less time on long speeches and more time showing what Jesus does and how people react to him.
 
 ## What it contains
 
 **How it starts**
 
-Mark opens with John the Baptist preparing people for someone important. Jesus is baptised, then goes into the wilderness for a time of testing. After that, Jesus begins travelling around Galilee, teaching and calling followers, who are called **[disciples](glossary.md#disciple) [^gl-disciple]** (students who learn from a teacher and follow their way of life).
+Mark opens with John the Baptist preparing people for someone important. Jesus is baptised, then goes into the wilderness for a time of testing. After that, Jesus begins travelling around Galilee, teaching and calling followers, who are called **[disciples[^gl_disciple]](glossary.md#disciple)** (students who learn from a teacher and follow their way of life).
 
 **Jesus’ ministry**
 
-A big part of Mark shows Jesus doing powerful actions that people in the story see as signs of [God](glossary.md#god) [^gl-god]’s power. These include healing sick people, helping people who are suffering, calming a storm, and feeding large crowds. Jesus also tells short teaching stories called **[parables](glossary.md#parable) [^gl-parable]** (stories with a deeper meaning). He talks a lot about the “kingdom of [God](glossary.md#god)”, which in this context means [God](glossary.md#god)’s rule or reign, the idea that [God](glossary.md#god) is at work to set things right.
+A big part of Mark shows Jesus doing powerful actions that people in the story see as signs of [God[^gl_god]](glossary.md#god)’s power. These include healing sick people, helping people who are suffering, calming a storm, and feeding large crowds. Jesus also tells short teaching stories called **[parables[^gl_parable]](glossary.md#parable)** (stories with a deeper meaning). He talks a lot about the “kingdom of [God](glossary.md#god)”, which in this context means [God](glossary.md#god)’s rule or reign, the idea that [God](glossary.md#god) is at work to set things right.
 
 **Questions about who Jesus is**
 
-People keep trying to figure out Jesus’ identity. Some think he is a [prophet](glossary.md#prophet) [^gl-prophet] or a teacher. Others start to believe he is the **[Messiah](glossary.md#messiah) [^gl-messiah]** (a word that means “anointed one”, a promised leader in Jewish hope). In Mark, even Jesus’ closest followers often misunderstand him or get scared when things get hard. Mark shows them learning slowly, with plenty of mistakes along the way.
+People keep trying to figure out Jesus’ identity. Some think he is a [prophet[^gl_prophet]](glossary.md#prophet) or a teacher. Others start to believe he is the **[Messiah[^gl_messiah]](glossary.md#messiah)** (a word that means “anointed one”, a promised leader in Jewish hope). In Mark, even Jesus’ closest followers often misunderstand him or get scared when things get hard. Mark shows them learning slowly, with plenty of mistakes along the way.
 
 **Conflict grows**
 
 Jesus argues with some religious leaders, especially about rules, authority, and what really matters to [God](glossary.md#god), like mercy and justice. As Jesus becomes more well known, the tension increases.
 
-**Journey to [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem] and the final week**
+**Journey to [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem) and the final week**
 
-In the second half of Mark, Jesus heads to [Jerusalem](glossary.md#jerusalem). He predicts his suffering and death, and teaches that following him can involve [sacrifice](glossary.md#sacrifice) [^gl-sacrifice]. In [Jerusalem](glossary.md#jerusalem), there is a last meal with his [disciples](glossary.md#disciple), betrayal, arrest, and a trial. Jesus is crucified (executed on a cross by the Romans). Mark describes his suffering in a serious, direct way.
+In the second half of Mark, Jesus heads to [Jerusalem](glossary.md#jerusalem). He predicts his suffering and death, and teaches that following him can involve [sacrifice[^gl_sacrifice]](glossary.md#sacrifice). In [Jerusalem](glossary.md#jerusalem), there is a last meal with his [disciples](glossary.md#disciple), betrayal, arrest, and a trial. Jesus is crucified (executed on a cross by the Romans). Mark describes his suffering in a serious, direct way.
 
 **The ending**
 
@@ -36,24 +36,24 @@ Overall, Mark is a fast-moving account that highlights Jesus’ actions, the gro
 
 * Mark moves quickly to show what Jesus does and how people respond.
 * The story keeps asking “Who is Jesus?” and shows even close followers struggling to understand.
-* Conflict grows into arrest, [crucifixion](glossary.md#crucifixion) [^gl-crucifixion], and (in Christian belief) [resurrection](glossary.md#resurrection) [^gl-resurrection].
+* Conflict grows into arrest, [crucifixion[^gl_crucifixion]](glossary.md#crucifixion), and (in Christian belief) [resurrection[^gl_resurrection]](glossary.md#resurrection).
 
-[^gl-gospel]: “Good news”; also the four books about Jesus’ life.
+[^gl_gospel]: “Good news”; also the four books about Jesus’ life.
 
-[^gl-disciple]: A close student or follower of a teacher.
+[^gl_disciple]: A close student or follower of a teacher.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.
 
-[^gl-parable]: A short teaching story.
+[^gl_parable]: A short teaching story.
 
-[^gl-prophet]: A person who speaks messages they believe come from God.
+[^gl_prophet]: A person who speaks messages they believe come from God.
 
-[^gl-messiah]: “Anointed one”; a chosen leader. Christians apply it to Jesus.
+[^gl_messiah]: “Anointed one”; a chosen leader. Christians apply it to Jesus.
 
-[^gl-jerusalem]: A major city in the Bible’s story.
+[^gl_jerusalem]: A major city in the Bible’s story.
 
-[^gl-sacrifice]: An offering given in worship (often animals in the Old Testament).
+[^gl_sacrifice]: An offering given in worship (often animals in the Old Testament).
 
-[^gl-crucifixion]: Roman execution on a cross.
+[^gl_crucifixion]: Roman execution on a cross.
 
-[^gl-resurrection]: Life after death; Christians believe Jesus rose.
+[^gl_resurrection]: Life after death; Christians believe Jesus rose.

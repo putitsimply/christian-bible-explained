@@ -5,7 +5,7 @@ Content patterns:
 - One Markdown file per Bible book, titled with a single `#` heading.
 - Overview pages for testaments (Old/New) include GitBook frontmatter for layout options.
 - Pages aim for short sections with simple headings and occasional bullet lists.
-- When using GitBook footnote annotations, keep a blank line between each `[^...]:` definition line for reliable parsing.
+- When using GitBook footnote annotations, the footnote marker must be directly attached (no whitespace) to the word/phrase it annotates; definitions should be separated by blank lines.
 
 Navigation patterns:
 

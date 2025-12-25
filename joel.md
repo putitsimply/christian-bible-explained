@@ -8,11 +8,11 @@ The book of Joel is a short book in the Old Testament. It uses a natural disaste
 
 ### 1) A disaster hits, and everyone is told to pay attention
 
-Joel describes an overwhelming locust swarm that strips the land bare. Crops are ruined, food is scarce, and even the things used for [worship](glossary.md#worship) [^gl-worship] (like grain and wine offerings) cannot be provided because the harvest is gone. Joel calls on different groups, farmers, [priests](glossary.md#priest) [^gl-priest], and all the people, to recognise how serious this is.
+Joel describes an overwhelming locust swarm that strips the land bare. Crops are ruined, food is scarce, and even the things used for [worship[^gl_worship]](glossary.md#worship) (like grain and wine offerings) cannot be provided because the harvest is gone. Joel calls on different groups, farmers, [priests[^gl_priest]](glossary.md#priest), and all the people, to recognise how serious this is.
 
 ### 2) The disaster is treated as a “wake up” call
 
-Joel explains the plague as more than just bad luck. He treats it as a message calling the community to stop and think about their lives and choices. He urges the nation to turn back to [God](glossary.md#god) [^gl-god] with honesty, not just with sad feelings or public show. In other words, he says real change matters more than pretending.
+Joel explains the plague as more than just bad luck. He treats it as a message calling the community to stop and think about their lives and choices. He urges the nation to turn back to [God[^gl_god]](glossary.md#god) with honesty, not just with sad feelings or public show. In other words, he says real change matters more than pretending.
 
 ### 3) A whole-community moment of repentance
 
@@ -24,7 +24,7 @@ Joel then shifts from warning to hope. He says that if the people truly return t
 
 ### 5) “[God](glossary.md#god)’s Spirit” promised for everyone
 
-One of the most famous parts of Joel is a promise that [God](glossary.md#god)’s Spirit will be poured out on all kinds of people, not just leaders: sons and daughters, old and young, servants too. “Spirit” here means [God](glossary.md#god)’s empowering presence, helping people speak truth, live wisely, and stay faithful. In the New Testament, this passage is linked to [Pentecost](glossary.md#pentecost) [^gl-pentecost] (in Acts 2), when Jesus’ followers believe this promise is being fulfilled.
+One of the most famous parts of Joel is a promise that [God](glossary.md#god)’s Spirit will be poured out on all kinds of people, not just leaders: sons and daughters, old and young, servants too. “Spirit” here means [God](glossary.md#god)’s empowering presence, helping people speak truth, live wisely, and stay faithful. In the New Testament, this passage is linked to [Pentecost[^gl_pentecost]](glossary.md#pentecost) (in Acts 2), when Jesus’ followers believe this promise is being fulfilled.
 
 ### 6) Justice in the end
 
@@ -38,10 +38,10 @@ Joel finishes with a picture of [God](glossary.md#god) bringing justice: wrongs 
 * The book mixes warning with hope: change and rebuilding are still possible.
 * A promise about [God](glossary.md#god)’s Spirit becomes important later in Christian reading of Acts.
 
-[^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals).
 
-[^gl-priest]: A religious leader in ancient Israel’s worship system.
+[^gl_priest]: A religious leader in ancient Israel’s worship system.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.
 
-[^gl-pentecost]: A Jewish festival; Acts links it to the Holy Spirit.
+[^gl_pentecost]: A Jewish festival; Acts links it to the Holy Spirit.

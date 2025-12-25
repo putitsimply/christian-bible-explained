@@ -2,13 +2,13 @@
 
 ## What this book is
 
-Ezekiel is a book about a [prophet](glossary.md#prophet) [^gl-prophet] named Ezekiel who lived during a very hard time for the people of [Judah](glossary.md#judah) [^gl-judah]. Many of them had been taken away from their homeland to Babylon. This is called “[exile](glossary.md#exile) [^gl-exile],” which means being forced to live far from home because a stronger power has conquered them.
+Ezekiel is a book about a [prophet[^gl_prophet]](glossary.md#prophet) named Ezekiel who lived during a very hard time for the people of [Judah[^gl_judah]](glossary.md#judah). Many of them had been taken away from their homeland to Babylon. This is called “[exile[^gl_exile]](glossary.md#exile),” which means being forced to live far from home because a stronger power has conquered them.
 
 ## What it contains
 
 ### 1) Ezekiel’s strange first vision and his job
 
-At the start, Ezekiel has a dramatic “vision,” which means a powerful, symbolic scene he believes [God](glossary.md#god) [^gl-god] is showing him. He sees a stormy cloud, four living creatures, and wheels that look like they are full of eyes. The main point is that [God](glossary.md#god) is not trapped in one place. Even though the people are far from [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem], Ezekiel’s vision shows [God](glossary.md#god) can still see, act, and speak in [exile](glossary.md#exile).
+At the start, Ezekiel has a dramatic “vision,” which means a powerful, symbolic scene he believes [God[^gl_god]](glossary.md#god) is showing him. He sees a stormy cloud, four living creatures, and wheels that look like they are full of eyes. The main point is that [God](glossary.md#god) is not trapped in one place. Even though the people are far from [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem), Ezekiel’s vision shows [God](glossary.md#god) can still see, act, and speak in [exile](glossary.md#exile).
 
 Ezekiel is then told to be a “watchman,” like someone posted on a city wall to warn others of danger. His role is to tell people uncomfortable truths and warn them about the results of their choices.
 
@@ -28,7 +28,7 @@ After [Jerusalem](glossary.md#jerusalem) is described as falling, the book shift
 
 One famous scene is the “valley of dry bones.” Ezekiel sees a valley full of bones that come back to life. It is a picture of a nation that feels dead and hopeless being rebuilt again.
 
-### 5) A new [temple](glossary.md#temple) [^gl-temple] and a new community
+### 5) A new [temple[^gl_temple]](glossary.md#temple) and a new community
 
 Near the end, Ezekiel has another long vision, this time of a new [temple](glossary.md#temple) and a reorganised land. It is detailed and symbolic. The big message is order, peace, and [God](glossary.md#god)’s presence returning to be with the people.
 
@@ -40,14 +40,14 @@ Overall, Ezekiel moves from warning to hope: actions have consequences, but rebu
 * [God](glossary.md#god)’s presence is shown as not limited to one place (even in [exile](glossary.md#exile)).
 * After judgement language, the book turns to hope, renewal, and rebuilding.
 
-[^gl-prophet]: A person who speaks messages they believe come from God.
+[^gl_prophet]: A person who speaks messages they believe come from God.
 
-[^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+[^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem.
 
-[^gl-exile]: Being forced to live away from one’s homeland.
+[^gl_exile]: Being forced to live away from one’s homeland.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.
 
-[^gl-jerusalem]: A major city in the Bible’s story.
+[^gl_jerusalem]: A major city in the Bible’s story.
 
-[^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+[^gl_temple]: The main worship building in Jerusalem in ancient Israel.

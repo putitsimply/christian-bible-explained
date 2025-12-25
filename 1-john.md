@@ -2,11 +2,11 @@
 
 ## What this book is
 
-**1 John** is a short letter in the New Testament. It was written to help a group of early Christians stay confident in their [faith](glossary.md#faith) [^gl-faith] and spot misleading ideas.
+**1 John** is a short letter in the New Testament. It was written to help a group of early Christians stay confident in their [faith[^gl_faith]](glossary.md#faith) and spot misleading ideas.
 
 ## What it contains
 
-### 1) The big message: [God](glossary.md#god) [^gl-god] is light, so live in the light
+### 1) The big message: [God[^gl_god]](glossary.md#god) is light, so live in the light
 
 The letter says that **[God](glossary.md#god) is “light”**, a word picture meaning [God](glossary.md#god) is good and truthful, not evil. The writer tells the readers to “walk in the light”, meaning to live honestly and do what is right.
 
@@ -35,7 +35,7 @@ The writer wants readers to feel **assurance**: confidence that they belong to [
 
 ### 5) How it ends
 
-1 John finishes by saying the letter was written so believers can **know** they have “eternal life” (life with [God](glossary.md#god) that lasts). It also gives a final practical warning to stay away from [idols](glossary.md#idol) [^gl-idol], meaning anything that replaces [God](glossary.md#god) as the most important thing.
+1 John finishes by saying the letter was written so believers can **know** they have “eternal life” (life with [God](glossary.md#god) that lasts). It also gives a final practical warning to stay away from [idols[^gl_idol]](glossary.md#idol), meaning anything that replaces [God](glossary.md#god) as the most important thing.
 
 ## Big ideas
 
@@ -43,8 +43,8 @@ The writer wants readers to feel **assurance**: confidence that they belong to [
 * Love is treated as the clearest sign of real [faith](glossary.md#faith).
 * The letter aims to give confidence while warning against misleading teaching.
 
-[^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+[^gl_faith]: Trust; in Christianity, trusting God and Jesus.
 
-[^gl-god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity.
 
-[^gl-idol]: An object or false god treated as most important.
+[^gl_idol]: An object or false god treated as most important.
