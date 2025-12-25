@@ -2,15 +2,15 @@
 
 ## What this book is
 
-The book of Ruth is a short story set “in the days when the judges ruled,” a time when [Israel](glossary.md#israel)[^gl-israel] often felt chaotic and unsafe.
+The book of Ruth is a short story set “in the days when the judges ruled,” a time when [Israel](glossary.md#israel) [^gl-israel] often felt chaotic and unsafe.
 
 ## What it contains
 
-It begins with a family leaving [Israel](glossary.md#israel)[^gl-israel] because of a famine. A man named Elimelech, his wife Naomi, and their two sons move to a nearby country called Moab. While they are there, Elimelech dies. The two sons marry Moabite women, Ruth and Orpah, but then both sons also die. Naomi is left with her two daughters in law, and she decides to return home to Bethlehem in [Israel](glossary.md#israel)[^gl-israel].
+It begins with a family leaving [Israel](glossary.md#israel) [^gl-israel] because of a famine. A man named Elimelech, his wife Naomi, and their two sons move to a nearby country called Moab. While they are there, Elimelech dies. The two sons marry Moabite women, Ruth and Orpah, but then both sons also die. Naomi is left with her two daughters in law, and she decides to return home to Bethlehem in [Israel](glossary.md#israel) [^gl-israel].
 
-Naomi tells Ruth and Orpah to stay in Moab, where they might remarry and have a more secure future. Orpah sadly goes back. Ruth does not. Ruth makes a strong promise to Naomi, saying she will stay with her, go where she goes, and follow Naomi’s people and Naomi’s [God](glossary.md#god)[^gl-god]. So Naomi and Ruth travel together to Bethlehem.
+Naomi tells Ruth and Orpah to stay in Moab, where they might remarry and have a more secure future. Orpah sadly goes back. Ruth does not. Ruth makes a strong promise to Naomi, saying she will stay with her, go where she goes, and follow Naomi’s people and Naomi’s [God](glossary.md#god) [^gl-god]. So Naomi and Ruth travel together to Bethlehem.
 
-When they arrive, they are very poor. Ruth goes to gather leftover grain from harvested fields. This was an [Israelite](glossary.md#israel)[^gl-israel] law and custom meant to help widows and others in need. Ruth ends up working in the fields of a man named Boaz, who is related to Naomi’s late husband. Boaz notices Ruth’s loyalty to Naomi and treats her kindly, telling his workers to protect her and even leave extra grain for her to collect.
+When they arrive, they are very poor. Ruth goes to gather leftover grain from harvested fields. This was an [Israelite](glossary.md#israel) [^gl-israel] law and custom meant to help widows and others in need. Ruth ends up working in the fields of a man named Boaz, who is related to Naomi’s late husband. Boaz notices Ruth’s loyalty to Naomi and treats her kindly, telling his workers to protect her and even leave extra grain for her to collect.
 
 Naomi realises Boaz is a “family redeemer” (sometimes called a “kinsman-redeemer”). This was a custom where a close relative could help a struggling family member, including protecting their land and continuing the family line through marriage. Naomi guides Ruth on how to ask Boaz for help in a respectful way. Ruth follows Naomi’s instructions, and Boaz agrees to act, but he first checks with a nearer relative who has the first right to do so. That man refuses, so Boaz publicly takes responsibility.
 
