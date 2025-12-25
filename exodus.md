@@ -1,6 +1,6 @@
 # Exodus
 
-*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah[^gl_torah])](ot-law.md)
+*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah)](ot-law.md)[^gl_torah]
 
 ## What this book is
 

@@ -91,6 +91,56 @@ def phrase_regex(phrase: str) -> re.Pattern[str]:
     return re.compile(escaped)
 
 
+def markdown_link_spans(text: str) -> list[tuple[int, int]]:
+    """
+    Return spans (start, end) for Markdown links of the form `[label](target)`.
+
+    This is a simple scanner (not a full Markdown parser), but it's good enough
+    to avoid inserting glossary footnotes inside common link syntax.
+    """
+    spans: list[tuple[int, int]] = []
+    i = 0
+    n = len(text)
+    while i < n:
+        if text[i] != "[":
+            i += 1
+            continue
+        close = text.find("]", i + 1)
+        if close == -1:
+            i += 1
+            continue
+        if close + 1 >= n or text[close + 1] != "(":
+            i = close + 1
+            continue
+        end = text.find(")", close + 2)
+        if end == -1:
+            i = close + 1
+            continue
+        spans.append((i, end + 1))
+        i = end + 1
+    return spans
+
+
+def match_outside_spans(text: str, pattern: re.Pattern[str], spans: list[tuple[int, int]]) -> re.Match[str] | None:
+    """
+    Find the first match of `pattern` that does not overlap any span in `spans`.
+    """
+    start = 0
+    while True:
+        m = pattern.search(text, start)
+        if not m:
+            return None
+        ms, me = m.span()
+        overlapped = False
+        for ss, se in spans:
+            if ms < se and me > ss:
+                start = se
+                overlapped = True
+                break
+        if not overlapped:
+            return m
+
+
 def split_trailing_footnote_block(lines: list[str]) -> tuple[list[str], list[str]]:
     """
     Split `lines` into (body_lines, trailing_footnote_block_lines).
@@ -231,9 +281,10 @@ def sync_file(
             continue
         footnote_id = anchor_to_glossary_fn_id(anchor)
         inserted = False
+        spans = markdown_link_spans(body_text)
         for variant in variants:
             pat = phrase_regex(variant)
-            m = pat.search(body_text)
+            m = match_outside_spans(body_text, pat, spans)
             if not m:
                 continue
             body_text = body_text[: m.end()] + f"[^{footnote_id}]" + body_text[m.end() :]

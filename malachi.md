@@ -1,6 +1,6 @@
 # Malachi
 
-*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets[^gl_prophet]](ot-minor-prophets.md)
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)[^gl_prophet]
 
 ## What this book is
 

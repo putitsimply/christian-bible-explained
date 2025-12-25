@@ -21,7 +21,7 @@ The Old Testament is the first big section of the Christian Bible[^gl_bible]. Ma
 
 ## Explore in this guide
 
-* [The Law (Torah[^gl_torah])](ot-law.md)
+* [The Law (Torah)](ot-law.md)[^gl_torah]
 * [History (Old Testament)](ot-history.md)
 * [Poetry and wisdom](ot-wisdom.md)
 * [Major prophets](ot-major-prophets.md)

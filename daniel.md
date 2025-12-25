@@ -1,6 +1,6 @@
 # Daniel
 
-*Where this book fits:* [Old Testament](old-testament.md) → [Major prophets[^gl_prophet]](ot-major-prophets.md)
+*Where this book fits:* [Old Testament](old-testament.md) → [Major prophets](ot-major-prophets.md)[^gl_prophet]
 
 ## What this book is
 

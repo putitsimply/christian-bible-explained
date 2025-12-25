@@ -23,14 +23,14 @@ If you already know the name of a Bible book, use the A–Z list below. If you a
 
 * Old Testament
   * [Old Testament (overview)](old-testament.md)
-  * [The Law (Torah[^gl_torah])](ot-law.md)
+  * [The Law (Torah)](ot-law.md)[^gl_torah]
   * [History (Old Testament)](ot-history.md)
   * [Poetry and wisdom](ot-wisdom.md)
-  * [Major prophets[^gl_prophet]](ot-major-prophets.md)
+  * [Major prophets](ot-major-prophets.md)[^gl_prophet]
   * [Minor prophets](ot-minor-prophets.md)
 * New Testament
   * [New Testament (overview)](new-testament.md)
-  * [Gospels[^gl_gospel]](nt-gospels.md)
+  * [Gospels](nt-gospels.md)[^gl_gospel]
   * [History (New Testament)](nt-history.md)
   * [Letters (Paul)](nt-paul-letters.md)
   * [Other letters](nt-other-letters.md)
