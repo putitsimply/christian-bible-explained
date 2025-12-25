@@ -2,25 +2,25 @@
 
 ## What this book is
 
-The book of Jude is a very short letter near the end of the New Testament. It is written to Christians in general, not to one specific <a href="glossary.md#church"><span title="A community of Christians, not just a building.">church</span></a>.
+The book of Jude is a very short letter near the end of the New Testament. It is written to Christians in general, not to one specific [church[^gl_church]](glossary.md#church).
 
 ## What it contains
 
 ### Why Jude writes
 
-Jude says he wanted to write a positive letter about “the <a href="glossary.md#salvation"><span title="Rescue; in Christianity, being saved from sin.">salvation</span></a> we share” (<a href="glossary.md#salvation"><span title="Rescue; in Christianity, being saved from sin.">salvation</span></a> means being rescued by <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> and brought into a right relationship with him). But he changes focus because he believes the <a href="glossary.md#church"><span title="A community of Christians, not just a building.">church</span></a> is in danger from certain teachers who have slipped in and are twisting the message about Jesus.
+Jude says he wanted to write a positive letter about “the [salvation[^gl_salvation]](glossary.md#salvation) we share” ([salvation[^gl_salvation]](glossary.md#salvation) means being rescued by [God[^gl_god]](glossary.md#god) and brought into a right relationship with him). But he changes focus because he believes the [church[^gl_church]](glossary.md#church) is in danger from certain teachers who have slipped in and are twisting the message about Jesus.
 
 ### The main problem Jude warns about
 
-Jude describes these people as using <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s kindness as an excuse to live in ways that hurt others and dishonour <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>. He says they talk like they belong, but their actions show something is wrong.
+Jude describes these people as using [God[^gl_god]](glossary.md#god)’s kindness as an excuse to live in ways that hurt others and dishonour [God[^gl_god]](glossary.md#god). He says they talk like they belong, but their actions show something is wrong.
 
 In simple terms, Jude warns readers not to let persuasive teachers pull them away from what they were taught about Jesus and a good way of living.
 
 ### How Jude makes his point
 
-Jude uses strong warning examples from earlier <a href="glossary.md#bible"><span title="Christian sacred writings: many books and types of writing.">Bible</span></a> stories to show that rebellion and wrongdoing have consequences. He refers to:
+Jude uses strong warning examples from earlier [Bible[^gl_bible]](glossary.md#bible) stories to show that rebellion and wrongdoing have consequences. He refers to:
 
-* <a href="glossary.md#israel"><span title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israelites</span></a> in the wilderness who did not trust <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>.
+* [Israelites[^gl_israel]](glossary.md#israel) in the wilderness who did not trust [God[^gl_god]](glossary.md#god).
 * Angels who rebelled.
 * Sodom and Gomorrah as a picture of serious moral failure.
 He also mentions a couple of examples that come from Jewish traditional writings that many Jews knew at the time, like a story about a dispute over Moses’ body, and a quote linked to Enoch. Jude uses these references like illustrations to strengthen his warning, even if readers today are not familiar with the background.
@@ -29,13 +29,13 @@ He also mentions a couple of examples that come from Jewish traditional writings
 
 Jude gives practical advice:
 
-* “Contend for the <a href="glossary.md#faith"><span title="Trust; in Christianity, trusting God and Jesus.">faith</span></a>.” Here “<a href="glossary.md#faith"><span title="Trust; in Christianity, trusting God and Jesus.">faith</span></a>” means the core message about Jesus and the way of life that goes with it, not just personal feelings.
-* Build each other up, pray, and stay connected to <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s love.
+* “Contend for the [faith[^gl_faith]](glossary.md#faith).” Here “[faith[^gl_faith]](glossary.md#faith)” means the core message about Jesus and the way of life that goes with it, not just personal feelings.
+* Build each other up, pray, and stay connected to [God[^gl_god]](glossary.md#god)’s love.
 * Be wise and kind when helping others who are being influenced, taking care not to get dragged into the same harmful behaviour.
 
 ### How it ends
 
-Jude finishes with a famous closing blessing that reassures readers: <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> is able to keep people from falling and bring them safely through to the end.
+Jude finishes with a famous closing blessing that reassures readers: [God[^gl_god]](glossary.md#god) is able to keep people from falling and bring them safely through to the end.
 
 Overall, Jude is a warning letter that urges readers to guard what they have been taught about Jesus, live it out, and help others do the same.
 
@@ -43,4 +43,18 @@ Overall, Jude is a warning letter that urges readers to guard what they have bee
 
 * The letter warns against teaching that encourages harmful behaviour.
 * It uses examples from older stories to argue that choices have consequences.
-* It balances “be careful” with “help others kindly.”: Rescue; in Christianity, being saved from <a href="glossary.md#sin"><span title="Wrongdoing; in Christianity, also a broken relationship with God.">sin</span></a>.
+* It balances “be careful” with “help others kindly.”: Rescue; in Christianity, being saved from [sin[^gl_sin]](glossary.md#sin).
+
+[^gl_church]: A community of Christians, not just a building.
+
+[^gl_salvation]: Rescue; in Christianity, being saved from sin.
+
+[^gl_god]: The main divine being in Judaism and Christianity.
+
+[^gl_bible]: Christian sacred writings: many books and types of writing.
+
+[^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
+[^gl_faith]: Trust; in Christianity, trusting God and Jesus.
+
+[^gl_sin]: Wrongdoing; in Christianity, also a broken relationship with God.

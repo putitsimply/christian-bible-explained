@@ -2,34 +2,44 @@
 
 ## What this book is
 
-Habakkuk is a short book that reads like a tough conversation between a <a href="glossary.md#prophet"><span title="A person who speaks messages they believe come from God.">prophet</span></a> (Habakkuk) and <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>. Instead of mainly speaking to the people, Habakkuk talks to <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> about a big question: “Why is there so much unfairness, and why does <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> seem to allow it?”
+Habakkuk is a short book that reads like a tough conversation between a [prophet[^gl_prophet]](glossary.md#prophet) (Habakkuk) and [God[^gl_god]](glossary.md#god). Instead of mainly speaking to the people, Habakkuk talks to [God[^gl_god]](glossary.md#god) about a big question: “Why is there so much unfairness, and why does [God[^gl_god]](glossary.md#god) seem to allow it?”
 
 ## What it contains
 
 ### 1) Habakkuk’s first complaint: “Things are wrong at home”
 
-Habakkuk looks at his own nation (<a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a>) and sees violence, corruption, and people getting away with doing the wrong thing. He asks <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> why justice seems slow, or missing altogether.
+Habakkuk looks at his own nation ([Judah[^gl_judah]](glossary.md#judah)) and sees violence, corruption, and people getting away with doing the wrong thing. He asks [God[^gl_god]](glossary.md#god) why justice seems slow, or missing altogether.
 
-### 2) <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s first answer: “A bigger trouble is coming”
+### 2) [God[^gl_god]](glossary.md#god)’s first answer: “A bigger trouble is coming”
 
-<a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> answers that he is already doing something, even if it is hard to believe. <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> says he will use the Babylonians (also called the Chaldeans), a powerful empire known for being cruel, to punish <a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a> and stop the wrongdoing. In other words, <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> says, “<a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a>’s evil will not be ignored.”
+[God[^gl_god]](glossary.md#god) answers that he is already doing something, even if it is hard to believe. [God[^gl_god]](glossary.md#god) says he will use the Babylonians (also called the Chaldeans), a powerful empire known for being cruel, to punish [Judah[^gl_judah]](glossary.md#judah) and stop the wrongdoing. In other words, [God[^gl_god]](glossary.md#god) says, “[Judah[^gl_judah]](glossary.md#judah)’s evil will not be ignored.”
 
 ### 3) Habakkuk’s second complaint: “How can that be fair?”
 
-Habakkuk is shocked. He basically says, “Wait, the Babylonians are even worse. How can <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> use a nation that does more evil to punish us?” He struggles with the idea that <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s plan could involve people who act violently and proudly.
+Habakkuk is shocked. He basically says, “Wait, the Babylonians are even worse. How can [God[^gl_god]](glossary.md#god) use a nation that does more evil to punish us?” He struggles with the idea that [God[^gl_god]](glossary.md#god)’s plan could involve people who act violently and proudly.
 
-So Habakkuk decides to “stand watch,” meaning he will wait and listen carefully for <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s reply.
+So Habakkuk decides to “stand watch,” meaning he will wait and listen carefully for [God[^gl_god]](glossary.md#god)’s reply.
 
-### 4) <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s second answer: “Evil won’t win in the end”
+### 4) [God[^gl_god]](glossary.md#god)’s second answer: “Evil won’t win in the end”
 
-<a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> tells Habakkuk to write the message clearly so it can be shared. <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> explains that the proud and violent will not last, even if they seem unstoppable right now. A key idea appears here: the person who is right with <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> is meant to keep trusting and living faithfully, even when the world feels unfair.
+[God[^gl_god]](glossary.md#god) tells Habakkuk to write the message clearly so it can be shared. [God[^gl_god]](glossary.md#god) explains that the proud and violent will not last, even if they seem unstoppable right now. A key idea appears here: the person who is right with [God[^gl_god]](glossary.md#god) is meant to keep trusting and living faithfully, even when the world feels unfair.
 
-<a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> then describes several “woes,” which are like warning speeches, against the Babylonians’ sins, things like greed, violence, exploitation, and worshipping human-made <a href="glossary.md#idol"><span title="An object or false god treated as most important.">idols</span></a>. The point is that <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> sees what they are doing, and they will face justice too.
+[God[^gl_god]](glossary.md#god) then describes several “woes,” which are like warning speeches, against the Babylonians’ sins, things like greed, violence, exploitation, and worshipping human-made [idols[^gl_idol]](glossary.md#idol). The point is that [God[^gl_god]](glossary.md#god) sees what they are doing, and they will face justice too.
 
-### 5) Habakkuk’s <a href="glossary.md#prayer"><span title="Speaking to God (silently or aloud).">prayer</span></a> and ending: choosing trust
+### 5) Habakkuk’s [prayer[^gl_prayer]](glossary.md#prayer) and ending: choosing trust
 
-The final chapter is a <a href="glossary.md#prayer"><span title="Speaking to God (silently or aloud).">prayer</span></a> that sounds like a song. Habakkuk remembers <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s power from the past and asks for mercy even in judgment. He imagines hard times ahead, including shortages and suffering, but ends by saying he will still choose to rejoice and trust <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>.
+The final chapter is a [prayer[^gl_prayer]](glossary.md#prayer) that sounds like a song. Habakkuk remembers [God[^gl_god]](glossary.md#god)’s power from the past and asks for mercy even in judgment. He imagines hard times ahead, including shortages and suffering, but ends by saying he will still choose to rejoice and trust [God[^gl_god]](glossary.md#god).
 
 ## Big ideas
 
-Habakkuk does not give an easy answer to suffering. It shows a person honestly wrestling with <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>, then learning to trust that injustice is seen, evil is temporary, and faithfulness matters even when life is confusing.
+Habakkuk does not give an easy answer to suffering. It shows a person honestly wrestling with [God[^gl_god]](glossary.md#god), then learning to trust that injustice is seen, evil is temporary, and faithfulness matters even when life is confusing.
+
+[^gl_prophet]: A person who speaks messages they believe come from God.
+
+[^gl_god]: The main divine being in Judaism and Christianity.
+
+[^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
+[^gl_idol]: An object or false god treated as most important.
+
+[^gl_prayer]: Speaking to God (silently or aloud).

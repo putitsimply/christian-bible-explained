@@ -2,29 +2,29 @@
 
 ## What this book is
 
-The <a href="glossary.md#gospel"><span title="“Good news”; also the four books about Jesus’ life.">Gospel</span></a> of Mark is a story about Jesus’ life, told in a fast, action-focused way. It spends less time on long speeches and more time showing what Jesus does and how people react to him.
+The [Gospel[^gl_gospel]](glossary.md#gospel) of Mark is a story about Jesus’ life, told in a fast, action-focused way. It spends less time on long speeches and more time showing what Jesus does and how people react to him.
 
 ## What it contains
 
 **How it starts**
 
-Mark opens with John the Baptist preparing people for someone important. Jesus is baptised, then goes into the wilderness for a time of testing. After that, Jesus begins travelling around Galilee, teaching and calling followers, who are called **<a href="glossary.md#disciple"><span title="A close student or follower of a teacher.">disciples</span></a>** (students who learn from a teacher and follow their way of life).
+Mark opens with John the Baptist preparing people for someone important. Jesus is baptised, then goes into the wilderness for a time of testing. After that, Jesus begins travelling around Galilee, teaching and calling followers, who are called **[disciples[^gl_disciple]](glossary.md#disciple)** (students who learn from a teacher and follow their way of life).
 
 **Jesus’ ministry**
 
-A big part of Mark shows Jesus doing powerful actions that people in the story see as signs of <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s power. These include healing sick people, helping people who are suffering, calming a storm, and feeding large crowds. Jesus also tells short teaching stories called **<a href="glossary.md#parable"><span title="A short teaching story.">parables</span></a>** (stories with a deeper meaning). He talks a lot about the “kingdom of <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>”, which in this context means <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s rule or reign, the idea that <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> is at work to set things right.
+A big part of Mark shows Jesus doing powerful actions that people in the story see as signs of [God[^gl_god]](glossary.md#god)’s power. These include healing sick people, helping people who are suffering, calming a storm, and feeding large crowds. Jesus also tells short teaching stories called **[parables[^gl_parable]](glossary.md#parable)** (stories with a deeper meaning). He talks a lot about the “kingdom of [God[^gl_god]](glossary.md#god)”, which in this context means [God[^gl_god]](glossary.md#god)’s rule or reign, the idea that [God[^gl_god]](glossary.md#god) is at work to set things right.
 
 **Questions about who Jesus is**
 
-People keep trying to figure out Jesus’ identity. Some think he is a <a href="glossary.md#prophet"><span title="A person who speaks messages they believe come from God.">prophet</span></a> or a teacher. Others start to believe he is the **<a href="glossary.md#messiah"><span title="“Anointed one”; a chosen leader. Christians apply it to Jesus.">Messiah</span></a>** (a word that means “anointed one”, a promised leader in Jewish hope). In Mark, even Jesus’ closest followers often misunderstand him or get scared when things get hard. Mark shows them learning slowly, with plenty of mistakes along the way.
+People keep trying to figure out Jesus’ identity. Some think he is a [prophet[^gl_prophet]](glossary.md#prophet) or a teacher. Others start to believe he is the **[Messiah[^gl_messiah]](glossary.md#messiah)** (a word that means “anointed one”, a promised leader in Jewish hope). In Mark, even Jesus’ closest followers often misunderstand him or get scared when things get hard. Mark shows them learning slowly, with plenty of mistakes along the way.
 
 **Conflict grows**
 
-Jesus argues with some religious leaders, especially about rules, authority, and what really matters to <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>, like mercy and justice. As Jesus becomes more well known, the tension increases.
+Jesus argues with some religious leaders, especially about rules, authority, and what really matters to [God[^gl_god]](glossary.md#god), like mercy and justice. As Jesus becomes more well known, the tension increases.
 
-**Journey to <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a> and the final week**
+**Journey to [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem) and the final week**
 
-In the second half of Mark, Jesus heads to <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a>. He predicts his suffering and death, and teaches that following him can involve <a href="glossary.md#sacrifice"><span title="An offering given in worship (often animals in the Old Testament).">sacrifice</span></a>. In <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a>, there is a last meal with his <a href="glossary.md#disciple"><span title="A close student or follower of a teacher.">disciples</span></a>, betrayal, arrest, and a trial. Jesus is crucified (executed on a cross by the Romans). Mark describes his suffering in a serious, direct way.
+In the second half of Mark, Jesus heads to [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem). He predicts his suffering and death, and teaches that following him can involve [sacrifice[^gl_sacrifice]](glossary.md#sacrifice). In [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem), there is a last meal with his [disciples[^gl_disciple]](glossary.md#disciple), betrayal, arrest, and a trial. Jesus is crucified (executed on a cross by the Romans). Mark describes his suffering in a serious, direct way.
 
 **The ending**
 
@@ -36,4 +36,24 @@ Overall, Mark is a fast-moving account that highlights Jesus’ actions, the gro
 
 * Mark moves quickly to show what Jesus does and how people respond.
 * The story keeps asking “Who is Jesus?” and shows even close followers struggling to understand.
-* Conflict grows into arrest, <a href="glossary.md#crucifixion"><span title="Roman execution on a cross.">crucifixion</span></a>, and (in Christian belief) <a href="glossary.md#resurrection"><span title="Life after death; Christians believe Jesus rose.">resurrection</span></a>.
+* Conflict grows into arrest, [crucifixion[^gl_crucifixion]](glossary.md#crucifixion), and (in Christian belief) [resurrection[^gl_resurrection]](glossary.md#resurrection).
+
+[^gl_gospel]: “Good news”; also the four books about Jesus’ life.
+
+[^gl_disciple]: A close student or follower of a teacher.
+
+[^gl_god]: The main divine being in Judaism and Christianity.
+
+[^gl_parable]: A short teaching story.
+
+[^gl_prophet]: A person who speaks messages they believe come from God.
+
+[^gl_messiah]: “Anointed one”; a chosen leader. Christians apply it to Jesus.
+
+[^gl_jerusalem]: A major city in the Bible’s story.
+
+[^gl_sacrifice]: An offering given in worship (often animals in the Old Testament).
+
+[^gl_crucifixion]: Roman execution on a cross.
+
+[^gl_resurrection]: Life after death; Christians believe Jesus rose.

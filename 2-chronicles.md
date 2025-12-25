@@ -2,26 +2,48 @@
 
 ## What this book is
 
-2 Chronicles is a history-style book that retells the story of <a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a>, the southern kingdom of <a href="glossary.md#israel"><span title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israel</span></a>, from Solomon’s reign through to the Babylonian <a href="glossary.md#exile"><span title="Being forced to live away from one’s homeland.">exile</span></a> and then a hint of return. It focuses mostly on <a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a> (especially <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a> and the <a href="glossary.md#temple"><span title="The main worship building in Jerusalem in ancient Israel.">temple</span></a>), rather than the northern kingdom (<a href="glossary.md#israel"><span title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israel</span></a>).
+2 Chronicles is a history-style book that retells the story of [Judah[^gl_judah]](glossary.md#judah), the southern kingdom of [Israel[^gl_israel]](glossary.md#israel), from Solomon’s reign through to the Babylonian [exile[^gl_exile]](glossary.md#exile) and then a hint of return. It focuses mostly on [Judah[^gl_judah]](glossary.md#judah) (especially [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem) and the [temple[^gl_temple]](glossary.md#temple)), rather than the northern kingdom ([Israel[^gl_israel]](glossary.md#israel)).
 
 ## What it contains
 
-It starts with King Solomon, David’s son. Solomon becomes famous for asking <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> for wisdom, building the <a href="glossary.md#temple"><span title="The main worship building in Jerusalem in ancient Israel.">temple</span></a> in <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a>, and leading a time of wealth and stability. The <a href="glossary.md#temple"><span title="The main worship building in Jerusalem in ancient Israel.">temple</span></a> is described as the centre of <a href="glossary.md#worship"><span title="Actions showing devotion to God (prayer, songs, rituals).">worship</span></a>, and there is a big dedication ceremony where Solomon prays and people celebrate.
+It starts with King Solomon, David’s son. Solomon becomes famous for asking [God[^gl_god]](glossary.md#god) for wisdom, building the [temple[^gl_temple]](glossary.md#temple) in [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem), and leading a time of wealth and stability. The [temple[^gl_temple]](glossary.md#temple) is described as the centre of [worship[^gl_worship]](glossary.md#worship), and there is a big dedication ceremony where Solomon prays and people celebrate.
 
-After Solomon dies, the kingdom is split. 2 Chronicles mostly follows the line of kings in <a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a>. Some kings are shown as trying to follow <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> and lead the people well, while others are shown as turning to <a href="glossary.md#idol"><span title="An object or false god treated as most important.">idols</span></a> (worshipping other gods) and acting unfairly. The book often connects a king’s choices with what happens next, like peace, trouble, or invasion.
+After Solomon dies, the kingdom is split. 2 Chronicles mostly follows the line of kings in [Judah[^gl_judah]](glossary.md#judah). Some kings are shown as trying to follow [God[^gl_god]](glossary.md#god) and lead the people well, while others are shown as turning to [idols[^gl_idol]](glossary.md#idol) (worshipping other gods) and acting unfairly. The book often connects a king’s choices with what happens next, like peace, trouble, or invasion.
 
-Several kings stand out for reforms, which means they try to fix problems and bring the nation back to <a href="glossary.md#worship"><span title="Actions showing devotion to God (prayer, songs, rituals).">worship</span></a> at the <a href="glossary.md#temple"><span title="The main worship building in Jerusalem in ancient Israel.">temple</span></a>.
+Several kings stand out for reforms, which means they try to fix problems and bring the nation back to [worship[^gl_worship]](glossary.md#worship) at the [temple[^gl_temple]](glossary.md#temple).
 
-* Asa removes <a href="glossary.md#idol"><span title="An object or false god treated as most important.">idols</span></a> and pushes for religious changes, but later makes mistakes by relying on political deals instead of <a href="glossary.md#faith"><span title="Trust; in Christianity, trusting God and Jesus.">faith</span></a>.
-* Jehoshaphat strengthens <a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a> and is remembered for teaching the people and trying to rule fairly, but he also makes risky alliances.
-* Hezekiah restores <a href="glossary.md#temple"><span title="The main worship building in Jerusalem in ancient Israel.">temple</span></a> <a href="glossary.md#worship"><span title="Actions showing devotion to God (prayer, songs, rituals).">worship</span></a> and celebrates a major <a href="glossary.md#passover"><span title="A Jewish festival remembering the Exodus from Egypt.">Passover</span></a> (a festival remembering <a href="glossary.md#israel"><span title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israel</span></a>’s escape from slavery in Egypt). <a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a> survives a serious threat from Assyria during his time.
-* Josiah is known for repairing the <a href="glossary.md#temple"><span title="The main worship building in Jerusalem in ancient Israel.">temple</span></a>, finding the “Book of the Law” (a written set of <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s instructions), and leading a big renewal of <a href="glossary.md#worship"><span title="Actions showing devotion to God (prayer, songs, rituals).">worship</span></a>. He also restores <a href="glossary.md#passover"><span title="A Jewish festival remembering the Exodus from Egypt.">Passover</span></a> celebrations.
-The book also includes messages from <a href="glossary.md#prophet"><span title="A person who speaks messages they believe come from God.">prophets</span></a>, who are people believed to speak <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s warnings and guidance. Often the <a href="glossary.md#prophet"><span title="A person who speaks messages they believe come from God.">prophets</span></a> call the leaders and people to change their behaviour, especially to stop <a href="glossary.md#idol"><span title="An object or false god treated as most important.">idol</span></a> <a href="glossary.md#worship"><span title="Actions showing devotion to God (prayer, songs, rituals).">worship</span></a> and injustice.
+* Asa removes [idols[^gl_idol]](glossary.md#idol) and pushes for religious changes, but later makes mistakes by relying on political deals instead of [faith[^gl_faith]](glossary.md#faith).
+* Jehoshaphat strengthens [Judah[^gl_judah]](glossary.md#judah) and is remembered for teaching the people and trying to rule fairly, but he also makes risky alliances.
+* Hezekiah restores [temple[^gl_temple]](glossary.md#temple) [worship[^gl_worship]](glossary.md#worship) and celebrates a major [Passover[^gl_passover]](glossary.md#passover) (a festival remembering [Israel[^gl_israel]](glossary.md#israel)’s escape from slavery in Egypt). [Judah[^gl_judah]](glossary.md#judah) survives a serious threat from Assyria during his time.
+* Josiah is known for repairing the [temple[^gl_temple]](glossary.md#temple), finding the “Book of the Law” (a written set of [God[^gl_god]](glossary.md#god)’s instructions), and leading a big renewal of [worship[^gl_worship]](glossary.md#worship). He also restores [Passover[^gl_passover]](glossary.md#passover) celebrations.
+The book also includes messages from [prophets[^gl_prophet]](glossary.md#prophet), who are people believed to speak [God[^gl_god]](glossary.md#god)’s warnings and guidance. Often the [prophets[^gl_prophet]](glossary.md#prophet) call the leaders and people to change their behaviour, especially to stop [idol[^gl_idol]](glossary.md#idol) [worship[^gl_worship]](glossary.md#worship) and injustice.
 
-In the later chapters, <a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a>’s kings become more unfaithful, and the people ignore repeated warnings. Eventually Babylon conquers <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a>, the <a href="glossary.md#temple"><span title="The main worship building in Jerusalem in ancient Israel.">temple</span></a> is destroyed, and many people are taken away from their land. The book ends with a decree from King Cyrus of Persia allowing the exiled people to go back and rebuild the <a href="glossary.md#temple"><span title="The main worship building in Jerusalem in ancient Israel.">temple</span></a>, which points to hope after disaster.
+In the later chapters, [Judah[^gl_judah]](glossary.md#judah)’s kings become more unfaithful, and the people ignore repeated warnings. Eventually Babylon conquers [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem), the [temple[^gl_temple]](glossary.md#temple) is destroyed, and many people are taken away from their land. The book ends with a decree from King Cyrus of Persia allowing the exiled people to go back and rebuild the [temple[^gl_temple]](glossary.md#temple), which points to hope after disaster.
 
 ## Big ideas
 
-* Kings are judged mainly by whether they support <a href="glossary.md#worship"><span title="Actions showing devotion to God (prayer, songs, rituals).">worship</span></a> at the <a href="glossary.md#temple"><span title="The main worship building in Jerusalem in ancient Israel.">temple</span></a> and live justly.
+* Kings are judged mainly by whether they support [worship[^gl_worship]](glossary.md#worship) at the [temple[^gl_temple]](glossary.md#temple) and live justly.
 * The story repeatedly links reform with renewal, and unfaithfulness with decline and disaster.
-* The ending points to hope after <a href="glossary.md#exile"><span title="Being forced to live away from one’s homeland.">exile</span></a>: rebuilding is possible.
+* The ending points to hope after [exile[^gl_exile]](glossary.md#exile): rebuilding is possible.
+
+[^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
+[^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
+[^gl_exile]: Being forced to live away from one’s homeland.
+
+[^gl_jerusalem]: A major city in the Bible’s story.
+
+[^gl_temple]: The main worship building in Jerusalem in ancient Israel.
+
+[^gl_god]: The main divine being in Judaism and Christianity.
+
+[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals).
+
+[^gl_idol]: An object or false god treated as most important.
+
+[^gl_faith]: Trust; in Christianity, trusting God and Jesus.
+
+[^gl_passover]: A Jewish festival remembering the Exodus from Egypt.
+
+[^gl_prophet]: A person who speaks messages they believe come from God.

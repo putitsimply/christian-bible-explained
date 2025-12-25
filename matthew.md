@@ -2,26 +2,48 @@
 
 ## What this book is
 
-The book of Matthew is one of the four <a href="glossary.md#gospel"><span title="“Good news”; also the four books about Jesus’ life.">Gospels</span></a>, which are books that tell the story of Jesus’ life, teaching, and death, and (in Christian belief) his <a href="glossary.md#resurrection"><span title="Life after death; Christians believe Jesus rose.">resurrection</span></a>. Matthew is organised like a biography mixed with lots of teaching.
+The book of Matthew is one of the four [Gospels[^gl_gospel]](glossary.md#gospel), which are books that tell the story of Jesus’ life, teaching, and death, and (in Christian belief) his [resurrection[^gl_resurrection]](glossary.md#resurrection). Matthew is organised like a biography mixed with lots of teaching.
 
 ## What it contains
 
 Matthew starts by introducing Jesus’ family line and then tells the story of Jesus’ birth. It includes the visit of the wise men, King Herod’s fear of losing power, and how Jesus’ family escapes danger by going to Egypt and later returning to live in Nazareth.
 
-Next, John the Baptist appears, calling people to change their lives and get ready for <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s work. Jesus is baptised, then spends time in the wilderness being tempted. After that, Jesus begins travelling around teaching, healing sick people, and calling followers called <a href="glossary.md#disciple"><span title="A close student or follower of a teacher.">disciples</span></a> (close students who learn from a teacher and travel with them).
+Next, John the Baptist appears, calling people to change their lives and get ready for [God[^gl_god]](glossary.md#god)’s work. Jesus is baptised, then spends time in the wilderness being tempted. After that, Jesus begins travelling around teaching, healing sick people, and calling followers called [disciples[^gl_disciple]](glossary.md#disciple) (close students who learn from a teacher and travel with them).
 
-A major section is the Sermon on the Mount (chapters 5 to 7). Here Jesus teaches about what a good life looks like, including kindness, honesty, forgiveness, <a href="glossary.md#prayer"><span title="Speaking to God (silently or aloud).">prayer</span></a>, and caring about what is right on the inside, not just looking good on the outside.
+A major section is the Sermon on the Mount (chapters 5 to 7). Here Jesus teaches about what a good life looks like, including kindness, honesty, forgiveness, [prayer[^gl_prayer]](glossary.md#prayer), and caring about what is right on the inside, not just looking good on the outside.
 
-Matthew then shows Jesus doing many actions people saw as signs of <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s power, like healing and helping people who were suffering. Jesus also teaches in <a href="glossary.md#parable"><span title="A short teaching story.">parables</span></a>, which are short story-like examples that make a point (often about <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s “kingdom”, meaning <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s rule and ways). Some famous <a href="glossary.md#parable"><span title="A short teaching story.">parables</span></a> include the sower and the seeds.
+Matthew then shows Jesus doing many actions people saw as signs of [God[^gl_god]](glossary.md#god)’s power, like healing and helping people who were suffering. Jesus also teaches in [parables[^gl_parable]](glossary.md#parable), which are short story-like examples that make a point (often about [God[^gl_god]](glossary.md#god)’s “kingdom”, meaning [God[^gl_god]](glossary.md#god)’s rule and ways). Some famous [parables[^gl_parable]](glossary.md#parable) include the sower and the seeds.
 
-As the story goes on, Jesus argues more with some religious leaders, often called <a href="glossary.md#pharisees"><span title="A Jewish religious group in Jesus’ time.">Pharisees</span></a> and teachers of the law. Matthew shows these conflicts as being about hypocrisy, power, and missing the heart of <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s commands. Jesus also asks his <a href="glossary.md#disciple"><span title="A close student or follower of a teacher.">disciples</span></a> who they think he is, and Peter calls him the <a href="glossary.md#messiah"><span title="“Anointed one”; a chosen leader. Christians apply it to Jesus.">Messiah</span></a> (a special leader <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> promised, sometimes understood as a rescuer king). Another key moment is the transfiguration, when Jesus is seen in a bright, changed way on a mountain.
+As the story goes on, Jesus argues more with some religious leaders, often called [Pharisees[^gl_pharisees]](glossary.md#pharisees) and teachers of the law. Matthew shows these conflicts as being about hypocrisy, power, and missing the heart of [God[^gl_god]](glossary.md#god)’s commands. Jesus also asks his [disciples[^gl_disciple]](glossary.md#disciple) who they think he is, and Peter calls him the [Messiah[^gl_messiah]](glossary.md#messiah) (a special leader [God[^gl_god]](glossary.md#god) promised, sometimes understood as a rescuer king). Another key moment is the transfiguration, when Jesus is seen in a bright, changed way on a mountain.
 
-Near the end, Jesus goes to <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a>. He is welcomed like a king, teaches in the <a href="glossary.md#temple"><span title="The main worship building in Jerusalem in ancient Israel.">temple</span></a>, and gives strong warnings about injustice and pretending to be good. He shares a final meal with his <a href="glossary.md#disciple"><span title="A close student or follower of a teacher.">disciples</span></a>, is arrested, and is put on trial. He is crucified (executed on a cross), and Matthew describes events that show how shocking and significant this was for his followers.
+Near the end, Jesus goes to [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem). He is welcomed like a king, teaches in the [temple[^gl_temple]](glossary.md#temple), and gives strong warnings about injustice and pretending to be good. He shares a final meal with his [disciples[^gl_disciple]](glossary.md#disciple), is arrested, and is put on trial. He is crucified (executed on a cross), and Matthew describes events that show how shocking and significant this was for his followers.
 
-Finally, Matthew tells of Jesus’ <a href="glossary.md#resurrection"><span title="Life after death; Christians believe Jesus rose.">resurrection</span></a> (Christians believe he was raised back to life). The book ends with Jesus sending his <a href="glossary.md#disciple"><span title="A close student or follower of a teacher.">disciples</span></a> out to teach others.
+Finally, Matthew tells of Jesus’ [resurrection[^gl_resurrection]](glossary.md#resurrection) (Christians believe he was raised back to life). The book ends with Jesus sending his [disciples[^gl_disciple]](glossary.md#disciple) out to teach others.
 
 ## Big ideas
 
 * Jesus’ teaching focuses on inner character as well as outward actions.
-* The story builds toward conflict in <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a>, ending in <a href="glossary.md#crucifixion"><span title="Roman execution on a cross.">crucifixion</span></a> and (in Christian belief) <a href="glossary.md#resurrection"><span title="Life after death; Christians believe Jesus rose.">resurrection</span></a>.
-* Matthew often connects Jesus to Jewish hopes for a <a href="glossary.md#messiah"><span title="“Anointed one”; a chosen leader. Christians apply it to Jesus.">Messiah</span></a> and for <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s kingdom (<a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s rule and ways).
+* The story builds toward conflict in [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem), ending in [crucifixion[^gl_crucifixion]](glossary.md#crucifixion) and (in Christian belief) [resurrection[^gl_resurrection]](glossary.md#resurrection).
+* Matthew often connects Jesus to Jewish hopes for a [Messiah[^gl_messiah]](glossary.md#messiah) and for [God[^gl_god]](glossary.md#god)’s kingdom ([God[^gl_god]](glossary.md#god)’s rule and ways).
+
+[^gl_gospel]: “Good news”; also the four books about Jesus’ life.
+
+[^gl_resurrection]: Life after death; Christians believe Jesus rose.
+
+[^gl_god]: The main divine being in Judaism and Christianity.
+
+[^gl_disciple]: A close student or follower of a teacher.
+
+[^gl_prayer]: Speaking to God (silently or aloud).
+
+[^gl_parable]: A short teaching story.
+
+[^gl_pharisees]: A Jewish religious group in Jesus’ time.
+
+[^gl_messiah]: “Anointed one”; a chosen leader. Christians apply it to Jesus.
+
+[^gl_jerusalem]: A major city in the Bible’s story.
+
+[^gl_temple]: The main worship building in Jerusalem in ancient Israel.
+
+[^gl_crucifixion]: Roman execution on a cross.

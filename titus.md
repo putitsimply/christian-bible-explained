@@ -10,11 +10,11 @@ The book of **Titus** is a short letter in the New Testament. It is traditionall
 Paul explains why Titus is in Crete: the churches need good structure and good leadership. Titus is told to **appoint elders** (leaders) in each town. These leaders should have strong character, self-control, and a good reputation, because they will teach and guide others. Paul also warns that some people are teaching wrong ideas and causing trouble, often for money or attention. Titus is told to stop this so the community stays healthy.
 
 **2) Practical teaching for everyday life (chapter 2).**\
-Paul then gives very down-to-earth advice for different groups in the <a href="glossary.md#church"><span title="A community of Christians, not just a building.">church</span></a>: older men, older women, younger women, younger men, and workers. The point is not “act perfect,” but “live in a way that matches what people say they believe.”\
-A big idea here is that **<a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s <a href="glossary.md#grace"><span title="God’s unearned kindness (Christian idea).">grace</span></a>** (<a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s kindness and help that people do not earn) teaches people to turn away from harmful choices and live wisely. Paul connects belief with behaviour: good teaching should produce good living.
+Paul then gives very down-to-earth advice for different groups in the [church[^gl_church]](glossary.md#church): older men, older women, younger women, younger men, and workers. The point is not “act perfect,” but “live in a way that matches what people say they believe.”\
+A big idea here is that **[God[^gl_god]](glossary.md#god)’s [grace[^gl_grace]](glossary.md#grace)** ([God[^gl_god]](glossary.md#god)’s kindness and help that people do not earn) teaches people to turn away from harmful choices and live wisely. Paul connects belief with behaviour: good teaching should produce good living.
 
 **3) How to treat other people and handle conflict (chapter 3).**\
-Titus is told to remind believers to cooperate with government authorities, be ready to do good, and avoid insulting people. Paul stresses that people are not “saved” (rescued and made right with <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>) by good deeds, but by <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s mercy. Still, he insists that those who believe should be eager to do good, because it benefits everyone.\
+Titus is told to remind believers to cooperate with government authorities, be ready to do good, and avoid insulting people. Paul stresses that people are not “saved” (rescued and made right with [God[^gl_god]](glossary.md#god)) by good deeds, but by [God[^gl_god]](glossary.md#god)’s mercy. Still, he insists that those who believe should be eager to do good, because it benefits everyone.\
 Paul also tells Titus to avoid pointless arguments, especially fights that go nowhere, and to deal firmly with anyone who keeps stirring up division after being warned.
 
 **4) Closing plans and greetings.**\
@@ -25,5 +25,11 @@ Overall, **Titus** is about building healthy communities through trustworthy lea
 ## Big ideas
 
 * Healthy communities need trustworthy leaders and clear teaching.
-* <a href="glossary.md#grace"><span title="God’s unearned kindness (Christian idea).">Grace</span></a> and belief are meant to shape everyday behaviour, not just ideas.
+* [Grace[^gl_grace]](glossary.md#grace) and belief are meant to shape everyday behaviour, not just ideas.
 * The letter promotes responsibility, good works, and avoiding pointless arguments.
+
+[^gl_church]: A community of Christians, not just a building.
+
+[^gl_god]: The main divine being in Judaism and Christianity.
+
+[^gl_grace]: God’s unearned kindness (Christian idea).

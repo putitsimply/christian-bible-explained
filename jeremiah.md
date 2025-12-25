@@ -2,34 +2,48 @@
 
 ## What this book is
 
-Jeremiah is a long book about a <a href="glossary.md#prophet"><span title="A person who speaks messages they believe come from God.">prophet</span></a> named Jeremiah, who lives in <a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a> (the southern kingdom, where <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a> is). <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> tells Jeremiah to warn the people and their leaders that they are heading for disaster because they have turned away from <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>, treated others unfairly, and trusted in things like political deals, money, and even the <a href="glossary.md#temple"><span title="The main worship building in Jerusalem in ancient Israel.">Temple</span></a> building itself as if it were a “good luck charm.”
+Jeremiah is a long book about a [prophet[^gl_prophet]](glossary.md#prophet) named Jeremiah, who lives in [Judah[^gl_judah]](glossary.md#judah) (the southern kingdom, where [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem) is). [God[^gl_god]](glossary.md#god) tells Jeremiah to warn the people and their leaders that they are heading for disaster because they have turned away from [God[^gl_god]](glossary.md#god), treated others unfairly, and trusted in things like political deals, money, and even the [Temple[^gl_temple]](glossary.md#temple) building itself as if it were a “good luck charm.”
 
 ## What it contains
 
 ### What Jeremiah keeps warning about
 
-Jeremiah’s main message is blunt: if <a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a> keeps going this way, Babylon will conquer them, <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a> will fall, and many people will be taken away from their land (this is called <a href="glossary.md#exile"><span title="Being forced to live away from one’s homeland.">exile</span></a>). Jeremiah says the problem is not just “breaking rules” but deep unfaithfulness, like breaking a relationship. He uses strong pictures and stories to make the point, and people often hate him for it.
+Jeremiah’s main message is blunt: if [Judah[^gl_judah]](glossary.md#judah) keeps going this way, Babylon will conquer them, [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem) will fall, and many people will be taken away from their land (this is called [exile[^gl_exile]](glossary.md#exile)). Jeremiah says the problem is not just “breaking rules” but deep unfaithfulness, like breaking a relationship. He uses strong pictures and stories to make the point, and people often hate him for it.
 
 ### Jeremiah’s life is hard
 
-Jeremiah is mocked, threatened, and even attacked. At times he complains to <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> because he feels lonely and overwhelmed, but he keeps speaking anyway. He also acts out symbolic “object lessons” to get attention, like wearing a yoke to show that Babylon’s power is coming and <a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a> should stop pretending it can’t happen. He argues against “false <a href="glossary.md#prophet"><span title="A person who speaks messages they believe come from God.">prophets</span></a>” who claim everything will be fine.
+Jeremiah is mocked, threatened, and even attacked. At times he complains to [God[^gl_god]](glossary.md#god) because he feels lonely and overwhelmed, but he keeps speaking anyway. He also acts out symbolic “object lessons” to get attention, like wearing a yoke to show that Babylon’s power is coming and [Judah[^gl_judah]](glossary.md#judah) should stop pretending it can’t happen. He argues against “false [prophets[^gl_prophet]](glossary.md#prophet)” who claim everything will be fine.
 
-### The fall of <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a>
+### The fall of [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem)
 
-Eventually, what Jeremiah warned about happens. Babylon’s armies defeat <a href="glossary.md#judah"><span title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</span></a>, <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a> is destroyed, and many people are deported. Jeremiah is still in the middle of it all, advising kings, being imprisoned at points, and watching the collapse he predicted.
+Eventually, what Jeremiah warned about happens. Babylon’s armies defeat [Judah[^gl_judah]](glossary.md#judah), [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem) is destroyed, and many people are deported. Jeremiah is still in the middle of it all, advising kings, being imprisoned at points, and watching the collapse he predicted.
 
 ### Hope in the middle of judgment
 
-Even though Jeremiah is full of warnings, it is also full of hope. Jeremiah says the <a href="glossary.md#exile"><span title="Being forced to live away from one’s homeland.">exile</span></a> will not be the end of the story. He promises that the people will return one day, and that <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> still wants a real relationship with them, not fake religion.
+Even though Jeremiah is full of warnings, it is also full of hope. Jeremiah says the [exile[^gl_exile]](glossary.md#exile) will not be the end of the story. He promises that the people will return one day, and that [God[^gl_god]](glossary.md#god) still wants a real relationship with them, not fake religion.
 
-One of the biggest hope sections is about a **new <a href="glossary.md#covenant"><span title="A serious promise-based relationship.">covenant</span></a>**. A <a href="glossary.md#covenant"><span title="A serious promise-based relationship.">covenant</span></a> is a serious promise-based relationship. Jeremiah says that instead of the law just being something written on stone or paper, <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> will “write it on their hearts,” meaning people will be changed on the inside, not just pressured to behave on the outside.
+One of the biggest hope sections is about a **new [covenant[^gl_covenant]](glossary.md#covenant)**. A [covenant[^gl_covenant]](glossary.md#covenant) is a serious promise-based relationship. Jeremiah says that instead of the law just being something written on stone or paper, [God[^gl_god]](glossary.md#god) will “write it on their hearts,” meaning people will be changed on the inside, not just pressured to behave on the outside.
 
 ### How the book ends
 
-After <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a> falls, some survivors flee to Egypt, and Jeremiah ends up going with them, still warning them not to repeat the same mistakes. The book finishes with a mix of sadness, lessons from the disaster, and promises that <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s story with the people is not finished.
+After [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem) falls, some survivors flee to Egypt, and Jeremiah ends up going with them, still warning them not to repeat the same mistakes. The book finishes with a mix of sadness, lessons from the disaster, and promises that [God[^gl_god]](glossary.md#god)’s story with the people is not finished.
 
 ## Big ideas
 
 * The book links injustice and false confidence with national disaster.
-* It shows a <a href="glossary.md#prophet"><span title="A person who speaks messages they believe come from God.">prophet</span></a>’s lonely, risky role: speaking an unpopular message.
-* Hope appears through the idea of a “new <a href="glossary.md#covenant"><span title="A serious promise-based relationship.">covenant</span></a>” (a renewed relationship and changed hearts).
+* It shows a [prophet[^gl_prophet]](glossary.md#prophet)’s lonely, risky role: speaking an unpopular message.
+* Hope appears through the idea of a “new [covenant[^gl_covenant]](glossary.md#covenant)” (a renewed relationship and changed hearts).
+
+[^gl_prophet]: A person who speaks messages they believe come from God.
+
+[^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
+[^gl_jerusalem]: A major city in the Bible’s story.
+
+[^gl_god]: The main divine being in Judaism and Christianity.
+
+[^gl_temple]: The main worship building in Jerusalem in ancient Israel.
+
+[^gl_exile]: Being forced to live away from one’s homeland.
+
+[^gl_covenant]: A serious promise-based relationship.

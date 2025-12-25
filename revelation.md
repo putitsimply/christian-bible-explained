@@ -2,21 +2,21 @@
 
 ## What this book is
 
-Revelation is the last book of the Christian <a href="glossary.md#bible"><span title="Christian sacred writings: many books and types of writing.">Bible</span></a>. It is written like a big, strange picture book made of symbols and visions. It was written as a letter to encourage Christians who were scared or being treated badly for their <a href="glossary.md#faith"><span title="Trust; in Christianity, trusting God and Jesus.">faith</span></a>.
+Revelation is the last book of the Christian [Bible[^gl_bible]](glossary.md#bible). It is written like a big, strange picture book made of symbols and visions. It was written as a letter to encourage Christians who were scared or being treated badly for their [faith[^gl_faith]](glossary.md#faith).
 
 ## What it contains
 
 ### 1) The opening and the seven letters
 
-The writer (a man named John, traditionally linked with “John of Patmos”) says he had a vision from <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>. He is told to write messages to seven Christian communities (churches) in Asia Minor. Each message praises what they are doing well, warns them about problems (like unfairness, compromise, or giving up), and calls them to keep going.
+The writer (a man named John, traditionally linked with “John of Patmos”) says he had a vision from [God[^gl_god]](glossary.md#god). He is told to write messages to seven Christian communities (churches) in Asia Minor. Each message praises what they are doing well, warns them about problems (like unfairness, compromise, or giving up), and calls them to keep going.
 
 ### 2) A throne room and a scroll
 
-John sees a vision of <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s throne in heaven, surrounded by <a href="glossary.md#worship"><span title="Actions showing devotion to God (prayer, songs, rituals).">worship</span></a>. He also sees a sealed scroll, like a closed plan for what will happen in the world. Only a special figure called “the Lamb” can open it. Christians usually understand the Lamb as Jesus.
+John sees a vision of [God[^gl_god]](glossary.md#god)’s throne in heaven, surrounded by [worship[^gl_worship]](glossary.md#worship). He also sees a sealed scroll, like a closed plan for what will happen in the world. Only a special figure called “the Lamb” can open it. Christians usually understand the Lamb as Jesus.
 
 ### 3) The seals, trumpets, and bowls
 
-As the Lamb opens the seals, and later as trumpets and bowls appear, John describes disasters, wars, sickness, and chaos. These scenes are not written like a normal history story. They are written in a dramatic, symbolic style to show that evil causes real harm, and that <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> will not ignore injustice forever.
+As the Lamb opens the seals, and later as trumpets and bowls appear, John describes disasters, wars, sickness, and chaos. These scenes are not written like a normal history story. They are written in a dramatic, symbolic style to show that evil causes real harm, and that [God[^gl_god]](glossary.md#god) will not ignore injustice forever.
 
 ### 4) The battle between good and evil
 
@@ -28,10 +28,20 @@ Revelation shows evil being defeated. There is a final judgment scene where peop
 
 ### 6) A renewed world
 
-The book ends with hope. John sees “a new heaven and a new earth” and a shining city called the New <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a>. There is no more death, pain, or crying, and <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> lives with people.
+The book ends with hope. John sees “a new heaven and a new earth” and a shining city called the New [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem). There is no more death, pain, or crying, and [God[^gl_god]](glossary.md#god) lives with people.
 
 ## Big ideas
 
 * Revelation uses symbols and visions to talk about fear, power, evil, and hope.
 * Different Christians interpret the details differently, but encouragement and resilience are central.
 * The ending stresses justice and a renewed world where suffering does not last.
+
+[^gl_bible]: Christian sacred writings: many books and types of writing.
+
+[^gl_faith]: Trust; in Christianity, trusting God and Jesus.
+
+[^gl_god]: The main divine being in Judaism and Christianity.
+
+[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals).
+
+[^gl_jerusalem]: A major city in the Bible’s story.
