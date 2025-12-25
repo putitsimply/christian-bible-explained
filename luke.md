@@ -2,7 +2,7 @@
 
 ## What this book is
 
-Luke is one of the four “Gospels” in the New Testament. A Gospel is a book that tells the story of Jesus’ life and teachings. Luke is written like a careful history for a reader called Theophilus, to help them understand what Christians believe about Jesus.
+Luke is one of the four “Gospels” in the New Testament. A Gospel[^gl-gospel] is a book that tells the story of Jesus’ life and teachings. Luke is written like a careful history for a reader called Theophilus, to help them understand what Christians believe about Jesus.
 
 ## What it contains
 
@@ -12,7 +12,7 @@ Luke begins before Jesus is born. It tells stories about:
 * **Zechariah and Elizabeth**, who become the parents of **John the Baptist**.
 * **Mary**, who is told she will have a baby, Jesus.
 * Jesus’ birth in Bethlehem, with angels announcing “good news” to shepherds.\
-  Luke also includes family moments like Jesus being presented at the Temple, and a story where 12-year-old Jesus talks with teachers in Jerusalem.
+  Luke also includes family moments like Jesus being presented at the Temple[^gl-temple], and a story where 12-year-old Jesus talks with teachers in Jerusalem[^gl-jerusalem].
 
 **Jesus’ early life and mission**\
 Jesus is baptised by John the Baptist. Then Luke describes Jesus beginning his public work, teaching in synagogues and saying his mission is to bring hope to the poor, freedom to the oppressed, and healing to those who suffer.
@@ -26,23 +26,34 @@ Luke includes many famous stories (often told as **parables**, which are teachin
 * **The Prodigal Son**, about forgiveness and second chances.
 * **The Lost Sheep and Lost Coin**, about searching for what matters.
 
-Luke also shows Jesus teaching about prayer, generosity, and using wealth wisely. Luke often mentions the **Holy Spirit**, which Christians describe as God’s active presence helping and guiding people.
+Luke also shows Jesus teaching about prayer[^gl-prayer], generosity, and using wealth wisely. Luke often mentions the **Holy Spirit[^gl-holy-spirit]**, which Christians describe as God[^gl-god]’s active presence helping and guiding people.
 
-**The journey to Jerusalem**\
-In the second half of the book, Jesus heads toward Jerusalem. Along the way, he keeps teaching and warning that following him can be costly, but also life-giving.
+**The journey to Jerusalem[^gl-jerusalem]**\
+In the second half of the book, Jesus heads toward Jerusalem[^gl-jerusalem]. Along the way, he keeps teaching and warning that following him can be costly, but also life-giving.
 
-**The final week, death, and resurrection**\
+**The final week, death, and resurrection[^gl-resurrection]**\
 Luke tells about:
 
-* Jesus’ last meal with his disciples (often called the **Last Supper**).
+* Jesus’ last meal with his disciples[^gl-disciple] (often called the **Last Supper**).
 * His arrest and trial.
-* His crucifixion (execution on a cross).\
+* His crucifixion[^gl-crucifixion] (execution on a cross).\
   Luke includes moments that stress forgiveness and compassion, even at the end.
 
-Then Luke describes Christians’ central belief: that Jesus rises from the dead. Jesus appears to his followers, helps them understand the meaning of what happened, and tells them to share the message. Luke ends with Jesus’ **ascension**, meaning he is taken up into heaven. (Luke’s author continues the story in the book of Acts.)
+Then Luke describes Christians’ central belief: that Jesus rises from the dead. Jesus appears to his followers, helps them understand the meaning of what happened, and tells them to share the message. Luke ends with Jesus’ **ascension[^gl-ascension]**, meaning he is taken up into heaven. (Luke’s author continues the story in the book of Acts.)
 
 ## Big ideas
 
 * Luke highlights Jesus’ concern for people who are poor, sick, or pushed aside.
 * The book combines stories, teachings, and parables to explain what Jesus is like.
 * The ending leads into Acts, as the movement continues after Jesus.
+
+[^gl-ascension]: <glossary.md#ascension>
+[^gl-crucifixion]: <glossary.md#crucifixion>
+[^gl-disciple]: <glossary.md#disciple>
+[^gl-god]: <glossary.md#god>
+[^gl-gospel]: <glossary.md#gospel>
+[^gl-holy-spirit]: <glossary.md#holy-spirit>
+[^gl-jerusalem]: <glossary.md#jerusalem>
+[^gl-prayer]: <glossary.md#prayer>
+[^gl-resurrection]: <glossary.md#resurrection>
+[^gl-temple]: <glossary.md#temple>

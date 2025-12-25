@@ -8,7 +8,7 @@
 
 ### Who it is written to
 
-The letter is addressed to “the chosen lady and her children.” Some people think this means a real woman and her family. Others think it is a picture name for a local church community and its members. Either way, the message is aimed at a group of believers who are trying to follow Jesus.
+The letter is addressed to “the chosen lady and her children.” Some people think this means a real woman and her family. Others think it is a picture name for a local church[^gl-church] community and its members. Either way, the message is aimed at a group of believers who are trying to follow Jesus.
 
 ### What happens in the letter
 
@@ -36,3 +36,5 @@ He says he has more to tell them but prefers to speak face to face, and he hopes
 * Love and truth are presented as belonging together, not competing.
 * The letter warns about teaching the writer believes is harmful or untrue.
 * It gives practical guidance about hospitality and boundaries.
+
+[^gl-church]: <glossary.md#church>

@@ -2,11 +2,11 @@
 
 ## What this book is
 
-Hosea is a book where God uses one prophet’s family story as a living lesson about what was happening between God and the people of Israel (the northern kingdom).
+Hosea is a book where God[^gl-god] uses one prophet[^gl-prophet]’s family story as a living lesson about what was happening between God[^gl-god] and the people of Israel[^gl-israel] (the northern kingdom).
 
 ## What it contains
 
-Hosea is told to marry a woman who keeps being unfaithful. That hurts Hosea deeply, but he stays committed and even goes looking for her when she leaves. The point is not that unfaithfulness is fine, it is that Hosea’s painful experience helps people understand something bigger. In the book, Israel is described as being unfaithful to God by running after other gods, trusting political deals instead of God, and living unjustly.
+Hosea is told to marry a woman who keeps being unfaithful. That hurts Hosea deeply, but he stays committed and even goes looking for her when she leaves. The point is not that unfaithfulness is fine, it is that Hosea’s painful experience helps people understand something bigger. In the book, Israel[^gl-israel] is described as being unfaithful to God[^gl-god] by running after other gods, trusting political deals instead of God[^gl-god], and living unjustly.
 
 Hosea and his wife have children, and their names are like warning signs:
 
@@ -14,11 +14,11 @@ Hosea and his wife have children, and their names are like warning signs:
 * Another name means something like “not loved,” showing that the relationship is breaking.
 * Another means “not my people,” showing how serious the split has become.
 
-Through Hosea, God speaks very bluntly. God says Israel’s worship has become fake, like claiming love while cheating. God also criticises leaders and priests for letting corruption grow, and he calls out everyday injustice, like people taking advantage of others.
+Through Hosea, God[^gl-god] speaks very bluntly. God[^gl-god] says Israel[^gl-israel]’s worship[^gl-worship] has become fake, like claiming love while cheating. God[^gl-god] also criticises leaders and priests[^gl-priest] for letting corruption grow, and he calls out everyday injustice, like people taking advantage of others.
 
-But the book does not stay in “anger mode.” A huge theme in Hosea is that God’s judgement is real, but it is not the end goal. God keeps saying he wants the people to come back. Hosea talks about “returning” to God, which means changing direction, not just feeling sorry. He compares Israel to a child God raised with love, and the tension is clear: God is furious about the betrayal, yet still emotionally attached and wanting to heal the relationship.
+But the book does not stay in “anger mode.” A huge theme in Hosea is that God[^gl-god]’s judgement is real, but it is not the end goal. God[^gl-god] keeps saying he wants the people to come back. Hosea talks about “returning” to God[^gl-god], which means changing direction, not just feeling sorry. He compares Israel[^gl-israel] to a child God[^gl-god] raised with love, and the tension is clear: God[^gl-god] is furious about the betrayal, yet still emotionally attached and wanting to heal the relationship.
 
-Hosea warns that if Israel keeps refusing to change, disaster will follow, including invasion and exile (being forced out of the land). Yet near the end, the book turns hopeful. God promises that if the people return, God will forgive, restore them, and help them grow strong again, like a plant that becomes healthy after rain.
+Hosea warns that if Israel[^gl-israel] keeps refusing to change, disaster will follow, including invasion and exile[^gl-exile] (being forced out of the land). Yet near the end, the book turns hopeful. God[^gl-god] promises that if the people return, God[^gl-god] will forgive, restore them, and help them grow strong again, like a plant that becomes healthy after rain.
 
 So, Hosea is basically: a heartbreak story used to show how damaging betrayal is, mixed with a serious warning about consequences, and a stubborn message that restoration is still possible if people truly change.
 
@@ -27,3 +27,10 @@ So, Hosea is basically: a heartbreak story used to show how damaging betrayal is
 * The book uses a painful relationship as a picture for betrayal and faithfulness.
 * It combines strong warnings with repeated calls to “return” (change direction, not just feel sorry).
 * Hope and restoration are presented as possible, but not without change.
+
+[^gl-exile]: <glossary.md#exile>
+[^gl-god]: <glossary.md#god>
+[^gl-israel]: <glossary.md#israel>
+[^gl-priest]: <glossary.md#priest>
+[^gl-prophet]: <glossary.md#prophet>
+[^gl-worship]: <glossary.md#worship>

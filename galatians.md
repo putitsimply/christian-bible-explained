@@ -2,28 +2,28 @@
 
 ## What this book is
 
-Galatians is a letter written by Paul (a Christian missionary) to several church groups in a region called Galatia. He writes because a serious argument has started about what makes someone part of God’s people.
+Galatians is a letter written by Paul (a Christian missionary) to several church[^gl-church] groups in a region called Galatia. He writes because a serious argument has started about what makes someone part of God[^gl-god]’s people.
 
 ## What it contains
 
 ### The problem Paul is answering
 
-After Paul left, some teachers told the Galatian Christians, “Faith in Jesus is not enough. To belong, people must also follow key parts of the Jewish law, especially circumcision (a religious sign for Jewish males) and other rules.” Paul strongly disagrees.
+After Paul left, some teachers told the Galatian Christians, “Faith[^gl-faith] in Jesus is not enough. To belong, people must also follow key parts of the Jewish law, especially circumcision (a religious sign for Jewish males) and other rules.” Paul strongly disagrees.
 
 ### Paul’s main message
 
-Paul says people are made “right with God” by trusting Jesus, not by earning it through religious rule-keeping. (In church language this is often called “justification by faith,” meaning being accepted by God through faith rather than performance.) He argues that adding extra requirements turns the good news into a different message.
+Paul says people are made “right with God[^gl-god]” by trusting Jesus, not by earning it through religious rule-keeping. (In church[^gl-church] language this is often called “justification by faith[^gl-faith],” meaning being accepted by God[^gl-god] through faith[^gl-faith] rather than performance.) He argues that adding extra requirements turns the good news into a different message.
 
 ### How Paul argues his case
 
 * **Paul defends his authority and message:** He explains that his message came from his encounter with Jesus and that even other major leaders did not force non-Jewish believers to become Jewish first.
-* **Faith versus law:** He points to Abraham, an important Bible figure, saying Abraham trusted God before the Jewish law existed. Paul uses this to argue that trust comes first.
+* **Faith[^gl-faith] versus law:** He points to Abraham, an important Bible[^gl-bible] figure, saying Abraham trusted God[^gl-god] before the Jewish law existed. Paul uses this to argue that trust comes first.
 * **What the law was for:** Paul says the law had a temporary role, like a supervisor or guide, showing people right and wrong and highlighting human failure, but it was not the final solution.
-* **A new family identity:** Paul says that through faith, people become part of God’s family, whether they are Jewish or non-Jewish, male or female, slave or free. His point is that social and ethnic divisions should not decide who belongs.
+* **A new family identity:** Paul says that through faith[^gl-faith], people become part of God[^gl-god]’s family, whether they are Jewish or non-Jewish, male or female, slave or free. His point is that social and ethnic divisions should not decide who belongs.
 
 ### Freedom, but not selfishness
 
-Paul says Christians are meant to be free, but not free to harm others. He warns against using freedom as an excuse to be cruel or self-centred. Instead, he says the goal is to live by God’s Spirit, which should produce good character. He lists “the fruit of the Spirit,” meaning the kinds of qualities a Spirit-led life should grow: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.
+Paul says Christians are meant to be free, but not free to harm others. He warns against using freedom as an excuse to be cruel or self-centred. Instead, he says the goal is to live by God[^gl-god]’s Spirit, which should produce good character. He lists “the fruit of the Spirit,” meaning the kinds of qualities a Spirit-led life should grow: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.
 
 ### How it ends
 
@@ -31,6 +31,11 @@ Paul finishes with practical advice, urging the community to help each other, ta
 
 ## Big ideas
 
-* Paul argues that belonging is based on trust (faith), not earning it by rule-keeping.
+* Paul argues that belonging is based on trust (faith[^gl-faith]), not earning it by rule-keeping.
 * Unity across groups is emphasised (Jewish and non-Jewish believers should belong together).
 * Freedom is tied to responsibility: character and love matter.
+
+[^gl-bible]: <glossary.md#bible>
+[^gl-church]: <glossary.md#church>
+[^gl-faith]: <glossary.md#faith>
+[^gl-god]: <glossary.md#god>

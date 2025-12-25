@@ -8,11 +8,11 @@
 
 ### What led to the letter
 
-Paul had visited Thessalonica and taught people about Jesus. Soon after, he had to leave, and the new believers faced pressure and bullying because of their faith. Paul worried about them, so he sent Timothy to check on them. Timothy came back with good news: they were still trusting God and trying to live well, even though things were hard. Paul writes this letter to encourage them and answer questions.
+Paul had visited Thessalonica and taught people about Jesus. Soon after, he had to leave, and the new believers faced pressure and bullying because of their faith[^gl-faith]. Paul worried about them, so he sent Timothy to check on them. Timothy came back with good news: they were still trusting God[^gl-god] and trying to live well, even though things were hard. Paul writes this letter to encourage them and answer questions.
 
 ### Main things that happen in the letter
 
-**1) Paul encourages them and thanks God**\
+**1) Paul encourages them and thanks God[^gl-god]**\
 Paul is relieved and thankful that they are staying strong. He reminds them that his message was not a trick or a way to get money or power. He says he cared for them like a good parent cares for children.
 
 **2) He explains why he has not returned yet**\
@@ -27,16 +27,16 @@ Paul tells them to keep growing in a life that matches their beliefs. He talks a
 * **Working honestly** and not taking advantage of others.
 
 **4) He answers a big worry about death and the future**\
-Some people in the church were worried about what happens to believers who die before Jesus returns. Paul tells them not to panic. He explains their hope like this:
+Some people in the church[^gl-church] were worried about what happens to believers who die before Jesus returns. Paul tells them not to panic. He explains their hope like this:
 
 * Christians believe Jesus will return.
 * Those who have died will not miss out.
-* God will bring them into the future renewal as well.
+* God[^gl-god] will bring them into the future renewal as well.
 
-This part is often connected to the Christian idea of **resurrection**, which means being raised to new life.
+This part is often connected to the Christian idea of **resurrection[^gl-resurrection]**, which means being raised to new life.
 
 **5) He warns them to stay ready**\
-Paul says the “day of the Lord” (a Bible phrase for a time when God brings justice and sets things right) will come unexpectedly. So they should live like people who are awake and ready, doing what is right, not like people who are careless.
+Paul says the “day of the Lord” (a Bible[^gl-bible] phrase for a time when God[^gl-god] brings justice and sets things right) will come unexpectedly. So they should live like people who are awake and ready, doing what is right, not like people who are careless.
 
 **6) Final practical advice**\
 He gives lots of quick instructions, like:
@@ -51,4 +51,11 @@ He gives lots of quick instructions, like:
 
 * Encouragement during pressure: keep going, keep loving, and keep living responsibly.
 * Hope about death and the future is explained to calm fear.
-* Practical community habits matter (work, patience, prayer, kindness).
+* Practical community habits matter (work, patience, prayer[^gl-prayer], kindness).
+
+[^gl-bible]: <glossary.md#bible>
+[^gl-church]: <glossary.md#church>
+[^gl-faith]: <glossary.md#faith>
+[^gl-god]: <glossary.md#god>
+[^gl-prayer]: <glossary.md#prayer>
+[^gl-resurrection]: <glossary.md#resurrection>
