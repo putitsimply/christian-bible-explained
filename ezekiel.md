@@ -2,7 +2,7 @@
 
 ## What this book is
 
-Ezekiel is a book about a prophet named Ezekiel who lived during a very hard time for the people of Judah. Many of them had been taken away from their homeland to Babylon. This is called “exile,” which means being forced to live far from home because a stronger power has conquered you.
+Ezekiel is a book about a prophet named Ezekiel who lived during a very hard time for the people of Judah. Many of them had been taken away from their homeland to Babylon. This is called “exile,” which means being forced to live far from home because a stronger power has conquered them.
 
 ## What it contains
 

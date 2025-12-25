@@ -8,7 +8,7 @@ Galatians is a letter written by Paul (a Christian missionary) to several church
 
 ### The problem Paul is answering
 
-After Paul left, some teachers told the Galatian Christians, “Faith in Jesus is not enough. If you really want to belong, you must also follow key parts of the Jewish law, especially circumcision (a religious sign for Jewish males) and other rules.” Paul strongly disagrees.
+After Paul left, some teachers told the Galatian Christians, “Faith in Jesus is not enough. To belong, people must also follow key parts of the Jewish law, especially circumcision (a religious sign for Jewish males) and other rules.” Paul strongly disagrees.
 
 ### Paul’s main message
 
@@ -27,7 +27,7 @@ Paul says Christians are meant to be free, but not free to harm others. He warns
 
 ### How it ends
 
-Paul finishes with practical advice: help each other, take responsibility for your own actions, keep doing good, and focus on what matters most, not on showing off religious badges like circumcision.
+Paul finishes with practical advice, urging the community to help each other, take responsibility for their own actions, keep doing good, and focus on what matters most, not on showing off religious badges like circumcision.
 
 ## Big ideas
 

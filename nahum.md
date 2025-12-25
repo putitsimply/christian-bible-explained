@@ -21,7 +21,7 @@ Nahum begins by describing God as patient but also serious about justice. The bi
 Nahum switches into vivid, action-packed poetry that describes Nineveh being attacked and collapsing. He talks about armies advancing, city defences breaking, people fleeing, and the city’s wealth being taken away. It is written like a dramatic scene, even though it is a prophecy.
 
 **Chapter 3:**\
-Nahum explains why Nineveh is being judged. He describes the city as built on violence, lies, and cruelty. He also mocks Nineveh’s confidence, basically saying, “You think you are safe, but you are not.” The book ends by saying that many nations will celebrate Nineveh’s fall because so many people had suffered under Assyria’s power.
+Nahum explains why Nineveh is being judged. He describes the city as built on violence, lies, and cruelty. He also mocks Nineveh’s confidence and says it is not truly safe. The book ends by saying that many nations will celebrate Nineveh’s fall because so many people had suffered under Assyria’s power.
 
 ## Big ideas
 

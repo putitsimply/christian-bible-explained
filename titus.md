@@ -10,7 +10,7 @@ The book of **Titus** is a short letter in the New Testament. It is traditionall
 Paul explains why Titus is in Crete: the churches need good structure and good leadership. Titus is told to **appoint elders** (leaders) in each town. These leaders should have strong character, self-control, and a good reputation, because they will teach and guide others. Paul also warns that some people are teaching wrong ideas and causing trouble, often for money or attention. Titus is told to stop this so the community stays healthy.
 
 **2) Practical teaching for everyday life (chapter 2).**\
-Paul then gives very down-to-earth advice for different groups in the church: older men, older women, younger women, younger men, and workers. The point is not “act perfect,” but “live in a way that matches what you say you believe.”\
+Paul then gives very down-to-earth advice for different groups in the church: older men, older women, younger women, younger men, and workers. The point is not “act perfect,” but “live in a way that matches what people say they believe.”\
 A big idea here is that **God’s grace** (God’s kindness and help that people do not earn) teaches people to turn away from harmful choices and live wisely. Paul connects belief with behaviour: good teaching should produce good living.
 
 **3) How to treat other people and handle conflict (chapter 3).**\

@@ -6,7 +6,7 @@
 
 ## What it contains
 
-### 1) Grow your character and trust what you have learned (chapter 1)
+### 1) Growing in character and trusting what has been taught (chapter 1)
 
 The writer begins by saying that knowing God should change how a person lives. He urges believers to “grow” step by step in good qualities, like self control, perseverance, kindness, and love. The idea is that faith is not meant to stay small, it should produce a better life.
 

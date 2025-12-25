@@ -6,7 +6,7 @@ Malachi is the last book in the Old Testament (in most Christian Bibles). It is 
 
 ## What it contains
 
-Malachi is written like a series of short arguments between God and the people. God makes a point, the people push back with a question like “How?” or “What do you mean?”, then God answers clearly.
+Malachi is written like a series of short arguments between God and the people. God makes a point, the people push back with a question like “How?” or “What is meant by that?”, then God answers clearly.
 
 Here is what happens, step by step:
 

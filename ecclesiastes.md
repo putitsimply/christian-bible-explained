@@ -8,13 +8,13 @@ Ecclesiastes is a short book in the Old Testament that reads like a wise teacher
 
 He starts with a punchy idea: so much of life can feel meaningless, like chasing the wind. He looks at different things people usually chase to feel satisfied, and he tests them one by one.
 
-First, he looks at **knowledge and learning**. Being wise can help you make better choices, but it also means you notice more problems and sadness in the world. Then he looks at **pleasure and fun**, things like laughter, entertainment, and comfort. Those can feel good for a while, but they do not last. Next he considers **work and achievements**. He says you can build impressive things, but you cannot keep them forever, and someone else will eventually take over what you made. Even **wealth** is uncertain, because money can be lost, and wanting more can become endless.
+First, he looks at **knowledge and learning**. Being wise can help people make better choices, but it also means they notice more problems and sadness in the world. Then he looks at **pleasure and fun**, things like laughter, entertainment, and comfort. Those can feel good for a while, but they do not last. Next he considers **work and achievements**. He says people can build impressive things, but they cannot keep them forever, and someone else will eventually take over what was made. Even **wealth** is uncertain, because money can be lost, and wanting more can become endless.
 
 A big theme in Ecclesiastes is that life often seems unfair. Sometimes good people suffer and selfish people succeed. Everyone, wise or foolish, rich or poor, eventually dies. The Teacher is honest about how frustrating and confusing this can be.
 
-But the book is not just gloomy. Over and over, it also says something practical: since you cannot control everything, you should **enjoy the good gifts you do have**, like food, friendship, meaningful work, and the simple moments of life. In the book’s view, these are things to receive with gratitude, not as the ultimate goal of life, but as good parts of it.
+But the book is not just gloomy. Over and over, it also says something practical: since people cannot control everything, the Teacher says it is wise to **enjoy the good gifts people do have**, like food, friendship, meaningful work, and simple moments of life. In the book’s view, these are things to receive with gratitude, not as the ultimate goal of life, but as good parts of it.
 
-Ecclesiastes also includes some famous reflections about time, including the poem that says there is “a time for everything”, a time to laugh, a time to cry, a time to build, a time to tear down. The point is that life has seasons, and you cannot force every season to be the one you want.
+Ecclesiastes also includes some famous reflections about time, including the poem that says there is “a time for everything”, a time to laugh, a time to cry, a time to build, a time to tear down. The point is that life has seasons, and people cannot force every season to be the one they want.
 
 Near the end, the Teacher becomes clearer about his conclusion: real meaning is not found in collecting achievements or pleasure. The book finishes by saying the best foundation is to **respect God and live rightly**, because God sees the whole picture, even when humans cannot.
 

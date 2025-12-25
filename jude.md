@@ -14,7 +14,7 @@ Jude says he wanted to write a positive letter about “the salvation we share�
 
 Jude describes these people as using God’s kindness as an excuse to live in ways that hurt others and dishonour God. He says they talk like they belong, but their actions show something is wrong.
 
-In simple terms, Jude is saying: “Do not let smooth talkers pull you away from what you were taught about Jesus and a good way of living.”
+In simple terms, Jude warns readers not to let persuasive teachers pull them away from what they were taught about Jesus and a good way of living.
 
 ### How Jude makes his point
 
@@ -38,7 +38,7 @@ Jude gives practical advice:
 
 Jude finishes with a famous closing blessing that reassures readers: God is able to keep people from falling and bring them safely through to the end.
 
-Overall, Jude is a warning letter that says, “Guard what you have been taught about Jesus, live it out, and help others do the same.”
+Overall, Jude is a warning letter that urges readers to guard what they have been taught about Jesus, live it out, and help others do the same.
 
 ## Big ideas
 

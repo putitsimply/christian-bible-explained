@@ -12,7 +12,7 @@ Joel describes an overwhelming locust swarm that strips the land bare. Crops are
 
 ### 2) The disaster is treated as a “wake up” call
 
-Joel explains the plague as more than just bad luck. He uses it as a message: “Stop and think about your lives and your choices.” He urges the nation to turn back to God with honesty, not just with sad feelings or public show. In other words, he says real change matters more than pretending.
+Joel explains the plague as more than just bad luck. He treats it as a message calling the community to stop and think about their lives and choices. He urges the nation to turn back to God with honesty, not just with sad feelings or public show. In other words, he says real change matters more than pretending.
 
 ### 3) A whole-community moment of repentance
 
@@ -30,7 +30,7 @@ One of the most famous parts of Joel is a promise that God’s Spirit will be po
 
 Joel finishes with a picture of God bringing justice: wrongs are answered, violence and cruelty are dealt with, and God’s people are protected. The book ends with an image of God’s presence bringing life, like a source of water that makes dry places flourish.
 
-**Big idea:** Joel uses a crisis to say, “Take a hard look at how you’re living,” but it also says, “It’s not too late to change, rebuild, and find hope.”
+**Big idea:** Joel uses a crisis as a warning, but also offers hope that change and rebuilding are possible.
 
 ## Big ideas
 

@@ -29,7 +29,7 @@ The writer tells them not to welcome these false teachers into their homes or su
 
 ### How it ends
 
-He says he has more to tell them but prefers to speak face to face, and he hopes to visit soon. He finishes with greetings from “the children of your chosen sister,” which sounds like friendly support from another connected Christian group.
+He says he has more to tell them but prefers to speak face to face, and he hopes to visit soon. He finishes with greetings from another connected Christian group, which suggests friendly support between communities.
 
 ## Big ideas
 

@@ -20,6 +20,6 @@ Overall, Daniel mixes exciting stories with mysterious visions to teach that cou
 
 ## Big ideas
 
-* Staying loyal to your beliefs can be costly, but the stories highlight courage under pressure.
+* Staying loyal to one’s beliefs can be costly, but the stories highlight courage under pressure.
 * Empires and rulers look powerful, but the book keeps reminding readers that power changes and does not last.
 * The visions use symbols to express hope that injustice and cruelty will not win forever.

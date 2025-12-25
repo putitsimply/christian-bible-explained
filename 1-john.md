@@ -36,10 +36,10 @@ The writer wants readers to feel **assurance**, meaning they can have confidence
 
 ### 5) How it ends
 
-1 John finishes by saying the letter was written so believers can **know** they have “eternal life” (life with God that lasts). It also gives a final practical warning: **stay away from idols**, meaning anything that replaces God as the most important thing in your life.
+1 John finishes by saying the letter was written so believers can **know** they have “eternal life” (life with God that lasts). It also gives a final practical warning to stay away from idols, meaning anything that replaces God as the most important thing.
 
 ## Big ideas
 
-* Belief and behaviour are linked: what you say you believe should match how you live.
+* Belief and behaviour are linked: what people say they believe should match how they live.
 * Love is treated as the clearest sign of real faith.
 * The letter aims to give confidence while warning against misleading teaching.

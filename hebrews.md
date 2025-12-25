@@ -27,7 +27,7 @@ The big idea is: “Stick with Jesus.” The writer argues that Jesus is greater
 
 ### How it ends
 
-Hebrews finishes with encouragement, a blessing, and a few personal notes, including mention of Timothy. The overall message stays the same: don’t give up, keep your trust, and keep living it out.
+Hebrews finishes with encouragement, a blessing, and a few personal notes, including mention of Timothy. The overall message stays the same: the writer urges readers not to give up, and to keep trusting and living faithfully.
 
 ## Big ideas
 

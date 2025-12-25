@@ -16,7 +16,7 @@ Paul deals with a case of sexual misconduct that the community was ignoring. He 
 People had questions about marriage, divorce, and whether it is better to stay single. Paul gives advice that tries to balance commitment, self-control, and what is practical in difficult situations. He also says people can serve God in different ways, whether married or not.
 
 **4. Food offered to idols**
-In Corinth, some meat sold in markets had been used in non-Christian religious ceremonies. Paul says knowledge alone is not enough. Even if someone thinks it is harmless, they should avoid doing something that pressures others to act against their conscience. The big idea is: use freedom responsibly, and care about how your choices affect others.
+In Corinth, some meat sold in markets had been used in non-Christian religious ceremonies. Paul says knowledge alone is not enough. Even if someone thinks it is harmless, they should avoid doing something that pressures others to act against their conscience. The big idea is: use freedom responsibly, and care about how their choices affect others.
 
 **5. Worship order and spiritual gifts**
 Paul talks about how gatherings should be respectful and understandable, not chaotic. He discusses “spiritual gifts,” meaning abilities people believe God gives for helping others, like teaching, speaking in different languages, or encouraging. He says gifts are meant to build people up, not show off.

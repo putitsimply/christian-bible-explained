@@ -20,9 +20,9 @@ layout:
 
 The Bible is a collection of many different writings that were gathered over a long period of time. It includes stories, laws, poems, prayers, wise sayings, letters, and a book full of symbols and visions. Christians treat the Bible as sacred scripture, and many parts of it are also important in Judaism.
 
-This guide gives short, neutral summaries of each Bible book. It aims to describe what the books contain and why they matter in history and culture, without asking you to agree with any religious belief.
+This guide gives short, neutral summaries of each Bible book. It aims to describe what the books contain and why they matter in history and culture, without asking readers to agree with any religious belief.
 
-If you see unfamiliar words, the [Glossary (helpful words)](glossary.md) explains common terms in simple language.
+If a word is unfamiliar, the [Glossary (helpful words)](glossary.md) explains common terms in simple language.
 
 The Christian Bible is usually divided into two big parts:
 

@@ -12,7 +12,7 @@ A woman named **Hannah** cannot have children and prays deeply for a son. She pr
 
 ### The Ark is captured and returned
 
-Israel fights the **Philistines** (a rival people). In battle, the Philistines capture the **Ark of the Covenant**, a special sacred chest that represented God’s presence with Israel. But the Philistines have problems wherever they keep it, so they send it back to Israel. This part teaches that sacred things are not magic tools you can use to win.
+Israel fights the **Philistines** (a rival people). In battle, the Philistines capture the **Ark of the Covenant**, a special sacred chest that represented God’s presence with Israel. But the Philistines have problems wherever they keep it, so they send it back to Israel. This part teaches that sacred things are not magic tools people can use to win.
 
 ### Israel asks for a king
 

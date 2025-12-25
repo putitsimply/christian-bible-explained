@@ -18,7 +18,7 @@ Because of this change, God does not destroy the city. Jonah is furious. He want
 
 The final scene is like a lesson acted out. Jonah sits outside the city, hoping to see it destroyed. A plant grows to give him shade, and Jonah is happy. Then the plant withers, and Jonah is upset again. God uses the plant to make a point: Jonah cared about a plant he did not grow and did not work for, so should he not care about a whole city full of people, including many who do not really understand right from wrong yet?
 
-The book ends with that question hanging in the air. The big idea is about **mercy**, and how hard it can be to accept mercy for people you think do not deserve it.
+The book ends with that question hanging in the air. The big idea is about **mercy**, and how hard it can be to accept mercy for enemies.
 
 ## Big ideas
 

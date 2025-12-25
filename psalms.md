@@ -19,7 +19,7 @@ The Book of Psalms is a collection of 150 poems and songs that were used in wors
 
 ### What happens across the book
 
-Even though it’s not one storyline, you can still notice a “journey” through the collection:
+Even though it’s not one storyline, it is still possible to notice a “journey” through the collection:
 
 * It begins with a focus on choosing a good path in life and trusting God.
 * Many psalms then show real struggles, fear, unfairness, enemies, sickness, loneliness, and doubt. The writers often ask, “Why is this happening?” and “How long will this last?”
@@ -27,7 +27,7 @@ Even though it’s not one storyline, you can still notice a “journey” throu
 
 ## Big ideas
 
-* **You can be honest with God**: The psalms show that faith includes joy and sadness, confidence and confusion.
+* **Honesty with God**: The psalms show that faith includes joy and sadness, confidence and confusion.
 * **God is seen as Creator and King**: Many psalms describe God as powerful, just, and caring for people.
 * **Justice matters**: Writers often ask for wrong things to be made right.
 * **Comfort and courage**: Some psalms became famous for reassurance, like Psalm 23, which pictures God as a shepherd guiding and protecting.

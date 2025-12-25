@@ -22,7 +22,7 @@ A big part of Luke is Jesus travelling, teaching, and helping people. Luke highl
 
 Luke includes many famous stories (often told as **parables**, which are teaching stories with a lesson). Some well-known parables in Luke are:
 
-* **The Good Samaritan**, about loving and helping others, even if they are different from you.
+* **The Good Samaritan**, about loving and helping others, even if they are from a different group.
 * **The Prodigal Son**, about forgiveness and second chances.
 * **The Lost Sheep and Lost Coin**, about searching for what matters.
 

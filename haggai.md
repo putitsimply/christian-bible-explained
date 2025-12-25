@@ -14,10 +14,10 @@ The story happens after many Jewish people have returned to Judah from exile in 
 
 Haggai is a prophet, meaning someone who delivers messages believed to come from God. His messages are dated very specifically and all happen within a few months.
 
-1. **“You have your houses, but God’s house is still broken”**\
+1. **Haggai challenges the people’s priorities**\
    Haggai challenges the people because they are focusing on fixing up their own homes while leaving the temple unfinished. He says this mixed-up priority is part of why things feel hard, like poor harvests and not enough resources. His point is that their choices are shaping their whole community.
 2. **The leaders and people respond and start rebuilding**\
-   Two key leaders are named: **Zerubbabel** (the governor) and **Joshua** (the high priest, meaning the main religious leader). The people listen, and the rebuilding work begins. Haggai also brings encouragement: “God is with you,” so they should not be afraid or give up.
+   Two key leaders are named: **Zerubbabel** (the governor) and **Joshua** (the high priest, meaning the main religious leader). The people listen, and the rebuilding work begins. Haggai also brings encouragement that God is with them, and urges them not to be afraid or give up.
 3. **“This new temple looks small, but do not lose heart”**\
    Some people remember the old temple and feel sad because the new one seems less impressive. Haggai tells them to keep going, and promises that the future will bring greater honour and peace than they expect.
 4. **A lesson about holiness and consequences**\
