@@ -23,6 +23,13 @@ This guide gives short, neutral summaries of each Bible book. It aims to describ
 
 If a word is unfamiliar, the [Glossary (helpful words)](glossary.md) explains common terms in simple language.
 
+## Quick links
+
+* [Find a book](find-a-book.md)
+* [Old Testament (overview)](old-testament.md)
+* [New Testament (overview)](new-testament.md)
+* [Glossary (helpful words)](glossary.md)
+
 ## How to use this guide
 
 * Start with the Testament overviews to see the “big picture” story and the main types of books.

@@ -1,5 +1,7 @@
 # Esther
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 The book of Esther is set in the Persian Empire (a huge kingdom that ruled many lands). It tells a story about danger, courage, and a surprising turn of events.

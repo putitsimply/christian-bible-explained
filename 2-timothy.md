@@ -1,5 +1,7 @@
 # 2 Timothy
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 2 Timothy is a short letter in the New Testament. It is written from the apostle[^gl_apostle] Paul to Timothy, a younger Christian leader Paul has trained. Paul is in prison again, and the letter feels personal and urgent, like a final message to someone he trusts.

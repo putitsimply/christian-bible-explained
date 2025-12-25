@@ -1,5 +1,7 @@
 # Ezra
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 Ezra tells the story of Jewish people returning to Jerusalem[^gl_jerusalem] after many years living in exile[^gl_exile] in Babylon, and trying to rebuild their community.

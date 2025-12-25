@@ -1,5 +1,7 @@
 # Zechariah
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)
+
 ## What this book is
 
 Zechariah is a book about giving hope to the Jewish people after they returned to Jerusalem[^gl_jerusalem] from exile[^gl_exile] (being forced to live away from their homeland). The city and God[^gl_god]’s temple[^gl_temple] were damaged, and the people were tired, worried, and tempted to give up rebuilding.

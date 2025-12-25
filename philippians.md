@@ -1,5 +1,7 @@
 # Philippians
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 Philippians is a short letter in the New Testament. It was written by Paul (a Christian leader and missionary) to the Christians in a city called Philippi. Paul is writing while he is in prison, but the letter is surprisingly positive and hopeful.

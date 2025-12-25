@@ -1,5 +1,7 @@
 # 1 Timothy
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 1 Timothy is a letter in the New Testament. It is written like advice from an older Christian leader (Paul) to a younger leader (Timothy), who is helping run a local church[^gl_church], traditionally linked to the city of Ephesus.

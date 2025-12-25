@@ -1,5 +1,7 @@
 # Isaiah
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Major prophets](ot-major-prophets.md)
+
 ## What this book is
 
 Isaiah is a long book made up of messages, poems, and visions linked to a prophet[^gl_prophet] named Isaiah. A prophet is someone people believed was chosen to deliver God[^gl_god]’s message. Most of Isaiah speaks to the kingdom of Judah[^gl_judah] (where Jerusalem[^gl_jerusalem] is), during a time when powerful empires threatened them and many leaders were being unfair.

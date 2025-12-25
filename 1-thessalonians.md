@@ -1,5 +1,7 @@
 # 1 Thessalonians
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 1 Thessalonians is a short letter in the New Testament. It was written by Paul, along with his co-workers Silas and Timothy, to a group of Christians in a city called Thessalonica (in ancient Greece).

@@ -1,5 +1,7 @@
 # Galatians
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 Galatians is a letter written by Paul (a Christian missionary) to several church[^gl_church] groups in a region called Galatia. He writes because a serious argument has started about what makes someone part of God[^gl_god]’s people.

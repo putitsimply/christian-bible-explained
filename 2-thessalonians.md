@@ -1,5 +1,7 @@
 # 2 Thessalonians
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 2 Thessalonians is a short letter in the New Testament that is written to a group of Christians in the city of Thessalonica (in ancient Greece). Traditionally, it is linked to Paul, a Christian leader and missionary, writing with his co-workers. The letter is mainly about two things: encouraging people who are suffering, and correcting confusion about the future.

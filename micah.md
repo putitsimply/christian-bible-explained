@@ -1,5 +1,7 @@
 # Micah
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)
+
 ## What this book is
 
 The book of Micah is a short book in the Old Testament. It is written like a set of speeches from Micah, a prophet[^gl_prophet] (someone who speaks God[^gl_god]’s message) to the people of Israel[^gl_israel] and Judah[^gl_judah]. Micah’s main theme is this: God cares deeply about justice, and he also promises hope after punishment.

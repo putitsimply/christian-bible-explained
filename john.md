@@ -1,5 +1,7 @@
 # John
 
+*Where this book fits:* [New Testament](new-testament.md) → [Gospels](nt-gospels.md)
+
 ## What this book is
 
 The book of John is one of the four Gospels[^gl_gospel], the books that tell the story of Jesus’ life. John’s Gospel is written to help readers understand who Jesus is, and why trusting him matters.

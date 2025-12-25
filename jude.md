@@ -1,5 +1,7 @@
 # Jude
 
+*Where this book fits:* [New Testament](new-testament.md) → [Other letters](nt-other-letters.md)
+
 ## What this book is
 
 The book of Jude is a very short letter near the end of the New Testament. It is written to Christians in general, not to one specific church[^gl_church].

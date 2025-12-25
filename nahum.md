@@ -1,5 +1,7 @@
 # Nahum
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)
+
 ## What this book is
 
 Nahum is a short book in the Old Testament. It is mainly about one thing: the coming fall of **Nineveh**, the capital city of **Assyria**.

@@ -1,5 +1,7 @@
 # Matthew
 
+*Where this book fits:* [New Testament](new-testament.md) → [Gospels](nt-gospels.md)
+
 ## What this book is
 
 The book of Matthew is one of the four Gospels[^gl_gospel], which are books that tell the story of Jesus’ life, teaching, and death, and (in Christian belief) his resurrection[^gl_resurrection]. Matthew is organised like a biography mixed with lots of teaching.

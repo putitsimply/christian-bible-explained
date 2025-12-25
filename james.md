@@ -1,5 +1,7 @@
 # James
 
+*Where this book fits:* [New Testament](new-testament.md) → [Other letters](nt-other-letters.md)
+
 ## What this book is
 
 The book of James is a short letter in the New Testament that focuses on how faith[^gl_faith] should show up in everyday life. It is much more about practical actions than deep arguments.

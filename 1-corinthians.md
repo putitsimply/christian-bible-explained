@@ -1,5 +1,7 @@
 # 1 Corinthians
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 1 Corinthians is a letter written by Paul (a key early Christian leader) to a Christian community in the city of Corinth. The church[^gl_church] there had lots of problems, and Paul writes to correct them and help them live together well.

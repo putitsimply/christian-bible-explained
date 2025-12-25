@@ -1,5 +1,7 @@
 # Habakkuk
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)
+
 ## What this book is
 
 Habakkuk is a short book that reads like a tough conversation between a prophet[^gl_prophet] (Habakkuk) and God[^gl_god]. Instead of mainly speaking to the people, Habakkuk talks to God about a big question: “Why is there so much unfairness, and why does God seem to allow it?”

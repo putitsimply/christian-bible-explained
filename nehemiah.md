@@ -1,5 +1,7 @@
 # Nehemiah
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 Nehemiah is set after many Jewish people had been taken away from Jerusalem[^gl_jerusalem] to live in Babylon. This time away from their homeland is often called the exile[^gl_exile], which means being forced to live somewhere else. Later, the Persian Empire took control, and some Jewish people were allowed to return to Jerusalem. The city existed again, but its protective walls were still broken down, which made it unsafe and embarrassing for a city that was meant to be rebuilt.

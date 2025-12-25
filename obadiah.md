@@ -1,5 +1,7 @@
 # Obadiah
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets[^gl_prophet]](ot-minor-prophets.md)
+
 ## What this book is
 
 Obadiah is the shortest book in the Old Testament, only 21 verses. It is written like a strong message against a neighbouring nation called **Edom**. Edom is criticised for how it treated Judah[^gl_judah] when Jerusalem[^gl_jerusalem] was attacked.
@@ -24,6 +26,8 @@ One thing that makes Obadiah interesting is that it connects a local conflict (J
 * Pride and gloating over others’ suffering are treated as serious moral failures.
 * Being a “neighbour” includes responsibility: doing nothing in a crisis can still be wrong.
 * The book combines judgement language with hope that injustice does not have the last word.
+
+[^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
 
 [^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem. ([Glossary](glossary.md#judah))
 

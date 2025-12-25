@@ -1,5 +1,7 @@
 # Job
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Poetry and wisdom](ot-wisdom.md)
+
 ## What this book is
 
 The book of Job is a story that explores a big question: why do bad things happen to good people?

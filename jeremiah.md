@@ -1,5 +1,7 @@
 # Jeremiah
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Major prophets](ot-major-prophets.md)
+
 ## What this book is
 
 Jeremiah is a long book about a prophet[^gl_prophet] named Jeremiah, who lives in Judah[^gl_judah] (the southern kingdom, where Jerusalem[^gl_jerusalem] is). God[^gl_god] tells Jeremiah to warn the people and their leaders that they are heading for disaster because they have turned away from God, treated others unfairly, and trusted in things like political deals, money, and even the Temple[^gl_temple] building itself as if it were a “good luck charm.”

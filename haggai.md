@@ -1,5 +1,7 @@
 # Haggai
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)
+
 ## What this book is
 
 Haggai is a short book about getting people to restart a stalled project: rebuilding God[^gl_god]’s temple[^gl_temple] in Jerusalem[^gl_jerusalem].

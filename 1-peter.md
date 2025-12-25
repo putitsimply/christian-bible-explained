@@ -1,5 +1,7 @@
 # 1 Peter
 
+*Where this book fits:* [New Testament](new-testament.md) → [Other letters](nt-other-letters.md)
+
 ## What this book is
 
 1 Peter is a letter in the New Testament. It is written to groups of Christians living in different parts of the Roman Empire who were feeling pressured, misunderstood, or treated badly because of their beliefs.

@@ -1,5 +1,7 @@
 # Romans
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 Romans is a letter in the New Testament written by Paul (a Christian leader and missionary) to the Christian community in Rome. It is not a story like the Gospels[^gl_gospel]. It is more like a carefully argued explanation of what Paul thinks the Christian message means and how it should change people’s lives.

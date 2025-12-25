@@ -1,5 +1,7 @@
 # Titus
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 The book of **Titus** is a short letter in the New Testament. It is traditionally understood as a letter from **Paul** (an early Christian leader) to **Titus**, a co-worker who has been left on the island of **Crete** to help organise Christian communities there.

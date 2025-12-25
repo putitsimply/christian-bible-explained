@@ -1,5 +1,7 @@
 # 3 John
 
+*Where this book fits:* [New Testament](new-testament.md) → [Other letters](nt-other-letters.md)
+
 ## What this book is
 
 3 John is one of the shortest books in the Christian Bible[^gl_bible]. It is a short letter, written by someone who calls himself “the elder,” which means an older leader in the Christian community. Many Christians have traditionally linked this writer with John, a major early Christian leader, but the letter itself does not fully explain who he is.

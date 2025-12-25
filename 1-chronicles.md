@@ -1,5 +1,7 @@
 # 1 Chronicles
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 1 Chronicles mostly retells Israel[^gl_israel]’s history with a strong focus on King David and on worship[^gl_worship] at the temple[^gl_temple]. It is written from the point of view of people looking back, probably after many Israelites had returned from exile[^gl_exile], so it highlights what they saw as most important for rebuilding their community.

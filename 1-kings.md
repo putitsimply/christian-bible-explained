@@ -1,5 +1,7 @@
 # 1 Kings
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 **1 Kings** continues the story after King David and focuses on how Israel[^gl_israel] goes from being one united kingdom to being split in two, mainly because of leadership choices and people turning away from God[^gl_god].

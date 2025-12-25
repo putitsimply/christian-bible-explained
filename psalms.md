@@ -1,5 +1,7 @@
 # Psalms
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Poetry and wisdom](ot-wisdom.md)
+
 ## What this book is
 
 The Book of Psalms is a collection of 150 poems and songs that were used in worship[^gl_worship] and private prayer[^gl_prayer] in ancient Israel[^gl_israel]. Instead of telling one single story from start to finish, it’s more like a songbook or prayer journal that covers lots of different life situations.

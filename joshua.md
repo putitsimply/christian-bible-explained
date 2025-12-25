@@ -1,5 +1,7 @@
 # Joshua
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 The book of Joshua is the story of what happens after Moses dies, when the Israelites[^gl_israel] are about to enter the land of Canaan (often called the “Promised Land” because of an earlier promise to Abraham’s family).

@@ -1,5 +1,7 @@
 # Lamentations
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Major prophets](ot-major-prophets.md)
+
 ## What this book is
 
 Lamentations is a short book made up of five sad poems. It describes the grief and shock people felt after Jerusalem[^gl_jerusalem] was destroyed and the temple[^gl_temple] was burned, which Christians and Jews connect with the Babylonian attack (often dated around 586 BC).

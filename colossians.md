@@ -1,5 +1,7 @@
 # Colossians
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 Colossians is a letter in the New Testament. It is traditionally linked to Paul (a Christian leader and missionary), writing to a church[^gl_church] in a town called Colossae. The main reason for the letter is that the Christians there were being confused by teachings that mixed Christianity with other ideas and rules, as if Jesus was not enough.

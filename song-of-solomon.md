@@ -1,5 +1,7 @@
 # Song of Solomon
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Poetry and wisdom](ot-wisdom.md)
+
 ## What this book is
 
 Song of Solomon, also called Song of Songs, is a book of poetry about love. It is not a story with battles or kings. Instead, it is a set of love poems where different voices speak, mainly a young woman and a young man, and sometimes a group called “friends” or “daughters of Jerusalem[^gl_jerusalem]” (like a chorus in a play).

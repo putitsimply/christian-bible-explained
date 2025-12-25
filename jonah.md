@@ -1,5 +1,7 @@
 # Jonah
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)
+
 ## What this book is
 
 Jonah is a short story about a prophet[^gl_prophet] (a messenger who says they are speaking for God[^gl_god]) who gets told to do something he really does not want to do.

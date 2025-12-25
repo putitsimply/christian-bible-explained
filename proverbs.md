@@ -1,5 +1,7 @@
 # Proverbs
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Poetry and wisdom](ot-wisdom.md)
+
 ## What this book is
 
 Proverbs is a book of short teachings that aim to train people to live wisely. It is not written as one long story, it is more like a collection of guidance sayings and poems, mostly connected with King Solomon (known in the Bible[^gl_bible] as a wise king), plus some sayings from other teachers.

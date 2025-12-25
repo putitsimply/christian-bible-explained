@@ -1,5 +1,7 @@
 # Revelation
 
+*Where this book fits:* [New Testament](new-testament.md) → [Apocalyptic](nt-apocalyptic.md)
+
 ## What this book is
 
 Revelation is the last book of the Christian Bible[^gl_bible]. It is written like a big, strange picture book made of symbols and visions. It was written as a letter to encourage Christians who were scared or being treated badly for their faith[^gl_faith].

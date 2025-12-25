@@ -1,5 +1,7 @@
 # 2 Samuel
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 **2 Samuel** continues the story of David and shows both his best moments as a leader and his worst moral failures.

@@ -1,5 +1,7 @@
 # Hebrews
 
+*Where this book fits:* [New Testament](new-testament.md) → [Other letters](nt-other-letters.md)
+
 ## What this book is
 
 Hebrews is a New Testament book written to encourage a group of Christians who were getting tired, scared, or unsure, and were tempted to give up or go back to older religious practices. We are not certain who wrote it, and it reads more like a sermon or speech than a normal letter.

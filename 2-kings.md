@@ -1,5 +1,7 @@
 # 2 Kings
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 **2 Kings** continues the story after 1 Kings. It follows two kingdoms that used to be one nation, Israel[^gl_israel] in the north and Judah[^gl_judah] in the south. The book shows a repeating pattern: when leaders choose injustice and worship[^gl_worship] other gods, things fall apart. When they try to return to God[^gl_god]’s ways, things improve, but usually only for a while.

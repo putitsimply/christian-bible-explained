@@ -1,5 +1,7 @@
 # Ruth
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 The book of Ruth is a short story set “in the days when the judges ruled,” a time when Israel[^gl_israel] often felt chaotic and unsafe.

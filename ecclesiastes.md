@@ -1,5 +1,7 @@
 # Ecclesiastes
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Poetry and wisdom](ot-wisdom.md)
+
 ## What this book is
 
 Ecclesiastes is a short book in the Old Testament that reads like a wise teacher thinking out loud about life. The writer is often called “the Teacher” (sometimes linked with King Solomon), and the big question he explores is: What is the point of life if everything ends?

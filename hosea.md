@@ -1,5 +1,7 @@
 # Hosea
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)
+
 ## What this book is
 
 Hosea is a book where God[^gl_god] uses one prophet[^gl_prophet]’s family story as a living lesson about what was happening between God and the people of Israel[^gl_israel] (the northern kingdom).

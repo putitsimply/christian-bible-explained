@@ -1,5 +1,7 @@
 # Philemon
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 Philemon is the shortest book in the Christian Bible[^gl_bible]. It is a personal letter, not a long story with lots of scenes. Most Christians believe it was written by Paul, a Christian leader who travelled to teach about Jesus. Paul writes to a man named Philemon, who leads or hosts a Christian group that meets in his home.

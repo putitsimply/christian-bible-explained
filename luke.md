@@ -1,5 +1,7 @@
 # Luke
 
+*Where this book fits:* [New Testament](new-testament.md) → [Gospels](nt-gospels.md)
+
 ## What this book is
 
 Luke is one of the four “Gospels[^gl_gospel]” in the New Testament. A Gospel is a book that tells the story of Jesus’ life and teachings. Luke is written like a careful history for a reader called Theophilus, to help them understand what Christians believe about Jesus.

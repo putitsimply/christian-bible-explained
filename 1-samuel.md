@@ -1,5 +1,7 @@
 # 1 Samuel
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 **1 Samuel** tells the story of Israel[^gl_israel] changing from being led mainly by judges to being led by kings, and it follows three major people: **Samuel**, **Saul**, and **David**.

@@ -1,5 +1,7 @@
 # 2 Corinthians
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 2 Corinthians is a letter written by the apostle[^gl_apostle] Paul to the Christian community in the city of Corinth. It happens after 1 Corinthians, and it shows that Paul and the Corinthian church[^gl_church] have had a difficult relationship, but they are trying to repair it.

@@ -1,5 +1,7 @@
 # 2 John
 
+*Where this book fits:* [New Testament](new-testament.md) → [Other letters](nt-other-letters.md)
+
 ## What this book is
 
 2 John is a very short letter in the New Testament. It is written by someone who calls himself “the elder,” and Christians have traditionally linked him with John, one of Jesus’ closest followers.

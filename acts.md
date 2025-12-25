@@ -1,5 +1,7 @@
 # Acts
 
+*Where this book fits:* [New Testament](new-testament.md) → [History (New Testament)](nt-history.md)
+
 ## What this book is
 
 Acts is the story of what happens after Jesus’ death and (in Christian belief) his resurrection[^gl_resurrection], focusing on how his followers spread the Christian message across the Roman world. It follows a group called the apostles[^gl_apostle], meaning “sent ones,” who believed Jesus had chosen them to continue his work.

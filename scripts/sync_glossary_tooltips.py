@@ -244,7 +244,9 @@ def sync_file(
         if inserted:
             continue
 
-    used_glossary_ids = ordered_unique(used_glossary_ids)
+    # Recompute glossary footnote IDs in final appearance order (not insertion order),
+    # so re-running this script is idempotent and footnote defs follow reading order.
+    used_glossary_ids = ordered_unique(re.findall(r"\[\^(gl_[^\]]+)\]", body_text))
 
     # 4) Rebuild trailing footnote block (keep any non-glossary defs from the original file too).
     new_body_lines = body_text.splitlines()

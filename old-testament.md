@@ -19,6 +19,14 @@ layout:
 
 The Old Testament is the first big section of the Christian Bible[^gl_bible]. Many of these books are also part of Jewish scriptures[^gl_scripture] (often called the Hebrew Bible), though the order and naming can differ. The Old Testament tells a long story about God[^gl_god], the world, and the people of Israel[^gl_israel], across many centuries. It is made up of different kinds of writing, like stories, laws, poems, prayers[^gl_prayer], proverbs, and messages from prophets[^gl_prophet].
 
+## Explore in this guide
+
+* [The Law (Torah[^gl_torah])](ot-law.md)
+* [History (Old Testament)](ot-history.md)
+* [Poetry and wisdom](ot-wisdom.md)
+* [Major prophets](ot-major-prophets.md)
+* [Minor prophets](ot-minor-prophets.md)
+
 It begins with the early “big picture” stories. Genesis describes God creating the world and humans, and it introduces big ideas like humans choosing right and wrong, and how broken relationships lead to conflict. It then focuses on one family, starting with Abraham, then Isaac, Jacob, and Joseph. These stories explain how the Israelites see their beginnings and their relationship with God through promises.
 
 Next comes the rescue story. In Exodus, the Israelites are enslaved in Egypt, and Moses leads them out. After this, books like Leviticus, Numbers, and Deuteronomy describe laws and instructions for living as a community. These include rules about worship[^gl_worship], justice, and caring for others, and they present the idea of a covenant[^gl_covenant], which means a serious agreement between God and the people.
@@ -42,6 +50,8 @@ Finally, books like Ezra and Nehemiah describe some Israelites returning from ex
 [^gl_prayer]: Speaking to God (silently or aloud). ([Glossary](glossary.md#prayer))
 
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
+
+[^gl_torah]: The first five Bible books; also means “instruction” or “law”. ([Glossary](glossary.md#torah))
 
 [^gl_worship]: Actions showing devotion to God (prayer, songs, rituals). ([Glossary](glossary.md#worship))
 

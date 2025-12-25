@@ -1,5 +1,7 @@
 # Judges
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 The book of Judges comes after Joshua. The Israelites[^gl_israel] are living in the land of Canaan, but they do not have a king yet. Instead, the story shows a repeated pattern where the people keep drifting away from God[^gl_god], then getting into trouble, then calling for help, then being rescued, then falling back into the same problems again.

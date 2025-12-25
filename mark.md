@@ -1,5 +1,7 @@
 # Mark
 
+*Where this book fits:* [New Testament](new-testament.md) → [Gospels](nt-gospels.md)
+
 ## What this book is
 
 The Gospel[^gl_gospel] of Mark is a story about Jesus’ life, told in a fast, action-focused way. It spends less time on long speeches and more time showing what Jesus does and how people react to him.

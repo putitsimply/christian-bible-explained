@@ -1,5 +1,7 @@
 # Deuteronomy
 
+*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah)](ot-law.md)
+
 ## What this book is
 
 Deuteronomy is the last book of the Torah[^gl_torah], the first five books of the Bible[^gl_bible]. It mainly takes place near the end of Israel[^gl_israel]’s long journey from Egypt to the edge of the Promised Land. The people are camped on the plains of Moab, just across the Jordan River, and Moses is very old. He knows he will not enter the land, so he gives a series of important speeches to prepare the next generation.

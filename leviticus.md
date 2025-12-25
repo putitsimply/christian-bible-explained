@@ -1,5 +1,7 @@
 # Leviticus
 
+*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah[^gl_torah])](ot-law.md)
+
 ## What this book is
 
 Leviticus is the third book of the Bible[^gl_bible]. It picks up straight after Exodus, when the Israelites[^gl_israel] are camped near Mount Sinai and have built the special worship[^gl_worship] tent called the tabernacle[^gl_tabernacle] (a portable “meeting place” with God[^gl_god]).
@@ -25,6 +27,8 @@ Here’s what happens, in a clear overview:
 * Holiness is about everyday behaviour, not only religious ceremonies.
 
 Leviticus has had a long influence. Later Jewish practice and later Christian teaching often look back to its ideas about sacrifice, forgiveness, and what it means to live differently from surrounding cultures.
+
+[^gl_torah]: The first five Bible books; also means “instruction” or “law”. ([Glossary](glossary.md#torah))
 
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 

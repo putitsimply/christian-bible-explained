@@ -1,5 +1,7 @@
 # Malachi
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets[^gl_prophet]](ot-minor-prophets.md)
+
 ## What this book is
 
 Malachi is the last book in the Old Testament. It is set after God[^gl_god]’s people have returned from exile[^gl_exile] in Babylon and rebuilt the temple[^gl_temple] in Jerusalem[^gl_jerusalem]. Life looks normal again, but the book says something is badly wrong underneath.
@@ -26,6 +28,8 @@ Overall, Malachi is a wake-up call: stop going through the motions, start living
 * It ends by looking ahead to future change and justice, which later readers interpret in different ways.
 
 Malachi is also about disappointment. People expected life to feel “fixed” after returning from exile[^gl_exile], but the book says that rebuilding buildings is easier than rebuilding trust, integrity, and compassion.
+
+[^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 

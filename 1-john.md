@@ -1,5 +1,7 @@
 # 1 John
 
+*Where this book fits:* [New Testament](new-testament.md) → [Other letters](nt-other-letters.md)
+
 ## What this book is
 
 **1 John** is a short letter in the New Testament. It was written to help a group of early Christians stay confident in their faith[^gl_faith] and spot misleading ideas.

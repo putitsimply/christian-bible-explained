@@ -1,5 +1,7 @@
 # Ephesians
 
+*Where this book fits:* [New Testament](new-testament.md) → [Letters (Paul)](nt-paul-letters.md)
+
 ## What this book is
 
 Ephesians is a letter in the New Testament. It is traditionally linked to the apostle[^gl_apostle] Paul and is written to help Christians understand who they are as a community and how they should live.

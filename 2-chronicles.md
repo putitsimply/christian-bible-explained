@@ -1,5 +1,7 @@
 # 2 Chronicles
 
+*Where this book fits:* [Old Testament](old-testament.md) → [History (Old Testament)](ot-history.md)
+
 ## What this book is
 
 2 Chronicles is a history-style book that retells the story of Judah[^gl_judah], the southern kingdom of Israel[^gl_israel], from Solomon’s reign through to the Babylonian exile[^gl_exile] and then a hint of return. It focuses mostly on Judah (especially Jerusalem[^gl_jerusalem] and the temple[^gl_temple]), rather than the northern kingdom (Israel).

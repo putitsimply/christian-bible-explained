@@ -1,5 +1,7 @@
 # Zephaniah
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)
+
 ## What this book is
 
 Zephaniah is a short book in the Old Testament. It is mostly a set of warnings and hopes spoken by a prophet[^gl_prophet] named Zephaniah, during the time of King Josiah in Judah[^gl_judah].

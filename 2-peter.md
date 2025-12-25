@@ -1,5 +1,7 @@
 # 2 Peter
 
+*Where this book fits:* [New Testament](new-testament.md) → [Other letters](nt-other-letters.md)
+
 ## What this book is
 
 2 Peter is a short letter in the New Testament. It is written to Christians to help them stay steady in their faith[^gl_faith], especially when confusing teaching is spreading.

@@ -1,5 +1,7 @@
 # Exodus
 
+*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah[^gl_torah])](ot-law.md)
+
 ## What this book is
 
 Exodus is the second book of the Christian Bible[^gl_bible]. It tells how the Israelites[^gl_israel] (a people group descended from Jacob’s family in Genesis) go from being slaves in Egypt to becoming a community with their own laws and a special agreement with God[^gl_god].
@@ -25,6 +27,8 @@ Finally, God gives detailed instructions for building the tabernacle[^gl_taberna
 * Freedom and identity: the story moves from slavery to becoming a community with shared laws and practices.
 * Covenant: the book centres on a serious agreement about how to live and worship.
 * Trust under pressure: fear, hunger, and conflict keep testing the people on the journey.
+
+[^gl_torah]: The first five Bible books; also means “instruction” or “law”. ([Glossary](glossary.md#torah))
 
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 

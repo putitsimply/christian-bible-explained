@@ -19,6 +19,14 @@ layout:
 
 The New Testament is the second big section of the Christian Bible[^gl_bible]. It is a collection of 27 books written in the first century, in the world of the Roman Empire. These books focus on Jesus and on the early Christian communities that formed after him.
 
+## Explore in this guide
+
+* [Gospels](nt-gospels.md)
+* [History (New Testament)](nt-history.md)
+* [Letters (Paul)](nt-paul-letters.md)
+* [Other letters](nt-other-letters.md)
+* [Apocalyptic](nt-apocalyptic.md)
+
 The New Testament grew out of a Jewish background. Many ideas and words in it connect to the Old Testament, especially themes like covenant[^gl_covenant], the temple[^gl_temple], and hopes for a coming rescuer or king (often called the Messiah[^gl_messiah]).
 
 It begins with four books called the **Gospels[^gl_gospel]**. “Gospel” means “good news.” Matthew, Mark, Luke, and John tell the story of Jesus’ life and teaching, his death by crucifixion[^gl_crucifixion], and (according to Christian belief) his resurrection[^gl_resurrection]. They overlap in many ways, but each has its own focus and style.

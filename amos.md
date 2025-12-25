@@ -1,5 +1,7 @@
 # Amos
 
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)
+
 ## What this book is
 
 Amos is a short Old Testament book where a prophet[^gl_prophet] named Amos delivers tough warnings, mainly to the northern kingdom of Israel[^gl_israel]. Amos is not described as a professional prophet. He is introduced as a shepherd and someone who cared for fig trees, coming from Judah[^gl_judah] (the southern kingdom) to speak in Israel (the north).
