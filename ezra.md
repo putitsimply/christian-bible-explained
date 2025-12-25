@@ -18,7 +18,7 @@ Local opponents try to stop the project. They pressure the builders and complain
 
 ### Part 2: Ezra helps rebuild the people
 
-Years later, another Persian king, Artaxerxes, sends Ezra to Jerusalem. Ezra is a priest[^gl_priest] and an expert teacher of God’s law, meaning the teachings and rules found in the Scriptures they had at the time.
+Years later, another Persian king, Artaxerxes, sends Ezra to Jerusalem. Ezra is a priest[^gl_priest] and an expert teacher of God’s law, meaning the teachings and rules found in the Scriptures[^gl_scripture] they had at the time.
 
 Ezra finds a serious problem. Some of the returned people, including leaders, have married people from surrounding nations and are also mixing in religious practices that Ezra believes will pull the community away from their faith[^gl_faith]. Ezra prays, mourns, and calls the people to change direction. The community agrees to deal with the situation, and the book ends with a difficult reform where many families separate from those marriages.
 
@@ -45,5 +45,7 @@ Ezra focuses on starting again after disaster, restoring worship, and rebuilding
 [^gl_passover]: A Jewish festival remembering the Exodus from Egypt. ([Glossary](glossary.md#passover))
 
 [^gl_priest]: A religious leader in ancient Israel’s worship system. ([Glossary](glossary.md#priest))
+
+[^gl_scripture]: Sacred writings (often the Bible). ([Glossary](glossary.md#scripture))
 
 [^gl_faith]: Trust; in Christianity, trusting God and Jesus. ([Glossary](glossary.md#faith))

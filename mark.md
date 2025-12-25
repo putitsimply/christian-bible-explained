@@ -28,7 +28,7 @@ In the second half of Mark, Jesus heads to Jerusalem. He predicts his suffering 
 
 **The ending**
 
-After Jesus dies, he is buried. Then, on the third day, women go to the tomb and find it empty. They are told that Jesus has been raised from the dead (which Christians believe happened), and that his followers should go on to Galilee. Some Bibles include extra verses after this point, because ancient manuscripts end Mark in more than one way.
+After Jesus dies, he is buried. Then, on the third day, women go to the tomb and find it empty. They are told that Jesus has been raised from the dead (which Christians believe happened), and that his followers should go on to Galilee. Some Bibles[^gl_bible] include extra verses after this point, because ancient manuscripts end Mark in more than one way.
 
 Overall, Mark is a fast-moving account that highlights Jesus’ actions, the growing conflict around him, and the challenge of understanding what kind of leader he is.
 
@@ -53,6 +53,8 @@ Overall, Mark is a fast-moving account that highlights Jesus’ actions, the gro
 [^gl_jerusalem]: A major city in the Bible’s story. ([Glossary](glossary.md#jerusalem))
 
 [^gl_sacrifice]: An offering given in worship (often animals in the Old Testament). ([Glossary](glossary.md#sacrifice))
+
+[^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 
 [^gl_crucifixion]: Roman execution on a cross. ([Glossary](glossary.md#crucifixion))
 

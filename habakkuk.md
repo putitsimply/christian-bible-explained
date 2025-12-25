@@ -24,7 +24,7 @@ So Habakkuk decides to “stand watch,” meaning he will wait and listen carefu
 
 God tells Habakkuk to write the message clearly so it can be shared. God explains that the proud and violent will not last, even if they seem unstoppable right now. A key idea appears here: the person who is right with God is meant to keep trusting and living faithfully, even when the world feels unfair.
 
-God then describes several “woes,” which are like warning speeches, against the Babylonians’ sins, things like greed, violence, exploitation, and worshipping human-made idols[^gl_idol]. The point is that God sees what they are doing, and they will face justice too.
+God then describes several “woes,” which are like warning speeches, against the Babylonians’ sins[^gl_sin], things like greed, violence, exploitation, and worshipping human-made idols[^gl_idol]. The point is that God sees what they are doing, and they will face justice too.
 
 ### 5) Habakkuk’s prayer[^gl_prayer] and ending: choosing trust
 
@@ -39,6 +39,8 @@ Habakkuk does not give an easy answer to suffering. It shows a person honestly w
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 
 [^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem. ([Glossary](glossary.md#judah))
+
+[^gl_sin]: Wrongdoing; in Christianity, also a broken relationship with God. ([Glossary](glossary.md#sin))
 
 [^gl_idol]: An object or false god treated as most important. ([Glossary](glossary.md#idol))
 

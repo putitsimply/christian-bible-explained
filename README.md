@@ -17,7 +17,7 @@ layout:
 ---
 # Bible[^gl_bible] overview (student guide)
 
-The Bible is a collection of many different writings that were gathered over a long period of time. It includes stories, laws, poems, prayers, wise sayings, letters, and a book full of symbols and visions. Christians treat the Bible as sacred scripture[^gl_scripture], and many parts of it are also important in Judaism.
+The Bible is a collection of many different writings that were gathered over a long period of time. It includes stories, laws, poems, prayers[^gl_prayer], wise sayings, letters, and a book full of symbols and visions. Christians treat the Bible as sacred scripture[^gl_scripture], and many parts of it are also important in Judaism.
 
 This guide gives short, neutral summaries of each Bible book. It aims to describe what the books contain and why they matter in history and culture, without asking readers to agree with any religious belief.
 
@@ -30,6 +30,8 @@ The Christian Bible is usually divided into two big parts:
 Different Christian traditions order the books differently, and some include extra books that are not in every Bible. This guide follows the 66-book ordering that is common in Protestant Bibles.
 
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
+
+[^gl_prayer]: Speaking to God (silently or aloud). ([Glossary](glossary.md#prayer))
 
 [^gl_scripture]: Sacred writings (often the Bible). ([Glossary](glossary.md#scripture))
 

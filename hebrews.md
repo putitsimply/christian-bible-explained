@@ -13,7 +13,7 @@ The big idea is: “Stick with Jesus.” The writer argues that Jesus is greater
 ### Main points, step by step
 
 1. **Jesus is “better” than earlier messengers and leaders.**\
- The writer compares Jesus to important figures and ideas from the Jewish Scriptures (like angels, Moses, and priests[^gl_priest]) and keeps saying, in effect, “Jesus is greater, so don’t walk away.”
+ The writer compares Jesus to important figures and ideas from the Jewish Scriptures[^gl_scripture] (like angels, Moses, and priests[^gl_priest]) and keeps saying, in effect, “Jesus is greater, so don’t walk away.”
 
 2. **A warning about “drifting.”**\
  The writer says people can slowly drift away if they stop paying attention and stop holding on to what they have learned. It is pictured like a boat quietly floating off course.
@@ -39,6 +39,8 @@ Hebrews finishes with encouragement, a blessing, and a few personal notes, inclu
 * The writer keeps repeating: “Stick with Jesus,” especially when people feel tired or afraid.
 * Jesus is described as greater than earlier leaders, and as someone who helps people come close to God.
 * Faith is pictured as endurance: keep going, help each other, and live wisely.
+
+[^gl_scripture]: Sacred writings (often the Bible). ([Glossary](glossary.md#scripture))
 
 [^gl_priest]: A religious leader in ancient Israel’s worship system. ([Glossary](glossary.md#priest))
 

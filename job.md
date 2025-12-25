@@ -12,7 +12,7 @@ Very quickly, Job’s life falls apart. Raiders steal his animals, a disaster ki
 
 Job’s wife tells him to give up. Three friends, Eliphaz, Bildad, and Zophar, come to comfort him. At the start they sit with him in silence, because his suffering is so intense. Then they begin a long argument.
 
-The friends believe a simple rule: if someone suffers, they must have done something wrong, and God is punishing them. They push Job to confess sins. Job strongly disagrees. He says he has tried to live rightly, and he does not understand why this is happening. Job speaks honestly about his pain, anger, and confusion. He also insists he wants God to answer him, because he feels the situation is unfair.
+The friends believe a simple rule: if someone suffers, they must have done something wrong, and God is punishing them. They push Job to confess sins[^gl_sin]. Job strongly disagrees. He says he has tried to live rightly, and he does not understand why this is happening. Job speaks honestly about his pain, anger, and confusion. He also insists he wants God to answer him, because he feels the situation is unfair.
 
 After many back-and-forth speeches, a younger man named Elihu speaks. He says the friends’ explanations are too neat, and he suggests that suffering can sometimes teach or correct people, even if it is not a direct punishment.
 
@@ -29,5 +29,7 @@ At the end, God tells Job’s three friends they were wrong to speak so confiden
 * It ends with humility: some “why” questions may not get a neat explanation.
 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
+
+[^gl_sin]: Wrongdoing; in Christianity, also a broken relationship with God. ([Glossary](glossary.md#sin))
 
 [^gl_faith]: Trust; in Christianity, trusting God and Jesus. ([Glossary](glossary.md#faith))

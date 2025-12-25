@@ -10,7 +10,7 @@
 
 The letter says that **God is “light”**, a word picture meaning God is good and truthful, not evil. The writer tells the readers to “walk in the light”, meaning to live honestly and do what is right.
 
-It says people still do wrong things, even if they believe in God. But the letter says they should **admit their sins** (wrongdoing) and trust that God forgives them. Christians believe Jesus helps repair people’s relationship with God.
+It says people still do wrong things, even if they believe in God. But the letter says they should **admit their sins[^gl_sin]** (wrongdoing) and trust that God forgives them. Christians believe Jesus helps repair people’s relationship with God.
 
 ### 2) How to tell what is true: belief and behaviour
 
@@ -46,5 +46,7 @@ The writer wants readers to feel **assurance**: confidence that they belong to G
 [^gl_faith]: Trust; in Christianity, trusting God and Jesus. ([Glossary](glossary.md#faith))
 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
+
+[^gl_sin]: Wrongdoing; in Christianity, also a broken relationship with God. ([Glossary](glossary.md#sin))
 
 [^gl_idol]: An object or false god treated as most important. ([Glossary](glossary.md#idol))

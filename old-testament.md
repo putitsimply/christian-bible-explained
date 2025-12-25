@@ -17,7 +17,7 @@ layout:
 ---
 # Old Testament
 
-The Old Testament is the first big section of the Christian Bible[^gl_bible]. Many of these books are also part of Jewish scriptures (often called the Hebrew Bible), though the order and naming can differ. The Old Testament tells a long story about God[^gl_god], the world, and the people of Israel[^gl_israel], across many centuries. It is made up of different kinds of writing, like stories, laws, poems, prayers, proverbs, and messages from prophets[^gl_prophet].
+The Old Testament is the first big section of the Christian Bible[^gl_bible]. Many of these books are also part of Jewish scriptures[^gl_scripture] (often called the Hebrew Bible), though the order and naming can differ. The Old Testament tells a long story about God[^gl_god], the world, and the people of Israel[^gl_israel], across many centuries. It is made up of different kinds of writing, like stories, laws, poems, prayers[^gl_prayer], proverbs, and messages from prophets[^gl_prophet].
 
 It begins with the early “big picture” stories. Genesis describes God creating the world and humans, and it introduces big ideas like humans choosing right and wrong, and how broken relationships lead to conflict. It then focuses on one family, starting with Abraham, then Isaac, Jacob, and Joseph. These stories explain how the Israelites see their beginnings and their relationship with God through promises.
 
@@ -33,9 +33,13 @@ Finally, books like Ezra and Nehemiah describe some Israelites returning from ex
 
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 
+[^gl_scripture]: Sacred writings (often the Bible). ([Glossary](glossary.md#scripture))
+
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
+
+[^gl_prayer]: Speaking to God (silently or aloud). ([Glossary](glossary.md#prayer))
 
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
 

@@ -18,7 +18,7 @@ Haggai is a prophet[^gl_prophet], meaning someone who delivers messages believed
  Haggai challenges the people because they are focusing on fixing up their own homes while leaving the temple unfinished. He says this mixed-up priority is part of why things feel hard, like poor harvests and not enough resources. His point is that their choices are shaping their whole community.
 
 2. **The leaders and people respond and start rebuilding**\
- Two key leaders are named: **Zerubbabel** (the governor) and **Joshua** (the high priest[^gl_high_priest], meaning the main religious leader). The people listen, and the rebuilding work begins. Haggai also brings encouragement that God is with them, and urges them not to be afraid or give up.
+ Two key leaders are named: **Zerubbabel** (the governor) and **Joshua** (the high priest[^gl_priest][^gl_high_priest], meaning the main religious leader). The people listen, and the rebuilding work begins. Haggai also brings encouragement that God is with them, and urges them not to be afraid or give up.
 
 3. **“This new temple looks small, but do not lose heart”**\
  Some people remember the old temple and feel sad because the new one seems less impressive. Haggai tells them to keep going, and promises that the future will bring greater honour and peace than they expect.
@@ -46,5 +46,7 @@ Haggai is about priorities, community responsibility, and encouragement to finis
 [^gl_worship]: Actions showing devotion to God (prayer, songs, rituals). ([Glossary](glossary.md#worship))
 
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
+
+[^gl_priest]: A religious leader in ancient Israel’s worship system. ([Glossary](glossary.md#priest))
 
 [^gl_high_priest]: The chief priest in ancient Israel’s worship system. ([Glossary](glossary.md#high-priest))

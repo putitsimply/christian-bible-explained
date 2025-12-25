@@ -13,7 +13,7 @@ The writer begins by saying that knowing God[^gl_god] should change how a person
 He also says he is reminding them of these things because he will not be around forever. He points to two main reasons they should take the message seriously:
 
 * He says the apostles[^gl_apostle] were not making up stories about Jesus, they were passing on what they believed was real.
-* He talks about the Scriptures (the holy writings) and warns people not to twist them to fit their own ideas.
+* He talks about the Scriptures[^gl_scripture] (the holy writings) and warns people not to twist them to fit their own ideas.
 
 ### 2) Beware of false teachers (chapter 2)
 
@@ -42,5 +42,7 @@ The letter finishes by saying some of Paul’s writings are hard to understand, 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 
 [^gl_apostle]: An early Christian messenger; the word means “sent one.” ([Glossary](glossary.md#apostle))
+
+[^gl_scripture]: Sacred writings (often the Bible). ([Glossary](glossary.md#scripture))
 
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))

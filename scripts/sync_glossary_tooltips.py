@@ -9,6 +9,7 @@ from pathlib import Path
 GLOSSARY_PATH = Path("glossary.md")
 MD_GLOB = "*.md"
 SKIP_FILES = {GLOSSARY_PATH.name, "AGENTS.md"}
+SKIP_FILES.add("SUMMARY.md")
 
 
 ANCHOR_HEADING_RE = re.compile(r'^##\s+<a id="(?P<id>[^"]+)"></a>(?P<title>.*)$')
@@ -31,8 +32,8 @@ GLOSSARY_FOOTNOTE_REF_RE = re.compile(r"[ \t]*\[\^gl_[^\]]+\]")
 GLOSSARY_FOOTNOTE_DEF_RE = re.compile(r"^\[\^gl_[^\]]+\]:.*\n?", re.M)
 
 
-def parse_glossary_definitions(glossary_text: str) -> dict[str, str]:
-    definitions: dict[str, str] = {}
+def parse_glossary_entries(glossary_text: str) -> dict[str, dict[str, str]]:
+    entries: dict[str, dict[str, str]] = {}
     lines = glossary_text.splitlines()
     i = 0
     while i < len(lines):
@@ -41,6 +42,7 @@ def parse_glossary_definitions(glossary_text: str) -> dict[str, str]:
             i += 1
             continue
         anchor_id = m.group("id").strip()
+        title = m.group("title").strip()
         i += 1
 
         while i < len(lines) and not lines[i].strip():
@@ -50,9 +52,43 @@ def parse_glossary_definitions(glossary_text: str) -> dict[str, str]:
 
         # Definitions in this repo are single-paragraph, single-line.
         definition_line = lines[i].strip()
-        definitions[anchor_id] = definition_line
+        entries[anchor_id] = {"title": title, "definition": definition_line}
         i += 1
-    return definitions
+    return entries
+
+
+def build_term_variants(glossary_entries: dict[str, dict[str, str]]) -> dict[str, list[str]]:
+    """
+    Build a list of term variants to match for each glossary anchor.
+
+    Variants are derived from the glossary heading title (e.g. "Israel / Israelites" -> ["Israel", "Israelites"]).
+    """
+    variants: dict[str, list[str]] = {}
+    for anchor, entry in glossary_entries.items():
+        raw_title = entry["title"].strip()
+        if not raw_title:
+            continue
+        parts = [p.strip() for p in re.split(r"\s*/\s*", raw_title) if p.strip()]
+        out: list[str] = []
+        for part in parts:
+            out.append(part)
+            lower = part.lower()
+            if lower != part and part not in {"God", "Bible", "Israel", "LORD"}:
+                out.append(lower)
+            # Add a simple plural form for single-word terms (e.g. Priest -> Priests).
+            if part.isalpha() and not part.endswith("s"):
+                out.append(part + "s")
+                if lower != part and part not in {"God", "Bible", "Israel", "LORD"}:
+                    out.append(lower + "s")
+        variants[anchor] = ordered_unique(out)
+    return variants
+
+
+def phrase_regex(phrase: str) -> re.Pattern[str]:
+    escaped = re.escape(phrase)
+    if re.match(r"^[A-Za-z0-9][A-Za-z0-9\s-]*[A-Za-z0-9]$", phrase):
+        return re.compile(rf"\b{escaped}\b")
+    return re.compile(escaped)
 
 
 def split_trailing_footnote_block(lines: list[str]) -> tuple[list[str], list[str]]:
@@ -119,7 +155,11 @@ def strip_glossary_link_titles(text: str) -> str:
     return re.sub(r'\(glossary\.md#([^\)\s]+)\s+"[^"]*"\)', r"(glossary.md#\1)", text)
 
 
-def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
+def sync_file(
+    path: Path,
+    glossary_entries: dict[str, dict[str, str]],
+    term_variants: dict[str, list[str]],
+) -> tuple[bool, str]:
     original = path.read_text(encoding="utf-8")
 
     text = original
@@ -141,7 +181,7 @@ def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
         if not stripped.startswith(":"):
             return False
         stripped = stripped[1:].strip()
-        for definition in glossary_defs.values():
+        for definition in (v["definition"] for v in glossary_entries.values()):
             if stripped == definition:
                 return True
             if stripped == f"{definition}.":
@@ -171,7 +211,7 @@ def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
     # No link on the term in content; the footnote text includes a link back to the glossary.
     def to_footnote(label: str, anchor: str) -> str:
         anchor = anchor.strip()
-        if anchor not in glossary_defs:
+        if anchor not in glossary_entries:
             return label
         if anchor in seen_anchors:
             return label
@@ -183,6 +223,27 @@ def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
     # Undo per-term-pages links (if any) back into footnote-only.
     body_text = TERM_PAGE_LINK_RE.sub(lambda m: to_footnote(m.group("label"), m.group("anchor")), body_text)
     body_text = GLOSSARY_MD_LINK_RE.sub(lambda m: to_footnote(m.group("label"), m.group("anchor")), body_text)
+    used_glossary_ids = ordered_unique(used_glossary_ids)
+
+    # Also add tooltip footnotes for glossary terms that occur without links.
+    for anchor, variants in term_variants.items():
+        if anchor in seen_anchors:
+            continue
+        footnote_id = anchor_to_glossary_fn_id(anchor)
+        inserted = False
+        for variant in variants:
+            pat = phrase_regex(variant)
+            m = pat.search(body_text)
+            if not m:
+                continue
+            body_text = body_text[: m.end()] + f"[^{footnote_id}]" + body_text[m.end() :]
+            seen_anchors.add(anchor)
+            used_glossary_ids.append(footnote_id)
+            inserted = True
+            break
+        if inserted:
+            continue
+
     used_glossary_ids = ordered_unique(used_glossary_ids)
 
     # 4) Rebuild trailing footnote block (keep any non-glossary defs from the original file too).
@@ -197,7 +258,7 @@ def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
         if footnote_id not in refs:
             continue
         anchor = footnote_id.removeprefix("gl_").replace("_", "-")
-        definition = glossary_defs.get(anchor)
+        definition = glossary_entries.get(anchor, {}).get("definition")
         if definition:
             new_defs[footnote_id] = f"{definition} ([Glossary](glossary.md#{anchor}))"
 
@@ -242,9 +303,10 @@ def main() -> int:
     args = ap.parse_args()
 
     glossary_text = GLOSSARY_PATH.read_text(encoding="utf-8")
-    glossary_defs = parse_glossary_definitions(glossary_text)
-    if not glossary_defs:
+    glossary_entries = parse_glossary_entries(glossary_text)
+    if not glossary_entries:
         raise SystemExit("No glossary definitions found in glossary.md")
+    term_variants = build_term_variants(glossary_entries)
 
     if args.files:
         paths = [Path(p) for p in args.files]
@@ -263,7 +325,7 @@ def main() -> int:
         if not path.is_file():
             continue
         before = path.read_text(encoding="utf-8")
-        changed, after = sync_file(path, glossary_defs)
+        changed, after = sync_file(path, glossary_entries, term_variants)
         if changed:
             changed_files.append(str(path))
         if not args.write:

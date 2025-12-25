@@ -14,7 +14,7 @@ Some key visions include:
 
 * **A rider patrol and a promise of comfort:** God has not forgotten Jerusalem and plans to restore it.
 * **A measuring line for Jerusalem:** The city will be rebuilt and protected.
-* **The high priest[^gl_high_priest] Joshua being cleaned up:** This is a picture of forgiveness and a fresh start for the community.
+* **The high priest[^gl_priest][^gl_high_priest] Joshua being cleaned up:** This is a picture of forgiveness and a fresh start for the community.
 * **A lampstand and two olive trees:** A message that the rebuilding will succeed, not mainly through human strength, but through God’s help.
 * **A flying scroll and a basket:** Pictures that wrongdoing will be judged and removed.
 * **Four chariots:** A sign that God’s rule reaches everywhere.
@@ -48,5 +48,7 @@ Overall, Zechariah mixes encouragement for rebuilding in the present with strong
 [^gl_temple]: The main worship building in Jerusalem in ancient Israel. ([Glossary](glossary.md#temple))
 
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
+
+[^gl_priest]: A religious leader in ancient Israel’s worship system. ([Glossary](glossary.md#priest))
 
 [^gl_high_priest]: The chief priest in ancient Israel’s worship system. ([Glossary](glossary.md#high-priest))
