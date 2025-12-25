@@ -2,17 +2,17 @@
 
 ## What this book is
 
-The book of Micah is a short book in the Old Testament. It is written like a set of speeches from Micah, a [prophet](glossary.md#prophet) [^gl_prophet] (someone who speaks [God](glossary.md#god) [^gl_god]’s message) to the people of [Israel](glossary.md#israel) [^gl_israel] and [Judah](glossary.md#judah) [^gl_judah]. Micah’s main theme is this: [God](glossary.md#god) [^gl_god] cares deeply about justice, and he also promises hope after punishment.
+The book of Micah is a short book in the Old Testament. It is written like a set of speeches from Micah, a <a href="glossary.md#prophet" title="A person who speaks messages they believe come from God.">prophet</a> (someone who speaks <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>’s message) to the people of <a href="glossary.md#israel" title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israel</a> and <a href="glossary.md#judah" title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</a>. Micah’s main theme is this: <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> cares deeply about justice, and he also promises hope after punishment.
 
 ## What it contains
 
-Micah begins by saying that serious trouble is coming because the people have been unfaithful and unfair. He points to big problems like worshipping other gods, cheating, and using power to hurt others. He especially criticises wealthy landowners who take property from families, and leaders and judges who accept bribes. Micah says this kind of society is the opposite of what [God](glossary.md#god) [^gl_god] wants.
+Micah begins by saying that serious trouble is coming because the people have been unfaithful and unfair. He points to big problems like worshipping other gods, cheating, and using power to hurt others. He especially criticises wealthy landowners who take property from families, and leaders and judges who accept bribes. Micah says this kind of society is the opposite of what <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> wants.
 
-Micah warns that these wrong choices will lead to disaster. He predicts that Samaria (the capital of the northern kingdom of [Israel](glossary.md#israel) [^gl_israel]) will fall. He also warns [Jerusalem](glossary.md#jerusalem) [^gl_jerusalem] (in the southern kingdom of [Judah](glossary.md#judah) [^gl_judah]) that it is not safe just because it has the [temple](glossary.md#temple) [^gl_temple]. In other words, Micah argues that religious buildings and rituals do not “cancel out” injustice.
+Micah warns that these wrong choices will lead to disaster. He predicts that Samaria (the capital of the northern kingdom of <a href="glossary.md#israel" title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israel</a>) will fall. He also warns <a href="glossary.md#jerusalem" title="A major city in the Bible’s story.">Jerusalem</a> (in the southern kingdom of <a href="glossary.md#judah" title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</a>) that it is not safe just because it has the <a href="glossary.md#temple" title="The main worship building in Jerusalem in ancient Israel.">temple</a>. In other words, Micah argues that religious buildings and rituals do not “cancel out” injustice.
 
-In the middle of the book, Micah includes a famous summary of what [God](glossary.md#god) [^gl_god] wants from people. Instead of piles of [sacrifices](glossary.md#sacrifice) [^gl_sacrifice], Micah says the important things are to act fairly, love kindness (meaning loyal care for others), and live humbly with [God](glossary.md#god) [^gl_god]. This is one of the clearest “what does a good life look like?” statements in the [Bible](glossary.md#bible) [^gl_bible].
+In the middle of the book, Micah includes a famous summary of what <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> wants from people. Instead of piles of <a href="glossary.md#sacrifice" title="An offering given in worship (often animals in the Old Testament).">sacrifices</a>, Micah says the important things are to act fairly, love kindness (meaning loyal care for others), and live humbly with <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>. This is one of the clearest “what does a good life look like?” statements in the <a href="glossary.md#bible" title="Christian sacred writings: many books and types of writing.">Bible</a>.
 
-Micah also contains strong messages of hope. He says that after judgment, [God](glossary.md#god) [^gl_god] will bring restoration. He describes a future where people from many nations learn [God](glossary.md#god) [^gl_god]’s ways, and where there is real peace, pictured as people living safely and not training for war anymore. He talks about a “remnant,” meaning a smaller group of survivors who remain faithful and are renewed.
+Micah also contains strong messages of hope. He says that after judgment, <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> will bring restoration. He describes a future where people from many nations learn <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>’s ways, and where there is real peace, pictured as people living safely and not training for war anymore. He talks about a “remnant,” meaning a smaller group of survivors who remain faithful and are renewed.
 
 One well known part of Micah is a promise about a future ruler coming from Bethlehem. Christians later connect this to Jesus, while Jewish readers may understand it as hope for a future David-like king who would lead with justice.
 
@@ -20,24 +20,6 @@ So overall, Micah is a mix of warning and comfort: it condemns corruption and cr
 
 ## Big ideas
 
-* Justice is not optional: [worship](glossary.md#worship) [^gl_worship] without fairness is criticised strongly.
+* Justice is not optional: <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> without fairness is criticised strongly.
 * The book mixes warning (consequences) with hope (restoration after disaster).
 * Different communities connect the “future ruler” passage to different expectations.
-
-[^gl_prophet]: A person who speaks messages they believe come from God.
-
-[^gl_god]: The main divine being in Judaism and Christianity.
-
-[^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
-
-[^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem.
-
-[^gl_jerusalem]: A major city in the Bible’s story.
-
-[^gl_temple]: The main worship building in Jerusalem in ancient Israel.
-
-[^gl_sacrifice]: An offering given in worship (often animals in the Old Testament).
-
-[^gl_bible]: Christian sacred writings: many books and types of writing.
-
-[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals).

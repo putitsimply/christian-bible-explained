@@ -2,58 +2,40 @@
 
 ## What this book is
 
-1 Chronicles mostly retells [Israel](glossary.md#israel) [^gl_israel]’s history with a strong focus on King David and on [worship](glossary.md#worship) [^gl_worship] at the [temple](glossary.md#temple) [^gl_temple]. It is written from the point of view of people looking back, probably after many [Israelites](glossary.md#israel) [^gl_israel] had returned from [exile](glossary.md#exile) [^gl_exile], so it highlights what they saw as most important for rebuilding their community.
+1 Chronicles mostly retells <a href="glossary.md#israel" title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israel</a>’s history with a strong focus on King David and on <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> at the <a href="glossary.md#temple" title="The main worship building in Jerusalem in ancient Israel.">temple</a>. It is written from the point of view of people looking back, probably after many <a href="glossary.md#israel" title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israelites</a> had returned from <a href="glossary.md#exile" title="Being forced to live away from one’s homeland.">exile</a>, so it highlights what they saw as most important for rebuilding their community.
 
 ## What it contains
 
 **1. Big family lists (genealogies)**
 
-The book begins with long lists of names, tracing family lines from Adam through [Israel](glossary.md#israel) [^gl_israel] (Jacob) and then through the tribes, especially [Judah](glossary.md#judah) [^gl_judah], Levi, and the family of David.
+The book begins with long lists of names, tracing family lines from Adam through <a href="glossary.md#israel" title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israel</a> (Jacob) and then through the tribes, especially <a href="glossary.md#judah" title="The southern kingdom in the Old Testament; capital Jerusalem.">Judah</a>, Levi, and the family of David.
 
-These lists are not just “boring names”, they show who belongs to [Israel](glossary.md#israel) [^gl_israel], where they came from, and which families had special roles, like [priests](glossary.md#priest) [^gl_priest] and [temple](glossary.md#temple) [^gl_temple] workers.
+These lists are not just “boring names”, they show who belongs to <a href="glossary.md#israel" title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israel</a>, where they came from, and which families had special roles, like <a href="glossary.md#priest" title="A religious leader in ancient Israel’s worship system.">priests</a> and <a href="glossary.md#temple" title="The main worship building in Jerusalem in ancient Israel.">temple</a> workers.
 
 **2. Saul’s ending**
 
-After the family records, the story jumps to King Saul. It briefly explains Saul’s death in battle and says his downfall was connected to unfaithfulness, including seeking guidance the wrong way instead of seeking [God](glossary.md#god) [^gl_god].
+After the family records, the story jumps to King Saul. It briefly explains Saul’s death in battle and says his downfall was connected to unfaithfulness, including seeking guidance the wrong way instead of seeking <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>.
 
 **3. David becomes king and unites the nation**
 
-David is shown becoming king over all [Israel](glossary.md#israel) [^gl_israel]. He captures [Jerusalem](glossary.md#jerusalem) [^gl_jerusalem] (also called Zion in this context) and makes it his capital. David gathers supporters and builds a strong leadership team.
+David is shown becoming king over all <a href="glossary.md#israel" title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israel</a>. He captures <a href="glossary.md#jerusalem" title="A major city in the Bible’s story.">Jerusalem</a> (also called Zion in this context) and makes it his capital. David gathers supporters and builds a strong leadership team.
 
-**4. The ark is brought to [Jerusalem](glossary.md#jerusalem) [^gl_jerusalem]**
+**4. The ark is brought to <a href="glossary.md#jerusalem" title="A major city in the Bible’s story.">Jerusalem</a>**
 
-A major part of the book is about moving the ark of the [covenant](glossary.md#covenant) [^gl_covenant], a sacred chest that represented [God](glossary.md#god) [^gl_god]’s presence for [Israel](glossary.md#israel) [^gl_israel]. The first attempt goes wrong because it is handled in an unsafe way and someone dies. David then does it again the proper way, with Levites carrying it as instructed, and there is a huge celebration with music and singing.
+A major part of the book is about moving the ark of the <a href="glossary.md#covenant" title="A serious promise-based relationship.">covenant</a>, a sacred chest that represented <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>’s presence for <a href="glossary.md#israel" title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israel</a>. The first attempt goes wrong because it is handled in an unsafe way and someone dies. David then does it again the proper way, with Levites carrying it as instructed, and there is a huge celebration with music and singing.
 
-**5. [God](glossary.md#god) [^gl_god]’s promise to David**
+**5. <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>’s promise to David**
 
-David wants to build a [temple](glossary.md#temple) [^gl_temple], but he is told he will not be the one to build it. Instead, [God](glossary.md#god) [^gl_god] promises that David’s family line will continue, and that his son will build the [temple](glossary.md#temple) [^gl_temple]. This promise becomes a key theme for later biblical writings.
+David wants to build a <a href="glossary.md#temple" title="The main worship building in Jerusalem in ancient Israel.">temple</a>, but he is told he will not be the one to build it. Instead, <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> promises that David’s family line will continue, and that his son will build the <a href="glossary.md#temple" title="The main worship building in Jerusalem in ancient Israel.">temple</a>. This promise becomes a key theme for later biblical writings.
 
 **6. David’s victories and leadership**
 
 The book describes David’s military successes, his officials, and how he organised the nation.
 
-**7. Preparing for the [temple](glossary.md#temple) [^gl_temple]**
+**7. Preparing for the <a href="glossary.md#temple" title="The main worship building in Jerusalem in ancient Israel.">temple</a>**
 
-Even though David will not build the [temple](glossary.md#temple) [^gl_temple] himself, he does major preparation. He collects materials, organises [priests](glossary.md#priest) [^gl_priest] and Levites into groups for [worship](glossary.md#worship) [^gl_worship] and service, sets up musicians, and gives Solomon plans and support.
+Even though David will not build the <a href="glossary.md#temple" title="The main worship building in Jerusalem in ancient Israel.">temple</a> himself, he does major preparation. He collects materials, organises <a href="glossary.md#priest" title="A religious leader in ancient Israel’s worship system.">priests</a> and Levites into groups for <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> and service, sets up musicians, and gives Solomon plans and support.
 
 ## Big ideas
 
-* Compared with Samuel and Kings, 1 Chronicles leaves out some of David’s worst mistakes and focuses more on [worship](glossary.md#worship) [^gl_worship], the [temple](glossary.md#temple) [^gl_temple], and the hope of a restored community.
-
-[^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
-
-[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals).
-
-[^gl_temple]: The main worship building in Jerusalem in ancient Israel.
-
-[^gl_exile]: Being forced to live away from one’s homeland.
-
-[^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem.
-
-[^gl_priest]: A religious leader in ancient Israel’s worship system.
-
-[^gl_god]: The main divine being in Judaism and Christianity.
-
-[^gl_jerusalem]: A major city in the Bible’s story.
-
-[^gl_covenant]: A serious promise-based relationship.
+* Compared with Samuel and Kings, 1 Chronicles leaves out some of David’s worst mistakes and focuses more on <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a>, the <a href="glossary.md#temple" title="The main worship building in Jerusalem in ancient Israel.">temple</a>, and the hope of a restored community.

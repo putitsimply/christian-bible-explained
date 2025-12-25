@@ -2,42 +2,22 @@
 
 ## What this book is
 
-Leviticus is the third book of the [Bible](glossary.md#bible) [^gl_bible]. It picks up straight after Exodus, when the [Israelites](glossary.md#israel) [^gl_israel] are camped near Mount Sinai and have built the special [worship](glossary.md#worship) [^gl_worship] tent called the [tabernacle](glossary.md#tabernacle) [^gl_tabernacle] (a portable “meeting place” with [God](glossary.md#god) [^gl_god]).
+Leviticus is the third book of the <a href="glossary.md#bible" title="Christian sacred writings: many books and types of writing.">Bible</a>. It picks up straight after Exodus, when the <a href="glossary.md#israel" title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israelites</a> are camped near Mount Sinai and have built the special <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> tent called the <a href="glossary.md#tabernacle" title="A portable worship tent used by the Israelites.">tabernacle</a> (a portable “meeting place” with <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>).
 
-Most of Leviticus is not a story with lots of action. It is mainly a set of instructions. These instructions are meant to teach the [Israelites](glossary.md#israel) [^gl_israel] how to [worship](glossary.md#worship) [^gl_worship], how to live as a community, and how to stay “holy,” meaning set apart for [God](glossary.md#god) [^gl_god] in the way they behave.
+Most of Leviticus is not a story with lots of action. It is mainly a set of instructions. These instructions are meant to teach the <a href="glossary.md#israel" title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israelites</a> how to <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a>, how to live as a community, and how to stay “holy,” meaning set apart for <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> in the way they behave.
 
 ## What it contains
 
 Here’s what happens, in a clear overview:
 
-* **Rules for offerings and [sacrifices](glossary.md#sacrifice) [^gl_sacrifice] (Leviticus 1 to 7):** [God](glossary.md#god) [^gl_god] gives Moses instructions for different kinds of offerings. Some are about saying sorry for wrongdoing, some are about thankfulness, and some are about showing devotion. The idea is that [worship](glossary.md#worship) [^gl_worship] is serious and needs care, not shortcuts.
-* **[Priests](glossary.md#priest) [^gl_priest] begin their work (Leviticus 8 to 10):** Moses sets apart Aaron (Moses’ brother) and Aaron’s sons as [priests](glossary.md#priest) [^gl_priest], meaning their job is to lead [worship](glossary.md#worship) [^gl_worship] and help the people follow these rules. A dramatic moment happens when two of Aaron’s sons disobey the [worship](glossary.md#worship) [^gl_worship] instructions, and they die. The message is that the [priest](glossary.md#priest) [^gl_priest] role is not casual.
-* **Clean and unclean (Leviticus 11 to 15):** The book explains many “clean” and “unclean” rules. These include food laws, health issues, and bodily conditions. “Unclean” here usually does not mean “dirty” in a modern insult sense. It means someone cannot take part in [worship](glossary.md#worship) [^gl_worship] for a time, often for safety, health, or symbolic reasons.
-* **The Day of [Atonement](glossary.md#atonement) [^gl_atonement] (Leviticus 16):** This is a major yearly ceremony. “[Atonement](glossary.md#atonement) [^gl_atonement]” means making things right after wrongdoing. The [high priest](glossary.md#high-priest) [^gl_high_priest] performs special rituals asking for forgiveness for the whole community.
-* **How to live a holy life (Leviticus 17 to 27):** These chapters include rules about justice, honesty, kindness to the poor, sexual behaviour, and not copying harmful practices from surrounding nations. It also includes special festivals and rest days, including the [Sabbath](glossary.md#sabbath) [^gl_sabbath] and a “Jubilee” system where land and debts were meant to be reset over time.
+* **Rules for offerings and <a href="glossary.md#sacrifice" title="An offering given in worship (often animals in the Old Testament).">sacrifices</a> (Leviticus 1 to 7):** <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> gives Moses instructions for different kinds of offerings. Some are about saying sorry for wrongdoing, some are about thankfulness, and some are about showing devotion. The idea is that <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> is serious and needs care, not shortcuts.
+* **<a href="glossary.md#priest" title="A religious leader in ancient Israel’s worship system.">Priests</a> begin their work (Leviticus 8 to 10):** Moses sets apart Aaron (Moses’ brother) and Aaron’s sons as <a href="glossary.md#priest" title="A religious leader in ancient Israel’s worship system.">priests</a>, meaning their job is to lead <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> and help the people follow these rules. A dramatic moment happens when two of Aaron’s sons disobey the <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> instructions, and they die. The message is that the <a href="glossary.md#priest" title="A religious leader in ancient Israel’s worship system.">priest</a> role is not casual.
+* **Clean and unclean (Leviticus 11 to 15):** The book explains many “clean” and “unclean” rules. These include food laws, health issues, and bodily conditions. “Unclean” here usually does not mean “dirty” in a modern insult sense. It means someone cannot take part in <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> for a time, often for safety, health, or symbolic reasons.
+* **The Day of <a href="glossary.md#atonement" title="Making things right after wrongdoing; linked to forgiveness.">Atonement</a> (Leviticus 16):** This is a major yearly ceremony. “<a href="glossary.md#atonement" title="Making things right after wrongdoing; linked to forgiveness.">Atonement</a>” means making things right after wrongdoing. The <a href="glossary.md#high-priest" title="The chief priest in ancient Israel’s worship system.">high priest</a> performs special rituals asking for forgiveness for the whole community.
+* **How to live a holy life (Leviticus 17 to 27):** These chapters include rules about justice, honesty, kindness to the poor, sexual behaviour, and not copying harmful practices from surrounding nations. It also includes special festivals and rest days, including the <a href="glossary.md#sabbath" title="A weekly rest day in Judaism (also in some Christianity).">Sabbath</a> and a “Jubilee” system where land and debts were meant to be reset over time.
 
 ## Big ideas
 
-* [Worship](glossary.md#worship) [^gl_worship] is treated as serious and careful, not casual.
+* <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">Worship</a> is treated as serious and careful, not casual.
 * Community life matters: the rules include justice, honesty, and protection for vulnerable people.
 * Holiness is about everyday behaviour, not only religious ceremonies.
-
-[^gl_bible]: Christian sacred writings: many books and types of writing.
-
-[^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
-
-[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals).
-
-[^gl_tabernacle]: A portable worship tent used by the Israelites.
-
-[^gl_god]: The main divine being in Judaism and Christianity.
-
-[^gl_sacrifice]: An offering given in worship (often animals in the Old Testament).
-
-[^gl_priest]: A religious leader in ancient Israel’s worship system.
-
-[^gl_atonement]: Making things right after wrongdoing; linked to forgiveness.
-
-[^gl_high_priest]: The chief priest in ancient Israel’s worship system.
-
-[^gl_sabbath]: A weekly rest day in Judaism (also in some Christianity).

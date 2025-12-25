@@ -2,37 +2,25 @@
 
 ## What this book is
 
-Malachi is the last book in the Old Testament. It is set after [God](glossary.md#god) [^gl_god]’s people have returned from [exile](glossary.md#exile) [^gl_exile] in Babylon and rebuilt the [temple](glossary.md#temple) [^gl_temple] in [Jerusalem](glossary.md#jerusalem) [^gl_jerusalem]. Life looks normal again, but the book says something is badly wrong underneath.
+Malachi is the last book in the Old Testament. It is set after <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>’s people have returned from <a href="glossary.md#exile" title="Being forced to live away from one’s homeland.">exile</a> in Babylon and rebuilt the <a href="glossary.md#temple" title="The main worship building in Jerusalem in ancient Israel.">temple</a> in <a href="glossary.md#jerusalem" title="A major city in the Bible’s story.">Jerusalem</a>. Life looks normal again, but the book says something is badly wrong underneath.
 
 ## What it contains
 
-Malachi is written like a series of arguments between [God](glossary.md#god) [^gl_god] and the people. [God](glossary.md#god) [^gl_god] makes a point, the people ask “How?” or “What do you mean?”, then [God](glossary.md#god) [^gl_god] answers.
+Malachi is written like a series of arguments between <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> and the people. <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> makes a point, the people ask “How?” or “What do you mean?”, then <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> answers.
 
 Here is what happens, step by step:
 
-* **[God](glossary.md#god) [^gl_god] says he still loves his people.** The people act like that is not true, because they think life is unfair. [God](glossary.md#god) [^gl_god] reminds them that he has stayed faithful to them across history.
-* **[God](glossary.md#god) [^gl_god] challenges the [priests](glossary.md#priest) [^gl_priest] and [temple](glossary.md#temple) [^gl_temple] [worship](glossary.md#worship) [^gl_worship].** The [priests](glossary.md#priest) [^gl_priest] are meant to lead [worship](glossary.md#worship) [^gl_worship] and teach what is right. Instead, they accept poor animal offerings and treat [worship](glossary.md#worship) [^gl_worship] like a chore. [God](glossary.md#god) [^gl_god] says this is disrespectful, because offerings were meant to show honour and gratitude.
-* **[God](glossary.md#god) [^gl_god] warns about unfairness and unfaithfulness.** Malachi speaks against people who lie, cheat workers, and take advantage of others. He also criticises faithlessness in family life, especially men treating marriage casually and abandoning their wives. The book links faithfulness to [God](glossary.md#god) [^gl_god] with faithfulness in everyday relationships.
-* **The people complain that doing the right thing seems pointless.** Some say, “Bad people seem to do fine, so why bother obeying [God](glossary.md#god) [^gl_god]?” Malachi says [God](glossary.md#god) [^gl_god] sees what is happening and that justice will come, even if it feels slow. A “book of remembrance” is mentioned as a picture of [God](glossary.md#god) [^gl_god] not forgetting those who try to live faithfully.
-* **[God](glossary.md#god) [^gl_god] calls the people back to wholehearted commitment.** This includes honesty in [worship](glossary.md#worship) [^gl_worship] and generosity. A famous part is about “tithes” (regular giving to support the [temple](glossary.md#temple) [^gl_temple] and the needy). The message is that trust in [God](glossary.md#god) [^gl_god] should show up in practical choices.
-* **Promise of a coming messenger and a future day of justice.** [God](glossary.md#god) [^gl_god] says a messenger will come to prepare the way, and that a “day” is coming when evil will be judged and those who honour [God](glossary.md#god) [^gl_god] will be healed and restored. Malachi ends by saying [God](glossary.md#god) [^gl_god] will send “Elijah” before that day. Many Christians connect this to John the Baptist, but that is a New Testament interpretation.
+* **<a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> says he still loves his people.** The people act like that is not true, because they think life is unfair. <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> reminds them that he has stayed faithful to them across history.
+* **<a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> challenges the <a href="glossary.md#priest" title="A religious leader in ancient Israel’s worship system.">priests</a> and <a href="glossary.md#temple" title="The main worship building in Jerusalem in ancient Israel.">temple</a> <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a>.** The <a href="glossary.md#priest" title="A religious leader in ancient Israel’s worship system.">priests</a> are meant to lead <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> and teach what is right. Instead, they accept poor animal offerings and treat <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> like a chore. <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> says this is disrespectful, because offerings were meant to show honour and gratitude.
+* **<a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> warns about unfairness and unfaithfulness.** Malachi speaks against people who lie, cheat workers, and take advantage of others. He also criticises faithlessness in family life, especially men treating marriage casually and abandoning their wives. The book links faithfulness to <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> with faithfulness in everyday relationships.
+* **The people complain that doing the right thing seems pointless.** Some say, “Bad people seem to do fine, so why bother obeying <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>?” Malachi says <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> sees what is happening and that justice will come, even if it feels slow. A “book of remembrance” is mentioned as a picture of <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> not forgetting those who try to live faithfully.
+* **<a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> calls the people back to wholehearted commitment.** This includes honesty in <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> and generosity. A famous part is about “tithes” (regular giving to support the <a href="glossary.md#temple" title="The main worship building in Jerusalem in ancient Israel.">temple</a> and the needy). The message is that trust in <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> should show up in practical choices.
+* **Promise of a coming messenger and a future day of justice.** <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> says a messenger will come to prepare the way, and that a “day” is coming when evil will be judged and those who honour <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> will be healed and restored. Malachi ends by saying <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> will send “Elijah” before that day. Many Christians connect this to John the Baptist, but that is a New Testament interpretation.
 
 Overall, Malachi is a wake-up call: stop going through the motions, start living with honesty, fairness, and faithfulness.
 
 ## Big ideas
 
 * The book challenges “going through the motions” in religion while ignoring fairness.
-* It links [worship](glossary.md#worship) [^gl_worship], family life, and social justice as connected, not separate topics.
+* It links <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a>, family life, and social justice as connected, not separate topics.
 * It ends by looking ahead to future change and justice, which later readers interpret in different ways.
-
-[^gl_god]: The main divine being in Judaism and Christianity.
-
-[^gl_exile]: Being forced to live away from one’s homeland.
-
-[^gl_temple]: The main worship building in Jerusalem in ancient Israel.
-
-[^gl_jerusalem]: A major city in the Bible’s story.
-
-[^gl_priest]: A religious leader in ancient Israel’s worship system.
-
-[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals).

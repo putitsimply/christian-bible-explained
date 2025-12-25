@@ -15,28 +15,16 @@ layout:
   metadata:
     visible: true
 ---
-# [Bible](glossary.md#bible) [^gl_bible] overview (student guide)
+# <a href="glossary.md#bible" title="Christian sacred writings: many books and types of writing.">Bible</a> overview (student guide)
 
-The [Bible](glossary.md#bible) [^gl_bible] is a collection of many different writings that were gathered over a long period of time. It includes stories, laws, poems, prayers, wise sayings, letters, and a book full of symbols and visions. Christians treat the [Bible](glossary.md#bible) [^gl_bible] as sacred [scripture](glossary.md#scripture) [^gl_scripture], and many parts of it are also important in Judaism.
+The <a href="glossary.md#bible" title="Christian sacred writings: many books and types of writing.">Bible</a> is a collection of many different writings that were gathered over a long period of time. It includes stories, laws, poems, prayers, wise sayings, letters, and a book full of symbols and visions. Christians treat the <a href="glossary.md#bible" title="Christian sacred writings: many books and types of writing.">Bible</a> as sacred <a href="glossary.md#scripture" title="Sacred writings (often the Bible).">scripture</a>, and many parts of it are also important in Judaism.
 
-This guide gives short, neutral summaries of each [Bible](glossary.md#bible) [^gl_bible] book. It aims to describe what the books contain and why they matter in history and culture, without asking readers to agree with any religious belief.
+This guide gives short, neutral summaries of each <a href="glossary.md#bible" title="Christian sacred writings: many books and types of writing.">Bible</a> book. It aims to describe what the books contain and why they matter in history and culture, without asking readers to agree with any religious belief.
 
 If a word is unfamiliar, the [Glossary (helpful words)](glossary.md) explains common terms in simple language.
 
-The Christian [Bible](glossary.md#bible) [^gl_bible] is usually divided into two big parts:
+The Christian <a href="glossary.md#bible" title="Christian sacred writings: many books and types of writing.">Bible</a> is usually divided into two big parts:
 
-* **Old Testament**: writings from ancient [Israel](glossary.md#israel) [^gl_israel], including stories of origins and nationhood, laws, [worship](glossary.md#worship) [^gl_worship] songs, wisdom writings, and messages from [prophets](glossary.md#prophet) [^gl_prophet].
-* **New Testament**: writings from the first century that focus on Jesus and the early Christian movement, including biographies (the [Gospels](glossary.md#gospel) [^gl_gospel]), a history book (Acts), letters to churches and leaders, and Revelation.
-Different Christian traditions order the books differently, and some include extra books that are not in every [Bible](glossary.md#bible) [^gl_bible]. This guide follows the 66-book ordering that is common in Protestant Bibles.
-
-[^gl_bible]: Christian sacred writings: many books and types of writing.
-
-[^gl_scripture]: Sacred writings (often the Bible).
-
-[^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
-
-[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals).
-
-[^gl_prophet]: A person who speaks messages they believe come from God.
-
-[^gl_gospel]: “Good news”; also the four books about Jesus’ life.
+* **Old Testament**: writings from ancient <a href="glossary.md#israel" title="Israel can mean the people, land, or a kingdom; Israelites are the people.">Israel</a>, including stories of origins and nationhood, laws, <a href="glossary.md#worship" title="Actions showing devotion to God (prayer, songs, rituals).">worship</a> songs, wisdom writings, and messages from <a href="glossary.md#prophet" title="A person who speaks messages they believe come from God.">prophets</a>.
+* **New Testament**: writings from the first century that focus on Jesus and the early Christian movement, including biographies (the <a href="glossary.md#gospel" title="“Good news”; also the four books about Jesus’ life.">Gospels</a>), a history book (Acts), letters to churches and leaders, and Revelation.
+Different Christian traditions order the books differently, and some include extra books that are not in every <a href="glossary.md#bible" title="Christian sacred writings: many books and types of writing.">Bible</a>. This guide follows the 66-book ordering that is common in Protestant Bibles.

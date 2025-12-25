@@ -12,15 +12,15 @@ Paul begins by telling the Philippians he is grateful for them. They have suppor
 
 **2) Paul explains his prison situation**
 
-Paul tells them that even though he is locked up, the message about Jesus is still spreading. Some people are preaching for good reasons, others for selfish reasons, but Paul says he is glad the message is being shared either way. He also explains that he does not know whether he will be released or executed, but he trusts [God](glossary.md#god) [^gl_god] and wants his life to honour Christ either way.
+Paul tells them that even though he is locked up, the message about Jesus is still spreading. Some people are preaching for good reasons, others for selfish reasons, but Paul says he is glad the message is being shared either way. He also explains that he does not know whether he will be released or executed, but he trusts <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> and wants his life to honour Christ either way.
 
 **3) A big call to unity and humility**
 
-Paul urges the [church](glossary.md#church) [^gl_church] to stay united. He tells them not to fight for status or attention. Instead, they should look out for one another. Here, Philippians includes one of its most famous sections: Paul describes Jesus as someone who had great honour but chose to lower himself, serve others, and suffer, and then [God](glossary.md#god) [^gl_god] lifted him up. Paul uses this as the model for how Christians should treat each other, with humility and service.
+Paul urges the <a href="glossary.md#church" title="A community of Christians, not just a building.">church</a> to stay united. He tells them not to fight for status or attention. Instead, they should look out for one another. Here, Philippians includes one of its most famous sections: Paul describes Jesus as someone who had great honour but chose to lower himself, serve others, and suffer, and then <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> lifted him up. Paul uses this as the model for how Christians should treat each other, with humility and service.
 
 **4) Living faithfully in a tough world**
 
-Paul reminds them that following Jesus can be challenging, especially when people around them do not agree. He tells them to “shine” by living good lives, holding on to hope, and staying steady. He also says that [God](glossary.md#god) [^gl_god] helps believers grow in doing what is right.
+Paul reminds them that following Jesus can be challenging, especially when people around them do not agree. He tells them to “shine” by living good lives, holding on to hope, and staying steady. He also says that <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> helps believers grow in doing what is right.
 
 **5) Paul mentions trusted helpers**
 
@@ -38,13 +38,5 @@ Paul tells them to rejoice (choose joy) and not be overwhelmed by anxiety. He en
 
 * Joy can exist even in hard circumstances.
 * Christians are called to unity, humility, and service.
-* [Faith](glossary.md#faith) [^gl_faith] is about trusting Christ, not showing off religious achievements.
-* [Prayer](glossary.md#prayer) [^gl_prayer] and gratitude are presented as key habits for peace.
-
-[^gl_god]: The main divine being in Judaism and Christianity.
-
-[^gl_church]: A community of Christians, not just a building.
-
-[^gl_faith]: Trust; in Christianity, trusting God and Jesus.
-
-[^gl_prayer]: Speaking to God (silently or aloud).
+* <a href="glossary.md#faith" title="Trust; in Christianity, trusting God and Jesus.">Faith</a> is about trusting Christ, not showing off religious achievements.
+* <a href="glossary.md#prayer" title="Speaking to God (silently or aloud).">Prayer</a> and gratitude are presented as key habits for peace.
