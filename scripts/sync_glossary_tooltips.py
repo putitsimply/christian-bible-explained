@@ -14,19 +14,14 @@ SKIP_FILES = {GLOSSARY_PATH.name, "AGENTS.md"}
 ANCHOR_HEADING_RE = re.compile(r'^##\s+<a id="(?P<id>[^"]+)"></a>(?P<title>.*)$')
 FOOTNOTE_DEF_RE = re.compile(r"^\[\^(?P<id>[^\]]+)\]:\s*(?P<text>.*)\s*$")
 
-# Glossary tooltip target format (pure Markdown):
-# `[Bible](glossary.md#bible "Christian sacred writings: ...")`
+# Glossary tooltip target format (GitBook-safe):
+# `[Bible](glossary.md#bible) [^gl_bible]`
 GLOSSARY_LINK_WITH_INNER_FOOTNOTE_RE = re.compile(
     r"\[(?P<label>[^\]]+?)\[\^(?P<fnid>[^\]]+?)\]\]\(glossary\.md#(?P<anchor>[^)]+)\)"
 )
 
 # Normal glossary links (used for conversion)
-GLOSSARY_MD_LINK_RE = re.compile(
-    r"\[(?P<label>[^\]]+?)\]\(glossary\.md#(?P<anchor>[^)\s]+)(?:\s+\"(?P<title>[^\"]*)\")?\)"
-)
-GLOSSARY_MD_LINK_WITH_EMBEDDED_FOOTNOTE_RE = re.compile(
-    r"\[(?P<label>[^\]]+?)\[\^(?P<fnid>gl_[^\]]+)\]\]\(glossary\.md#(?P<anchor>[^)\s]+)(?:\s+\"(?P<title>[^\"]*)\")?\)"
-)
+GLOSSARY_MD_LINK_RE = re.compile(r"\[(?P<label>[^\]]+?)\]\(glossary\.md#(?P<anchor>[^)]+)\)")
 
 GLOSSARY_HTML_LINK_RE = re.compile(
     r'<a\s+href="glossary\.md#(?P<anchor>[^"]+)"[^>]*>(?P<label>.*?)</a>',
@@ -117,9 +112,9 @@ def anchor_to_glossary_fn_id(anchor: str) -> str:
     return "gl_" + anchor.strip().replace("-", "_")
 
 
-def escape_markdown_link_title(title: str) -> str:
-    # Markdown link titles are commonly wrapped in double quotes; escape any literal quotes.
-    return title.replace('"', '\\"')
+def strip_glossary_link_titles(text: str) -> str:
+    # Remove optional Markdown link titles from glossary links.
+    return re.sub(r'\(glossary\.md#([^\)\s]+)\s+"[^"]*"\)', r"(glossary.md#\1)", text)
 
 
 def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
@@ -144,6 +139,9 @@ def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
     # Convert any leftover HTML links to Markdown links.
     text = GLOSSARY_HTML_LINK_RE.sub(lambda m: f"[{m.group('label')}](glossary.md#{m.group('anchor')})", text)
 
+    # Remove any Markdown link titles on glossary links (we don't rely on them).
+    text = strip_glossary_link_titles(text)
+
     lines = text.splitlines()
     # Clean up stray `: <definition>` lines that can be left behind by earlier tooltip conversions.
     stray_definition_lines = {f": {d}" for d in glossary_defs.values()}
@@ -153,49 +151,59 @@ def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
 
     body_text = "\n".join(body_lines)
 
-    # Remove any existing glossary footnote markers in text (we no longer use them for tooltips).
-    body_text = re.sub(r"\[\^gl_[^\]]+\]", "", body_text)
+    # Normalise any existing glossary footnote markers in text (we regenerate in a stable format).
+    body_text = re.sub(r"[ \t]*\[\^gl_[^\]]+\]", "", body_text)
 
-    # 2) Rewrite glossary links to include a Markdown link title containing the glossary definition.
-    def rewrite_embedded_footnote_link(m: re.Match[str]) -> str:
-        label = m.group("label")
-        anchor = m.group("anchor").strip()
-        definition = glossary_defs.get(anchor)
-        if not definition:
-            return f"[{label}](glossary.md#{anchor})"
-        title = escape_markdown_link_title(definition)
-        return f'[{label}](glossary.md#{anchor} "{title}")'
+    # 2) Ensure each glossary link has a tooltip footnote marker after it, once per term per page.
+    # (GitBook tooltips render reliably on footnote markers.)
+    anchors_in_order: list[str] = [m.group("anchor") for m in GLOSSARY_MD_LINK_RE.finditer(body_text)]
+    anchors_in_order = ordered_unique([a.strip() for a in anchors_in_order])
 
-    body_text = GLOSSARY_MD_LINK_WITH_EMBEDDED_FOOTNOTE_RE.sub(rewrite_embedded_footnote_link, body_text)
-
-    def rewrite_plain_glossary_link(m: re.Match[str]) -> str:
-        label = m.group("label")
-        anchor = m.group("anchor").strip()
-        definition = glossary_defs.get(anchor)
-        if not definition:
-            return m.group(0)
-        title = escape_markdown_link_title(definition)
-        return f'[{label}](glossary.md#{anchor} "{title}")'
-
-    body_text = GLOSSARY_MD_LINK_RE.sub(rewrite_plain_glossary_link, body_text)
+    # Add marker after the first occurrence of each anchor (only if not already present).
+    for anchor in anchors_in_order:
+        fn_id = anchor_to_glossary_fn_id(anchor)
+        if re.search(rf"\[\^{re.escape(fn_id)}\]", body_text):
+            continue
+        link_pat = re.compile(rf"(\[[^\]]+?\]\(glossary\.md#{re.escape(anchor)}\))(?!\s*\[\^[^\]]+\])")
+        body_text, count = link_pat.subn(lambda m, fid=fn_id: f"{m.group(1)} [^{fid}]", body_text, count=1)
+        if count == 0:
+            continue
 
     # 4) Rebuild trailing footnote block (keep any non-glossary defs from the original file too).
     new_body_lines = body_text.splitlines()
     refs = find_footnote_refs_outside_defs(new_body_lines)
 
-    # Keep existing defs, but drop glossary tooltip defs and any numeric tooltip defs that match glossary text.
-    new_defs: dict[str, str] = {}
-    for def_id, def_text in existing_defs.items():
-        if def_id.startswith("gl_"):
+    # Keep existing non-glossary defs; sync glossary defs from glossary.md.
+    new_defs: dict[str, str] = {k: v for (k, v) in existing_defs.items() if not k.startswith("gl_")}
+    for ref_id in sorted(refs):
+        if not ref_id.startswith("gl_"):
             continue
-        if def_id.isdigit() and def_text in glossary_definition_set:
-            continue
-        new_defs[def_id] = def_text
+        anchor = ref_id.removeprefix("gl_").replace("_", "-")
+        definition = glossary_defs.get(anchor)
+        if definition:
+            new_defs[ref_id] = definition
+
+    # Prune unused glossary defs
+    for def_id in list(new_defs.keys()):
+        if def_id.startswith("gl_") and def_id not in refs:
+            del new_defs[def_id]
 
     rebuilt_block: list[str] = []
 
+    # Add glossary defs first, in the order their markers appear in the body.
+    glossary_ids_in_order: list[str] = []
+    for m in re.finditer(r"\[\^(gl_[^\]]+)\]", body_text):
+        glossary_ids_in_order.append(m.group(1))
+    glossary_ids_in_order = ordered_unique(glossary_ids_in_order)
+    glossary_ids_in_order = [fid for fid in glossary_ids_in_order if fid in new_defs]
+    if glossary_ids_in_order:
+        rebuilt_block.append("")
+        for fid in glossary_ids_in_order:
+            rebuilt_block.append(f"[^{fid}]: {new_defs[fid]}")
+            rebuilt_block.append("")
+
     # Keep any remaining (non-glossary) footnote definitions that are still referenced.
-    other_def_ids = [k for k in new_defs.keys() if k in refs]
+    other_def_ids = [k for k in new_defs.keys() if not k.startswith("gl_") and k in refs]
     if other_def_ids:
         if not rebuilt_block:
             rebuilt_block.append("")
