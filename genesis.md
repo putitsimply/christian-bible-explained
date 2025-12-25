@@ -31,6 +31,9 @@ Genesis ends with Jacob’s family living in Egypt, setting up the story of Exod
 * Themes include trust, failure, forgiveness, and new beginnings.
 
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-covenant]: A serious promise-based relationship.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.

@@ -41,11 +41,19 @@ Even though David will not build the [temple](glossary.md#temple) himself, he do
 * Compared with Samuel and Kings, 1 Chronicles leaves out some of David’s worst mistakes and focuses more on [worship](glossary.md#worship), the [temple](glossary.md#temple), and the hope of a restored community.
 
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-exile]: Being forced to live away from one’s homeland.
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-priest]: A religious leader in ancient Israel’s worship system.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-covenant]: A serious promise-based relationship.

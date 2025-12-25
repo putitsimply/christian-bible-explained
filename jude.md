@@ -46,9 +46,15 @@ Overall, Jude is a warning letter that urges readers to guard what they have bee
 * It balances “be careful” with “help others kindly.”: Rescue; in Christianity, being saved from [sin](glossary.md#sin) [^gl-sin].
 
 [^gl-church]: A community of Christians, not just a building.
+
 [^gl-salvation]: Rescue; in Christianity, being saved from sin.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-sin]: Wrongdoing; in Christianity, also a broken relationship with God.

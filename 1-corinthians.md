@@ -45,9 +45,15 @@ Paul finishes with travel plans, greetings, and a request to collect money to he
 * The letter connects belief (especially [resurrection](glossary.md#resurrection) hope) with everyday behaviour.
 
 [^gl-church]: A community of Christians, not just a building.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-idol]: An object or false god treated as most important.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-resurrection]: Life after death; Christians believe Jesus rose.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-jerusalem]: A major city in the Bible’s story.

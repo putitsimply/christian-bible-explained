@@ -41,7 +41,11 @@ Near the end, Saul becomes desperate and makes more damaging choices. In a final
 * [Israel](glossary.md#israel)’s shift toward kingship changes the rest of the story in the [Bible](glossary.md#bible) [^gl-bible].
 
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-priest]: A religious leader in ancient Israel’s worship system.
+
 [^gl-covenant]: A serious promise-based relationship.
+
 [^gl-bible]: Christian sacred writings: many books and types of writing.

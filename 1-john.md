@@ -44,5 +44,7 @@ The writer wants readers to feel **assurance**: confidence that they belong to [
 * The letter aims to give confidence while warning against misleading teaching.
 
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-idol]: An object or false god treated as most important.

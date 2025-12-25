@@ -39,5 +39,7 @@ Finally, the writer says he has more to say but prefers to do it face-to-face. H
 * **Choose good examples to follow**, not people who misuse power.
 
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-church]: A community of Christians, not just a building.
+
 [^gl-god]: The main divine being in Judaism and Christianity.

@@ -27,9 +27,15 @@ The ending is surprisingly joyful. It pictures [God](glossary.md#god) restoring 
 * Hope is still offered, especially for people who turn back and do what is right.
 
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-lord]: Many English Bibles use “LORD” for God’s Hebrew name.
+
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-idol]: An object or false god treated as most important.

@@ -29,4 +29,5 @@ At the end, [God](glossary.md#god) tells Job’s three friends they were wrong t
 * It ends with humility: some “why” questions may not get a neat explanation.
 
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.

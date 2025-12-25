@@ -29,5 +29,7 @@ Overall, **Titus** is about building healthy communities through trustworthy lea
 * The letter promotes responsibility, good works, and avoiding pointless arguments.
 
 [^gl-church]: A community of Christians, not just a building.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-grace]: God’s unearned kindness (Christian idea).

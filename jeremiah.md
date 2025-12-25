@@ -35,9 +35,15 @@ After [Jerusalem](glossary.md#jerusalem) falls, some survivors flee to Egypt, an
 * Hope appears through the idea of a “new [covenant](glossary.md#covenant)” (a renewed relationship and changed hearts).
 
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-exile]: Being forced to live away from one’s homeland.
+
 [^gl-covenant]: A serious promise-based relationship.

@@ -31,8 +31,13 @@ He finishes by reminding them that [God](glossary.md#god)’s **[grace](glossary
 * Community support and humble leadership are emphasised.
 
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-salvation]: Rescue; in Christianity, being saved from sin.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-baptism]: A Christian water ritual showing commitment and a new start.
+
 [^gl-church]: A community of Christians, not just a building.
+
 [^gl-grace]: God’s unearned kindness (Christian idea).

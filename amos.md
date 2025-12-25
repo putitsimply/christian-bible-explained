@@ -42,8 +42,13 @@ Most of Amos is warning and judgment, but the book ends with a hopeful promise. 
 * Warning is paired with hope: renewal is imagined after consequences.
 
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-sacrifice]: An offering given in worship (often animals in the Old Testament).
+
 [^gl-priest]: A religious leader in ancient Israel’s worship system.

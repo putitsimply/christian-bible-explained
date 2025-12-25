@@ -35,5 +35,7 @@ The letter finishes with a final reminder to avoid pointless arguments and to gu
 * Practical [faith](glossary.md#faith) includes fairness, responsibility, and generosity.
 
 [^gl-church]: A community of Christians, not just a building.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.

@@ -39,12 +39,21 @@ Overall, Mark is a fast-moving account that highlights Jesus’ actions, the gro
 * Conflict grows into arrest, [crucifixion](glossary.md#crucifixion) [^gl-crucifixion], and (in Christian belief) [resurrection](glossary.md#resurrection) [^gl-resurrection].
 
 [^gl-gospel]: “Good news”; also the four books about Jesus’ life.
+
 [^gl-disciple]: A close student or follower of a teacher.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-parable]: A short teaching story.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-messiah]: “Anointed one”; a chosen leader. Christians apply it to Jesus.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-sacrifice]: An offering given in worship (often animals in the Old Testament).
+
 [^gl-crucifixion]: Roman execution on a cross.
+
 [^gl-resurrection]: Life after death; Christians believe Jesus rose.

@@ -41,11 +41,19 @@ Paul is arrested, put on trial several times, and eventually appeals to Caesar, 
 * Hardship and opposition are presented as normal parts of the early Christian story.
 
 [^gl-resurrection]: Life after death; Christians believe Jesus rose.
+
 [^gl-apostle]: An early Christian messenger; the word means “sent one.”
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-ascension]: Jesus being taken up to heaven (Christian belief).
+
 [^gl-pentecost]: A Jewish festival; Acts links it to the Holy Spirit.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-holy-spirit]: God’s active presence helping and guiding people (Christian belief).
+
 [^gl-gentile]: A non-Jewish person.
+
 [^gl-synagogue]: A Jewish meeting place for prayer and teaching.

@@ -27,5 +27,7 @@ A notable detail: the book of Esther never directly mentions [God](glossary.md#g
 * Even without mentioning [God](glossary.md#god) directly, the book explores themes of hidden help, timing, and survival.
 
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-prayer]: Speaking to God (silently or aloud).
+
 [^gl-god]: The main divine being in Judaism and Christianity.

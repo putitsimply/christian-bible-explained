@@ -28,7 +28,11 @@ Nahum explains why Nineveh is being judged. He describes the city as built on vi
 Nahum is meant to comfort the oppressed and warn the powerful. Its message is that cruelty and injustice might look like they are winning for a while, but they do not get the last word. In the [Bible](glossary.md#bible)’s storyline, the fall of Nineveh shows that even the biggest empire can fall.
 
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.

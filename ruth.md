@@ -25,4 +25,5 @@ Overall, Ruth is about loyalty, kindness, and practical care for people in hards
 * Ruth becomes connected to King David’s family line, which later matters in Christian tradition.
 
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-god]: The main divine being in Judaism and Christianity.

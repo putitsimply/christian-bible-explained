@@ -42,6 +42,9 @@ Paul tells them to rejoice (choose joy) and not be overwhelmed by anxiety. He en
 * [Prayer](glossary.md#prayer) [^gl-prayer] and gratitude are presented as key habits for peace.
 
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-church]: A community of Christians, not just a building.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-prayer]: Speaking to God (silently or aloud).

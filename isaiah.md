@@ -31,8 +31,13 @@ The final section focuses on how people should live after restoration: with hone
 Isaiah is about two connected themes: **justice now** (stop harming others) and **hope ahead** (restoration after failure), with a strong focus on what a truly good society should look like.
 
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-exile]: Being forced to live away from one’s homeland.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.

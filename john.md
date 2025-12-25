@@ -25,12 +25,21 @@ Finally, John describes Jesus rising from the dead (which Christians believe hap
 * The story climaxes in [crucifixion](glossary.md#crucifixion) and (in Christian belief) [resurrection](glossary.md#resurrection) [^gl-resurrection], with a focus on meaning.
 
 [^gl-gospel]: “Good news”; also the four books about Jesus’ life.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-passover]: A Jewish festival remembering the Exodus from Egypt.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-disciple]: A close student or follower of a teacher.
+
 [^gl-holy-spirit]: God’s active presence helping and guiding people (Christian belief).
+
 [^gl-crucifixion]: Roman execution on a cross.
+
 [^gl-messiah]: “Anointed one”; a chosen leader. Christians apply it to Jesus.
+
 [^gl-resurrection]: Life after death; Christians believe Jesus rose.

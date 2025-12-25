@@ -28,7 +28,11 @@ Near the end, there is a **second census** of the new generation. More rules are
 * The book contrasts one generation’s failures with the next generation’s chance to begin again.
 
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-tabernacle]: A portable worship tent used by the Israelites.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-prophet]: A person who speaks messages they believe come from God.

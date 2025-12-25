@@ -25,6 +25,9 @@ Overall, 2 Timothy is about courage, staying faithful, passing on good teaching,
 * [Scripture](glossary.md#scripture) is presented as useful for shaping behaviour and character.
 
 [^gl-apostle]: An early Christian messenger; the word means “sent one.”
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-scripture]: Sacred writings (often the Bible).

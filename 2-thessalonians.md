@@ -23,4 +23,5 @@ Finally, the letter talks about how the community should respond to those who pe
 * Symbolic future language is used to strengthen the community, not entertain curiosity.
 
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-church]: A community of Christians, not just a building.

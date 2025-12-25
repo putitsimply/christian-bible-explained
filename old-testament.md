@@ -15,6 +15,7 @@ layout:
   metadata:
     visible: true
 ---
+
 # Old Testament
 
 The Old Testament is the first big section of the Christian [Bible](glossary.md#bible) [^gl-bible]. Many of these books are also part of Jewish scriptures (often called the Hebrew [Bible](glossary.md#bible)), though the order and naming can differ. The Old Testament tells a long story about [God](glossary.md#god) [^gl-god], the world, and the people of [Israel](glossary.md#israel) [^gl-israel], across many centuries. It is made up of different kinds of writing, like stories, laws, poems, prayers, proverbs, and messages from [prophets](glossary.md#prophet) [^gl-prophet].
@@ -32,12 +33,21 @@ The Old Testament also includes wisdom and [worship](glossary.md#worship) books.
 Finally, books like Ezra and Nehemiah describe some [Israelites](glossary.md#israel) returning from [exile](glossary.md#exile) and rebuilding their community. The Old Testament ends with hope and questions, especially about how [God](glossary.md#god) will restore things and what faithful living should look like.
 
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-covenant]: A serious promise-based relationship.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-exile]: Being forced to live away from one’s homeland.

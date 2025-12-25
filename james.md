@@ -29,6 +29,9 @@ Overall, James teaches that genuine [faith](glossary.md#faith) is meant to be li
 * Speech matters: words can heal or harm.
 
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-prayer]: Speaking to God (silently or aloud).

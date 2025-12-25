@@ -25,8 +25,13 @@ Here is what happens, chapter by chapter:
 * Hope is present, but it is not rushed: the book ends without a simple “everything is fine now.”: A major city in the [Bible](glossary.md#bible) [^gl-bible]’s story.
 
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-prayer]: Speaking to God (silently or aloud).
+
 [^gl-bible]: Christian sacred writings: many books and types of writing.

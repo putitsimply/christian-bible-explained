@@ -38,8 +38,13 @@ Even though it’s not one storyline, it is still possible to notice a “journe
 Christians use Psalms in [church](glossary.md#church) [^gl-church] services, in personal [prayer](glossary.md#prayer), and sometimes connect certain psalms to Jesus, but the book itself is mainly a shared collection of prayers and songs about life with [God](glossary.md#god).
 
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-prayer]: Speaking to God (silently or aloud).
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-church]: A community of Christians, not just a building.

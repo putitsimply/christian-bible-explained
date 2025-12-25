@@ -37,7 +37,11 @@ The book ends with hope. John sees “a new heaven and a new earth” and a shin
 * The ending stresses justice and a renewed world where suffering does not last.
 
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-jerusalem]: A major city in the Bible’s story.

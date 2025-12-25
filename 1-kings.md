@@ -29,9 +29,15 @@ Near the end, Ahab commits a serious injustice involving **Naboth’s vineyard**
 * Elijah’s stories highlight conflict between different religious loyalties and what counts as true [worship](glossary.md#worship).
 
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.

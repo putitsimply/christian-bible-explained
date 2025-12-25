@@ -30,8 +30,13 @@ Ephesians is a letter in the New Testament. It is traditionally linked to the [a
 * In one sentence: [God](glossary.md#god)’s [grace](glossary.md#grace) creates a united community, and that community is called to live with love, maturity, and courage.
 
 [^gl-apostle]: An early Christian messenger; the word means “sent one.”
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-grace]: God’s unearned kindness (Christian idea).
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-holy-spirit]: God’s active presence helping and guiding people (Christian belief).
+
 [^gl-church]: A community of Christians, not just a building.

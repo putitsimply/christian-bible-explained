@@ -25,7 +25,11 @@ Overall, Daniel mixes exciting stories with mysterious visions to teach that cou
 * The visions use symbols to express hope that injustice and cruelty will not win forever.
 
 [^gl-exile]: Being forced to live away from one’s homeland.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-apocalyptic-writing]: A symbol-filled writing style about justice and hope.

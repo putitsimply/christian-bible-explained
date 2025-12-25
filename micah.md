@@ -25,11 +25,19 @@ So overall, Micah is a mix of warning and comfort: it condemns corruption and cr
 * Different communities connect the “future ruler” passage to different expectations.
 
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-sacrifice]: An offering given in worship (often animals in the Old Testament).
+
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).

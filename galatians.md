@@ -36,6 +36,9 @@ Paul finishes with practical advice, urging the community to help each other, ta
 * Freedom is tied to responsibility: character and love matter.
 
 [^gl-church]: A community of Christians, not just a building.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-bible]: Christian sacred writings: many books and types of writing.

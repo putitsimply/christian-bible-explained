@@ -27,10 +27,17 @@ Later there is another uprising, and more conflict and violence. Near the end of
 * [God](glossary.md#god)’s promise to David becomes important later in Jewish hopes and in Christian belief about Jesus.
 
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-covenant]: A serious promise-based relationship.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.

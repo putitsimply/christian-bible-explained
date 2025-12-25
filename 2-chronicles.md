@@ -27,13 +27,23 @@ In the later chapters, [Judah](glossary.md#judah)’s kings become more unfaithf
 * The ending points to hope after [exile](glossary.md#exile): rebuilding is possible.
 
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-exile]: Being forced to live away from one’s homeland.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-idol]: An object or false god treated as most important.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-passover]: A Jewish festival remembering the Exodus from Egypt.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.

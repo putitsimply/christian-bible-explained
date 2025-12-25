@@ -29,6 +29,9 @@ Joshua finishes with Joshua’s farewell speeches. He warns them not to copy oth
 * After conquest stories, the focus shifts to building a stable society (land division and cities of refuge).
 
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-priest]: A religious leader in ancient Israel’s worship system.
+
 [^gl-covenant]: A serious promise-based relationship.
+
 [^gl-god]: The main divine being in Judaism and Christianity.

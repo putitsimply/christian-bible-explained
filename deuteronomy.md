@@ -43,8 +43,13 @@ Near the end, Moses teaches the people a song, gives final blessings to the trib
 * The book is a farewell from Moses, looking back and looking ahead at the same time.
 
 [^gl-torah]: The first five Bible books; also means “instruction” or “law”.
+
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-covenant]: A serious promise-based relationship.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.

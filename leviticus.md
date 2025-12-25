@@ -23,12 +23,21 @@ Here’s what happens, in a clear overview:
 * Holiness is about everyday behaviour, not only religious ceremonies.
 
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-tabernacle]: A portable worship tent used by the Israelites.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-sacrifice]: An offering given in worship (often animals in the Old Testament).
+
 [^gl-priest]: A religious leader in ancient Israel’s worship system.
+
 [^gl-atonement]: Making things right after wrongdoing; linked to forgiveness.
+
 [^gl-high-priest]: The chief priest in ancient Israel’s worship system.
+
 [^gl-sabbath]: A weekly rest day in Judaism (also in some Christianity).

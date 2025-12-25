@@ -27,13 +27,23 @@ Finally, Matthew tells of Jesus’ [resurrection](glossary.md#resurrection) (Chr
 * Matthew often connects Jesus to Jewish hopes for a [Messiah](glossary.md#messiah) and for [God](glossary.md#god)’s kingdom ([God](glossary.md#god)’s rule and ways).
 
 [^gl-gospel]: “Good news”; also the four books about Jesus’ life.
+
 [^gl-resurrection]: Life after death; Christians believe Jesus rose.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-disciple]: A close student or follower of a teacher.
+
 [^gl-prayer]: Speaking to God (silently or aloud).
+
 [^gl-parable]: A short teaching story.
+
 [^gl-pharisees]: A Jewish religious group in Jesus’ time.
+
 [^gl-messiah]: “Anointed one”; a chosen leader. Christians apply it to Jesus.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-crucifixion]: Roman execution on a cross.

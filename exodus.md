@@ -27,9 +27,15 @@ Finally, [God](glossary.md#god) gives detailed instructions for building the [ta
 * Trust under pressure: fear, hunger, and conflict keep testing the people on the journey.
 
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-passover]: A Jewish festival remembering the Exodus from Egypt.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-covenant]: A serious promise-based relationship.
+
 [^gl-tabernacle]: A portable worship tent used by the Israelites.

@@ -15,6 +15,7 @@ layout:
   metadata:
     visible: true
 ---
+
 # [Bible](glossary.md#bible) [^gl-bible] overview (student guide)
 
 The [Bible](glossary.md#bible) is a collection of many different writings that were gathered over a long period of time. It includes stories, laws, poems, prayers, wise sayings, letters, and a book full of symbols and visions. Christians treat the [Bible](glossary.md#bible) as sacred [scripture](glossary.md#scripture) [^gl-scripture], and many parts of it are also important in Judaism.
@@ -30,8 +31,13 @@ The Christian [Bible](glossary.md#bible) is usually divided into two big parts:
 Different Christian traditions order the books differently, and some include extra books that are not in every [Bible](glossary.md#bible). This guide follows the 66-book ordering that is common in Protestant Bibles.
 
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-scripture]: Sacred writings (often the Bible).
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-gospel]: “Good news”; also the four books about Jesus’ life.

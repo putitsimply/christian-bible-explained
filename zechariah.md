@@ -40,8 +40,13 @@ Overall, Zechariah mixes encouragement for rebuilding in the present with strong
 * Different traditions connect some images to later hopes about leadership and peace.
 
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-exile]: Being forced to live away from one’s homeland.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-high-priest]: The chief priest in ancient Israel’s worship system.

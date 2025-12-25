@@ -39,6 +39,9 @@ Joel finishes with a picture of [God](glossary.md#god) bringing justice: wrongs 
 * A promise about [God](glossary.md#god)’s Spirit becomes important later in Christian reading of Acts.
 
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-priest]: A religious leader in ancient Israel’s worship system.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-pentecost]: A Jewish festival; Acts links it to the Holy Spirit.

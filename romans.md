@@ -36,7 +36,11 @@ Romans is basically Paul’s “big explanation” of Christian beliefs and the 
 * Belief should show up in practical love, humility, and unity across differences.
 
 [^gl-gospel]: “Good news”; also the four books about Jesus’ life.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-resurrection]: Life after death; Christians believe Jesus rose.
+
 [^gl-church]: A community of Christians, not just a building.

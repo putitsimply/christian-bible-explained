@@ -26,8 +26,13 @@ Overall, Malachi is a wake-up call: stop going through the motions, start living
 * It ends by looking ahead to future change and justice, which later readers interpret in different ways.
 
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-exile]: Being forced to live away from one’s homeland.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-priest]: A religious leader in ancient Israel’s worship system.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).

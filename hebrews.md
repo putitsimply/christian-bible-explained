@@ -41,8 +41,13 @@ Hebrews finishes with encouragement, a blessing, and a few personal notes, inclu
 * [Faith](glossary.md#faith) is pictured as endurance: keep going, help each other, and live wisely.
 
 [^gl-priest]: A religious leader in ancient Israel’s worship system.
+
 [^gl-high-priest]: The chief priest in ancient Israel’s worship system.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-sacrifice]: An offering given in worship (often animals in the Old Testament).
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.

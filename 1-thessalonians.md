@@ -52,8 +52,13 @@ He gives lots of quick instructions, like:
 * Practical community habits matter (work, patience, [prayer](glossary.md#prayer) [^gl-prayer], kindness).
 
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-church]: A community of Christians, not just a building.
+
 [^gl-resurrection]: Life after death; Christians believe Jesus rose.
+
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-prayer]: Speaking to God (silently or aloud).

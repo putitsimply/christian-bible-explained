@@ -27,13 +27,23 @@ Ezra finds a serious problem. Some of the returned people, including leaders, ha
 Ezra focuses on starting again after disaster, restoring [worship](glossary.md#worship), and rebuilding a community’s identity around their beliefs and shared commitments.
 
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-exile]: Being forced to live away from one’s homeland.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-high-priest]: The chief priest in ancient Israel’s worship system.
+
 [^gl-sacrifice]: An offering given in worship (often animals in the Old Testament).
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-passover]: A Jewish festival remembering the Exodus from Egypt.
+
 [^gl-priest]: A religious leader in ancient Israel’s worship system.
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.

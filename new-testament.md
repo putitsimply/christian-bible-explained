@@ -15,6 +15,7 @@ layout:
   metadata:
     visible: true
 ---
+
 # New Testament
 
 The New Testament is the second big section of the Christian [Bible](glossary.md#bible) [^gl-bible]. It is a collection of 27 books written in the first century, in the world of the Roman Empire. These books focus on Jesus and on the early Christian communities that formed after him.
@@ -30,8 +31,13 @@ The New Testament ends with **Revelation**, a book full of powerful images and s
 Overall, the New Testament is about who Jesus is (in Christian belief, the promised [Messiah](glossary.md#messiah) [^gl-messiah]) and what it means to live as his followers in everyday life.
 
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-gospel]: “Good news”; also the four books about Jesus’ life.
+
 [^gl-crucifixion]: Roman execution on a cross.
+
 [^gl-resurrection]: Life after death; Christians believe Jesus rose.
+
 [^gl-epistle]: Another word for a letter.
+
 [^gl-messiah]: “Anointed one”; a chosen leader. Christians apply it to Jesus.

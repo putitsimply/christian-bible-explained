@@ -29,4 +29,5 @@ Paul ends by asking them to pray, to be wise in how they speak to outsiders, and
 * Community unity across differences is treated as essential.
 
 [^gl-church]: A community of Christians, not just a building.
+
 [^gl-god]: The main divine being in Judaism and Christianity.

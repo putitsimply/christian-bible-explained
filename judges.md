@@ -35,5 +35,7 @@ The final section does not focus on judges as much. It shows how disordered life
 Judges is a warning story. It shows how a community can fall apart when people forget their responsibilities to [God](glossary.md#god) and to each other, and it also shows that help and rescue can still come, even in a messy time.
 
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.

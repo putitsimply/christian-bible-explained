@@ -38,6 +38,9 @@ The letter finishes by saying some of Paul’s writings are hard to understand, 
 * Future hope is used to motivate good living now, not panic.
 
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-apostle]: An early Christian messenger; the word means “sent one.”
+
 [^gl-prophet]: A person who speaks messages they believe come from God.

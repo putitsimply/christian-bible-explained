@@ -28,8 +28,13 @@ So, Hosea is basically: a heartbreak story used to show how damaging betrayal is
 * Hope and restoration are presented as possible, but not without change.
 
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-priest]: A religious leader in ancient Israel’s worship system.
+
 [^gl-exile]: Being forced to live away from one’s homeland.

@@ -27,5 +27,7 @@ Either way, the main focus of Song of Solomon is the beauty, joy, and seriousnes
 * Readers interpret the book in different ways (romantic poetry, or symbolic/allegorical meanings).
 
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-church]: A community of Christians, not just a building.

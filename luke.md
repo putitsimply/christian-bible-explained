@@ -48,14 +48,25 @@ Then Luke describes Christians’ central belief: that Jesus rises from the dead
 * The ending leads into Acts, as the movement continues after Jesus.
 
 [^gl-gospel]: “Good news”; also the four books about Jesus’ life.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-synagogue]: A Jewish meeting place for prayer and teaching.
+
 [^gl-parable]: A short teaching story.
+
 [^gl-prayer]: Speaking to God (silently or aloud).
+
 [^gl-holy-spirit]: God’s active presence helping and guiding people (Christian belief).
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-resurrection]: Life after death; Christians believe Jesus rose.
+
 [^gl-disciple]: A close student or follower of a teacher.
+
 [^gl-crucifixion]: Roman execution on a cross.
+
 [^gl-ascension]: Jesus being taken up to heaven (Christian belief).

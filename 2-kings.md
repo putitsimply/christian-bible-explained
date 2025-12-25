@@ -35,11 +35,19 @@ But after Josiah, [Judah](glossary.md#judah) quickly declines again. Another emp
 * Even at the darkest ending, a small “hint of hope” remains.
 
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-exile]: Being forced to live away from one’s homeland.
+
 [^gl-idol]: An object or false god treated as most important.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.

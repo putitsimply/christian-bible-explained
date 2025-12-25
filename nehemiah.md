@@ -25,10 +25,17 @@ Overall, Nehemiah is about strong leadership, [prayer](glossary.md#prayer) [^gl-
 * Religious practice is connected with fairness (especially around debt and poverty).
 
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-exile]: Being forced to live away from one’s homeland.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-sabbath]: A weekly rest day in Judaism (also in some Christianity).
+
 [^gl-faith]: Trust; in Christianity, trusting God and Jesus.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-prayer]: Speaking to God (silently or aloud).

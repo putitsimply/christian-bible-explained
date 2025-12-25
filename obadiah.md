@@ -20,6 +20,9 @@ Obadiah is short, but it has a clear flow:
 * The book combines judgement language with hope that injustice does not have the last word.
 
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-god]: The main divine being in Judaism and Christianity.

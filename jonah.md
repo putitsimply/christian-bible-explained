@@ -26,6 +26,9 @@ The book ends with that question hanging in the air. The big idea is about **mer
 * The ending is a question, pushing readers to think about compassion and fairness.
 
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
+
 [^gl-prayer]: Speaking to God (silently or aloud).

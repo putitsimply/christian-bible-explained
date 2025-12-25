@@ -35,7 +35,11 @@ The final chapter is a [prayer](glossary.md#prayer) that sounds like a song. Hab
 Habakkuk does not give an easy answer to suffering. It shows a person honestly wrestling with [God](glossary.md#god), then learning to trust that injustice is seen, evil is temporary, and faithfulness matters even when life is confusing.
 
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-idol]: An object or false god treated as most important.
+
 [^gl-prayer]: Speaking to God (silently or aloud).

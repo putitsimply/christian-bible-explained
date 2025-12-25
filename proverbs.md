@@ -38,4 +38,5 @@ Near the end, there are sayings linked to a man named Agur, and advice linked to
 Proverbs teaches that choices shape character, and character shapes life. It invites readers to become the kind of person who tells the truth, treats others fairly, works steadily, and thinks before speaking, because that is the path it calls “wise.”
 
 [^gl-bible]: Christian sacred writings: many books and types of writing.
+
 [^gl-god]: The main divine being in Judaism and Christianity.

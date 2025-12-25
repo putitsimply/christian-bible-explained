@@ -34,10 +34,17 @@ Haggai is a [prophet](glossary.md#prophet) [^gl-prophet], meaning someone who de
 Haggai is about priorities, community responsibility, and encouragement to finish important work even when it feels slow or unimpressive.
 
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
+
 [^gl-judah]: The southern kingdom in the Old Testament; capital Jerusalem.
+
 [^gl-exile]: Being forced to live away from one’s homeland.
+
 [^gl-worship]: Actions showing devotion to God (prayer, songs, rituals).
+
 [^gl-prophet]: A person who speaks messages they believe come from God.
+
 [^gl-high-priest]: The chief priest in ancient Israel’s worship system.

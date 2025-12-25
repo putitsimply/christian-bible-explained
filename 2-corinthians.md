@@ -29,7 +29,11 @@ The letter finishes with Paul urging the [church](glossary.md#church) to examine
 * Reconciliation (repairing relationships) is a central theme, both with [God](glossary.md#god) and within the community.
 
 [^gl-apostle]: An early Christian messenger; the word means “sent one.”
+
 [^gl-church]: A community of Christians, not just a building.
+
 [^gl-god]: The main divine being in Judaism and Christianity.
+
 [^gl-covenant]: A serious promise-based relationship.
+
 [^gl-jerusalem]: A major city in the Bible’s story.
