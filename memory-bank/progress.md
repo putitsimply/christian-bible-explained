@@ -11,6 +11,7 @@ Known issues:
 
 - Ongoing spot-checking is still needed for any wording that sounds too certain about beliefs (keep using “the text says…” / “Christians believe…” where appropriate).
 - Some pages use many bold mini-headings or lists; this is readable, but could be further simplified if desired.
+- GitBook YAML front matter must keep correct indentation (recent parsing errors were caused by broken nesting under `layout:`).
 
 Next steps:
 
