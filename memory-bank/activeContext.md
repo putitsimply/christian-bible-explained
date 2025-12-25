@@ -17,6 +17,7 @@ Recent changes:
 - Added a neutral home page (`README.md`) and split testament overviews into `old-testament.md` and `new-testament.md`.
 - Reworked `SUMMARY.md` into grouped sections (Law/History/Wisdom/Prophets; Gospels/Letters/etc.).
 - Added `glossary.md` and linked it in `README.md` and `SUMMARY.md`, and linked glossary terms inline throughout the book pages (direct links, not footnote annotations).
+- Added glossary hover tooltips across all book pages by appending GitBook footnote annotations (definitions copied from `glossary.md`) after each glossary link.
 - Standardised all book pages to the same section headings: `## What this book is`, `## What it contains`, `## Big ideas`.
 - Trimmed over-length pages back under 500 words and removed external link-style citations.
 - Fixed YAML front matter indentation in `README.md`, `old-testament.md`, and `new-testament.md` to resolve GitBook parsing errors.
