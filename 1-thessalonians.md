@@ -12,7 +12,7 @@ Paul had visited Thessalonica and taught people about Jesus. Soon after, he had 
 
 ### Main things that happen in the letter
 
-**1) Paul encourages them and thanks [God](glossary.md#god) [^gl-god]**\
+**1) Paul encourages them and thanks [God](glossary.md#god)**\
 Paul is relieved and thankful that they are staying strong. He reminds them that his message was not a trick or a way to get money or power. He says he cared for them like a good parent cares for children.
 
 **2) He explains why he has not returned yet**\
@@ -30,11 +30,11 @@ Some people in the [church](glossary.md#church) [^gl-church] were worried about 
 
 * Christians believe Jesus will return.
 * Those who have died will not miss out.
-* [God](glossary.md#god) [^gl-god] will bring them into the future renewal as well.
+* [God](glossary.md#god) will bring them into the future renewal as well.
 This part is often connected to the Christian idea of **[resurrection](glossary.md#resurrection) [^gl-resurrection]**, which means being raised to new life.
 
 **5) He warns them to stay ready**\
-Paul says the “day of the Lord” (a [Bible](glossary.md#bible) [^gl-bible] phrase for a time when [God](glossary.md#god) [^gl-god] brings justice and sets things right) will come unexpectedly. So they should live like people who are awake and ready, doing what is right, not like people who are careless.
+Paul says the “day of the Lord” (a [Bible](glossary.md#bible) [^gl-bible] phrase for a time when [God](glossary.md#god) brings justice and sets things right) will come unexpectedly. So they should live like people who are awake and ready, doing what is right, not like people who are careless.
 
 **6) Final practical advice**\
 He gives lots of quick instructions, like:

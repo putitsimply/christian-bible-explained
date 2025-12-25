@@ -24,7 +24,7 @@ A notable detail: the book of Esther never directly mentions [God](glossary.md#g
 
 * Courage can mean taking a risk for other people’s safety.
 * The story shows how power can be abused (and sometimes turned around).
-* Even without mentioning [God](glossary.md#god) [^gl-god] directly, the book explores themes of hidden help, timing, and survival.
+* Even without mentioning [God](glossary.md#god) directly, the book explores themes of hidden help, timing, and survival.
 
 [^gl-bible]: Christian sacred writings: many books and types of writing.
 [^gl-prayer]: Speaking to God (silently or aloud).

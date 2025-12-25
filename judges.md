@@ -10,17 +10,17 @@ The book of Judges comes after Joshua. The [Israelites](glossary.md#israel) [^gl
 
 Judges is built around a cycle that happens again and again:
 
-1. The people turn away from [God](glossary.md#god) [^gl-god] and start copying the beliefs and practices of nearby nations.
+1. The people turn away from [God](glossary.md#god) and start copying the beliefs and practices of nearby nations.
 2. They become weak and are pressured or attacked by enemies.
 3. They cry out for help.
-4. [God](glossary.md#god) [^gl-god] raises up a “judge” to save them.
+4. [God](glossary.md#god) raises up a “judge” to save them.
 5. There is peace for a while, then the cycle starts again.
 A “judge” here is not mainly a courtroom judge. It is more like a leader or rescuer who helps guide the people and sometimes leads them in battle.
 
 ### Key judges and stories
 
 * **Othniel** is the first judge and sets the pattern.
-* **Ehud** is a clever left-handed leader who frees [Israel](glossary.md#israel) [^gl-israel] from Moab.
+* **Ehud** is a clever left-handed leader who frees [Israel](glossary.md#israel) from Moab.
 * **Deborah** is a [prophet](glossary.md#prophet) [^gl-prophet] and leader who works with Barak to defeat an enemy army led by Sisera. This is one of the clearest examples of wise leadership in the book.
 * **Gideon** starts out fearful but is called to lead. His small army defeats the Midianites, showing that winning is not just about numbers.
 * **Jephthah** becomes a leader during a conflict with the Ammonites. His story includes a tragic vow, showing how messy leadership can be when people act rashly.
@@ -28,11 +28,11 @@ A “judge” here is not mainly a courtroom judge. It is more like a leader or 
 
 ### How the book ends
 
-The final section does not focus on judges as much. It shows how disordered life becomes when people ignore [God](glossary.md#god) [^gl-god] and do whatever seems right to them. There are several disturbing stories about violence and injustice. The book finishes by repeating an idea like, “There was no king, and everyone did what they thought was right.”
+The final section does not focus on judges as much. It shows how disordered life becomes when people ignore [God](glossary.md#god) and do whatever seems right to them. There are several disturbing stories about violence and injustice. The book finishes by repeating an idea like, “There was no king, and everyone did what they thought was right.”
 
 ## Big ideas
 
-Judges is a warning story. It shows how a community can fall apart when people forget their responsibilities to [God](glossary.md#god) [^gl-god] and to each other, and it also shows that help and rescue can still come, even in a messy time.
+Judges is a warning story. It shows how a community can fall apart when people forget their responsibilities to [God](glossary.md#god) and to each other, and it also shows that help and rescue can still come, even in a messy time.
 
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
 [^gl-god]: The main divine being in Judaism and Christianity.

@@ -12,11 +12,11 @@ The writer (a man named John, traditionally linked with “John of Patmos”) sa
 
 ### 2) A throne room and a scroll
 
-John sees a vision of [God](glossary.md#god) [^gl-god]’s throne in heaven, surrounded by [worship](glossary.md#worship) [^gl-worship]. He also sees a sealed scroll, like a closed plan for what will happen in the world. Only a special figure called “the Lamb” can open it. Christians usually understand the Lamb as Jesus.
+John sees a vision of [God](glossary.md#god)’s throne in heaven, surrounded by [worship](glossary.md#worship) [^gl-worship]. He also sees a sealed scroll, like a closed plan for what will happen in the world. Only a special figure called “the Lamb” can open it. Christians usually understand the Lamb as Jesus.
 
 ### 3) The seals, trumpets, and bowls
 
-As the Lamb opens the seals, and later as trumpets and bowls appear, John describes disasters, wars, sickness, and chaos. These scenes are not written like a normal history story. They are written in a dramatic, symbolic style to show that evil causes real harm, and that [God](glossary.md#god) [^gl-god] will not ignore injustice forever.
+As the Lamb opens the seals, and later as trumpets and bowls appear, John describes disasters, wars, sickness, and chaos. These scenes are not written like a normal history story. They are written in a dramatic, symbolic style to show that evil causes real harm, and that [God](glossary.md#god) will not ignore injustice forever.
 
 ### 4) The battle between good and evil
 
@@ -28,7 +28,7 @@ Revelation shows evil being defeated. There is a final judgment scene where peop
 
 ### 6) A renewed world
 
-The book ends with hope. John sees “a new heaven and a new earth” and a shining city called the New [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem]. There is no more death, pain, or crying, and [God](glossary.md#god) [^gl-god] lives with people.
+The book ends with hope. John sees “a new heaven and a new earth” and a shining city called the New [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem]. There is no more death, pain, or crying, and [God](glossary.md#god) lives with people.
 
 ## Big ideas
 

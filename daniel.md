@@ -14,7 +14,7 @@ Daniel becomes well known because he can explain dreams that no one else can. Ki
 
 Another famous story happens under a later ruler. Daniel keeps praying to [God](glossary.md#god) [^gl-god] even when a law is made to stop it. Because he breaks that law, he is thrown into a den of lions. He survives the night, and the king is shocked. Again, the point is not that trouble never comes, but that Daniel stays consistent even when it is risky.
 
-The second half of Daniel has strange, symbolic visions, like beasts, horns, and mysterious numbers. These visions are often called **[apocalyptic](glossary.md#apocalyptic-writing) [^gl-apocalyptic-writing]** writing, which means a style that uses dramatic symbols to talk about big struggles between good and evil, and about [God](glossary.md#god) [^gl-god]’s justice in the end. The visions say that evil powers will not last forever, and that in the long run [God](glossary.md#god) [^gl-god] will set things right.
+The second half of Daniel has strange, symbolic visions, like beasts, horns, and mysterious numbers. These visions are often called **[apocalyptic](glossary.md#apocalyptic-writing) [^gl-apocalyptic-writing]** writing, which means a style that uses dramatic symbols to talk about big struggles between good and evil, and about [God](glossary.md#god)’s justice in the end. The visions say that evil powers will not last forever, and that in the long run [God](glossary.md#god) will set things right.
 
 Overall, Daniel mixes exciting stories with mysterious visions to teach that courage, faithfulness, and hope matter, especially when people feel small compared to governments or empires.
 

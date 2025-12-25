@@ -6,23 +6,23 @@
 
 ## What it contains
 
-### The north kingdom, [Israel](glossary.md#israel) [^gl-israel]
+### The north kingdom, [Israel](glossary.md#israel)
 
-At the start, [Israel](glossary.md#israel) [^gl-israel] has many kings, and most are shown as doing the wrong thing. [Prophets](glossary.md#prophet) [^gl-prophet], people who speak [God](glossary.md#god) [^gl-god]’s message, keep warning them to change direction.
+At the start, [Israel](glossary.md#israel) has many kings, and most are shown as doing the wrong thing. [Prophets](glossary.md#prophet) [^gl-prophet], people who speak [God](glossary.md#god)’s message, keep warning them to change direction.
 
-A major figure is **Elisha**, a [prophet](glossary.md#prophet) [^gl-prophet] who follows Elijah. 2 Kings tells stories where Elisha helps people in need, performs miracles (like healing and providing food), and delivers warnings and guidance to kings. These stories are meant to show that [God](glossary.md#god) [^gl-god] is active and concerned with both big national events and ordinary people.
+A major figure is **Elisha**, a [prophet](glossary.md#prophet) who follows Elijah. 2 Kings tells stories where Elisha helps people in need, performs miracles (like healing and providing food), and delivers warnings and guidance to kings. These stories are meant to show that [God](glossary.md#god) is active and concerned with both big national events and ordinary people.
 
-Eventually, [Israel](glossary.md#israel) [^gl-israel]’s problems catch up with it. The powerful empire of **Assyria** attacks. [Israel](glossary.md#israel) [^gl-israel]’s capital, **Samaria**, is conquered, and many [Israelites](glossary.md#israel) [^gl-israel] are taken away into [exile](glossary.md#exile) [^gl-exile]. The book explains this as the result of years of ignoring warnings and refusing to change.
+Eventually, [Israel](glossary.md#israel)’s problems catch up with it. The powerful empire of **Assyria** attacks. [Israel](glossary.md#israel)’s capital, **Samaria**, is conquered, and many [Israelites](glossary.md#israel) are taken away into [exile](glossary.md#exile) [^gl-exile]. The book explains this as the result of years of ignoring warnings and refusing to change.
 
-### The south kingdom, [Judah](glossary.md#judah) [^gl-judah]
+### The south kingdom, [Judah](glossary.md#judah)
 
-[Judah](glossary.md#judah) [^gl-judah] continues after [Israel](glossary.md#israel) [^gl-israel] falls. [Judah](glossary.md#judah) [^gl-judah]’s kings are a mixed group. Some are described as faithful reformers, others as leading people away from [God](glossary.md#god) [^gl-god]’s commands.
+[Judah](glossary.md#judah) continues after [Israel](glossary.md#israel) falls. [Judah](glossary.md#judah)’s kings are a mixed group. Some are described as faithful reformers, others as leading people away from [God](glossary.md#god)’s commands.
 
 Two important reforming kings are:
 
-* **Hezekiah**, who tries to remove idols and trust [God](glossary.md#god) [^gl-god] during a crisis when Assyria threatens [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem]. [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem] survives that attack.
-* **Josiah**, who makes big reforms after a “book of the law” is found (many readers connect this to teachings like those in Deuteronomy). Josiah tries to bring the nation back to worshipping [God](glossary.md#god) [^gl-god] alone and living more justly.
-But after Josiah, [Judah](glossary.md#judah) [^gl-judah] quickly declines again. Another empire, **Babylon**, rises. Babylon attacks [Judah](glossary.md#judah) [^gl-judah], and after several steps of conflict, **[Jerusalem](glossary.md#jerusalem) [^gl-jerusalem] is destroyed**, including the **[temple](glossary.md#temple) [^gl-temple]**, which was the central place of [worship](glossary.md#worship) [^gl-worship]. Many people are taken into [exile](glossary.md#exile) [^gl-exile] in Babylon.
+* **Hezekiah**, who tries to remove [idols](glossary.md#idol) [^gl-idol] and trust [God](glossary.md#god) during a crisis when Assyria threatens [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem]. [Jerusalem](glossary.md#jerusalem) survives that attack.
+* **Josiah**, who makes big reforms after a “book of the law” is found (many readers connect this to teachings like those in Deuteronomy). Josiah tries to bring the nation back to worshipping [God](glossary.md#god) alone and living more justly.
+But after Josiah, [Judah](glossary.md#judah) quickly declines again. Another empire, **Babylon**, rises. Babylon attacks [Judah](glossary.md#judah), and after several steps of conflict, **[Jerusalem](glossary.md#jerusalem) is destroyed**, including the **[temple](glossary.md#temple) [^gl-temple]**, which was the central place of [worship](glossary.md#worship). Many people are taken into [exile](glossary.md#exile) in Babylon.
 
 ### How it ends
 
@@ -31,7 +31,7 @@ But after Josiah, [Judah](glossary.md#judah) [^gl-judah] quickly declines again.
 ## Big ideas
 
 * The book links national decline with injustice and unfaithfulness, not just military weakness.
-* [Prophets](glossary.md#prophet) [^gl-prophet] appear as voices challenging leaders and warning about consequences.
+* [Prophets](glossary.md#prophet) appear as voices challenging leaders and warning about consequences.
 * Even at the darkest ending, a small “hint of hope” remains.
 
 [^gl-israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
@@ -40,5 +40,6 @@ But after Josiah, [Judah](glossary.md#judah) [^gl-judah] quickly declines again.
 [^gl-god]: The main divine being in Judaism and Christianity.
 [^gl-prophet]: A person who speaks messages they believe come from God.
 [^gl-exile]: Being forced to live away from one’s homeland.
+[^gl-idol]: An object or false god treated as most important.
 [^gl-jerusalem]: A major city in the Bible’s story.
 [^gl-temple]: The main worship building in Jerusalem in ancient Israel.

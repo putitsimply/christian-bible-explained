@@ -16,9 +16,9 @@ But the book is not just gloomy. Over and over, it also says something practical
 
 Ecclesiastes also includes some famous reflections about time, including the poem that says there is “a time for everything”, a time to laugh, a time to cry, a time to build, a time to tear down. The point is that life has seasons, and people cannot force every season to be the one they want.
 
-Near the end, the Teacher becomes clearer about his conclusion: real meaning is not found in collecting achievements or pleasure. The book finishes by saying the best foundation is to **respect [God](glossary.md#god) [^gl-god] and live rightly**, because [God](glossary.md#god) [^gl-god] sees the whole picture, even when humans cannot.
+Near the end, the Teacher becomes clearer about his conclusion: real meaning is not found in collecting achievements or pleasure. The book finishes by saying the best foundation is to **respect [God](glossary.md#god) [^gl-god] and live rightly**, because [God](glossary.md#god) sees the whole picture, even when humans cannot.
 
-So Ecclesiastes is like a realistic guide for people who wonder, “Is this all there is?” It admits life can be confusing, then points toward humility, gratitude, and living with [God](glossary.md#god) [^gl-god] in mind.
+So Ecclesiastes is like a realistic guide for people who wonder, “Is this all there is?” It admits life can be confusing, then points toward humility, gratitude, and living with [God](glossary.md#god) in mind.
 
 ## Big ideas
 

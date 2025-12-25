@@ -16,11 +16,11 @@ Paul tells them that even though he is locked up, the message about Jesus is sti
 
 **3) A big call to unity and humility**
 
-Paul urges the [church](glossary.md#church) [^gl-church] to stay united. He tells them not to fight for status or attention. Instead, they should look out for one another. Here, Philippians includes one of its most famous sections: Paul describes Jesus as someone who had great honour but chose to lower himself, serve others, and suffer, and then [God](glossary.md#god) [^gl-god] lifted him up. Paul uses this as the model for how Christians should treat each other, with humility and service.
+Paul urges the [church](glossary.md#church) [^gl-church] to stay united. He tells them not to fight for status or attention. Instead, they should look out for one another. Here, Philippians includes one of its most famous sections: Paul describes Jesus as someone who had great honour but chose to lower himself, serve others, and suffer, and then [God](glossary.md#god) lifted him up. Paul uses this as the model for how Christians should treat each other, with humility and service.
 
 **4) Living faithfully in a tough world**
 
-Paul reminds them that following Jesus can be challenging, especially when people around them do not agree. He tells them to “shine” by living good lives, holding on to hope, and staying steady. He also says that [God](glossary.md#god) [^gl-god] helps believers grow in doing what is right.
+Paul reminds them that following Jesus can be challenging, especially when people around them do not agree. He tells them to “shine” by living good lives, holding on to hope, and staying steady. He also says that [God](glossary.md#god) helps believers grow in doing what is right.
 
 **5) Paul mentions trusted helpers**
 

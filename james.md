@@ -12,7 +12,7 @@ A big theme is that listening and doing matter. James says people should be quic
 
 James also talks about fairness and how communities treat people. He criticises showing special treatment to rich or important-looking people while ignoring the poor. He argues that this goes against loving one’s neighbour, and he warns that wealth can become a trap if it leads to pride or unfair behaviour.
 
-One of the most famous parts is about “[faith](glossary.md#faith) [^gl-faith] and works.” James says that if someone claims to have [faith](glossary.md#faith) [^gl-faith] but never helps anyone and never changes how they live, that [faith](glossary.md#faith) [^gl-faith] is empty. His point is that real trust in [God](glossary.md#god) [^gl-god] should produce visible results, like generosity, self-control, and courage to do what is right.
+One of the most famous parts is about “[faith](glossary.md#faith) and works.” James says that if someone claims to have [faith](glossary.md#faith) but never helps anyone and never changes how they live, that [faith](glossary.md#faith) is empty. His point is that real trust in [God](glossary.md#god) should produce visible results, like generosity, self-control, and courage to do what is right.
 
 James spends time on speech, especially the tongue. He says words are powerful, like a small spark that can start a big fire. He warns against gossip, insults, and saying one thing in [worship](glossary.md#worship) [^gl-worship] and another thing in everyday life.
 
@@ -20,11 +20,11 @@ Near the end, James challenges pride and selfish ambition. He says quarrels ofte
 
 He finishes with advice about patience during suffering, honesty, and [prayer](glossary.md#prayer) [^gl-prayer]. He says people should pray in trouble, sing in joy, and pray for the sick. He also encourages the community to bring someone back if they wander away from the right path.
 
-Overall, James teaches that genuine [faith](glossary.md#faith) [^gl-faith] is meant to be lived out through character and action.
+Overall, James teaches that genuine [faith](glossary.md#faith) is meant to be lived out through character and action.
 
 ## Big ideas
 
-* [Faith](glossary.md#faith) [^gl-faith] is described as real when it shows up in actions, not only words.
+* [Faith](glossary.md#faith) is described as real when it shows up in actions, not only words.
 * How a community treats poor and rich people is treated as a serious moral test.
 * Speech matters: words can heal or harm.
 

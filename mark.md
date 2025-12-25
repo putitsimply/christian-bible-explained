@@ -12,7 +12,7 @@ Mark opens with John the Baptist preparing people for someone important. Jesus i
 
 **Jesus’ ministry**
 
-A big part of Mark shows Jesus doing powerful actions that people in the story see as signs of [God](glossary.md#god) [^gl-god]’s power. These include healing sick people, helping people who are suffering, calming a storm, and feeding large crowds. Jesus also tells short teaching stories called **[parables](glossary.md#parable) [^gl-parable]** (stories with a deeper meaning). He talks a lot about the “kingdom of [God](glossary.md#god) [^gl-god]”, which in this context means [God](glossary.md#god) [^gl-god]’s rule or reign, the idea that [God](glossary.md#god) [^gl-god] is at work to set things right.
+A big part of Mark shows Jesus doing powerful actions that people in the story see as signs of [God](glossary.md#god) [^gl-god]’s power. These include healing sick people, helping people who are suffering, calming a storm, and feeding large crowds. Jesus also tells short teaching stories called **[parables](glossary.md#parable) [^gl-parable]** (stories with a deeper meaning). He talks a lot about the “kingdom of [God](glossary.md#god)”, which in this context means [God](glossary.md#god)’s rule or reign, the idea that [God](glossary.md#god) is at work to set things right.
 
 **Questions about who Jesus is**
 
@@ -20,11 +20,11 @@ People keep trying to figure out Jesus’ identity. Some think he is a [prophet]
 
 **Conflict grows**
 
-Jesus argues with some religious leaders, especially about rules, authority, and what really matters to [God](glossary.md#god) [^gl-god], like mercy and justice. As Jesus becomes more well known, the tension increases.
+Jesus argues with some religious leaders, especially about rules, authority, and what really matters to [God](glossary.md#god), like mercy and justice. As Jesus becomes more well known, the tension increases.
 
 **Journey to [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem] and the final week**
 
-In the second half of Mark, Jesus heads to [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem]. He predicts his suffering and death, and teaches that following him can involve [sacrifice](glossary.md#sacrifice) [^gl-sacrifice]. In [Jerusalem](glossary.md#jerusalem) [^gl-jerusalem], there is a last meal with his [disciples](glossary.md#disciple) [^gl-disciple], betrayal, arrest, and a trial. Jesus is crucified (executed on a cross by the Romans). Mark describes his suffering in a serious, direct way.
+In the second half of Mark, Jesus heads to [Jerusalem](glossary.md#jerusalem). He predicts his suffering and death, and teaches that following him can involve [sacrifice](glossary.md#sacrifice) [^gl-sacrifice]. In [Jerusalem](glossary.md#jerusalem), there is a last meal with his [disciples](glossary.md#disciple), betrayal, arrest, and a trial. Jesus is crucified (executed on a cross by the Romans). Mark describes his suffering in a serious, direct way.
 
 **The ending**
 
