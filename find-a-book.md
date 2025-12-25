@@ -15,9 +15,9 @@ layout:
   metadata:
     visible: true
 ---
-# Find a Bible[^gl_bible] book
+# Find a Bible book
 
-If you already know the name of a Bible book, use the A–Z list below. If you are not sure what you need, try browsing by section first.
+If you already know the name of a Bible[^gl_bible] book, use the A–Z list below. If you are not sure what you need, try browsing by section first.
 
 ## Browse by section
 

@@ -15,9 +15,9 @@ layout:
   metadata:
     visible: true
 ---
-# Minor prophets[^gl_prophet]
+# Minor prophets
 
-These are twelve shorter prophetic books. They speak to different places and times, but many return to similar themes: worship[^gl_worship], justice, faithfulness, and hope after disaster.
+These are twelve shorter prophetic books. Prophets[^gl_prophet] speak messages they believe come from God[^gl_god]. These books speak to different places and times, but many return to similar themes: worship[^gl_worship], justice, faithfulness, and hope after disaster.
 
 “Minor” means shorter, not less meaningful.
 
@@ -37,6 +37,8 @@ These are twelve shorter prophetic books. They speak to different places and tim
 * [Malachi](malachi.md): challenges about worship and living fairly.
 
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
+
+[^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 
 [^gl_worship]: Actions showing devotion to God (prayer, songs, rituals). ([Glossary](glossary.md#worship))
 

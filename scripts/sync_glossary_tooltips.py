@@ -121,6 +121,40 @@ def markdown_link_spans(text: str) -> list[tuple[int, int]]:
     return spans
 
 
+def protected_spans(text: str) -> list[tuple[int, int]]:
+    """
+    Spans where we should never insert glossary footnotes.
+
+    - YAML frontmatter (if present)
+    - Markdown headings (GitBook headings can render oddly with footnote markers)
+    """
+    spans: list[tuple[int, int]] = []
+
+    # YAML frontmatter at the very top.
+    if text.startswith("---\n") or text.startswith("---\r\n"):
+        lines = text.splitlines(True)
+        offset = 0
+        delim_count = 0
+        for line in lines:
+            offset_next = offset + len(line)
+            if line.strip() == "---":
+                delim_count += 1
+                if delim_count == 2:
+                    spans.append((0, offset_next))
+                    break
+            offset = offset_next
+
+    # Markdown headings.
+    offset = 0
+    for line in text.splitlines(True):
+        stripped = line.lstrip()
+        if stripped.startswith("#"):
+            spans.append((offset, offset + len(line)))
+        offset += len(line)
+
+    return spans
+
+
 def match_outside_spans(text: str, pattern: re.Pattern[str], spans: list[tuple[int, int]]) -> re.Match[str] | None:
     """
     Find the first match of `pattern` that does not overlap any span in `spans`.
@@ -281,7 +315,7 @@ def sync_file(
             continue
         footnote_id = anchor_to_glossary_fn_id(anchor)
         inserted = False
-        spans = markdown_link_spans(body_text)
+        spans = markdown_link_spans(body_text) + protected_spans(body_text)
         for variant in variants:
             pat = phrase_regex(variant)
             m = match_outside_spans(body_text, pat, spans)

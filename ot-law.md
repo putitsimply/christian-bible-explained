@@ -15,11 +15,11 @@ layout:
   metadata:
     visible: true
 ---
-# The Law (Torah[^gl_torah])
+# The Law (Torah)
 
 These books start the Bible[^gl_bible]’s story. They include big origin stories, the Exodus from Egypt, and many instructions about how to live as a community.
 
-“Torah” is a Hebrew word that can mean “instruction” or “law”. These books mix story and teaching, so they are not only rule-books.
+“Torah”[^gl_torah] is a Hebrew word that can mean “instruction” or “law”. These books mix story and teaching, so they are not only rule-books.
 
 ## Books in this section
 
@@ -29,9 +29,9 @@ These books start the Bible[^gl_bible]’s story. They include big origin storie
 * [Numbers](numbers.md): a long journey in the wilderness, with challenges and leadership.
 * [Deuteronomy](deuteronomy.md): Moses’ final speeches, restating the law and calling for faithfulness.
 
-[^gl_torah]: The first five Bible books; also means “instruction” or “law”. ([Glossary](glossary.md#torah))
-
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
+
+[^gl_torah]: The first five Bible books; also means “instruction” or “law”. ([Glossary](glossary.md#torah))
 
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
 
