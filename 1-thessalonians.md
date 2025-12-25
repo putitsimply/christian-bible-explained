@@ -8,11 +8,11 @@
 
 ### What led to the letter
 
-Paul had visited Thessalonica and taught people about Jesus. Soon after, he had to leave, and the new believers faced pressure and bullying because of their [faith](glossary.md#faith) [^gl_faith]. Paul worried about them, so he sent Timothy to check on them. Timothy came back with good news: they were still trusting [God](glossary.md#god) [^gl_god] and trying to live well, even though things were hard. Paul writes this letter to encourage them and answer questions.
+Paul had visited Thessalonica and taught people about Jesus. Soon after, he had to leave, and the new believers faced pressure and bullying because of their faith[^gl_faith]. Paul worried about them, so he sent Timothy to check on them. Timothy came back with good news: they were still trusting God[^gl_god] and trying to live well, even though things were hard. Paul writes this letter to encourage them and answer questions.
 
 ### Main things that happen in the letter
 
-**1) Paul encourages them and thanks [God](glossary.md#god)**\
+**1) Paul encourages them and thanks God**\
 Paul is relieved and thankful that they are staying strong. He reminds them that his message was not a trick or a way to get money or power. He says he cared for them like a good parent cares for children.
 
 **2) He explains why he has not returned yet**\
@@ -26,15 +26,15 @@ Paul tells them to keep growing in a life that matches their beliefs. He talks a
 * **Living calmly and responsibly**, not stirring up drama.
 * **Working honestly** and not taking advantage of others.
 **4) He answers a big worry about death and the future**\
-Some people in the [church](glossary.md#church) [^gl_church] were worried about what happens to believers who die before Jesus returns. Paul tells them not to panic. He explains their hope like this:
+Some people in the church[^gl_church] were worried about what happens to believers who die before Jesus returns. Paul tells them not to panic. He explains their hope like this:
 
 * Christians believe Jesus will return.
 * Those who have died will not miss out.
-* [God](glossary.md#god) will bring them into the future renewal as well.
-This part is often connected to the Christian idea of **[resurrection](glossary.md#resurrection) [^gl_resurrection]**, which means being raised to new life.
+* God will bring them into the future renewal as well.
+This part is often connected to the Christian idea of **resurrection[^gl_resurrection]**, which means being raised to new life.
 
 **5) He warns them to stay ready**\
-Paul says the “day of the Lord” (a [Bible](glossary.md#bible) [^gl_bible] phrase for a time when [God](glossary.md#god) brings justice and sets things right) will come unexpectedly. So they should live like people who are awake and ready, doing what is right, not like people who are careless.
+Paul says the “day of the Lord” (a Bible[^gl_bible] phrase for a time when God brings justice and sets things right) will come unexpectedly. So they should live like people who are awake and ready, doing what is right, not like people who are careless.
 
 **6) Final practical advice**\
 He gives lots of quick instructions, like:
@@ -49,16 +49,16 @@ He gives lots of quick instructions, like:
 
 * Encouragement during pressure: keep going, keep loving, and keep living responsibly.
 * Hope about death and the future is explained to calm fear.
-* Practical community habits matter (work, patience, [prayer](glossary.md#prayer) [^gl_prayer], kindness).
+* Practical community habits matter (work, patience, prayer[^gl_prayer], kindness).
 
-[^gl_faith]: Trust; in Christianity, trusting God and Jesus.
+[^gl_faith]: Trust; in Christianity, trusting God and Jesus. ([Glossary](glossary.md#faith))
 
-[^gl_god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 
-[^gl_church]: A community of Christians, not just a building.
+[^gl_church]: A community of Christians, not just a building. ([Glossary](glossary.md#church))
 
-[^gl_resurrection]: Life after death; Christians believe Jesus rose.
+[^gl_resurrection]: Life after death; Christians believe Jesus rose. ([Glossary](glossary.md#resurrection))
 
-[^gl_bible]: Christian sacred writings: many books and types of writing.
+[^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 
-[^gl_prayer]: Speaking to God (silently or aloud).
+[^gl_prayer]: Speaking to God (silently or aloud). ([Glossary](glossary.md#prayer))

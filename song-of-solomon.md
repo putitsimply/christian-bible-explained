@@ -2,7 +2,7 @@
 
 ## What this book is
 
-Song of Solomon, also called Song of Songs, is a book of poetry about love. It is not a story with battles or kings. Instead, it is a set of love poems where different voices speak, mainly a young woman and a young man, and sometimes a group called “friends” or “daughters of [Jerusalem](glossary.md#jerusalem) [^gl_jerusalem]” (like a chorus in a play).
+Song of Solomon, also called Song of Songs, is a book of poetry about love. It is not a story with battles or kings. Instead, it is a set of love poems where different voices speak, mainly a young woman and a young man, and sometimes a group called “friends” or “daughters of Jerusalem[^gl_jerusalem]” (like a chorus in a play).
 
 ## What it contains
 
@@ -17,7 +17,7 @@ Because it is poetry, the book does not always move in a straight line. It can j
 People interpret the book in different ways:
 
 * **As romantic poetry:** celebrating love, attraction, commitment, and the goodness of marriage.
-* **As an allegory:** an allegory is a story or poem that also stands for something else. Some readers see the lovers as symbolising [God](glossary.md#god) [^gl_god]’s love for his people, or in Christian teaching, Christ’s love for the [church](glossary.md#church) [^gl_church].
+* **As an allegory:** an allegory is a story or poem that also stands for something else. Some readers see the lovers as symbolising God[^gl_god]’s love for his people, or in Christian teaching, Christ’s love for the church[^gl_church].
 Either way, the main focus of Song of Solomon is the beauty, joy, and seriousness of faithful love.
 
 ## Big ideas
@@ -26,8 +26,8 @@ Either way, the main focus of Song of Solomon is the beauty, joy, and seriousnes
 * Poetry can say things indirectly, using pictures and metaphors rather than plain statements.
 * Readers interpret the book in different ways (romantic poetry, or symbolic/allegorical meanings).
 
-[^gl_jerusalem]: A major city in the Bible’s story.
+[^gl_jerusalem]: A major city in the Bible’s story. ([Glossary](glossary.md#jerusalem))
 
-[^gl_god]: The main divine being in Judaism and Christianity.
+[^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 
-[^gl_church]: A community of Christians, not just a building.
+[^gl_church]: A community of Christians, not just a building. ([Glossary](glossary.md#church))
