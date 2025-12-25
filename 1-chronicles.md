@@ -32,12 +32,12 @@ Even though David will not build the temple[^gl-temple] himself, he does major p
 
 * Compared with Samuel and Kings, 1 Chronicles leaves out some of David’s worst mistakes and focuses more on worship[^gl-worship], the temple[^gl-temple], and the hope of a restored community.
 
-[^gl-covenant]: <glossary.md#covenant>
-[^gl-exile]: <glossary.md#exile>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-judah]: <glossary.md#judah>
-[^gl-priest]: <glossary.md#priest>
-[^gl-temple]: <glossary.md#temple>
-[^gl-worship]: <glossary.md#worship>
+[^gl-covenant]: [glossary](glossary.md#covenant)
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-priest]: [glossary](glossary.md#priest)
+[^gl-temple]: [glossary](glossary.md#temple)
+[^gl-worship]: [glossary](glossary.md#worship)

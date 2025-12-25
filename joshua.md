@@ -28,7 +28,7 @@ Joshua finishes with Joshua’s farewell speeches. He warns them not to copy oth
 * The book includes difficult, violent scenes that many readers find challenging and interpret in different ways.
 * After conquest stories, the focus shifts to building a stable society (land division and cities of refuge).
 
-[^gl-covenant]: <glossary.md#covenant>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-priest]: <glossary.md#priest>
+[^gl-covenant]: [glossary](glossary.md#covenant)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-priest]: [glossary](glossary.md#priest)

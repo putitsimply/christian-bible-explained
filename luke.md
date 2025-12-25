@@ -47,13 +47,13 @@ Then Luke describes Christians’ central belief: that Jesus rises from the dead
 * The book combines stories, teachings, and parables to explain what Jesus is like.
 * The ending leads into Acts, as the movement continues after Jesus.
 
-[^gl-ascension]: <glossary.md#ascension>
-[^gl-crucifixion]: <glossary.md#crucifixion>
-[^gl-disciple]: <glossary.md#disciple>
-[^gl-god]: <glossary.md#god>
-[^gl-gospel]: <glossary.md#gospel>
-[^gl-holy-spirit]: <glossary.md#holy-spirit>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-prayer]: <glossary.md#prayer>
-[^gl-resurrection]: <glossary.md#resurrection>
-[^gl-temple]: <glossary.md#temple>
+[^gl-ascension]: [glossary](glossary.md#ascension)
+[^gl-crucifixion]: [glossary](glossary.md#crucifixion)
+[^gl-disciple]: [glossary](glossary.md#disciple)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-gospel]: [glossary](glossary.md#gospel)
+[^gl-holy-spirit]: [glossary](glossary.md#holy-spirit)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-prayer]: [glossary](glossary.md#prayer)
+[^gl-resurrection]: [glossary](glossary.md#resurrection)
+[^gl-temple]: [glossary](glossary.md#temple)

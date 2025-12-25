@@ -32,12 +32,12 @@ Overall, Mark is a fast-moving account that highlights Jesus’ actions, the gro
 * The story keeps asking “Who is Jesus?” and shows even close followers struggling to understand.
 * Conflict grows into arrest, crucifixion[^gl-crucifixion], and (in Christian belief) resurrection[^gl-resurrection].
 
-[^gl-crucifixion]: <glossary.md#crucifixion>
-[^gl-disciple]: <glossary.md#disciple>
-[^gl-god]: <glossary.md#god>
-[^gl-gospel]: <glossary.md#gospel>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-messiah]: <glossary.md#messiah>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-resurrection]: <glossary.md#resurrection>
-[^gl-sacrifice]: <glossary.md#sacrifice>
+[^gl-crucifixion]: [glossary](glossary.md#crucifixion)
+[^gl-disciple]: [glossary](glossary.md#disciple)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-gospel]: [glossary](glossary.md#gospel)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-messiah]: [glossary](glossary.md#messiah)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-resurrection]: [glossary](glossary.md#resurrection)
+[^gl-sacrifice]: [glossary](glossary.md#sacrifice)

@@ -29,12 +29,12 @@ Haggai is a prophet[^gl-prophet], meaning someone who delivers messages believed
 
 Haggai is about priorities, community responsibility, and encouragement to finish important work even when it feels slow or unimpressive.
 
-[^gl-exile]: <glossary.md#exile>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-judah]: <glossary.md#judah>
-[^gl-priest]: <glossary.md#priest>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-temple]: <glossary.md#temple>
-[^gl-worship]: <glossary.md#worship>
-[^gl-high-priest]: <glossary.md#high-priest>
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-priest]: [glossary](glossary.md#priest)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-temple]: [glossary](glossary.md#temple)
+[^gl-worship]: [glossary](glossary.md#worship)
+[^gl-high-priest]: [glossary](glossary.md#high-priest)

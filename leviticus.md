@@ -22,12 +22,12 @@ Here’s what happens, in a clear overview:
 * Community life matters: the rules include justice, honesty, and protection for vulnerable people.
 * Holiness is about everyday behaviour, not only religious ceremonies.
 
-[^gl-atonement]: <glossary.md#atonement>
-[^gl-bible]: <glossary.md#bible>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-priest]: <glossary.md#priest>
-[^gl-sabbath]: <glossary.md#sabbath>
-[^gl-tabernacle]: <glossary.md#tabernacle>
-[^gl-worship]: <glossary.md#worship>
-[^gl-high-priest]: <glossary.md#high-priest>
+[^gl-atonement]: [glossary](glossary.md#atonement)
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-priest]: [glossary](glossary.md#priest)
+[^gl-sabbath]: [glossary](glossary.md#sabbath)
+[^gl-tabernacle]: [glossary](glossary.md#tabernacle)
+[^gl-worship]: [glossary](glossary.md#worship)
+[^gl-high-priest]: [glossary](glossary.md#high-priest)

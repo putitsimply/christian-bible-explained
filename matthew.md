@@ -26,12 +26,12 @@ Finally, Matthew tells of Jesus’ resurrection[^gl-resurrection] (Christians be
 * The story builds toward conflict in Jerusalem[^gl-jerusalem], ending in crucifixion[^gl-crucifixion] and (in Christian belief) resurrection[^gl-resurrection].
 * Matthew often connects Jesus to Jewish hopes for a Messiah[^gl-messiah] and for God[^gl-god]’s kingdom (God[^gl-god]’s rule and ways).
 
-[^gl-crucifixion]: <glossary.md#crucifixion>
-[^gl-disciple]: <glossary.md#disciple>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-messiah]: <glossary.md#messiah>
-[^gl-pharisees]: <glossary.md#pharisees>
-[^gl-prayer]: <glossary.md#prayer>
-[^gl-resurrection]: <glossary.md#resurrection>
-[^gl-temple]: <glossary.md#temple>
+[^gl-crucifixion]: [glossary](glossary.md#crucifixion)
+[^gl-disciple]: [glossary](glossary.md#disciple)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-messiah]: [glossary](glossary.md#messiah)
+[^gl-pharisees]: [glossary](glossary.md#pharisees)
+[^gl-prayer]: [glossary](glossary.md#prayer)
+[^gl-resurrection]: [glossary](glossary.md#resurrection)
+[^gl-temple]: [glossary](glossary.md#temple)

@@ -35,9 +35,9 @@ Hebrews finishes with encouragement, a blessing, and a few personal notes, inclu
 * Jesus is described as greater than earlier leaders, and as someone who helps people come close to God[^gl-god].
 * Faith[^gl-faith] is pictured as endurance: keep going, help each other, and live wisely.
 
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-priest]: <glossary.md#priest>
-[^gl-sacrifice]: <glossary.md#sacrifice>
-[^gl-temple]: <glossary.md#temple>
-[^gl-high-priest]: <glossary.md#high-priest>
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-priest]: [glossary](glossary.md#priest)
+[^gl-sacrifice]: [glossary](glossary.md#sacrifice)
+[^gl-temple]: [glossary](glossary.md#temple)
+[^gl-high-priest]: [glossary](glossary.md#high-priest)

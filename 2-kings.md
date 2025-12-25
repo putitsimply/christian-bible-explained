@@ -35,11 +35,11 @@ But after Josiah, Judah[^gl-judah] quickly declines again. Another empire, **Bab
 * Prophets[^gl-prophet] appear as voices challenging leaders and warning about consequences.
 * Even at the darkest ending, a small “hint of hope” remains.
 
-[^gl-exile]: <glossary.md#exile>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-judah]: <glossary.md#judah>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-temple]: <glossary.md#temple>
-[^gl-worship]: <glossary.md#worship>
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-temple]: [glossary](glossary.md#temple)
+[^gl-worship]: [glossary](glossary.md#worship)

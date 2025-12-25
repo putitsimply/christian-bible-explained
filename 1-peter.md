@@ -30,9 +30,9 @@ He finishes by reminding them that God[^gl-god]’s **grace[^gl-grace]** (meanin
 * It encourages respectful, non-revenge responses even when treated unfairly.
 * Community support and humble leadership are emphasised.
 
-[^gl-baptism]: <glossary.md#baptism>
-[^gl-church]: <glossary.md#church>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-grace]: <glossary.md#grace>
-[^gl-salvation]: <glossary.md#salvation>
+[^gl-baptism]: [glossary](glossary.md#baptism)
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-grace]: [glossary](glossary.md#grace)
+[^gl-salvation]: [glossary](glossary.md#salvation)

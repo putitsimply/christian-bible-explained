@@ -30,9 +30,9 @@ Ephesians is a letter in the New Testament. It is traditionally linked to the ap
 * The letter stresses unity across differences (especially Jewish and non-Jewish believers).
 * In one sentence: God[^gl-god]’s grace[^gl-grace] creates a united community, and that community is called to live with love, maturity, and courage.
 
-[^gl-apostle]: <glossary.md#apostle>
-[^gl-church]: <glossary.md#church>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-grace]: <glossary.md#grace>
-[^gl-holy-spirit]: <glossary.md#holy-spirit>
+[^gl-apostle]: [glossary](glossary.md#apostle)
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-grace]: [glossary](glossary.md#grace)
+[^gl-holy-spirit]: [glossary](glossary.md#holy-spirit)

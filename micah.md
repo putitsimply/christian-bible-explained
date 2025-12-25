@@ -24,11 +24,11 @@ So overall, Micah is a mix of warning and comfort: it condemns corruption and cr
 * The book mixes warning (consequences) with hope (restoration after disaster).
 * Different communities connect the “future ruler” passage to different expectations.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-judah]: <glossary.md#judah>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-temple]: <glossary.md#temple>
-[^gl-worship]: <glossary.md#worship>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-temple]: [glossary](glossary.md#temple)
+[^gl-worship]: [glossary](glossary.md#worship)

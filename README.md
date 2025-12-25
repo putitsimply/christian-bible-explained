@@ -31,8 +31,8 @@ The Christian Bible[^gl-bible] is usually divided into two big parts:
 
 Different Christian traditions order the books differently, and some include extra books that are not in every Bible[^gl-bible]. This guide follows the 66-book ordering that is common in Protestant Bibles.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-israel]: <glossary.md#israel>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-scripture]: <glossary.md#scripture>
-[^gl-worship]: <glossary.md#worship>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-scripture]: [glossary](glossary.md#scripture)
+[^gl-worship]: [glossary](glossary.md#worship)

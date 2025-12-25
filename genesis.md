@@ -31,7 +31,7 @@ Genesis ends with Jacob’s family living in Egypt, setting up the story of Exod
 * It explains how Israel[^gl-israel]’s story begins through a family and a series of promises.
 * Themes include trust, failure, forgiveness, and new beginnings.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-covenant]: <glossary.md#covenant>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-covenant]: [glossary](glossary.md#covenant)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)

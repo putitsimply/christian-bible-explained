@@ -35,7 +35,7 @@ Romans is basically Paul’s “big explanation” of Christian beliefs and the 
 * Trust (faith[^gl-faith]) is presented as the key way people become “made right” with God[^gl-god].
 * Belief should show up in practical love, humility, and unity across differences.
 
-[^gl-church]: <glossary.md#church>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-resurrection]: <glossary.md#resurrection>
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-resurrection]: [glossary](glossary.md#resurrection)

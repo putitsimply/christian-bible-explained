@@ -26,6 +26,6 @@ A notable detail: the book of Esther never directly mentions God[^gl-god] by nam
 * The story shows how power can be abused (and sometimes turned around).
 * Even without mentioning God[^gl-god] directly, the book explores themes of hidden help, timing, and survival.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-god]: <glossary.md#god>
-[^gl-prayer]: <glossary.md#prayer>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-prayer]: [glossary](glossary.md#prayer)

@@ -34,10 +34,10 @@ After Jerusalem[^gl-jerusalem] falls, some survivors flee to Egypt, and Jeremiah
 * It shows a prophet[^gl-prophet]’s lonely, risky role: speaking an unpopular message.
 * Hope appears through the idea of a “new covenant[^gl-covenant]” (a renewed relationship and changed hearts).
 
-[^gl-covenant]: <glossary.md#covenant>
-[^gl-exile]: <glossary.md#exile>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-judah]: <glossary.md#judah>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-temple]: <glossary.md#temple>
+[^gl-covenant]: [glossary](glossary.md#covenant)
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-temple]: [glossary](glossary.md#temple)

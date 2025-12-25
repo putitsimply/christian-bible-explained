@@ -27,14 +27,14 @@ In the later chapters, Judah[^gl-judah]’s kings become more unfaithful, and th
 * The story repeatedly links reform with renewal, and unfaithfulness with decline and disaster.
 * The ending points to hope after exile[^gl-exile]: rebuilding is possible.
 
-[^gl-exile]: <glossary.md#exile>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-idol]: <glossary.md#idol>
-[^gl-israel]: <glossary.md#israel>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-judah]: <glossary.md#judah>
-[^gl-passover]: <glossary.md#passover>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-temple]: <glossary.md#temple>
-[^gl-worship]: <glossary.md#worship>
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-idol]: [glossary](glossary.md#idol)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-passover]: [glossary](glossary.md#passover)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-temple]: [glossary](glossary.md#temple)
+[^gl-worship]: [glossary](glossary.md#worship)

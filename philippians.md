@@ -34,7 +34,7 @@ Paul tells them to rejoice (choose joy) and not be overwhelmed by anxiety. He en
 * Faith[^gl-faith] is about trusting Christ, not showing off religious achievements.
 * Prayer[^gl-prayer] and gratitude are presented as key habits for peace.
 
-[^gl-church]: <glossary.md#church>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-prayer]: <glossary.md#prayer>
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-prayer]: [glossary](glossary.md#prayer)

@@ -28,7 +28,7 @@ Overall, James teaches that genuine faith[^gl-faith] is meant to be lived out th
 * How a community treats poor and rich people is treated as a serious moral test.
 * Speech matters: words can heal or harm.
 
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-prayer]: <glossary.md#prayer>
-[^gl-worship]: <glossary.md#worship>
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-prayer]: [glossary](glossary.md#prayer)
+[^gl-worship]: [glossary](glossary.md#worship)

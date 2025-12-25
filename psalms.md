@@ -34,9 +34,9 @@ Even though it’s not one storyline, it is still possible to notice a “journe
 
 Christians use Psalms in church[^gl-church] services, in personal prayer[^gl-prayer], and sometimes connect certain psalms to Jesus, but the book itself is mainly a shared collection of prayers and songs about life with God[^gl-god].
 
-[^gl-church]: <glossary.md#church>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-prayer]: <glossary.md#prayer>
-[^gl-worship]: <glossary.md#worship>
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-prayer]: [glossary](glossary.md#prayer)
+[^gl-worship]: [glossary](glossary.md#worship)

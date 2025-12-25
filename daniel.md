@@ -24,7 +24,7 @@ Overall, Daniel mixes exciting stories with mysterious visions to teach that cou
 * Empires and rulers look powerful, but the book keeps reminding readers that power changes and does not last.
 * The visions use symbols to express hope that injustice and cruelty will not win forever.
 
-[^gl-exile]: <glossary.md#exile>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-worship]: <glossary.md#worship>
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-worship]: [glossary](glossary.md#worship)

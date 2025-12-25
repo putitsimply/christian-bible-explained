@@ -32,13 +32,13 @@ The Old Testament also includes wisdom and worship[^gl-worship] books. Psalms is
 
 Finally, books like Ezra and Nehemiah describe some Israelites[^gl-israel] returning from exile[^gl-exile] and rebuilding their community. The Old Testament ends with hope and questions, especially about how God[^gl-god] will restore things and what faithful living should look like.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-covenant]: <glossary.md#covenant>
-[^gl-exile]: <glossary.md#exile>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-judah]: <glossary.md#judah>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-temple]: <glossary.md#temple>
-[^gl-worship]: <glossary.md#worship>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-covenant]: [glossary](glossary.md#covenant)
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-temple]: [glossary](glossary.md#temple)
+[^gl-worship]: [glossary](glossary.md#worship)

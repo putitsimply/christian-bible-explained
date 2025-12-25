@@ -34,11 +34,11 @@ Paul is arrested, put on trial several times, and eventually appeals to Caesar, 
 * The story shows major disagreements (especially about Jews and non-Jews) and how leaders try to solve them.
 * Hardship and opposition are presented as normal parts of the early Christian story.
 
-[^gl-apostle]: <glossary.md#apostle>
-[^gl-ascension]: <glossary.md#ascension>
-[^gl-gentile]: <glossary.md#gentile>
-[^gl-god]: <glossary.md#god>
-[^gl-holy-spirit]: <glossary.md#holy-spirit>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-pentecost]: <glossary.md#pentecost>
-[^gl-resurrection]: <glossary.md#resurrection>
+[^gl-apostle]: [glossary](glossary.md#apostle)
+[^gl-ascension]: [glossary](glossary.md#ascension)
+[^gl-gentile]: [glossary](glossary.md#gentile)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-holy-spirit]: [glossary](glossary.md#holy-spirit)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-pentecost]: [glossary](glossary.md#pentecost)
+[^gl-resurrection]: [glossary](glossary.md#resurrection)

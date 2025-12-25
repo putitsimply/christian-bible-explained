@@ -46,9 +46,9 @@ Overall, Jude is a warning letter that urges readers to guard what they have bee
 * It uses examples from older stories to argue that choices have consequences.
 * It balances “be careful” with “help others kindly.”
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-church]: <glossary.md#church>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-salvation]: <glossary.md#salvation>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-salvation]: [glossary](glossary.md#salvation)

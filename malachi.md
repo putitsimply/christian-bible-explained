@@ -25,9 +25,9 @@ Overall, Malachi is a wake-up call: stop going through the motions, start living
 * It links worship[^gl-worship], family life, and social justice as connected, not separate topics.
 * It ends by looking ahead to future change and justice, which later readers interpret in different ways.
 
-[^gl-exile]: <glossary.md#exile>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-priest]: <glossary.md#priest>
-[^gl-temple]: <glossary.md#temple>
-[^gl-worship]: <glossary.md#worship>
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-priest]: [glossary](glossary.md#priest)
+[^gl-temple]: [glossary](glossary.md#temple)
+[^gl-worship]: [glossary](glossary.md#worship)

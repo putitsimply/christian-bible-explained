@@ -28,6 +28,6 @@ Either way, the main focus of Song of Solomon is the beauty, joy, and seriousnes
 * Poetry can say things indirectly, using pictures and metaphors rather than plain statements.
 * Readers interpret the book in different ways (romantic poetry, or symbolic/allegorical meanings).
 
-[^gl-church]: <glossary.md#church>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)

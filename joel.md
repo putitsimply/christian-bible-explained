@@ -38,7 +38,7 @@ Joel finishes with a picture of God[^gl-god] bringing justice: wrongs are answer
 * The book mixes warning with hope: change and rebuilding are still possible.
 * A promise about God[^gl-god]’s Spirit becomes important later in Christian reading of Acts.
 
-[^gl-god]: <glossary.md#god>
-[^gl-pentecost]: <glossary.md#pentecost>
-[^gl-priest]: <glossary.md#priest>
-[^gl-worship]: <glossary.md#worship>
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-pentecost]: [glossary](glossary.md#pentecost)
+[^gl-priest]: [glossary](glossary.md#priest)
+[^gl-worship]: [glossary](glossary.md#worship)

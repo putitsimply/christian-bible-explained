@@ -24,8 +24,8 @@ Here is what happens, chapter by chapter:
 * The poems connect disaster with moral reflection, while still pleading for compassion.
 * Hope is present, but it is not rushed: the book ends without a simple “everything is fine now.”
 
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-prayer]: <glossary.md#prayer>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-temple]: <glossary.md#temple>
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-prayer]: [glossary](glossary.md#prayer)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-temple]: [glossary](glossary.md#temple)

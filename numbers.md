@@ -28,8 +28,8 @@ Near the end, there is a **second census** of the new generation. More rules are
 * Leadership and responsibility are complicated, especially during crisis and complaint.
 * The book contrasts one generation’s failures with the next generation’s chance to begin again.
 
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-tabernacle]: <glossary.md#tabernacle>
-[^gl-worship]: <glossary.md#worship>
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-tabernacle]: [glossary](glossary.md#tabernacle)
+[^gl-worship]: [glossary](glossary.md#worship)

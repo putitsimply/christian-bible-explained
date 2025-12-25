@@ -26,10 +26,10 @@ Finally, God[^gl-god] gives detailed instructions for building the tabernacle[^g
 * Covenant[^gl-covenant]: the book centres on a serious agreement about how to live and worship[^gl-worship].
 * Trust under pressure: fear, hunger, and conflict keep testing the people on the journey.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-covenant]: <glossary.md#covenant>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-passover]: <glossary.md#passover>
-[^gl-tabernacle]: <glossary.md#tabernacle>
-[^gl-worship]: <glossary.md#worship>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-covenant]: [glossary](glossary.md#covenant)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-passover]: [glossary](glossary.md#passover)
+[^gl-tabernacle]: [glossary](glossary.md#tabernacle)
+[^gl-worship]: [glossary](glossary.md#worship)

@@ -27,8 +27,8 @@ Nahum explains why Nineveh is being judged. He describes the city as built on vi
 
 Nahum is meant to comfort the oppressed and warn the powerful. Its message is that cruelty and injustice might look like they are winning for a while, but they do not get the last word. In the Bible[^gl-bible]’s storyline, the fall of Nineveh shows that even the biggest empire can fall.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-judah]: <glossary.md#judah>
-[^gl-prophet]: <glossary.md#prophet>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-prophet]: [glossary](glossary.md#prophet)

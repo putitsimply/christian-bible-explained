@@ -28,5 +28,5 @@ Big ideas the letter highlights:
 
 Overall, Philemon is a short, practical letter about choosing mercy, making things right, and treating someone as a person, not just a role.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-church]: <glossary.md#church>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-church]: [glossary](glossary.md#church)

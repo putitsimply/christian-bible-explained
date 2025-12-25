@@ -35,9 +35,9 @@ Near the end, Moses teaches the people a song, gives final blessings to the trib
 * Law is presented as practical guidance for everyday life (especially justice and care for others).
 * The book is a farewell from Moses, looking back and looking ahead at the same time.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-covenant]: <glossary.md#covenant>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-torah]: <glossary.md#torah>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-covenant]: [glossary](glossary.md#covenant)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-torah]: [glossary](glossary.md#torah)

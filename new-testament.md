@@ -30,9 +30,9 @@ The New Testament ends with **Revelation**, a book full of powerful images and s
 
 Overall, the New Testament is about who Jesus is (in Christian belief, the promised Messiah[^gl-messiah]) and what it means to live as his followers in everyday life.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-crucifixion]: <glossary.md#crucifixion>
-[^gl-epistle]: <glossary.md#epistle>
-[^gl-gospel]: <glossary.md#gospel>
-[^gl-messiah]: <glossary.md#messiah>
-[^gl-resurrection]: <glossary.md#resurrection>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-crucifixion]: [glossary](glossary.md#crucifixion)
+[^gl-epistle]: [glossary](glossary.md#epistle)
+[^gl-gospel]: [glossary](glossary.md#gospel)
+[^gl-messiah]: [glossary](glossary.md#messiah)
+[^gl-resurrection]: [glossary](glossary.md#resurrection)

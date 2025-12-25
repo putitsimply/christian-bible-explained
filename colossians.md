@@ -28,5 +28,5 @@ Paul ends by asking them to pray, to be wise in how they speak to outsiders, and
 * Beliefs are meant to lead to changed behaviour (kindness, forgiveness, self-control).
 * Community unity across differences is treated as essential.
 
-[^gl-church]: <glossary.md#church>
-[^gl-god]: <glossary.md#god>
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-god]: [glossary](glossary.md#god)

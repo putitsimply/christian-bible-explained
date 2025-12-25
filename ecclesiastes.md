@@ -26,4 +26,4 @@ So Ecclesiastes is like a realistic guide for people who wonder, “Is this all 
 * Life can feel unfair and out of control, so the book encourages humility and honesty.
 * Enjoying simple gifts is presented as wise, without pretending they solve everything.
 
-[^gl-god]: <glossary.md#god>
+[^gl-god]: [glossary](glossary.md#god)

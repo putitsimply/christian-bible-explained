@@ -24,5 +24,5 @@ Overall, Ruth is about loyalty, kindness, and practical care for people in hards
 * The story pays attention to people who are vulnerable (widows, migrants, the poor).
 * Ruth becomes connected to King David’s family line, which later matters in Christian tradition.
 
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)

@@ -43,8 +43,8 @@ Most of Amos is warning and judgment, but the book ends with a hopeful promise. 
 * The book challenges comfortable people who benefit from unfair systems.
 * Warning is paired with hope: renewal is imagined after consequences.
 
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-judah]: <glossary.md#judah>
-[^gl-priest]: <glossary.md#priest>
-[^gl-prophet]: <glossary.md#prophet>
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-priest]: [glossary](glossary.md#priest)
+[^gl-prophet]: [glossary](glossary.md#prophet)

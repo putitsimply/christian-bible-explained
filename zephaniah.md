@@ -26,9 +26,9 @@ The ending is surprisingly joyful. It pictures God[^gl-god] restoring the people
 * Religion without real fairness and humility is criticised.
 * Hope is still offered, especially for people who turn back and do what is right.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-judah]: <glossary.md#judah>
-[^gl-lord]: <glossary.md#lord>
-[^gl-prophet]: <glossary.md#prophet>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-lord]: [glossary](glossary.md#lord)
+[^gl-prophet]: [glossary](glossary.md#prophet)

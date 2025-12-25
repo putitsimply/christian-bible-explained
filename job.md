@@ -28,5 +28,5 @@ At the end, God[^gl-god] tells Job’s three friends they were wrong to speak so
 * It treats honest grief and hard questions as part of faith[^gl-faith], not the opposite of it.
 * It ends with humility: some “why” questions may not get a neat explanation.
 
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)

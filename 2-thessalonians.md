@@ -22,5 +22,5 @@ Finally, the letter talks about how the community should respond to those who pe
 * Hope for justice is paired with practical responsibility (work, contribution, boundaries).
 * Symbolic future language is used to strengthen the community, not entertain curiosity.
 
-[^gl-church]: <glossary.md#church>
-[^gl-god]: <glossary.md#god>
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-god]: [glossary](glossary.md#god)

@@ -28,8 +28,8 @@ The letter finishes with Paul urging the church[^gl-church] to examine themselve
 * Leadership is presented as “real” when it is honest and faithful, not flashy or impressive.
 * Reconciliation (repairing relationships) is a central theme, both with God[^gl-god] and within the community.
 
-[^gl-apostle]: <glossary.md#apostle>
-[^gl-church]: <glossary.md#church>
-[^gl-covenant]: <glossary.md#covenant>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
+[^gl-apostle]: [glossary](glossary.md#apostle)
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-covenant]: [glossary](glossary.md#covenant)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)

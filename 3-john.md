@@ -34,6 +34,6 @@ Finally, the writer says he has more to say but prefers to do it face-to-face. H
 * **Leadership should be humble and fair**, not controlling or selfish.
 * **Choose good examples to follow**, not people who misuse power.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-church]: <glossary.md#church>
-[^gl-god]: <glossary.md#god>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-god]: [glossary](glossary.md#god)

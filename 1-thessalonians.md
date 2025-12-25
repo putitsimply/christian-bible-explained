@@ -53,9 +53,9 @@ He gives lots of quick instructions, like:
 * Hope about death and the future is explained to calm fear.
 * Practical community habits matter (work, patience, prayer[^gl-prayer], kindness).
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-church]: <glossary.md#church>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-prayer]: <glossary.md#prayer>
-[^gl-resurrection]: <glossary.md#resurrection>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-prayer]: [glossary](glossary.md#prayer)
+[^gl-resurrection]: [glossary](glossary.md#resurrection)

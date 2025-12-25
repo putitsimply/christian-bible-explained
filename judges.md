@@ -35,6 +35,6 @@ The final section does not focus on judges as much. It shows how disordered life
 
 Judges is a warning story. It shows how a community can fall apart when people forget their responsibilities to God[^gl-god] and to each other, and it also shows that help and rescue can still come, even in a messy time.
 
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-prophet]: <glossary.md#prophet>
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-prophet]: [glossary](glossary.md#prophet)

@@ -44,5 +44,5 @@ The writer wants readers to feel **assurance**, meaning they can have confidence
 * Love is treated as the clearest sign of real faith[^gl-faith].
 * The letter aims to give confidence while warning against misleading teaching.
 
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)

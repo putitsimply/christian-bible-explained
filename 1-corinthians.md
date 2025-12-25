@@ -36,9 +36,9 @@ Paul finishes with travel plans, greetings, and a request to collect money to he
 * Love is treated as more important than knowledge, power, or impressive “spiritual” abilities.
 * The letter connects belief (especially resurrection[^gl-resurrection] hope) with everyday behaviour.
 
-[^gl-church]: <glossary.md#church>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-resurrection]: <glossary.md#resurrection>
-[^gl-worship]: <glossary.md#worship>
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-resurrection]: [glossary](glossary.md#resurrection)
+[^gl-worship]: [glossary](glossary.md#worship)

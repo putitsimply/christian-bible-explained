@@ -24,13 +24,13 @@ Finally, John describes Jesus rising from the dead (which Christians believe hap
 * Big images and metaphors are used to describe who Jesus is and what he offers.
 * The story climaxes in crucifixion[^gl-crucifixion] and (in Christian belief) resurrection[^gl-resurrection], with a focus on meaning.
 
-[^gl-crucifixion]: <glossary.md#crucifixion>
-[^gl-disciple]: <glossary.md#disciple>
-[^gl-god]: <glossary.md#god>
-[^gl-gospel]: <glossary.md#gospel>
-[^gl-holy-spirit]: <glossary.md#holy-spirit>
-[^gl-israel]: <glossary.md#israel>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-messiah]: <glossary.md#messiah>
-[^gl-passover]: <glossary.md#passover>
-[^gl-resurrection]: <glossary.md#resurrection>
+[^gl-crucifixion]: [glossary](glossary.md#crucifixion)
+[^gl-disciple]: [glossary](glossary.md#disciple)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-gospel]: [glossary](glossary.md#gospel)
+[^gl-holy-spirit]: [glossary](glossary.md#holy-spirit)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-messiah]: [glossary](glossary.md#messiah)
+[^gl-passover]: [glossary](glossary.md#passover)
+[^gl-resurrection]: [glossary](glossary.md#resurrection)

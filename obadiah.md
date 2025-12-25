@@ -19,7 +19,7 @@ Obadiah is short, but it has a clear flow:
 * Being a “neighbour” includes responsibility: doing nothing in a crisis can still be wrong.
 * The book combines judgement language with hope that injustice does not have the last word.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-judah]: <glossary.md#judah>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-judah]: [glossary](glossary.md#judah)

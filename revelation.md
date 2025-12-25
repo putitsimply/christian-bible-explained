@@ -36,8 +36,8 @@ The book ends with hope. John sees “a new heaven and a new earth” and a shin
 * Different Christians interpret the details differently, but encouragement and resilience are central.
 * The ending stresses justice and a renewed world where suffering does not last.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-worship]: <glossary.md#worship>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-worship]: [glossary](glossary.md#worship)

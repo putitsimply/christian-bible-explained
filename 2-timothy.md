@@ -24,7 +24,7 @@ Overall, 2 Timothy is about courage, staying faithful, passing on good teaching,
 * Passing on teaching is described like a “chain” of mentoring and learning.
 * Scripture[^gl-scripture] is presented as useful for shaping behaviour and character.
 
-[^gl-apostle]: <glossary.md#apostle>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-scripture]: <glossary.md#scripture>
+[^gl-apostle]: [glossary](glossary.md#apostle)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-scripture]: [glossary](glossary.md#scripture)

@@ -26,13 +26,13 @@ Ezra finds a serious problem. Some of the returned people, including leaders, ha
 
 Ezra focuses on starting again after disaster, restoring worship[^gl-worship], and rebuilding a community’s identity around their beliefs and shared commitments.
 
-[^gl-exile]: <glossary.md#exile>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-passover]: <glossary.md#passover>
-[^gl-priest]: <glossary.md#priest>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-temple]: <glossary.md#temple>
-[^gl-worship]: <glossary.md#worship>
-[^gl-high-priest]: <glossary.md#high-priest>
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-passover]: [glossary](glossary.md#passover)
+[^gl-priest]: [glossary](glossary.md#priest)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-temple]: [glossary](glossary.md#temple)
+[^gl-worship]: [glossary](glossary.md#worship)
+[^gl-high-priest]: [glossary](glossary.md#high-priest)

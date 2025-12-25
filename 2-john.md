@@ -37,4 +37,4 @@ He says he has more to tell them but prefers to speak face to face, and he hopes
 * The letter warns about teaching the writer believes is harmful or untrue.
 * It gives practical guidance about hospitality and boundaries.
 
-[^gl-church]: <glossary.md#church>
+[^gl-church]: [glossary](glossary.md#church)

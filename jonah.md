@@ -25,7 +25,7 @@ The book ends with that question hanging in the air. The big idea is about **mer
 * Mercy is central: the story challenges Jonah’s anger about forgiveness for enemies.
 * The ending is a question, pushing readers to think about compassion and fairness.
 
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-prayer]: <glossary.md#prayer>
-[^gl-prophet]: <glossary.md#prophet>
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-prayer]: [glossary](glossary.md#prayer)
+[^gl-prophet]: [glossary](glossary.md#prophet)

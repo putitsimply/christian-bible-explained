@@ -24,11 +24,11 @@ Overall, Nehemiah is about strong leadership, prayer[^gl-prayer], teamwork, cour
 * The story highlights teamwork under pressure and dealing with opposition.
 * Religious practice is connected with fairness (especially around debt and poverty).
 
-[^gl-exile]: <glossary.md#exile>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-prayer]: <glossary.md#prayer>
-[^gl-sabbath]: <glossary.md#sabbath>
-[^gl-temple]: <glossary.md#temple>
-[^gl-worship]: <glossary.md#worship>
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-prayer]: [glossary](glossary.md#prayer)
+[^gl-sabbath]: [glossary](glossary.md#sabbath)
+[^gl-temple]: [glossary](glossary.md#temple)
+[^gl-worship]: [glossary](glossary.md#worship)

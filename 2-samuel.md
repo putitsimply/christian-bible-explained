@@ -26,11 +26,11 @@ Later there is another uprising, and more conflict and violence. Near the end of
 * Wrong choices can have long ripple effects through families and society.
 * God[^gl-god]’s promise to David becomes important later in Jewish hopes and in Christian belief about Jesus.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-covenant]: <glossary.md#covenant>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-judah]: <glossary.md#judah>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-temple]: <glossary.md#temple>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-covenant]: [glossary](glossary.md#covenant)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-temple]: [glossary](glossary.md#temple)

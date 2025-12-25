@@ -35,7 +35,7 @@ Paul finishes with practical advice, urging the community to help each other, ta
 * Unity across groups is emphasised (Jewish and non-Jewish believers should belong together).
 * Freedom is tied to responsibility: character and love matter.
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-church]: <glossary.md#church>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)

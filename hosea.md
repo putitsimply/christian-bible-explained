@@ -28,9 +28,9 @@ So, Hosea is basically: a heartbreak story used to show how damaging betrayal is
 * It combines strong warnings with repeated calls to “return” (change direction, not just feel sorry).
 * Hope and restoration are presented as possible, but not without change.
 
-[^gl-exile]: <glossary.md#exile>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-priest]: <glossary.md#priest>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-worship]: <glossary.md#worship>
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-priest]: [glossary](glossary.md#priest)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-worship]: [glossary](glossary.md#worship)

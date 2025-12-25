@@ -35,6 +35,6 @@ The letter finishes with a final reminder to avoid pointless arguments and to gu
 * It warns about using religion for status or money.
 * Practical faith[^gl-faith] includes fairness, responsibility, and generosity.
 
-[^gl-church]: <glossary.md#church>
-[^gl-faith]: <glossary.md#faith>
-[^gl-worship]: <glossary.md#worship>
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-worship]: [glossary](glossary.md#worship)

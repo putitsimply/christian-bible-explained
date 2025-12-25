@@ -34,7 +34,7 @@ The final chapter is a prayer[^gl-prayer] that sounds like a song. Habakkuk reme
 
 Habakkuk does not give an easy answer to suffering. It shows a person honestly wrestling with God[^gl-god], then learning to trust that injustice is seen, evil is temporary, and faithfulness matters even when life is confusing.
 
-[^gl-god]: <glossary.md#god>
-[^gl-judah]: <glossary.md#judah>
-[^gl-prayer]: <glossary.md#prayer>
-[^gl-prophet]: <glossary.md#prophet>
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-judah]: [glossary](glossary.md#judah)
+[^gl-prayer]: [glossary](glossary.md#prayer)
+[^gl-prophet]: [glossary](glossary.md#prophet)

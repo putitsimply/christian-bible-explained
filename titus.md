@@ -28,6 +28,6 @@ Overall, **Titus** is about building healthy communities through trustworthy lea
 * Grace[^gl-grace] and belief are meant to shape everyday behaviour, not just ideas.
 * The letter promotes responsibility, good works, and avoiding pointless arguments.
 
-[^gl-church]: <glossary.md#church>
-[^gl-god]: <glossary.md#god>
-[^gl-grace]: <glossary.md#grace>
+[^gl-church]: [glossary](glossary.md#church)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-grace]: [glossary](glossary.md#grace)

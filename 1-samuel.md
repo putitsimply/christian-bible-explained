@@ -40,8 +40,8 @@ Near the end, Saul becomes desperate and makes more damaging choices. In a final
 * The book contrasts trust and humility with fear and pride.
 * Israel[^gl-israel]’s shift toward kingship changes the rest of the story in the Bible[^gl-bible].
 
-[^gl-bible]: <glossary.md#bible>
-[^gl-covenant]: <glossary.md#covenant>
-[^gl-god]: <glossary.md#god>
-[^gl-israel]: <glossary.md#israel>
-[^gl-priest]: <glossary.md#priest>
+[^gl-bible]: [glossary](glossary.md#bible)
+[^gl-covenant]: [glossary](glossary.md#covenant)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-israel]: [glossary](glossary.md#israel)
+[^gl-priest]: [glossary](glossary.md#priest)

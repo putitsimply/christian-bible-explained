@@ -41,10 +41,10 @@ Overall, Zechariah mixes encouragement for rebuilding in the present with strong
 * Visions and symbols are used to teach, warn, and motivate.
 * Different traditions connect some images to later hopes about leadership and peace.
 
-[^gl-exile]: <glossary.md#exile>
-[^gl-god]: <glossary.md#god>
-[^gl-jerusalem]: <glossary.md#jerusalem>
-[^gl-priest]: <glossary.md#priest>
-[^gl-prophet]: <glossary.md#prophet>
-[^gl-temple]: <glossary.md#temple>
-[^gl-high-priest]: <glossary.md#high-priest>
+[^gl-exile]: [glossary](glossary.md#exile)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-jerusalem]: [glossary](glossary.md#jerusalem)
+[^gl-priest]: [glossary](glossary.md#priest)
+[^gl-prophet]: [glossary](glossary.md#prophet)
+[^gl-temple]: [glossary](glossary.md#temple)
+[^gl-high-priest]: [glossary](glossary.md#high-priest)

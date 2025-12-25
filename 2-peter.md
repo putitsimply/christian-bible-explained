@@ -37,7 +37,7 @@ The letter finishes by saying some of Paul’s writings are hard to understand, 
 * The letter warns about teachers who use religion for selfish reasons.
 * Future hope is used to motivate good living now, not panic.
 
-[^gl-apostle]: <glossary.md#apostle>
-[^gl-faith]: <glossary.md#faith>
-[^gl-god]: <glossary.md#god>
-[^gl-prophet]: <glossary.md#prophet>
+[^gl-apostle]: [glossary](glossary.md#apostle)
+[^gl-faith]: [glossary](glossary.md#faith)
+[^gl-god]: [glossary](glossary.md#god)
+[^gl-prophet]: [glossary](glossary.md#prophet)
