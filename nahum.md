@@ -4,6 +4,8 @@
 
 Nahum is a short book in the Old Testament. It is mainly about one thing: the coming fall of **Nineveh**, the capital city of **Assyria**.
 
+Most of the book is written as poetry, not as a calm, step-by-step explanation. It uses dramatic images to show the idea that violent power does not last forever.
+
 ## What it contains
 
 ### The background
@@ -25,7 +27,9 @@ Nahum explains why Nineveh is being judged. He describes the city as built on vi
 
 ## Big ideas
 
-Nahum is meant to comfort the oppressed and warn the powerful. Its message is that cruelty and injustice might look like they are winning for a while, but they do not get the last word. In the Bible’s storyline, the fall of Nineveh shows that even the biggest empire can fall.
+Nahum is meant to comfort the oppressed and warn the powerful. Its message is that cruelty and injustice might look like they are winning for a while, but they do not get the last word.
+
+At the same time, the book’s language can sound harsh to modern readers, because it describes the fall of a city in vivid detail. Many readers treat it as a snapshot of how people who have been bullied and traumatised might speak when they finally imagine justice.
 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 

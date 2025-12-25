@@ -25,6 +25,8 @@ Overall, Malachi is a wake-up call: stop going through the motions, start living
 * It links worship, family life, and social justice as connected, not separate topics.
 * It ends by looking ahead to future change and justice, which later readers interpret in different ways.
 
+Malachi is also about disappointment. People expected life to feel “fixed” after returning from exile[^gl_exile], but the book says that rebuilding buildings is easier than rebuilding trust, integrity, and compassion.
+
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 
 [^gl_exile]: Being forced to live away from one’s homeland. ([Glossary](glossary.md#exile))

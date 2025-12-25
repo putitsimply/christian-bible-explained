@@ -4,6 +4,8 @@
 
 Ezra tells the story of Jewish people returning to Jerusalem[^gl_jerusalem] after many years living in exile[^gl_exile] in Babylon, and trying to rebuild their community.
 
+It is connected to the time when the Persian Empire ruled the region. Persia allowed some groups to return home, which meant the community had to ask big questions like: Who belongs? How do we worship? How do we rebuild after a national disaster?
+
 ## What it contains
 
 The book comes in two main parts.
@@ -25,6 +27,8 @@ Ezra finds a serious problem. Some of the returned people, including leaders, ha
 ## Big ideas
 
 Ezra focuses on starting again after disaster, restoring worship, and rebuilding a community’s identity around their beliefs and shared commitments.
+
+It also raises difficult questions about identity and separation. The book describes leaders making strict choices to protect their religious community. Readers today often discuss these chapters carefully, especially when thinking about fairness, family, and how communities decide who is “in” or “out”.
 
 [^gl_jerusalem]: A major city in the Bible’s story. ([Glossary](glossary.md#jerusalem))
 

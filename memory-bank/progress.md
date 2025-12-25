@@ -3,16 +3,16 @@
 What works:
 
 - All 66 book pages exist and follow the same section structure.
-- All pages are kept to 500 words or fewer.
+- Content pages are kept to 500 words or fewer in the main body (the appended footnote definition block is excluded from the count).
 - `SUMMARY.md` provides grouped navigation by section/genre.
-- A glossary page exists for recurring terms; terms are linked inline to their glossary entries, and footnote annotations provide hover definitions.
+- A glossary page exists for recurring terms; content pages use footnote markers (e.g. `God[^gl_god]`) and the footnote definition includes a link back to the glossary.
 
 Known issues:
 
 - Ongoing spot-checking is still needed for any wording that sounds too certain about beliefs (keep using “the text says…” / “Christians believe…” where appropriate).
 - Some pages use many bold mini-headings or lists; this is readable, but could be further simplified if desired.
 - GitBook YAML front matter must keep correct indentation (recent parsing errors were caused by broken nesting under `layout:`).
-- Pages may exceed 500 words if you count glossary footnote definition lines; the main body text (excluding the appended `[^gl-...]` definitions) stays under 500.
+- Reference/navigation pages (like `glossary.md`) are exceptions to the 500-word limit.
 
 Next steps:
 

@@ -4,6 +4,8 @@
 
 3 John is one of the shortest books in the Christian Bible[^gl_bible]. It is a short letter, written by someone who calls himself “the elder,” which means an older leader in the Christian community. Many Christians have traditionally linked this writer with John, a major early Christian leader, but the letter itself does not fully explain who he is.
 
+The letter is mostly about relationships, leadership, and hospitality. It shows that even small, local churches could have serious disagreements about who to listen to and how to treat visitors.
+
 ## What it contains
 
 ### What happens in the letter
@@ -37,6 +39,8 @@ Finally, the writer says he has more to say but prefers to do it face-to-face. H
 * **Helping others who do good work matters**, especially when they are vulnerable or far from home.
 * **Leadership should be humble and fair**, not controlling or selfish.
 * **Choose good examples to follow**, not people who misuse power.
+
+Because it is so practical, 3 John is often used as an example of how important everyday choices (like welcome, kindness, and fairness) are in a community.
 
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 

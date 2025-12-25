@@ -4,6 +4,8 @@
 
 **1 Kings** continues the story after King David and focuses on how Israel[^gl_israel] goes from being one united kingdom to being split in two, mainly because of leadership choices and people turning away from God[^gl_god].
 
+It is both a history story and a message about values. The book keeps linking worship[^gl_worship], justice, and leadership together.
+
 ## What it contains
 
 David dies, and his son **Solomon** becomes king after some tense family and political conflict. Early on, Solomon famously asks God for **wisdom** instead of riches or power. A well known story shows his wisdom when he settles a hard case between two women arguing over a baby.
@@ -28,15 +30,17 @@ Near the end, Ahab commits a serious injustice involving **Naboth’s vineyard**
 * Worship, power, and politics are tightly linked in the story, often in unhealthy ways.
 * Elijah’s stories highlight conflict between different religious loyalties and what counts as true worship.
 
+The book also shows that “success” (like wealth and impressive buildings) does not automatically mean a society is healthy. It keeps asking whether leaders are fair, humble, and responsible.
+
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 
+[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals). ([Glossary](glossary.md#worship))
+
 [^gl_temple]: The main worship building in Jerusalem in ancient Israel. ([Glossary](glossary.md#temple))
 
 [^gl_jerusalem]: A major city in the Bible’s story. ([Glossary](glossary.md#jerusalem))
-
-[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals). ([Glossary](glossary.md#worship))
 
 [^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem. ([Glossary](glossary.md#judah))
 

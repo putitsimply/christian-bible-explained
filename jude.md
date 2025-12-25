@@ -43,7 +43,7 @@ Overall, Jude is a warning letter that urges readers to guard what they have bee
 
 * The letter warns against teaching that encourages harmful behaviour.
 * It uses examples from older stories to argue that choices have consequences.
-* It balances “be careful” with “help others kindly.”: Rescue; in Christianity, being saved from sin[^gl_sin].
+* It balances “be careful” with “help others kindly,” especially when people are being influenced.
 
 [^gl_church]: A community of Christians, not just a building. ([Glossary](glossary.md#church))
 
@@ -56,5 +56,3 @@ Overall, Jude is a warning letter that urges readers to guard what they have bee
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
 
 [^gl_faith]: Trust; in Christianity, trusting God and Jesus. ([Glossary](glossary.md#faith))
-
-[^gl_sin]: Wrongdoing; in Christianity, also a broken relationship with God. ([Glossary](glossary.md#sin))

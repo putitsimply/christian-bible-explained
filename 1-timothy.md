@@ -4,6 +4,8 @@
 
 1 Timothy is a letter in the New Testament. It is written like advice from an older Christian leader (Paul) to a younger leader (Timothy), who is helping run a local church[^gl_church], traditionally linked to the city of Ephesus.
 
+It focuses on keeping a community healthy: good teaching, leaders with good character, and practical care for people who need support.
+
 ## What it contains
 
 Here is what happens in the letter, in order:
@@ -33,6 +35,8 @@ The letter finishes with a final reminder to avoid pointless arguments and to gu
 * The letter focuses on church teaching, leadership character, and community care.
 * It warns about using religion for status or money.
 * Practical faith includes fairness, responsibility, and generosity.
+
+The letter also shows that Christianity spread through organised local communities, not just individual belief. How people treated each other was part of how the church was meant to represent its message.
 
 [^gl_church]: A community of Christians, not just a building. ([Glossary](glossary.md#church))
 

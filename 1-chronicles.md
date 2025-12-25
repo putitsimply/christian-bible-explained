@@ -40,6 +40,9 @@ Even though David will not build the temple himself, he does major preparation. 
 
 * Compared with Samuel and Kings, 1 Chronicles leaves out some of David’s worst mistakes and focuses more on worship, the temple, and the hope of a restored community.
 
+* The genealogies (family lists) matter because they answer “Who are we?” after exile[^gl_exile], when identity and belonging were big questions.
+* The book suggests that rebuilding a community is not only about walls and politics, but also about shared worship[^gl_worship] and shared responsibility.
+
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
 
 [^gl_worship]: Actions showing devotion to God (prayer, songs, rituals). ([Glossary](glossary.md#worship))

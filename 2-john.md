@@ -4,6 +4,8 @@
 
 2 John is a very short letter in the New Testament. It is written by someone who calls himself “the elder,” and Christians have traditionally linked him with John, one of Jesus’ closest followers.
 
+Even though it is short, it shows two common challenges in early Christian communities: how to love each other well, and how to respond when teachers spread ideas the community believes are false.
+
 ## What it contains
 
 ### Who it is written to

@@ -34,8 +34,12 @@ The final section does not focus on judges as much. It shows how disordered life
 
 Judges is a warning story. It shows how a community can fall apart when people forget their responsibilities to God and to each other, and it also shows that help and rescue can still come, even in a messy time.
 
+The book also quietly sets up the next part of the Bible[^gl_bible]’s story. By the end, the repeated chaos makes readers ask what kind of leadership could create stability and justice, which leads into the stories about kings in Samuel.
+
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
+
+[^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))

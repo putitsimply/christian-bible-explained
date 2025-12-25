@@ -4,6 +4,8 @@
 
 Genesis is the first book of the Christian Bible[^gl_bible]. It explains, in story form, how the world begins, why people are the way they are, and how one family becomes the start of a nation.
 
+Genesis includes famous stories like Adam and Eve, Noah’s ark, and Joseph’s colourful coat. People read these stories differently, but the book’s main goal is origins and identity, not a science textbook.
+
 ## What it contains
 
 Genesis has two big parts.
@@ -13,7 +15,7 @@ Genesis has two big parts.
 * **Creation:** God[^gl_god] creates the universe, the earth, plants, animals, and humans. Humans are described as specially made to represent God’s care and authority in the world.
 * **Adam and Eve:** The first humans live in a garden, but they disobey God. The story explains the idea that people often choose wrong even when they know better, and that this damages trust between humans and God, and between humans themselves.
 * **Cain and Abel:** The first brothers bring offerings to God. Jealousy leads Cain to kill Abel. This shows how quickly harm spreads when people let anger take over.
-* **The flood and Noah:** The world becomes full of violence, and God sends a flood. Noah’s family survives in an ark, and afterward God makes a promise (often called a covenant[^gl_covenant], meaning a serious agreement) symbolised by a rainbow.
+* **The flood and Noah:** The world becomes full of violence, and the story describes God sending a flood. Noah’s family survives in an ark, and afterward God makes a promise (often called a covenant[^gl_covenant], meaning a serious agreement) symbolised by a rainbow.
 * **Tower of Babel:** People try to build a great tower to make a name for themselves. Languages become confused, and people spread out. This story explains human pride and why cultures and languages are diverse.
 
 ### 2) The start of God’s people through a family (Genesis 12 to 50)
@@ -30,6 +32,8 @@ Genesis ends with Jacob’s family living in Egypt, setting up the story of Exod
 * It explains how Israel’s story begins through a family and a series of promises.
 * Themes include trust, failure, forgiveness, and new beginnings.
 
+Genesis is also important in more than one religion. Jewish and Christian communities treat it as Scripture[^gl_scripture], and it is also connected to stories that are important in Islam.
+
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
@@ -37,3 +41,5 @@ Genesis ends with Jacob’s family living in Egypt, setting up the story of Exod
 [^gl_covenant]: A serious promise-based relationship. ([Glossary](glossary.md#covenant))
 
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
+
+[^gl_scripture]: Sacred writings (often the Bible). ([Glossary](glossary.md#scripture))

@@ -2,7 +2,9 @@
 
 ## What this book is
 
-Hebrews is a New Testament book written to encourage a group of Christians who were getting tired, scared, or unsure, and were tempted to give up or go back to older religious practices. We are not certain who wrote it, and it reads more like a thoughtful sermon or speech than a normal letter.
+Hebrews is a New Testament book written to encourage a group of Christians who were getting tired, scared, or unsure, and were tempted to give up or go back to older religious practices. We are not certain who wrote it, and it reads more like a sermon or speech than a normal letter.
+
+Hebrews often quotes and explains passages from the Jewish Scriptures[^gl_scripture]. It assumes the readers know the stories and symbols of the Old Testament, especially the tabernacle[^gl_tabernacle]/temple system and the role of priests.
 
 ## What it contains
 
@@ -40,7 +42,11 @@ Hebrews finishes with encouragement, a blessing, and a few personal notes, inclu
 * Jesus is described as greater than earlier leaders, and as someone who helps people come close to God.
 * Faith is pictured as endurance: keep going, help each other, and live wisely.
 
+Hebrews also shows a teaching style where older Bible[^gl_bible] stories are read in a new way. The writer uses them like “signposts” pointing to Jesus (in Christian belief).
+
 [^gl_scripture]: Sacred writings (often the Bible). ([Glossary](glossary.md#scripture))
+
+[^gl_tabernacle]: A portable worship tent used by the Israelites. ([Glossary](glossary.md#tabernacle))
 
 [^gl_priest]: A religious leader in ancient Israel’s worship system. ([Glossary](glossary.md#priest))
 
@@ -53,3 +59,5 @@ Hebrews finishes with encouragement, a blessing, and a few personal notes, inclu
 [^gl_temple]: The main worship building in Jerusalem in ancient Israel. ([Glossary](glossary.md#temple))
 
 [^gl_faith]: Trust; in Christianity, trusting God and Jesus. ([Glossary](glossary.md#faith))
+
+[^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))

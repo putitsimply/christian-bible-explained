@@ -4,13 +4,15 @@
 
 **2 Kings** continues the story after 1 Kings. It follows two kingdoms that used to be one nation, Israel[^gl_israel] in the north and Judah[^gl_judah] in the south. The book shows a repeating pattern: when leaders choose injustice and worship[^gl_worship] other gods, things fall apart. When they try to return to God[^gl_god]’s ways, things improve, but usually only for a while.
 
+By the end, the book explains why exile[^gl_exile] happened in the Bible[^gl_bible]’s story. It is presented as more than “bad luck” in war: it is the result of long-term choices by leaders and communities.
+
 ## What it contains
 
 ### The north kingdom, Israel
 
 At the start, Israel has many kings, and most are shown as doing the wrong thing. Prophets[^gl_prophet], people who speak God’s message, keep warning them to change direction.
 
-A major figure is **Elisha**, a prophet who follows Elijah. 2 Kings tells stories where Elisha helps people in need, performs miracles (like healing and providing food), and delivers warnings and guidance to kings. These stories are meant to show that God is active and concerned with both big national events and ordinary people.
+A major figure is **Elisha**, a prophet who follows Elijah. 2 Kings tells stories where Elisha helps people in need, performs miracles (like healing and providing food), and delivers warnings and guidance to kings. These stories present God as active and concerned with both big national events and ordinary people.
 
 Eventually, Israel’s problems catch up with it. The powerful empire of **Assyria** attacks. Israel’s capital, **Samaria**, is conquered, and many Israelites are taken away into exile[^gl_exile]. The book explains this as the result of years of ignoring warnings and refusing to change.
 
@@ -34,6 +36,8 @@ But after Josiah, Judah quickly declines again. Another empire, **Babylon**, ris
 * Prophets appear as voices challenging leaders and warning about consequences.
 * Even at the darkest ending, a small “hint of hope” remains.
 
+2 Kings also shows that reform is difficult. Even when a good leader appears, deep problems in society can continue unless people’s everyday behaviour changes too.
+
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
 
 [^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem. ([Glossary](glossary.md#judah))
@@ -42,9 +46,11 @@ But after Josiah, Judah quickly declines again. Another empire, **Babylon**, ris
 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 
-[^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
-
 [^gl_exile]: Being forced to live away from one’s homeland. ([Glossary](glossary.md#exile))
+
+[^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
+
+[^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
 
 [^gl_idol]: An object or false god treated as most important. ([Glossary](glossary.md#idol))
 

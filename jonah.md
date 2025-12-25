@@ -14,7 +14,7 @@ Jonah does not drown. He is swallowed by a “great fish” (the story does not 
 
 Jonah is told again to go to Nineveh, and this time he goes. His message is simple and direct: Nineveh is headed for disaster unless things change. Surprisingly, the people take it seriously. They stop, feel sorry for what they have done, and show it publicly by fasting. Even the king joins in and orders the whole city to turn away from violence and wrongdoing.
 
-Because of this change, God does not destroy the city. Jonah is furious. He wanted punishment, not mercy. He complains that this is exactly why he ran away in the first place, because he knew God might forgive them.
+Because of this change, the story says God does not destroy the city. Jonah is furious. He wanted punishment, not mercy. He complains that this is exactly why he ran away in the first place, because he knew God might forgive them.
 
 The final scene is like a lesson acted out. Jonah sits outside the city, hoping to see it destroyed. A plant grows to give him shade, and Jonah is happy. Then the plant withers, and Jonah is upset again. God uses the plant to make a point: Jonah cared about a plant he did not grow and did not work for, so should he not care about a whole city full of people, including many who do not really understand right from wrong yet?
 

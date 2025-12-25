@@ -4,6 +4,8 @@
 
 The book of **Titus** is a short letter in the New Testament. It is traditionally understood as a letter from **Paul** (an early Christian leader) to **Titus**, a co-worker who has been left on the island of **Crete** to help organise Christian communities there.
 
+It is one of a small group of New Testament letters that focus on leadership and community health. The letter connects belief with behaviour: it keeps saying that what people teach should match how they live.
+
 ## What it contains
 
 **1) Titus is told to set things in order (chapter 1).**\
@@ -27,6 +29,8 @@ Overall, **Titus** is about building healthy communities through trustworthy lea
 * Healthy communities need trustworthy leaders and clear teaching.
 * Grace and belief are meant to shape everyday behaviour, not just ideas.
 * The letter promotes responsibility, good works, and avoiding pointless arguments.
+
+Titus also shows that early Christian communities were not perfect. They had disagreements, confusing teaching, and messy personalities, and they needed practical guidance to stay focused.
 
 [^gl_church]: A community of Christians, not just a building. ([Glossary](glossary.md#church))
 

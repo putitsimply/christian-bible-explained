@@ -12,7 +12,7 @@ Habakkuk looks at his own nation (Judah[^gl_judah]) and sees violence, corruptio
 
 ### 2) God’s first answer: “A bigger trouble is coming”
 
-God answers that he is already doing something, even if it is hard to believe. God says he will use the Babylonians (also called the Chaldeans), a powerful empire known for being cruel, to punish Judah and stop the wrongdoing. In other words, God says, “Judah’s evil will not be ignored.”
+The book presents God answering that he is already doing something, even if it is hard to believe. It says God will use the Babylonians (also called the Chaldeans), a powerful empire known for being cruel, to punish Judah and stop the wrongdoing. In other words, the message is: “Judah’s evil will not be ignored.”
 
 ### 3) Habakkuk’s second complaint: “How can that be fair?”
 
@@ -33,6 +33,8 @@ The final chapter is a prayer that sounds like a song. Habakkuk remembers God’
 ## Big ideas
 
 Habakkuk does not give an easy answer to suffering. It shows a person honestly wrestling with God, then learning to trust that injustice is seen, evil is temporary, and faithfulness matters even when life is confusing.
+
+One of the book’s most remembered lines is the idea that a faithful person keeps going by trust, even when they do not understand what is happening. That theme has made Habakkuk important for later Jewish and Christian readers who are trying to deal with unfairness.
 
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
 

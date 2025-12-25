@@ -4,6 +4,8 @@
 
 **1 Samuel** tells the story of Israel[^gl_israel] changing from being led mainly by judges to being led by kings, and it follows three major people: **Samuel**, **Saul**, and **David**.
 
+The book keeps asking, “What makes a good leader?” It compares leaders who trust God[^gl_god] and act with humility with leaders who become controlled by fear, ego, or jealousy.
+
 ## What it contains
 
 ### Samuel is born and grows up
@@ -39,6 +41,8 @@ Near the end, Saul becomes desperate and makes more damaging choices. In a final
 * Leadership and power can help or harm, depending on character and choices.
 * The book contrasts trust and humility with fear and pride.
 * Israel’s shift toward kingship changes the rest of the story in the Bible[^gl_bible].
+
+1 Samuel also sets up the complicated story of David. He is introduced as a brave and gifted leader, but the book does not pretend leaders are perfect, and later books will show David’s serious failures too.
 
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
 

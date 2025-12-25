@@ -4,6 +4,8 @@
 
 Daniel is set when many Jewish people have been taken away from their homeland to Babylon (this is called **exile[^gl_exile]**, which means being forced to live in another country). It mixes court stories (life in an empire) with later, highly symbolic visions.
 
+The first half reads like dramatic stories about identity, courage, and keeping religious practices under pressure. The second half uses strange symbols to talk about hope when history feels scary.
+
 ## What it contains
 
 Daniel and a few other young men, like **Hananiah, Mishael, and Azariah** (often known by their Babylonian names **Shadrach, Meshach, and Abednego**), are trained to work for the Babylonian king. They try to stay loyal to their faith[^gl_faith] while living in a powerful empire with different beliefs.
@@ -23,6 +25,8 @@ Overall, Daniel mixes exciting stories with mysterious visions to teach that cou
 * Staying loyal to one’s beliefs can be costly, but the stories highlight courage under pressure.
 * Empires and rulers look powerful, but the book keeps reminding readers that power changes and does not last.
 * The visions use symbols to express hope that injustice and cruelty will not win forever.
+
+Daniel has been read in many different ways, but the book’s overall message is to keep courage and hope in hard times.
 
 [^gl_exile]: Being forced to live away from one’s homeland. ([Glossary](glossary.md#exile))
 

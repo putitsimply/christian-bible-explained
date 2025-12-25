@@ -4,6 +4,8 @@
 
 2 Timothy is a short letter in the New Testament. It is written from the apostle[^gl_apostle] Paul to Timothy, a younger Christian leader Paul has trained. Paul is in prison again, and the letter feels personal and urgent, like a final message to someone he trusts.
 
+Compared with 1 Timothy, this letter sounds more emotional. It talks about loyalty, courage, and what it means to keep going when friends leave or when teaching the message brings trouble.
+
 ## What it contains
 
 Paul starts by reminding Timothy of his background. He points to Timothy’s sincere faith[^gl_faith], which Timothy learned through his family, especially his grandmother Lois and his mother Eunice. Paul encourages Timothy not to be timid, but to be brave and confident in doing what is right. He tells Timothy to keep using the gifts and abilities God[^gl_god] has given him, and not to be ashamed of Paul being in prison or of the message about Jesus.
@@ -23,6 +25,8 @@ Overall, 2 Timothy is about courage, staying faithful, passing on good teaching,
 * Courage and persistence are valued, especially when life is hard.
 * Passing on teaching is described like a “chain” of mentoring and learning.
 * Scripture is presented as useful for shaping behaviour and character.
+
+2 Timothy also highlights community: Timothy is urged to keep going, but not alone. He is told to teach others and to rely on trusted friends, showing that faith is meant to be shared and supported.
 
 [^gl_apostle]: An early Christian messenger; the word means “sent one.” ([Glossary](glossary.md#apostle))
 

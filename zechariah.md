@@ -4,6 +4,8 @@
 
 Zechariah is a book about giving hope to the Jewish people after they returned to Jerusalem[^gl_jerusalem] from exile[^gl_exile] (being forced to live away from their homeland). The city and God[^gl_god]’s temple[^gl_temple] were damaged, and the people were tired, worried, and tempted to give up rebuilding.
 
+The book is one of the most symbol-heavy parts of the Old Testament. It uses visions the way a teacher might use cartoons or metaphors: to communicate big ideas in a memorable way.
+
 ## What it contains
 
 ### Part 1: Night visions that push the people forward (roughly chapters 1 to 6)
@@ -39,6 +41,8 @@ Overall, Zechariah mixes encouragement for rebuilding in the present with strong
 * Visions and symbols are used to teach, warn, and motivate.
 * Different traditions connect some images to later hopes about leadership and peace.
 
+Zechariah also links worship[^gl_worship], justice, and leadership. It pushes the idea that rebuilding a city is not enough if people do not also rebuild honesty and care for each other.
+
 [^gl_jerusalem]: A major city in the Bible’s story. ([Glossary](glossary.md#jerusalem))
 
 [^gl_exile]: Being forced to live away from one’s homeland. ([Glossary](glossary.md#exile))
@@ -52,3 +56,5 @@ Overall, Zechariah mixes encouragement for rebuilding in the present with strong
 [^gl_priest]: A religious leader in ancient Israel’s worship system. ([Glossary](glossary.md#priest))
 
 [^gl_high_priest]: The chief priest in ancient Israel’s worship system. ([Glossary](glossary.md#high-priest))
+
+[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals). ([Glossary](glossary.md#worship))

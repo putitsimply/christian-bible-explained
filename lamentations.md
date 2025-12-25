@@ -4,6 +4,8 @@
 
 Lamentations is a short book made up of five sad poems. It describes the grief and shock people felt after Jerusalem[^gl_jerusalem] was destroyed and the temple[^gl_temple] was burned, which Christians and Jews connect with the Babylonian attack (often dated around 586 BC).
 
+Some of the poems are written in a structured way, using the Hebrew alphabet as a pattern (a bit like an A-to-Z poem). That structure can make the grief feel “carefully held”, as if the writer is trying to put words around something overwhelming.
+
 ## What it contains
 
 Here is what happens, chapter by chapter:
@@ -23,6 +25,8 @@ Here is what happens, chapter by chapter:
 * Grief is shown as something people can express honestly, including anger and questions.
 * The poems connect disaster with moral reflection, while still pleading for compassion.
 * Hope is present, but it is not rushed: the book ends without a simple “everything is fine now.”
+
+Lamentations is sometimes read in Jewish communities on days of remembrance for the destruction of the temple. It has also shaped how many people, religious or not, talk about loss and recovery after tragedy.
 
 [^gl_jerusalem]: A major city in the Bible’s story. ([Glossary](glossary.md#jerusalem))
 

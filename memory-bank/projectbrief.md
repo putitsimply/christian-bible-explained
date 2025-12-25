@@ -6,7 +6,7 @@ Goals:
 
 - Keep explanations clear, age-appropriate, and religiously impartial.
 - Avoid religious jargon; when jargon is needed, define it.
-- Keep each page to 500 words or fewer.
+- Keep each content page’s main text to 500 words or fewer (don’t include the appended footnote definition block in the count).
 - Provide a consistent structure across pages so students can compare books easily.
 
 Scope:
@@ -14,4 +14,3 @@ Scope:
 - Summaries for the 66-book Protestant ordering (as reflected in `SUMMARY.md`).
 - Overview pages for the Old Testament and New Testament.
 - Navigation that is easy to browse by section and genre.
-

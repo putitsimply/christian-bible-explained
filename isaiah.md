@@ -30,6 +30,8 @@ The final section focuses on how people should live after restoration: with hone
 
 Isaiah is about two connected themes: **justice now** (stop harming others) and **hope ahead** (restoration after failure), with a strong focus on what a truly good society should look like.
 
+It also uses some of the Bible[^gl_bible]’s most famous images, like swords being turned into farming tools, and a world where nations learn peace. Because of that, Isaiah is often quoted in discussions about justice, leadership, and hope.
+
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
@@ -41,3 +43,5 @@ Isaiah is about two connected themes: **justice now** (stop harming others) and 
 [^gl_exile]: Being forced to live away from one’s homeland. ([Glossary](glossary.md#exile))
 
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
+
+[^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))

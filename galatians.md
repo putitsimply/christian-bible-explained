@@ -4,6 +4,8 @@
 
 Galatians is a letter written by Paul (a Christian missionary) to several church[^gl_church] groups in a region called Galatia. He writes because a serious argument has started about what makes someone part of God[^gl_god]’s people.
 
+The tone is strong and urgent. Paul is worried that the community is being divided into “insiders” and “outsiders” based on cultural and religious rules.
+
 ## What it contains
 
 ### The problem Paul is answering
@@ -34,6 +36,8 @@ Paul finishes with practical advice, urging the community to help each other, ta
 * Paul argues that belonging is based on trust (faith), not earning it by rule-keeping.
 * Unity across groups is emphasised (Jewish and non-Jewish believers should belong together).
 * Freedom is tied to responsibility: character and love matter.
+
+Galatians has been very influential in Christian history, because it shaped how many Christians explain the relationship between faith, law, and belonging.
 
 [^gl_church]: A community of Christians, not just a building. ([Glossary](glossary.md#church))
 

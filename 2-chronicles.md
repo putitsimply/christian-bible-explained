@@ -4,6 +4,8 @@
 
 2 Chronicles is a history-style book that retells the story of Judah[^gl_judah], the southern kingdom of Israel[^gl_israel], from Solomon’s reign through to the Babylonian exile[^gl_exile] and then a hint of return. It focuses mostly on Judah (especially Jerusalem[^gl_jerusalem] and the temple[^gl_temple]), rather than the northern kingdom (Israel).
 
+Like 1 Chronicles, it is written from a “looking back” perspective. It pays extra attention to worship, reforms, and what lessons a community should learn from its past.
+
 ## What it contains
 
 It starts with King Solomon, David’s son. Solomon becomes famous for asking God[^gl_god] for wisdom, building the temple in Jerusalem, and leading a time of wealth and stability. The temple is described as the centre of worship[^gl_worship], and there is a big dedication ceremony where Solomon prays and people celebrate.
@@ -25,6 +27,8 @@ In the later chapters, Judah’s kings become more unfaithful, and the people ig
 * Kings are judged mainly by whether they support worship at the temple and live justly.
 * The story repeatedly links reform with renewal, and unfaithfulness with decline and disaster.
 * The ending points to hope after exile: rebuilding is possible.
+
+2 Chronicles encourages readers to learn from history, not just remember it. It pushes the idea that communities can choose change, and that renewal often starts with honesty, responsibility, and repair.
 
 [^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem. ([Glossary](glossary.md#judah))
 

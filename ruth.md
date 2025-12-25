@@ -4,6 +4,8 @@
 
 The book of Ruth is a short story set “in the days when the judges ruled,” a time when Israel[^gl_israel] often felt chaotic and unsafe.
 
+Unlike some books that focus on kings and battles, Ruth focuses on ordinary people trying to survive grief, poverty, and uncertainty. It is one of the Bible[^gl_bible]’s most human, family-focused stories.
+
 ## What it contains
 
 It begins with a family leaving Israel because of a famine. A man named Elimelech, his wife Naomi, and their two sons move to a nearby country called Moab. While they are there, Elimelech dies. The two sons marry Moabite women, Ruth and Orpah, but then both sons also die. Naomi is left with her two daughters in law, and she decides to return home to Bethlehem in Israel.
@@ -24,6 +26,10 @@ Overall, Ruth is about loyalty, kindness, and practical care for people in hards
 * The story pays attention to people who are vulnerable (widows, migrants, the poor).
 * Ruth becomes connected to King David’s family line, which later matters in Christian tradition.
 
+Ruth also highlights “everyday justice.” It shows how laws and customs (like leaving grain for the poor) can make survival possible for people with very little power.
+
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
+
+[^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))

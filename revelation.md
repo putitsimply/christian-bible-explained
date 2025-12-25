@@ -4,6 +4,8 @@
 
 Revelation is the last book of the Christian Bible[^gl_bible]. It is written like a big, strange picture book made of symbols and visions. It was written as a letter to encourage Christians who were scared or being treated badly for their faith[^gl_faith].
 
+This style is called apocalyptic writing[^gl_apocalyptic_writing]. It uses symbols (like beasts, dragons, and numbers) to talk about power, fear, and hope. It is not meant to read like a straightforward timeline of events.
+
 ## What it contains
 
 ### 1) The opening and the seven letters
@@ -36,9 +38,13 @@ The book ends with hope. John sees “a new heaven and a new earth” and a shin
 * Different Christians interpret the details differently, but encouragement and resilience are central.
 * The ending stresses justice and a renewed world where suffering does not last.
 
+Revelation has strongly influenced art, music, and storytelling because of its vivid pictures. It is also one of the most debated books, because symbols can be interpreted in more than one way.
+
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 
 [^gl_faith]: Trust; in Christianity, trusting God and Jesus. ([Glossary](glossary.md#faith))
+
+[^gl_apocalyptic_writing]: A symbol-filled writing style about justice and hope. ([Glossary](glossary.md#apocalyptic-writing))
 
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 

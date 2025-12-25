@@ -15,4 +15,4 @@ User experience goals:
 
 - Students can quickly find a book and get a readable overview in a few minutes.
 - Teachers can rely on consistent phrasing, definitions, and length limits.
-
+- The 500-word limit is for content pages (book summaries and overviews), not for reference/navigation pages like the glossary.

@@ -4,6 +4,8 @@
 
 Zephaniah is a short book in the Old Testament. It is mostly a set of warnings and hopes spoken by a prophet[^gl_prophet] named Zephaniah, during the time of King Josiah in Judah[^gl_judah].
 
+The writing is mainly poetic and uses dramatic pictures to get its message across. It is aimed at a society where some people were comfortable and powerful, while others were being treated unfairly.
+
 ## What it contains
 
 ### What happens in Zephaniah

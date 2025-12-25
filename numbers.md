@@ -4,6 +4,8 @@
 
 The book of **Numbers** tells the story of the Israelites[^gl_israel] (the people who left Egypt in Exodus) as they travel through the desert toward the land they believe God[^gl_god] promised them. It is a mix of travel story, leadership problems, and rule setting.
 
+Numbers shows the gap between “being freed” and “being ready.” Even after leaving slavery, the community still has to learn trust, responsibility, and how to live together fairly.
+
 ## What it contains
 
 It starts at **Mount Sinai**, where the group has been camped. Moses is told to take a **census**, which means counting the people. This is why the book is called “Numbers.” The census also helps organise the tribes for travel and defence. The Levites (the tribe connected with religious duties) are given special responsibilities for looking after the tabernacle[^gl_tabernacle], a portable tent sanctuary used for worship[^gl_worship].
@@ -26,6 +28,8 @@ Near the end, there is a **second census** of the new generation. More rules are
 * A community can be “close to the goal” but still held back by fear and poor choices.
 * Leadership and responsibility are complicated, especially during crisis and complaint.
 * The book contrasts one generation’s failures with the next generation’s chance to begin again.
+
+Numbers also includes reminders that worship[^gl_worship] and everyday life are connected. Even “boring” lists and rules are part of the book’s message about order, fairness, and caring for the whole community.
 
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
 

@@ -4,6 +4,8 @@
 
 Hosea is a book where God[^gl_god] uses one prophet[^gl_prophet]’s family story as a living lesson about what was happening between God and the people of Israel[^gl_israel] (the northern kingdom).
 
+The book uses relationship language (marriage, betrayal, returning) as a metaphor. It is not meant as a “how-to” guide for relationships. Instead, it uses a painful story to talk about loyalty, trust, and the damage caused by unfaithfulness.
+
 ## What it contains
 
 Hosea is told to marry a woman who keeps being unfaithful. That hurts Hosea deeply, but he stays committed and even goes looking for her when she leaves. The point is not that unfaithfulness is fine, it is that Hosea’s painful experience helps people understand something bigger. In the book, Israel is described as being unfaithful to God by running after other gods, trusting political deals instead of God, and living unjustly.

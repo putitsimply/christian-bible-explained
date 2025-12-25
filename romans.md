@@ -19,7 +19,7 @@ Paul uses Abraham (a famous figure from the Old Testament) as an example, saying
 **3) What changes after that**\
 Paul explains that if someone trusts God, it should lead to a new kind of life. He describes a struggle many people feel, wanting to do good but often doing the wrong thing. He says God’s Spirit helps believers grow and change over time.
 
-He also says suffering still happens, but that believers have hope and God does not abandon them.
+He also says suffering still happens, but that believers have hope and that God does not abandon them.
 
 **4) How Jews and non-Jews fit together**\
 A big issue in the early church[^gl_church] was whether non-Jewish people needed to follow Jewish laws to belong. Paul argues that God’s plan includes both Jewish people and non-Jewish people, and he warns them not to look down on each other. He wants unity rather than arguments about who is “more right.”

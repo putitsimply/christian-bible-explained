@@ -6,6 +6,8 @@ Leviticus is the third book of the Bible[^gl_bible]. It picks up straight after 
 
 Most of Leviticus is not a story with lots of action. It is mainly a set of instructions. These instructions are meant to teach the Israelites how to worship, how to live as a community, and how to stay “holy,” meaning set apart for God in the way they behave.
 
+Some rules can feel strange today, but in the ancient world they helped shape identity (who this community is), safety (like health rules), and fairness (like protecting poor people and workers). Readers today often focus on the big themes of worship, responsibility, and justice.
+
 ## What it contains
 
 Here’s what happens, in a clear overview:
@@ -21,6 +23,8 @@ Here’s what happens, in a clear overview:
 * Worship is treated as serious and careful, not casual.
 * Community life matters: the rules include justice, honesty, and protection for vulnerable people.
 * Holiness is about everyday behaviour, not only religious ceremonies.
+
+Leviticus has had a long influence. Later Jewish practice and later Christian teaching often look back to its ideas about sacrifice, forgiveness, and what it means to live differently from surrounding cultures.
 
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 

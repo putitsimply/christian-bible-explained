@@ -4,6 +4,8 @@
 
 The book of Micah is a short book in the Old Testament. It is written like a set of speeches from Micah, a prophet[^gl_prophet] (someone who speaks God[^gl_god]’s message) to the people of Israel[^gl_israel] and Judah[^gl_judah]. Micah’s main theme is this: God cares deeply about justice, and he also promises hope after punishment.
 
+Micah often sounds like a court case. It is as if the prophet is saying, “Look at the evidence: this is what people are doing, and this is why it matters.”
+
 ## What it contains
 
 Micah begins by saying that serious trouble is coming because the people have been unfaithful and unfair. He points to big problems like worshipping other gods, cheating, and using power to hurt others. He especially criticises wealthy landowners who take property from families, and leaders and judges who accept bribes. Micah says this kind of society is the opposite of what God wants.
@@ -23,6 +25,8 @@ So overall, Micah is a mix of warning and comfort: it condemns corruption and cr
 * Justice is not optional: worship[^gl_worship] without fairness is criticised strongly.
 * The book mixes warning (consequences) with hope (restoration after disaster).
 * Different communities connect the “future ruler” passage to different expectations.
+
+Micah’s famous “do justice, love kindness, and walk humbly” passage is often quoted because it is simple and practical. It turns religion away from showy rituals and toward everyday fairness.
 
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
 

@@ -4,6 +4,8 @@
 
 Haggai is a short book about getting people to restart a stalled project: rebuilding God[^gl_god]’s temple[^gl_temple] in Jerusalem[^gl_jerusalem].
 
+In that time, the temple was more than “a building.” It was the centre of community worship[^gl_worship] and a symbol that the people still belonged together after exile[^gl_exile].
+
 ## What it contains
 
 ### Setting
@@ -33,17 +35,19 @@ Haggai is a prophet[^gl_prophet], meaning someone who delivers messages believed
 
 Haggai is about priorities, community responsibility, and encouragement to finish important work even when it feels slow or unimpressive.
 
+It also shows how religious leaders and political leaders worked together (priests and governors) to rebuild a community after a national crisis.
+
 [^gl_god]: The main divine being in Judaism and Christianity. ([Glossary](glossary.md#god))
 
 [^gl_temple]: The main worship building in Jerusalem in ancient Israel. ([Glossary](glossary.md#temple))
 
 [^gl_jerusalem]: A major city in the Bible’s story. ([Glossary](glossary.md#jerusalem))
 
-[^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem. ([Glossary](glossary.md#judah))
+[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals). ([Glossary](glossary.md#worship))
 
 [^gl_exile]: Being forced to live away from one’s homeland. ([Glossary](glossary.md#exile))
 
-[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals). ([Glossary](glossary.md#worship))
+[^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem. ([Glossary](glossary.md#judah))
 
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
 
