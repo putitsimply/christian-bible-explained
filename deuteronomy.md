@@ -12,21 +12,21 @@ Here is what happens, in a clear order:
 
 Moses reminds the people how they left Egypt, how they wandered in the wilderness for many years, and why. A key point is that the earlier generation often refused to trust and obey [God](glossary.md#god)[^gl_god], which led to delays and hardship.
 
-**2) Moses repeats and explains [God](glossary.md#god)’s laws.**
+**2) Moses repeats and explains [God](glossary.md#god)[^gl_god]’s laws.**
 
 A big part of Deuteronomy is a “second telling” of the law. It repeats many rules found earlier (especially from Exodus, Leviticus, and Numbers), but often with extra explanation, examples, and reasons. Moses highlights everyday life topics like honesty, caring for the poor, fair courts, family responsibilities, and how to treat strangers kindly.
 
 **3) The [covenant](glossary.md#covenant)[^gl_covenant] is renewed.**
 
-A [covenant](glossary.md#covenant) is a serious relationship agreement, like a treaty, with promises and responsibilities on both sides. Moses calls the people to renew their [covenant](glossary.md#covenant) with [God](glossary.md#god) before entering the land, because they will face new temptations and pressures once they settle.
+A [covenant](glossary.md#covenant)[^gl_covenant] is a serious relationship agreement, like a treaty, with promises and responsibilities on both sides. Moses calls the people to renew their [covenant](glossary.md#covenant)[^gl_covenant] with [God](glossary.md#god)[^gl_god] before entering the land, because they will face new temptations and pressures once they settle.
 
-**4) The most famous teaching: love [God](glossary.md#god) wholeheartedly.**
+**4) The most famous teaching: love [God](glossary.md#god)[^gl_god] wholeheartedly.**
 
-Moses teaches that the people should love [God](glossary.md#god) with their whole heart, soul, and strength, and pass this teaching on to their children. This passage is often called the “Shema,” which is the first word of it in Hebrew and means “Hear.”
+Moses teaches that the people should love [God](glossary.md#god)[^gl_god] with their whole heart, soul, and strength, and pass this teaching on to their children. This passage is often called the “Shema,” which is the first word of it in Hebrew and means “Hear.”
 
 **5) Blessings and warnings.**
 
-Moses lays out consequences. If the people follow [God](glossary.md#god)’s ways, there will be blessings like stability and peace. If they reject those ways, there will be serious troubles. The message is meant to be a warning before problems happen, not just a punishment afterward.
+Moses lays out consequences. If the people follow [God](glossary.md#god)[^gl_god]’s ways, there will be blessings like stability and peace. If they reject those ways, there will be serious troubles. The message is meant to be a warning before problems happen, not just a punishment afterward.
 
 **6) A new leader is appointed.**
 

@@ -9,9 +9,9 @@ Obadiah is the shortest book in the Old Testament, only 21 verses. It is written
 Obadiah is short, but it has a clear flow:
 
 * **Edom will be brought down:** Edom is pictured as feeling safe because of its location and strength, but the message says pride will not protect it.
-* **Why Edom is blamed:** the book accuses Edom of standing by (or even joining in) when [Judah](glossary.md#judah) was in trouble, and of taking advantage instead of helping.
+* **Why Edom is blamed:** the book accuses Edom of standing by (or even joining in) when [Judah](glossary.md#judah)[^gl_judah] was in trouble, and of taking advantage instead of helping.
 * **A bigger idea (“the Day of the Lord”):** this phrase is used in the [Bible](glossary.md#bible)[^gl_bible] for a time when [God](glossary.md#god)[^gl_god] is pictured as stepping in to judge unfairness and set things right. In Obadiah, it means what Edom did will come back on them, and other nations are not “untouchable” either.
-* **Hope after judgement:** the final lines imagine safety and restoration for [God](glossary.md#god)’s people, and end with the idea that [God](glossary.md#god)’s rule is the final outcome.
+* **Hope after judgement:** the final lines imagine safety and restoration for [God](glossary.md#god)[^gl_god]’s people, and end with the idea that [God](glossary.md#god)[^gl_god]’s rule is the final outcome.
 
 ## Big ideas
 

@@ -6,23 +6,23 @@ Malachi is the last book in the Old Testament. It is set after [God](glossary.md
 
 ## What it contains
 
-Malachi is written like a series of arguments between [God](glossary.md#god) and the people. [God](glossary.md#god) makes a point, the people ask “How?” or “What do you mean?”, then [God](glossary.md#god) answers.
+Malachi is written like a series of arguments between [God](glossary.md#god)[^gl_god] and the people. [God](glossary.md#god)[^gl_god] makes a point, the people ask “How?” or “What do you mean?”, then [God](glossary.md#god)[^gl_god] answers.
 
 Here is what happens, step by step:
 
-* **[God](glossary.md#god) says he still loves his people.** The people act like that is not true, because they think life is unfair. [God](glossary.md#god) reminds them that he has stayed faithful to them across history.
-* **[God](glossary.md#god) challenges the [priests](glossary.md#priest)[^gl_priest] and [temple](glossary.md#temple) [worship](glossary.md#worship)[^gl_worship].** The [priests](glossary.md#priest) are meant to lead [worship](glossary.md#worship) and teach what is right. Instead, they accept poor animal offerings and treat [worship](glossary.md#worship) like a chore. [God](glossary.md#god) says this is disrespectful, because offerings were meant to show honour and gratitude.
-* **[God](glossary.md#god) warns about unfairness and unfaithfulness.** Malachi speaks against people who lie, cheat workers, and take advantage of others. He also criticises faithlessness in family life, especially men treating marriage casually and abandoning their wives. The book links faithfulness to [God](glossary.md#god) with faithfulness in everyday relationships.
-* **The people complain that doing the right thing seems pointless.** Some say, “Bad people seem to do fine, so why bother obeying [God](glossary.md#god)?” Malachi says [God](glossary.md#god) sees what is happening and that justice will come, even if it feels slow. A “book of remembrance” is mentioned as a picture of [God](glossary.md#god) not forgetting those who try to live faithfully.
-* **[God](glossary.md#god) calls the people back to wholehearted commitment.** This includes honesty in [worship](glossary.md#worship) and generosity. A famous part is about “tithes” (regular giving to support the [temple](glossary.md#temple) and the needy). The message is that trust in [God](glossary.md#god) should show up in practical choices.
-* **Promise of a coming messenger and a future day of justice.** [God](glossary.md#god) says a messenger will come to prepare the way, and that a “day” is coming when evil will be judged and those who honour [God](glossary.md#god) will be healed and restored. Malachi ends by saying [God](glossary.md#god) will send “Elijah” before that day. Many Christians connect this to John the Baptist, but that is a New Testament interpretation.
+* **[God](glossary.md#god)[^gl_god] says he still loves his people.** The people act like that is not true, because they think life is unfair. [God](glossary.md#god)[^gl_god] reminds them that he has stayed faithful to them across history.
+* **[God](glossary.md#god)[^gl_god] challenges the [priests](glossary.md#priest)[^gl_priest] and [temple](glossary.md#temple)[^gl_temple] [worship](glossary.md#worship)[^gl_worship].** The [priests](glossary.md#priest)[^gl_priest] are meant to lead [worship](glossary.md#worship)[^gl_worship] and teach what is right. Instead, they accept poor animal offerings and treat [worship](glossary.md#worship)[^gl_worship] like a chore. [God](glossary.md#god)[^gl_god] says this is disrespectful, because offerings were meant to show honour and gratitude.
+* **[God](glossary.md#god)[^gl_god] warns about unfairness and unfaithfulness.** Malachi speaks against people who lie, cheat workers, and take advantage of others. He also criticises faithlessness in family life, especially men treating marriage casually and abandoning their wives. The book links faithfulness to [God](glossary.md#god)[^gl_god] with faithfulness in everyday relationships.
+* **The people complain that doing the right thing seems pointless.** Some say, “Bad people seem to do fine, so why bother obeying [God](glossary.md#god)[^gl_god]?” Malachi says [God](glossary.md#god)[^gl_god] sees what is happening and that justice will come, even if it feels slow. A “book of remembrance” is mentioned as a picture of [God](glossary.md#god)[^gl_god] not forgetting those who try to live faithfully.
+* **[God](glossary.md#god)[^gl_god] calls the people back to wholehearted commitment.** This includes honesty in [worship](glossary.md#worship)[^gl_worship] and generosity. A famous part is about “tithes” (regular giving to support the [temple](glossary.md#temple)[^gl_temple] and the needy). The message is that trust in [God](glossary.md#god)[^gl_god] should show up in practical choices.
+* **Promise of a coming messenger and a future day of justice.** [God](glossary.md#god)[^gl_god] says a messenger will come to prepare the way, and that a “day” is coming when evil will be judged and those who honour [God](glossary.md#god)[^gl_god] will be healed and restored. Malachi ends by saying [God](glossary.md#god)[^gl_god] will send “Elijah” before that day. Many Christians connect this to John the Baptist, but that is a New Testament interpretation.
 
 Overall, Malachi is a wake-up call: stop going through the motions, start living with honesty, fairness, and faithfulness.
 
 ## Big ideas
 
 * The book challenges “going through the motions” in religion while ignoring fairness.
-* It links [worship](glossary.md#worship), family life, and social justice as connected, not separate topics.
+* It links [worship](glossary.md#worship)[^gl_worship], family life, and social justice as connected, not separate topics.
 * It ends by looking ahead to future change and justice, which later readers interpret in different ways.
 
 [^gl_god]: The main divine being in Judaism and Christianity.

@@ -6,9 +6,9 @@
 
 ## What it contains
 
-**1. A messy [church](glossary.md#church) with cliques**
+**1. A messy [church](glossary.md#church)[^gl_church] with cliques**
 
-Paul starts by saying the group is splitting into teams, like “I follow this leader” and “I follow that leader.” He tells them they should not treat [church](glossary.md#church) like a popularity contest. He says the focus should be on [God](glossary.md#god)[^gl_god], and that the message about Jesus is meant to produce humility, not bragging.
+Paul starts by saying the group is splitting into teams, like “I follow this leader” and “I follow that leader.” He tells them they should not treat [church](glossary.md#church)[^gl_church] like a popularity contest. He says the focus should be on [God](glossary.md#god)[^gl_god], and that the message about Jesus is meant to produce humility, not bragging.
 
 **2. Serious behaviour problems**
 
@@ -16,7 +16,7 @@ Paul deals with a case of sexual misconduct that the community was ignoring. He 
 
 **3. Life questions: marriage, singleness, and daily living**
 
-People had questions about marriage, divorce, and whether it is better to stay single. Paul gives advice that tries to balance commitment, self-control, and what is practical in difficult situations. He also says people can serve [God](glossary.md#god) in different ways, whether married or not.
+People had questions about marriage, divorce, and whether it is better to stay single. Paul gives advice that tries to balance commitment, self-control, and what is practical in difficult situations. He also says people can serve [God](glossary.md#god)[^gl_god] in different ways, whether married or not.
 
 **4. Food offered to [idols](glossary.md#idol)[^gl_idol]**
 
@@ -24,7 +24,7 @@ In Corinth, some meat sold in markets had been used in non-Christian religious c
 
 **5. [Worship](glossary.md#worship)[^gl_worship] order and spiritual gifts**
 
-Paul talks about how gatherings should be respectful and understandable, not chaotic. He discusses “spiritual gifts,” meaning abilities people believe [God](glossary.md#god) gives for helping others, like teaching, speaking in different languages, or encouraging. He says gifts are meant to build people up, not show off.
+Paul talks about how gatherings should be respectful and understandable, not chaotic. He discusses “spiritual gifts,” meaning abilities people believe [God](glossary.md#god)[^gl_god] gives for helping others, like teaching, speaking in different languages, or encouraging. He says gifts are meant to build people up, not show off.
 
 **6. The famous “love” chapter**
 
@@ -42,7 +42,7 @@ Paul finishes with travel plans, greetings, and a request to collect money to he
 
 * Community unity matters more than popularity, cliques, or arguing about status.
 * Love is treated as more important than knowledge, power, or impressive “spiritual” abilities.
-* The letter connects belief (especially [resurrection](glossary.md#resurrection) hope) with everyday behaviour.
+* The letter connects belief (especially [resurrection](glossary.md#resurrection)[^gl_resurrection] hope) with everyday behaviour.
 
 [^gl_church]: A community of Christians, not just a building.
 

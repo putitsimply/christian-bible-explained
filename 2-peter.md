@@ -8,7 +8,7 @@
 
 ### 1) Growing in character and trusting what has been taught (chapter 1)
 
-The writer begins by saying that knowing [God](glossary.md#god)[^gl_god] should change how a person lives. He urges believers to “grow” step by step in good qualities, like self control, perseverance, kindness, and love. The idea is that [faith](glossary.md#faith) is not meant to stay small, it should produce a better life.
+The writer begins by saying that knowing [God](glossary.md#god)[^gl_god] should change how a person lives. He urges believers to “grow” step by step in good qualities, like self control, perseverance, kindness, and love. The idea is that [faith](glossary.md#faith)[^gl_faith] is not meant to stay small, it should produce a better life.
 
 He also says he is reminding them of these things because he will not be around forever. He points to two main reasons they should take the message seriously:
 
@@ -25,15 +25,15 @@ The main message is: do not follow leaders who promise freedom but live selfishl
 
 ### 3) Why has Jesus not returned yet? (chapter 3)
 
-Some people were saying, “If Jesus is meant to return, why has nothing happened?” The letter replies that [God](glossary.md#god)’s timing is not the same as human timing. What feels like a long delay may actually be patience, giving people more time to turn back and do what is right.
+Some people were saying, “If Jesus is meant to return, why has nothing happened?” The letter replies that [God](glossary.md#god)[^gl_god]’s timing is not the same as human timing. What feels like a long delay may actually be patience, giving people more time to turn back and do what is right.
 
-It also describes “the day of the Lord,” meaning a future time when [God](glossary.md#god) will judge evil and set things right. The goal is not to scare people for fun, but to encourage them to live well now, as if their choices truly matter. It ends with hope for “a new heaven and a new earth,” meaning a renewed world where goodness belongs.
+It also describes “the day of the Lord,” meaning a future time when [God](glossary.md#god)[^gl_god] will judge evil and set things right. The goal is not to scare people for fun, but to encourage them to live well now, as if their choices truly matter. It ends with hope for “a new heaven and a new earth,” meaning a renewed world where goodness belongs.
 
 The letter finishes by saying some of Paul’s writings are hard to understand, and warns people not to twist them. It encourages readers to keep growing and stay grounded.
 
 ## Big ideas
 
-* [Faith](glossary.md#faith) is presented as something that should shape character and behaviour over time.
+* [Faith](glossary.md#faith)[^gl_faith] is presented as something that should shape character and behaviour over time.
 * The letter warns about teachers who use religion for selfish reasons.
 * Future hope is used to motivate good living now, not panic.
 

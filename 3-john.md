@@ -14,12 +14,12 @@ The writer addresses the letter to **Gaius**, who seems to be a respected member
 
 **2) Praise for helping travelling Christian workers**
 
-A big focus of the letter is **hospitality**, which means welcoming and caring for guests. In the early [church](glossary.md#church), teachers and messengers often travelled between towns. They needed food, a safe place to stay, and help with travel costs.
+A big focus of the letter is **hospitality**, which means welcoming and caring for guests. In the early [church](glossary.md#church)[^gl_church], teachers and messengers often travelled between towns. They needed food, a safe place to stay, and help with travel costs.
 
 The writer praises Gaius for supporting these visitors, especially those who are working to spread Christian teaching. He says that when people help them, they become “co-workers” in the mission, even if they are not the ones travelling.
 
 **3) A problem leader named Diotrephes**\
-Then the letter shifts to a conflict. The writer warns about a man named **Diotrephes**, who appears to have influence in the [church](glossary.md#church) but behaves badly. Diotrephes does not welcome the travelling workers, and he also refuses to accept the writer’s authority. Worse, he tries to stop others from helping the visitors, and he even pushes people out of the [church](glossary.md#church) who do help.
+Then the letter shifts to a conflict. The writer warns about a man named **Diotrephes**, who appears to have influence in the [church](glossary.md#church)[^gl_church] but behaves badly. Diotrephes does not welcome the travelling workers, and he also refuses to accept the writer’s authority. Worse, he tries to stop others from helping the visitors, and he even pushes people out of the [church](glossary.md#church)[^gl_church] who do help.
 
 The writer is basically saying, “This is not how a good leader behaves.”
 

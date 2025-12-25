@@ -10,7 +10,7 @@ Paul starts by reminding Timothy of his background. He points to Timothy’s sin
 
 A big theme is “keep the message safe.” Paul warns that some people are teaching wrong ideas. He tells Timothy to guard the true teaching and to pass it on carefully. He also says Timothy should train other trustworthy people who can teach others too. It is like a chain: Paul taught Timothy, Timothy teaches others, and they teach more people.
 
-Paul uses strong images to explain what faithful living looks like. He says Timothy should be like a soldier who keeps going even when it is hard, an athlete who follows the rules, and a farmer who works patiently. Paul expects that following Jesus can bring suffering, but he says it is worth it and that [God](glossary.md#god) will give strength.
+Paul uses strong images to explain what faithful living looks like. He says Timothy should be like a soldier who keeps going even when it is hard, an athlete who follows the rules, and a farmer who works patiently. Paul expects that following Jesus can bring suffering, but he says it is worth it and that [God](glossary.md#god)[^gl_god] will give strength.
 
 Later, Paul warns that in “the last days” many people will become selfish, dishonest, and harsh. Timothy is told not to copy that behaviour. Instead, he should keep learning from the Scriptures (the holy writings). Paul says [Scripture](glossary.md#scripture)[^gl_scripture] is useful for teaching, correcting, and training people to live well. He urges Timothy to keep preaching and teaching even when people do not want to listen.
 
@@ -22,7 +22,7 @@ Overall, 2 Timothy is about courage, staying faithful, passing on good teaching,
 
 * Courage and persistence are valued, especially when life is hard.
 * Passing on teaching is described like a “chain” of mentoring and learning.
-* [Scripture](glossary.md#scripture) is presented as useful for shaping behaviour and character.
+* [Scripture](glossary.md#scripture)[^gl_scripture] is presented as useful for shaping behaviour and character.
 
 [^gl_apostle]: An early Christian messenger; the word means “sent one.”
 

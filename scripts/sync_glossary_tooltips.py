@@ -124,23 +124,22 @@ def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
 
     body_text = "\n".join(body_lines)
 
-    # 2) Ensure each glossary link has (at least one) tooltip footnote per term per page.
+    # 2) Ensure every glossary link occurrence has a tooltip footnote marker.
+    # (GitBook shows the tooltip on the footnote marker itself.)
+    def add_marker_to_every_glossary_link(m: re.Match[str]) -> str:
+        label = m.group("label")
+        anchor = m.group("anchor").strip()
+        expected_fn_id = anchor_to_glossary_fn_id(anchor)
+        return f"[{label}](glossary.md#{anchor})[^{expected_fn_id}]"
+
+    body_text = re.sub(
+        r"\[(?P<label>[^\]]+?)\]\(glossary\.md#(?P<anchor>[^)]+)\)(?!\[\^gl_[^\]]+\])",
+        add_marker_to_every_glossary_link,
+        body_text,
+    )
+
     anchors_in_order: list[str] = [m.group("anchor") for m in GLOSSARY_LINK_RE.finditer(body_text)]
     anchors_in_order = ordered_unique([a.strip() for a in anchors_in_order])
-
-    for anchor in anchors_in_order:
-        fn_id = anchor_to_glossary_fn_id(anchor)
-        if fn_id in find_footnote_refs_outside_defs(body_lines):
-            continue
-
-        # Attach the marker to the first occurrence of a glossary link to this anchor.
-        link_pat = re.compile(
-            rf"(\[[^\]]+?\]\(glossary\.md#{re.escape(anchor)}\))(?!\[\^[^\]]+\])"
-        )
-        body_text, count = link_pat.subn(rf"\1[^{fn_id}]", body_text, count=1)
-        if count == 0:
-            # Should not happen, but avoid silently failing.
-            continue
 
     # 3) Recompute used glossary footnotes after insertions and sync their definitions from glossary.md.
     new_body_lines = body_text.splitlines()
