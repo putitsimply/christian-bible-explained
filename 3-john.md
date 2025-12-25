@@ -2,7 +2,7 @@
 
 ## What this book is
 
-3 John is one of the shortest books in the Christian [Bible[^gl_bible]](glossary.md#bible). It is a short letter, written by someone who calls himself “the elder,” which means an older leader in the Christian community. Many Christians have traditionally linked this writer with John, a major early Christian leader, but the letter itself does not fully explain who he is.
+3 John is one of the shortest books in the Christian [Bible](glossary.md#bible)[^gl_bible]. It is a short letter, written by someone who calls himself “the elder,” which means an older leader in the Christian community. Many Christians have traditionally linked this writer with John, a major early Christian leader, but the letter itself does not fully explain who he is.
 
 ## What it contains
 
@@ -10,7 +10,7 @@
 
 **1) A warm message to a man named Gaius**
 
-The writer addresses the letter to **Gaius**, who seems to be a respected member of a local [church[^gl_church]](glossary.md#church). He says he is happy because he hears that Gaius is “walking in the truth.” In simple terms, that means Gaius is living in a way that matches what he believes about [God[^gl_god]](glossary.md#god) and Jesus, not just talking about it.
+The writer addresses the letter to **Gaius**, who seems to be a respected member of a local [church](glossary.md#church)[^gl_church]. He says he is happy because he hears that Gaius is “walking in the truth.” In simple terms, that means Gaius is living in a way that matches what he believes about [God](glossary.md#god)[^gl_god] and Jesus, not just talking about it.
 
 **2) Praise for helping travelling Christian workers**
 

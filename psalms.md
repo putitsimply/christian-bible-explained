@@ -2,13 +2,13 @@
 
 ## What this book is
 
-The Book of Psalms is a collection of 150 poems and songs that were used in [worship[^gl_worship]](glossary.md#worship) and private [prayer[^gl_prayer]](glossary.md#prayer) in ancient [Israel[^gl_israel]](glossary.md#israel). Instead of telling one single story from start to finish, it’s more like a songbook or [prayer](glossary.md#prayer) journal that covers lots of different life situations.
+The Book of Psalms is a collection of 150 poems and songs that were used in [worship](glossary.md#worship)[^gl_worship] and private [prayer](glossary.md#prayer)[^gl_prayer] in ancient [Israel](glossary.md#israel)[^gl_israel]. Instead of telling one single story from start to finish, it’s more like a songbook or [prayer](glossary.md#prayer) journal that covers lots of different life situations.
 
 ## What it contains
 
 ### What’s in it
 
-* **Songs and prayers to [God[^gl_god]](glossary.md#god)**: People speak to [God](glossary.md#god) with praise, thanks, questions, and requests for help.
+* **Songs and prayers to [God](glossary.md#god)[^gl_god]**: People speak to [God](glossary.md#god) with praise, thanks, questions, and requests for help.
 * **Many writers**: A lot are linked to **King David**, but others are linked to leaders, musicians, and [worship](glossary.md#worship) groups. Some do not name an author.
 * **Different “types” of psalms**:
  * **Praise**: celebrating [God](glossary.md#god)’s greatness and care.
@@ -31,11 +31,11 @@ Even though it’s not one storyline, it is still possible to notice a “journe
 
 ## Big ideas
 
-* **Honesty with [God](glossary.md#god)**: The psalms show that [faith[^gl_faith]](glossary.md#faith) includes joy and sadness, confidence and confusion.
+* **Honesty with [God](glossary.md#god)**: The psalms show that [faith](glossary.md#faith)[^gl_faith] includes joy and sadness, confidence and confusion.
 * **[God](glossary.md#god) is seen as Creator and King**: Many psalms describe [God](glossary.md#god) as powerful, just, and caring for people.
 * **Justice matters**: Writers often ask for wrong things to be made right.
 * **Comfort and courage**: Some psalms became famous for reassurance, like Psalm 23, which pictures [God](glossary.md#god) as a shepherd guiding and protecting.
-Christians use Psalms in [church[^gl_church]](glossary.md#church) services, in personal [prayer](glossary.md#prayer), and sometimes connect certain psalms to Jesus, but the book itself is mainly a shared collection of prayers and songs about life with [God](glossary.md#god).
+Christians use Psalms in [church](glossary.md#church)[^gl_church] services, in personal [prayer](glossary.md#prayer), and sometimes connect certain psalms to Jesus, but the book itself is mainly a shared collection of prayers and songs about life with [God](glossary.md#god).
 
 [^gl_worship]: Actions showing devotion to God (prayer, songs, rituals).
 

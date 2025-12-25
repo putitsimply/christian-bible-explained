@@ -2,19 +2,19 @@
 
 ## What this book is
 
-Zechariah is a book about giving hope to the Jewish people after they returned to [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem) from [exile[^gl_exile]](glossary.md#exile) (being forced to live away from their homeland). The city and [God[^gl_god]](glossary.md#god)’s [temple[^gl_temple]](glossary.md#temple) were damaged, and the people were tired, worried, and tempted to give up rebuilding.
+Zechariah is a book about giving hope to the Jewish people after they returned to [Jerusalem](glossary.md#jerusalem)[^gl_jerusalem] from [exile](glossary.md#exile)[^gl_exile] (being forced to live away from their homeland). The city and [God](glossary.md#god)[^gl_god]’s [temple](glossary.md#temple)[^gl_temple] were damaged, and the people were tired, worried, and tempted to give up rebuilding.
 
 ## What it contains
 
 ### Part 1: Night visions that push the people forward (roughly chapters 1 to 6)
 
-Zechariah, a [prophet[^gl_prophet]](glossary.md#prophet) (someone who brings messages meant to come from [God](glossary.md#god)), receives a series of strange “visions” (picture-like messages). They use symbols to teach lessons.
+Zechariah, a [prophet](glossary.md#prophet)[^gl_prophet] (someone who brings messages meant to come from [God](glossary.md#god)), receives a series of strange “visions” (picture-like messages). They use symbols to teach lessons.
 
 Some key visions include:
 
 * **A rider patrol and a promise of comfort:** [God](glossary.md#god) has not forgotten [Jerusalem](glossary.md#jerusalem) and plans to restore it.
 * **A measuring line for [Jerusalem](glossary.md#jerusalem):** The city will be rebuilt and protected.
-* **The [high priest[^gl_high_priest]](glossary.md#high-priest) Joshua being cleaned up:** This is a picture of forgiveness and a fresh start for the community.
+* **The [high priest](glossary.md#high-priest)[^gl_high_priest] Joshua being cleaned up:** This is a picture of forgiveness and a fresh start for the community.
 * **A lampstand and two olive trees:** A message that the rebuilding will succeed, not mainly through human strength, but through [God](glossary.md#god)’s help.
 * **A flying scroll and a basket:** Pictures that wrongdoing will be judged and removed.
 * **Four chariots:** A sign that [God](glossary.md#god)’s rule reaches everywhere.

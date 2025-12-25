@@ -8,9 +8,9 @@ Nahum is a short book in the Old Testament. It is mainly about one thing: the co
 
 ### The background
 
-Assyria was a powerful empire that had hurt many nations, including [God[^gl_god]](glossary.md#god)’s people. In the [Bible[^gl_bible]](glossary.md#bible) story, Assyria had already conquered the northern kingdom of [Israel[^gl_israel]](glossary.md#israel) and caused a lot of suffering. So for many people in [Judah[^gl_judah]](glossary.md#judah) (the southern kingdom), Assyria felt scary and unstoppable.
+Assyria was a powerful empire that had hurt many nations, including [God](glossary.md#god)[^gl_god]’s people. In the [Bible](glossary.md#bible)[^gl_bible] story, Assyria had already conquered the northern kingdom of [Israel](glossary.md#israel)[^gl_israel] and caused a lot of suffering. So for many people in [Judah](glossary.md#judah)[^gl_judah] (the southern kingdom), Assyria felt scary and unstoppable.
 
-Nahum is presented as a **[prophet[^gl_prophet]](glossary.md#prophet)**, meaning someone who speaks a message they believe comes from [God](glossary.md#god). His message is not mainly “do this, don’t do that,” but “this is what is going to happen.”
+Nahum is presented as a **[prophet](glossary.md#prophet)[^gl_prophet]**, meaning someone who speaks a message they believe comes from [God](glossary.md#god). His message is not mainly “do this, don’t do that,” but “this is what is going to happen.”
 
 ### What happens in the book
 

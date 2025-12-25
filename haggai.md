@@ -2,23 +2,23 @@
 
 ## What this book is
 
-Haggai is a short book about getting people to restart a stalled project: rebuilding [God[^gl_god]](glossary.md#god)’s [temple[^gl_temple]](glossary.md#temple) in [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem).
+Haggai is a short book about getting people to restart a stalled project: rebuilding [God](glossary.md#god)[^gl_god]’s [temple](glossary.md#temple)[^gl_temple] in [Jerusalem](glossary.md#jerusalem)[^gl_jerusalem].
 
 ## What it contains
 
 ### Setting
 
-The story happens after many Jewish people have returned to [Judah[^gl_judah]](glossary.md#judah) from [exile[^gl_exile]](glossary.md#exile) in Babylon ([exile](glossary.md#exile) means being forced to live away from home). They have begun rebuilding their lives, but the [temple](glossary.md#temple) is still left in ruins. The [temple](glossary.md#temple) was the main place for [worship[^gl_worship]](glossary.md#worship) and community life in [Jerusalem](glossary.md#jerusalem).
+The story happens after many Jewish people have returned to [Judah](glossary.md#judah)[^gl_judah] from [exile](glossary.md#exile)[^gl_exile] in Babylon ([exile](glossary.md#exile) means being forced to live away from home). They have begun rebuilding their lives, but the [temple](glossary.md#temple) is still left in ruins. The [temple](glossary.md#temple) was the main place for [worship](glossary.md#worship)[^gl_worship] and community life in [Jerusalem](glossary.md#jerusalem).
 
 ### What Haggai says and what happens
 
-Haggai is a [prophet[^gl_prophet]](glossary.md#prophet), meaning someone who delivers messages believed to come from [God](glossary.md#god). His messages are dated very specifically and all happen within a few months.
+Haggai is a [prophet](glossary.md#prophet)[^gl_prophet], meaning someone who delivers messages believed to come from [God](glossary.md#god). His messages are dated very specifically and all happen within a few months.
 
 1. **Haggai challenges the people’s priorities**\
  Haggai challenges the people because they are focusing on fixing up their own homes while leaving the [temple](glossary.md#temple) unfinished. He says this mixed-up priority is part of why things feel hard, like poor harvests and not enough resources. His point is that their choices are shaping their whole community.
 
 2. **The leaders and people respond and start rebuilding**\
- Two key leaders are named: **Zerubbabel** (the governor) and **Joshua** (the [high priest[^gl_high_priest]](glossary.md#high-priest), meaning the main religious leader). The people listen, and the rebuilding work begins. Haggai also brings encouragement that [God](glossary.md#god) is with them, and urges them not to be afraid or give up.
+ Two key leaders are named: **Zerubbabel** (the governor) and **Joshua** (the [high priest](glossary.md#high-priest)[^gl_high_priest], meaning the main religious leader). The people listen, and the rebuilding work begins. Haggai also brings encouragement that [God](glossary.md#god) is with them, and urges them not to be afraid or give up.
 
 3. **“This new [temple](glossary.md#temple) looks small, but do not lose heart”**\
  Some people remember the old [temple](glossary.md#temple) and feel sad because the new one seems less impressive. Haggai tells them to keep going, and promises that the future will bring greater honour and peace than they expect.

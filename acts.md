@@ -2,13 +2,13 @@
 
 ## What this book is
 
-Acts is the story of what happens after Jesus’ death and (in Christian belief) his [resurrection[^gl_resurrection]](glossary.md#resurrection), focusing on how his followers spread the Christian message across the Roman world. It follows a group called the [apostles[^gl_apostle]](glossary.md#apostle), meaning “sent ones,” who believed Jesus had chosen them to continue his work.
+Acts is the story of what happens after Jesus’ death and (in Christian belief) his [resurrection](glossary.md#resurrection)[^gl_resurrection], focusing on how his followers spread the Christian message across the Roman world. It follows a group called the [apostles](glossary.md#apostle)[^gl_apostle], meaning “sent ones,” who believed Jesus had chosen them to continue his work.
 
 ## What it contains
 
-**1) The beginning in [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem)**
+**1) The beginning in [Jerusalem](glossary.md#jerusalem)[^gl_jerusalem]**
 
-Acts starts by saying Jesus appeared to his followers for a short time, then returned to heaven (often called the [Ascension[^gl_ascension]](glossary.md#ascension)). The followers stay in [Jerusalem](glossary.md#jerusalem). Soon after, a major Jewish festival called [Pentecost[^gl_pentecost]](glossary.md#pentecost) happens. The followers believe [God[^gl_god]](glossary.md#god) gives them the [Holy Spirit[^gl_holy_spirit]](glossary.md#holy-spirit), which in Christian belief is [God](glossary.md#god)’s presence and power working with people. They begin preaching boldly, and many people join them.
+Acts starts by saying Jesus appeared to his followers for a short time, then returned to heaven (often called the [Ascension](glossary.md#ascension)[^gl_ascension]). The followers stay in [Jerusalem](glossary.md#jerusalem). Soon after, a major Jewish festival called [Pentecost](glossary.md#pentecost)[^gl_pentecost] happens. The followers believe [God](glossary.md#god)[^gl_god] gives them the [Holy Spirit](glossary.md#holy-spirit)[^gl_holy_spirit], which in Christian belief is [God](glossary.md#god)’s presence and power working with people. They begin preaching boldly, and many people join them.
 
 **2) Peter and the early community**
 
@@ -18,13 +18,13 @@ One major moment is when a follower named Stephen is killed for his beliefs. Thi
 
 **3) The message spreads beyond Jewish people**
 
-Acts shows a big change: the message is not only for Jewish people. A Roman officer named Cornelius and his household join, and Peter accepts them. This matters because it opens the movement to [Gentiles[^gl_gentile]](glossary.md#gentile), meaning non Jewish people.
+Acts shows a big change: the message is not only for Jewish people. A Roman officer named Cornelius and his household join, and Peter accepts them. This matters because it opens the movement to [Gentiles](glossary.md#gentile)[^gl_gentile], meaning non Jewish people.
 
 **4) Paul’s conversion and journeys**
 
 A man named Saul (later called Paul) begins as someone who tries to stop the followers. Then he has a dramatic experience and becomes a believer. Paul becomes the main figure for the rest of the book.
 
-Paul travels widely, starting communities in many cities, teaching in [synagogues[^gl_synagogue]](glossary.md#synagogue) and public places, and often facing hostility, riots, and arrests.
+Paul travels widely, starting communities in many cities, teaching in [synagogues](glossary.md#synagogue)[^gl_synagogue] and public places, and often facing hostility, riots, and arrests.
 
 **5) A key meeting in [Jerusalem](glossary.md#jerusalem)**
 

@@ -2,15 +2,15 @@
 
 ## What this book is
 
-Zephaniah is a short book in the Old Testament. It is mostly a set of warnings and hopes spoken by a [prophet[^gl_prophet]](glossary.md#prophet) named Zephaniah, during the time of King Josiah in [Judah[^gl_judah]](glossary.md#judah).
+Zephaniah is a short book in the Old Testament. It is mostly a set of warnings and hopes spoken by a [prophet](glossary.md#prophet)[^gl_prophet] named Zephaniah, during the time of King Josiah in [Judah](glossary.md#judah)[^gl_judah].
 
 ## What it contains
 
 ### What happens in Zephaniah
 
-Zephaniah starts with a big warning. He says a time of judgement is coming, often called “the day of the [LORD[^gl_lord]](glossary.md#lord).” In the [Bible[^gl_bible]](glossary.md#bible), “the [LORD](glossary.md#lord)” usually means [Israel[^gl_israel]](glossary.md#israel)’s [God[^gl_god]](glossary.md#god), and “the day” means a time when [God](glossary.md#god) acts publicly to put things right. Zephaniah describes it as frightening and world shaking, because it involves punishment for wrong choices and unfair systems.
+Zephaniah starts with a big warning. He says a time of judgement is coming, often called “the day of the [LORD](glossary.md#lord)[^gl_lord].” In the [Bible](glossary.md#bible)[^gl_bible], “the [LORD](glossary.md#lord)” usually means [Israel](glossary.md#israel)[^gl_israel]’s [God](glossary.md#god)[^gl_god], and “the day” means a time when [God](glossary.md#god) acts publicly to put things right. Zephaniah describes it as frightening and world shaking, because it involves punishment for wrong choices and unfair systems.
 
-He explains why judgement is coming. He says many people in [Judah](glossary.md#judah) have been unfaithful to [God](glossary.md#god), copying other religions, worshipping [idols[^gl_idol]](glossary.md#idol) (objects or gods people treat as most important), and living as if [God](glossary.md#god) will never care about what they do. He also points out injustice and corruption. Leaders, judges, and officials are described as using power for themselves instead of protecting people.
+He explains why judgement is coming. He says many people in [Judah](glossary.md#judah) have been unfaithful to [God](glossary.md#god), copying other religions, worshipping [idols](glossary.md#idol)[^gl_idol] (objects or gods people treat as most important), and living as if [God](glossary.md#god) will never care about what they do. He also points out injustice and corruption. Leaders, judges, and officials are described as using power for themselves instead of protecting people.
 
 Zephaniah’s message is not only for [Judah](glossary.md#judah). He also speaks against nearby nations (like Philistia, Moab, Ammon, Cush, and Assyria). The point is that no nation is automatically safe, because violence, pride, and cruelty matter to [God](glossary.md#god) everywhere, not just in one place.
 

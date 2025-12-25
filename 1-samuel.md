@@ -2,17 +2,17 @@
 
 ## What this book is
 
-**1 Samuel** tells the story of [Israel[^gl_israel]](glossary.md#israel) changing from being led mainly by judges to being led by kings, and it follows three major people: **Samuel**, **Saul**, and **David**.
+**1 Samuel** tells the story of [Israel](glossary.md#israel)[^gl_israel] changing from being led mainly by judges to being led by kings, and it follows three major people: **Samuel**, **Saul**, and **David**.
 
 ## What it contains
 
 ### Samuel is born and grows up
 
-A woman named **Hannah** cannot have children and prays deeply for a son. She promises that if she has a child, she will dedicate him to [God[^gl_god]](glossary.md#god)’s service. She has a son, **Samuel**, and keeps her promise by bringing him to live and work at the holy place where the [priest[^gl_priest]](glossary.md#priest) **Eli** serves. Samuel grows up learning to listen for [God](glossary.md#god)’s guidance.
+A woman named **Hannah** cannot have children and prays deeply for a son. She promises that if she has a child, she will dedicate him to [God](glossary.md#god)[^gl_god]’s service. She has a son, **Samuel**, and keeps her promise by bringing him to live and work at the holy place where the [priest](glossary.md#priest)[^gl_priest] **Eli** serves. Samuel grows up learning to listen for [God](glossary.md#god)’s guidance.
 
 ### The Ark is captured and returned
 
-[Israel](glossary.md#israel) fights the **Philistines** (a rival people). In battle, the Philistines capture the **Ark of the [Covenant[^gl_covenant]](glossary.md#covenant)**, a special sacred chest that represented [God](glossary.md#god)’s presence with [Israel](glossary.md#israel). But the Philistines have problems wherever they keep it, so they send it back to [Israel](glossary.md#israel). This part teaches that sacred things are not magic tools people can use to win.
+[Israel](glossary.md#israel) fights the **Philistines** (a rival people). In battle, the Philistines capture the **Ark of the [Covenant](glossary.md#covenant)[^gl_covenant]**, a special sacred chest that represented [God](glossary.md#god)’s presence with [Israel](glossary.md#israel). But the Philistines have problems wherever they keep it, so they send it back to [Israel](glossary.md#israel). This part teaches that sacred things are not magic tools people can use to win.
 
 ### [Israel](glossary.md#israel) asks for a king
 
@@ -38,7 +38,7 @@ Near the end, Saul becomes desperate and makes more damaging choices. In a final
 
 * Leadership and power can help or harm, depending on character and choices.
 * The book contrasts trust and humility with fear and pride.
-* [Israel](glossary.md#israel)’s shift toward kingship changes the rest of the story in the [Bible[^gl_bible]](glossary.md#bible).
+* [Israel](glossary.md#israel)’s shift toward kingship changes the rest of the story in the [Bible](glossary.md#bible)[^gl_bible].
 
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
 

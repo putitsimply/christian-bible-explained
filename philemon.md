@@ -2,7 +2,7 @@
 
 ## What this book is
 
-Philemon is the shortest book in the Christian [Bible[^gl_bible]](glossary.md#bible). It is a personal letter, not a long story with lots of scenes. Most Christians believe it was written by Paul, a Christian leader who travelled to teach about Jesus. Paul writes to a man named Philemon, who leads or hosts a Christian group that meets in his home.
+Philemon is the shortest book in the Christian [Bible](glossary.md#bible)[^gl_bible]. It is a personal letter, not a long story with lots of scenes. Most Christians believe it was written by Paul, a Christian leader who travelled to teach about Jesus. Paul writes to a man named Philemon, who leads or hosts a Christian group that meets in his home.
 
 ## What it contains
 
@@ -22,7 +22,7 @@ Big ideas the letter highlights:
 ## Big ideas
 
 * **Forgiveness and repaired relationships:** Paul pushes for reconciliation, which means making peace and restoring a relationship after wrongdoing.
-* **A changed identity:** Paul argues that becoming a Christian should change how people treat each other, especially within the [church[^gl_church]](glossary.md#church) community.
+* **A changed identity:** Paul argues that becoming a Christian should change how people treat each other, especially within the [church](glossary.md#church)[^gl_church] community.
 * **A real-life moral problem:** the letter sits inside a world where slavery existed. Readers today often notice that Paul focuses on humane treatment and brotherhood rather than directly calling for slavery to end. Different Christians interpret the letter’s impact on that issue in different ways.
 Overall, Philemon is a short, practical letter about choosing mercy, making things right, and treating someone as a person, not just a role.
 
