@@ -2,7 +2,7 @@
 
 ## What this book is
 
-Song of Solomon, also called Song of Songs, is a book of poetry about love. It is not a story with battles or kings. Instead, it is a set of love poems where different voices speak, mainly a young woman and a young man, and sometimes a group called “friends” or “daughters of <a href="glossary.md#jerusalem" title="A major city in the Bible’s story.">Jerusalem</a>” (like a chorus in a play).
+Song of Solomon, also called Song of Songs, is a book of poetry about love. It is not a story with battles or kings. Instead, it is a set of love poems where different voices speak, mainly a young woman and a young man, and sometimes a group called “friends” or “daughters of <a href="glossary.md#jerusalem"><span title="A major city in the Bible’s story.">Jerusalem</span></a>” (like a chorus in a play).
 
 ## What it contains
 
@@ -17,7 +17,7 @@ Because it is poetry, the book does not always move in a straight line. It can j
 People interpret the book in different ways:
 
 * **As romantic poetry:** celebrating love, attraction, commitment, and the goodness of marriage.
-* **As an allegory:** an allegory is a story or poem that also stands for something else. Some readers see the lovers as symbolising <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>’s love for his people, or in Christian teaching, Christ’s love for the <a href="glossary.md#church" title="A community of Christians, not just a building.">church</a>.
+* **As an allegory:** an allegory is a story or poem that also stands for something else. Some readers see the lovers as symbolising <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s love for his people, or in Christian teaching, Christ’s love for the <a href="glossary.md#church"><span title="A community of Christians, not just a building.">church</span></a>.
 Either way, the main focus of Song of Solomon is the beauty, joy, and seriousness of faithful love.
 
 ## Big ideas

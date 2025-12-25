@@ -2,7 +2,7 @@
 
 ## What this book is
 
-3 John is one of the shortest books in the Christian <a href="glossary.md#bible" title="Christian sacred writings: many books and types of writing.">Bible</a>. It is a short letter, written by someone who calls himself “the elder,” which means an older leader in the Christian community. Many Christians have traditionally linked this writer with John, a major early Christian leader, but the letter itself does not fully explain who he is.
+3 John is one of the shortest books in the Christian <a href="glossary.md#bible"><span title="Christian sacred writings: many books and types of writing.">Bible</span></a>. It is a short letter, written by someone who calls himself “the elder,” which means an older leader in the Christian community. Many Christians have traditionally linked this writer with John, a major early Christian leader, but the letter itself does not fully explain who he is.
 
 ## What it contains
 
@@ -10,16 +10,16 @@
 
 **1) A warm message to a man named Gaius**
 
-The writer addresses the letter to **Gaius**, who seems to be a respected member of a local <a href="glossary.md#church" title="A community of Christians, not just a building.">church</a>. He says he is happy because he hears that Gaius is “walking in the truth.” In simple terms, that means Gaius is living in a way that matches what he believes about <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> and Jesus, not just talking about it.
+The writer addresses the letter to **Gaius**, who seems to be a respected member of a local <a href="glossary.md#church"><span title="A community of Christians, not just a building.">church</span></a>. He says he is happy because he hears that Gaius is “walking in the truth.” In simple terms, that means Gaius is living in a way that matches what he believes about <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> and Jesus, not just talking about it.
 
 **2) Praise for helping travelling Christian workers**
 
-A big focus of the letter is **hospitality**, which means welcoming and caring for guests. In the early <a href="glossary.md#church" title="A community of Christians, not just a building.">church</a>, teachers and messengers often travelled between towns. They needed food, a safe place to stay, and help with travel costs.
+A big focus of the letter is **hospitality**, which means welcoming and caring for guests. In the early <a href="glossary.md#church"><span title="A community of Christians, not just a building.">church</span></a>, teachers and messengers often travelled between towns. They needed food, a safe place to stay, and help with travel costs.
 
 The writer praises Gaius for supporting these visitors, especially those who are working to spread Christian teaching. He says that when people help them, they become “co-workers” in the mission, even if they are not the ones travelling.
 
 **3) A problem leader named Diotrephes**\
-Then the letter shifts to a conflict. The writer warns about a man named **Diotrephes**, who appears to have influence in the <a href="glossary.md#church" title="A community of Christians, not just a building.">church</a> but behaves badly. Diotrephes does not welcome the travelling workers, and he also refuses to accept the writer’s authority. Worse, he tries to stop others from helping the visitors, and he even pushes people out of the <a href="glossary.md#church" title="A community of Christians, not just a building.">church</a> who do help.
+Then the letter shifts to a conflict. The writer warns about a man named **Diotrephes**, who appears to have influence in the <a href="glossary.md#church"><span title="A community of Christians, not just a building.">church</span></a> but behaves badly. Diotrephes does not welcome the travelling workers, and he also refuses to accept the writer’s authority. Worse, he tries to stop others from helping the visitors, and he even pushes people out of the <a href="glossary.md#church"><span title="A community of Christians, not just a building.">church</span></a> who do help.
 
 The writer is basically saying, “This is not how a good leader behaves.”
 

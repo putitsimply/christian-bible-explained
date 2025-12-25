@@ -2,28 +2,28 @@
 
 ## What this book is
 
-Galatians is a letter written by Paul (a Christian missionary) to several <a href="glossary.md#church" title="A community of Christians, not just a building.">church</a> groups in a region called Galatia. He writes because a serious argument has started about what makes someone part of <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>’s people.
+Galatians is a letter written by Paul (a Christian missionary) to several <a href="glossary.md#church"><span title="A community of Christians, not just a building.">church</span></a> groups in a region called Galatia. He writes because a serious argument has started about what makes someone part of <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s people.
 
 ## What it contains
 
 ### The problem Paul is answering
 
-After Paul left, some teachers told the Galatian Christians, “<a href="glossary.md#faith" title="Trust; in Christianity, trusting God and Jesus.">Faith</a> in Jesus is not enough. To belong, people must also follow key parts of the Jewish law, especially circumcision (a religious sign for Jewish males) and other rules.” Paul strongly disagrees.
+After Paul left, some teachers told the Galatian Christians, “<a href="glossary.md#faith"><span title="Trust; in Christianity, trusting God and Jesus.">Faith</span></a> in Jesus is not enough. To belong, people must also follow key parts of the Jewish law, especially circumcision (a religious sign for Jewish males) and other rules.” Paul strongly disagrees.
 
 ### Paul’s main message
 
-Paul says people are made “right with <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>” by trusting Jesus, not by earning it through religious rule-keeping. (In <a href="glossary.md#church" title="A community of Christians, not just a building.">church</a> language this is often called “justification by <a href="glossary.md#faith" title="Trust; in Christianity, trusting God and Jesus.">faith</a>,” meaning being accepted by <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> through <a href="glossary.md#faith" title="Trust; in Christianity, trusting God and Jesus.">faith</a> rather than performance.) He argues that adding extra requirements turns the good news into a different message.
+Paul says people are made “right with <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>” by trusting Jesus, not by earning it through religious rule-keeping. (In <a href="glossary.md#church"><span title="A community of Christians, not just a building.">church</span></a> language this is often called “justification by <a href="glossary.md#faith"><span title="Trust; in Christianity, trusting God and Jesus.">faith</span></a>,” meaning being accepted by <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> through <a href="glossary.md#faith"><span title="Trust; in Christianity, trusting God and Jesus.">faith</span></a> rather than performance.) He argues that adding extra requirements turns the good news into a different message.
 
 ### How Paul argues his case
 
 * **Paul defends his authority and message:** He explains that his message came from his encounter with Jesus and that even other major leaders did not force non-Jewish believers to become Jewish first.
-* **<a href="glossary.md#faith" title="Trust; in Christianity, trusting God and Jesus.">Faith</a> versus law:** He points to Abraham, an important <a href="glossary.md#bible" title="Christian sacred writings: many books and types of writing.">Bible</a> figure, saying Abraham trusted <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a> before the Jewish law existed. Paul uses this to argue that trust comes first.
+* **<a href="glossary.md#faith"><span title="Trust; in Christianity, trusting God and Jesus.">Faith</span></a> versus law:** He points to Abraham, an important <a href="glossary.md#bible"><span title="Christian sacred writings: many books and types of writing.">Bible</span></a> figure, saying Abraham trusted <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a> before the Jewish law existed. Paul uses this to argue that trust comes first.
 * **What the law was for:** Paul says the law had a temporary role, like a supervisor or guide, showing people right and wrong and highlighting human failure, but it was not the final solution.
-* **A new family identity:** Paul says that through <a href="glossary.md#faith" title="Trust; in Christianity, trusting God and Jesus.">faith</a>, people become part of <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>’s family, whether they are Jewish or non-Jewish, male or female, slave or free. His point is that social and ethnic divisions should not decide who belongs.
+* **A new family identity:** Paul says that through <a href="glossary.md#faith"><span title="Trust; in Christianity, trusting God and Jesus.">faith</span></a>, people become part of <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s family, whether they are Jewish or non-Jewish, male or female, slave or free. His point is that social and ethnic divisions should not decide who belongs.
 
 ### Freedom, but not selfishness
 
-Paul says Christians are meant to be free, but not free to harm others. He warns against using freedom as an excuse to be cruel or self-centred. Instead, he says the goal is to live by <a href="glossary.md#god" title="The main divine being in Judaism and Christianity.">God</a>’s Spirit, which should produce good character. He lists “the fruit of the Spirit,” meaning the kinds of qualities a Spirit-led life should grow: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.
+Paul says Christians are meant to be free, but not free to harm others. He warns against using freedom as an excuse to be cruel or self-centred. Instead, he says the goal is to live by <a href="glossary.md#god"><span title="The main divine being in Judaism and Christianity.">God</span></a>’s Spirit, which should produce good character. He lists “the fruit of the Spirit,” meaning the kinds of qualities a Spirit-led life should grow: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.
 
 ### How it ends
 
@@ -31,6 +31,6 @@ Paul finishes with practical advice, urging the community to help each other, ta
 
 ## Big ideas
 
-* Paul argues that belonging is based on trust (<a href="glossary.md#faith" title="Trust; in Christianity, trusting God and Jesus.">faith</a>), not earning it by rule-keeping.
+* Paul argues that belonging is based on trust (<a href="glossary.md#faith"><span title="Trust; in Christianity, trusting God and Jesus.">faith</span></a>), not earning it by rule-keeping.
 * Unity across groups is emphasised (Jewish and non-Jewish believers should belong together).
 * Freedom is tied to responsibility: character and love matter.

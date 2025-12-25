@@ -22,8 +22,11 @@ GLOSSARY_LINK_WITH_INNER_FOOTNOTE_RE = re.compile(
 # Normal glossary links (used for conversion)
 GLOSSARY_LINK_RE = re.compile(r"\[(?P<label>[^\]]+?)\]\(glossary\.md#(?P<anchor>[^)]+)\)")
 GLOSSARY_HTML_LINK_RE = re.compile(
-    r'<a\s+href="glossary\.md#(?P<anchor>[^"]+)"(?P<attrs>[^>]*)>(?P<label>.*?)</a>'
+    r'<a\s+href="glossary\.md#(?P<anchor>[^"]+)"(?P<attrs>[^>]*)>(?P<label>.*?)</a>',
+    re.DOTALL,
 )
+
+SPAN_WRAPPER_RE = re.compile(r"^\s*<span[^>]*>(?P<inner>.*)</span>\s*$", re.DOTALL)
 
 
 def parse_glossary_definitions(glossary_text: str) -> dict[str, str]:
@@ -114,6 +117,11 @@ def html_escape_attr(value: str) -> str:
     )
 
 
+def make_tooltipped_glossary_link(anchor: str, inner_html: str, title: str) -> str:
+    escaped_title = html_escape_attr(title)
+    return f'<a href="glossary.md#{anchor}"><span title="{escaped_title}">{inner_html}</span></a>'
+
+
 def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
     original = path.read_text(encoding="utf-8")
 
@@ -163,8 +171,7 @@ def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
         definition = glossary_defs.get(anchor)
         if not definition:
             return m.group(0)
-        title = html_escape_attr(definition)
-        return f'<a href="glossary.md#{anchor}" title="{title}">{label}</a>'
+        return make_tooltipped_glossary_link(anchor=anchor, inner_html=label, title=definition)
 
     body_text = GLOSSARY_LINK_RE.sub(md_link_to_html, body_text)
 
@@ -175,9 +182,17 @@ def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
         definition = glossary_defs.get(anchor)
         if not definition:
             return m.group(0)
-        title = html_escape_attr(definition)
         attrs_wo_title = re.sub(r'\s+title="[^"]*"', "", attrs)
-        return f'<a href="glossary.md#{anchor}"{attrs_wo_title} title="{title}">{label}</a>'
+        # Preserve any non-title attributes on the <a>, but move the tooltip to a child <span>
+        # so it survives GitBook's link rewriting.
+        span_inner_match = SPAN_WRAPPER_RE.match(label)
+        inner = span_inner_match.group("inner") if span_inner_match else label
+        escaped_title = html_escape_attr(definition)
+        return (
+            f'<a href="glossary.md#{anchor}"{attrs_wo_title}>'
+            f'<span title="{escaped_title}">{inner}</span>'
+            f"</a>"
+        )
 
     body_text = GLOSSARY_HTML_LINK_RE.sub(html_link_update_title, body_text)
 
