@@ -14,7 +14,7 @@ SKIP_FILES = {GLOSSARY_PATH.name, "AGENTS.md"}
 ANCHOR_HEADING_RE = re.compile(r'^##\s+<a id="(?P<id>[^"]+)"></a>(?P<title>.*)$')
 FOOTNOTE_DEF_RE = re.compile(r"^\[\^(?P<id>[^\]]+)\]:\s*(?P<text>.*)\s*$")
 
-# `[Bible[^gl_bible]](glossary.md#bible)` -> `[Bible](glossary.md#bible)[^gl_bible]`
+# `[Bible[^gl_bible]](glossary.md#bible)` -> `[Bible](glossary.md#bible) [^gl_bible]`
 GLOSSARY_LINK_WITH_INNER_FOOTNOTE_RE = re.compile(
     r"\[(?P<label>[^\]]+?)\[\^(?P<fnid>[^\]]+?)\]\]\(glossary\.md#(?P<anchor>[^)]+)\)"
 )
@@ -114,9 +114,16 @@ def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
         label = m.group("label")
         fnid = m.group("fnid")
         anchor = m.group("anchor")
-        return f"[{label}](glossary.md#{anchor})[^{fnid}]"
+        return f"[{label}](glossary.md#{anchor}) [^{fnid}]"
 
     text = GLOSSARY_LINK_WITH_INNER_FOOTNOTE_RE.sub(move_inner_fn, original)
+
+    # GitBook appears to be happier when the footnote marker is separated from a link by a space.
+    text = re.sub(
+        r"(\]\(glossary\.md#[^)]+\))\[\^(gl_[^\]]+)\]",
+        r"\1 [^\2]",
+        text,
+    )
 
     lines = text.splitlines()
     body_lines, trailing_block = split_trailing_footnote_block(lines)
@@ -130,10 +137,10 @@ def sync_file(path: Path, glossary_defs: dict[str, str]) -> tuple[bool, str]:
         label = m.group("label")
         anchor = m.group("anchor").strip()
         expected_fn_id = anchor_to_glossary_fn_id(anchor)
-        return f"[{label}](glossary.md#{anchor})[^{expected_fn_id}]"
+        return f"[{label}](glossary.md#{anchor}) [^{expected_fn_id}]"
 
     body_text = re.sub(
-        r"\[(?P<label>[^\]]+?)\]\(glossary\.md#(?P<anchor>[^)]+)\)(?!\[\^gl_[^\]]+\])",
+        r"\[(?P<label>[^\]]+?)\]\(glossary\.md#(?P<anchor>[^)]+)\)(?!\s*\[\^gl_[^\]]+\])",
         add_marker_to_every_glossary_link,
         body_text,
     )

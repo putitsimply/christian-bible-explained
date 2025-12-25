@@ -8,7 +8,7 @@
 
 ### Who it is written to
 
-The letter is addressed to “the chosen lady and her children.” Some people think this means a real woman and her family. Others think it is a picture name for a local [church](glossary.md#church)[^gl_church] community and its members. Either way, the message is aimed at a group of believers who are trying to follow Jesus.
+The letter is addressed to “the chosen lady and her children.” Some people think this means a real woman and her family. Others think it is a picture name for a local [church](glossary.md#church) [^gl_church] community and its members. Either way, the message is aimed at a group of believers who are trying to follow Jesus.
 
 ### What happens in the letter
 

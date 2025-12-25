@@ -2,7 +2,7 @@
 
 ## What this book is
 
-Proverbs is a book of short teachings that aim to train people to live wisely. It is not written as one long story, it is more like a collection of guidance sayings and poems, mostly connected with King Solomon (known in the [Bible](glossary.md#bible)[^gl_bible] as a wise king), plus some sayings from other teachers.
+Proverbs is a book of short teachings that aim to train people to live wisely. It is not written as one long story, it is more like a collection of guidance sayings and poems, mostly connected with King Solomon (known in the [Bible](glossary.md#bible) [^gl_bible] as a wise king), plus some sayings from other teachers.
 
 ## What it contains
 
@@ -10,7 +10,7 @@ Proverbs is a book of short teachings that aim to train people to live wisely. I
 
 Right at the start, Proverbs says its goal is to teach “wisdom” and “good judgement.” In simple terms, wisdom here means skill for living, knowing how to make choices that lead to good outcomes, not just knowing facts.
 
-A big theme is that wisdom begins with “the fear of the Lord.” That phrase can sound scary, but in this context it means deep respect for [God](glossary.md#god)[^gl_god] and taking right and wrong seriously.
+A big theme is that wisdom begins with “the fear of the Lord.” That phrase can sound scary, but in this context it means deep respect for [God](glossary.md#god) [^gl_god] and taking right and wrong seriously.
 
 ### The main parts of Proverbs
 
