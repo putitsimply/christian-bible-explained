@@ -2,27 +2,27 @@
 
 ## What this book is
 
-**2 Kings** continues the story after 1 Kings. It follows two kingdoms that used to be one nation, [Israel[^gl_israel]](glossary.md#israel) in the north and [Judah[^gl_judah]](glossary.md#judah) in the south. The book shows a repeating pattern: when leaders choose injustice and [worship[^gl_worship]](glossary.md#worship) other gods, things fall apart. When they try to return to [God[^gl_god]](glossary.md#god)’s ways, things improve, but usually only for a while.
+**2 Kings** continues the story after 1 Kings. It follows two kingdoms that used to be one nation, [Israel](glossary.md#israel "Israel can mean the people, land, or a kingdom; Israelites are the people.") in the north and [Judah](glossary.md#judah "The southern kingdom in the Old Testament; capital Jerusalem.") in the south. The book shows a repeating pattern: when leaders choose injustice and [worship](glossary.md#worship "Actions showing devotion to God (prayer, songs, rituals).") other gods, things fall apart. When they try to return to [God](glossary.md#god "The main divine being in Judaism and Christianity.")’s ways, things improve, but usually only for a while.
 
 ## What it contains
 
-### The north kingdom, [Israel[^gl_israel]](glossary.md#israel)
+### The north kingdom, [Israel](glossary.md#israel "Israel can mean the people, land, or a kingdom; Israelites are the people.")
 
-At the start, [Israel[^gl_israel]](glossary.md#israel) has many kings, and most are shown as doing the wrong thing. [Prophets[^gl_prophet]](glossary.md#prophet), people who speak [God[^gl_god]](glossary.md#god)’s message, keep warning them to change direction.
+At the start, [Israel](glossary.md#israel "Israel can mean the people, land, or a kingdom; Israelites are the people.") has many kings, and most are shown as doing the wrong thing. [Prophets](glossary.md#prophet "A person who speaks messages they believe come from God."), people who speak [God](glossary.md#god "The main divine being in Judaism and Christianity.")’s message, keep warning them to change direction.
 
-A major figure is **Elisha**, a [prophet[^gl_prophet]](glossary.md#prophet) who follows Elijah. 2 Kings tells stories where Elisha helps people in need, performs miracles (like healing and providing food), and delivers warnings and guidance to kings. These stories are meant to show that [God[^gl_god]](glossary.md#god) is active and concerned with both big national events and ordinary people.
+A major figure is **Elisha**, a [prophet](glossary.md#prophet "A person who speaks messages they believe come from God.") who follows Elijah. 2 Kings tells stories where Elisha helps people in need, performs miracles (like healing and providing food), and delivers warnings and guidance to kings. These stories are meant to show that [God](glossary.md#god "The main divine being in Judaism and Christianity.") is active and concerned with both big national events and ordinary people.
 
-Eventually, [Israel[^gl_israel]](glossary.md#israel)’s problems catch up with it. The powerful empire of **Assyria** attacks. [Israel[^gl_israel]](glossary.md#israel)’s capital, **Samaria**, is conquered, and many [Israelites[^gl_israel]](glossary.md#israel) are taken away into [exile[^gl_exile]](glossary.md#exile). The book explains this as the result of years of ignoring warnings and refusing to change.
+Eventually, [Israel](glossary.md#israel "Israel can mean the people, land, or a kingdom; Israelites are the people.")’s problems catch up with it. The powerful empire of **Assyria** attacks. [Israel](glossary.md#israel "Israel can mean the people, land, or a kingdom; Israelites are the people.")’s capital, **Samaria**, is conquered, and many [Israelites](glossary.md#israel "Israel can mean the people, land, or a kingdom; Israelites are the people.") are taken away into [exile](glossary.md#exile "Being forced to live away from one’s homeland."). The book explains this as the result of years of ignoring warnings and refusing to change.
 
-### The south kingdom, [Judah[^gl_judah]](glossary.md#judah)
+### The south kingdom, [Judah](glossary.md#judah "The southern kingdom in the Old Testament; capital Jerusalem.")
 
-[Judah[^gl_judah]](glossary.md#judah) continues after [Israel[^gl_israel]](glossary.md#israel) falls. [Judah[^gl_judah]](glossary.md#judah)’s kings are a mixed group. Some are described as faithful reformers, others as leading people away from [God[^gl_god]](glossary.md#god)’s commands.
+[Judah](glossary.md#judah "The southern kingdom in the Old Testament; capital Jerusalem.") continues after [Israel](glossary.md#israel "Israel can mean the people, land, or a kingdom; Israelites are the people.") falls. [Judah](glossary.md#judah "The southern kingdom in the Old Testament; capital Jerusalem.")’s kings are a mixed group. Some are described as faithful reformers, others as leading people away from [God](glossary.md#god "The main divine being in Judaism and Christianity.")’s commands.
 
 Two important reforming kings are:
 
-* **Hezekiah**, who tries to remove [idols[^gl_idol]](glossary.md#idol) and trust [God[^gl_god]](glossary.md#god) during a crisis when Assyria threatens [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem). [Jerusalem[^gl_jerusalem]](glossary.md#jerusalem) survives that attack.
-* **Josiah**, who makes big reforms after a “book of the law” is found (many readers connect this to teachings like those in Deuteronomy). Josiah tries to bring the nation back to worshipping [God[^gl_god]](glossary.md#god) alone and living more justly.
-But after Josiah, [Judah[^gl_judah]](glossary.md#judah) quickly declines again. Another empire, **Babylon**, rises. Babylon attacks [Judah[^gl_judah]](glossary.md#judah), and after several steps of conflict, **[Jerusalem[^gl_jerusalem]](glossary.md#jerusalem) is destroyed**, including the **[temple[^gl_temple]](glossary.md#temple)**, which was the central place of [worship[^gl_worship]](glossary.md#worship). Many people are taken into [exile[^gl_exile]](glossary.md#exile) in Babylon.
+* **Hezekiah**, who tries to remove [idols](glossary.md#idol "An object or false god treated as most important.") and trust [God](glossary.md#god "The main divine being in Judaism and Christianity.") during a crisis when Assyria threatens [Jerusalem](glossary.md#jerusalem "A major city in the Bible’s story."). [Jerusalem](glossary.md#jerusalem "A major city in the Bible’s story.") survives that attack.
+* **Josiah**, who makes big reforms after a “book of the law” is found (many readers connect this to teachings like those in Deuteronomy). Josiah tries to bring the nation back to worshipping [God](glossary.md#god "The main divine being in Judaism and Christianity.") alone and living more justly.
+But after Josiah, [Judah](glossary.md#judah "The southern kingdom in the Old Testament; capital Jerusalem.") quickly declines again. Another empire, **Babylon**, rises. Babylon attacks [Judah](glossary.md#judah "The southern kingdom in the Old Testament; capital Jerusalem."), and after several steps of conflict, **[Jerusalem](glossary.md#jerusalem "A major city in the Bible’s story.") is destroyed**, including the **[temple](glossary.md#temple "The main worship building in Jerusalem in ancient Israel.")**, which was the central place of [worship](glossary.md#worship "Actions showing devotion to God (prayer, songs, rituals)."). Many people are taken into [exile](glossary.md#exile "Being forced to live away from one’s homeland.") in Babylon.
 
 ### How it ends
 
@@ -31,23 +31,5 @@ But after Josiah, [Judah[^gl_judah]](glossary.md#judah) quickly declines again. 
 ## Big ideas
 
 * The book links national decline with injustice and unfaithfulness, not just military weakness.
-* [Prophets[^gl_prophet]](glossary.md#prophet) appear as voices challenging leaders and warning about consequences.
+* [Prophets](glossary.md#prophet "A person who speaks messages they believe come from God.") appear as voices challenging leaders and warning about consequences.
 * Even at the darkest ending, a small “hint of hope” remains.
-
-[^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people.
-
-[^gl_judah]: The southern kingdom in the Old Testament; capital Jerusalem.
-
-[^gl_worship]: Actions showing devotion to God (prayer, songs, rituals).
-
-[^gl_god]: The main divine being in Judaism and Christianity.
-
-[^gl_prophet]: A person who speaks messages they believe come from God.
-
-[^gl_exile]: Being forced to live away from one’s homeland.
-
-[^gl_idol]: An object or false god treated as most important.
-
-[^gl_jerusalem]: A major city in the Bible’s story.
-
-[^gl_temple]: The main worship building in Jerusalem in ancient Israel.

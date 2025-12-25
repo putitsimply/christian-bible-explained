@@ -11,7 +11,7 @@ Decisions:
 
 - Prefer descriptive, neutral phrasing (“the book describes…”, “the text says…”, “Christians believe…”) especially for miraculous claims.
 - Keep changes minimal and consistent with existing tone.
-- For glossary help: use GitBook footnote tooltips by embedding a glossary footnote marker inside the glossary link label, e.g. `[term[^gl_term]](glossary.md#term)`, with `[^gl_term]: ...` copied from `glossary.md`.
+- For glossary help: use Markdown link titles populated from `glossary.md`, e.g. `[term](glossary.md#term "definition...")` (so the link hover tooltip shows the definition and the link remains clickable).
 
 Recent changes:
 
