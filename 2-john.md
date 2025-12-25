@@ -8,7 +8,7 @@
 
 ### Who it is written to
 
-The letter is addressed to “the chosen lady and her children.” Some people think this means a real woman and her family. Others think it is a picture name for a local church[^gl-church] community and its members. Either way, the message is aimed at a group of believers who are trying to follow Jesus.
+The letter is addressed to “the chosen lady and her children.” Some people think this means a real woman and her family. Others think it is a picture name for a local [church](glossary.md#church) community and its members. Either way, the message is aimed at a group of believers who are trying to follow Jesus.
 
 ### What happens in the letter
 
@@ -17,9 +17,10 @@ The writer begins warmly. He says he loves them “in the truth,” meaning he c
 Then he focuses on two big ideas:
 
 1. **Truth and love belong together.**\
-   He reminds them of a command they have had “from the beginning,” to love one another. He explains that love is not just a feeling, it shows up in actions, especially in obeying what Jesus taught.
+ He reminds them of a command they have had “from the beginning,” to love one another. He explains that love is not just a feeling, it shows up in actions, especially in obeying what Jesus taught.
+
 2. **Be careful about false teachers.**\
-   He warns that “deceivers” have gone out into the world. These are people who teach wrong things about Jesus, especially denying that Jesus truly came as a real human being. The writer says to watch out so they do not lose what they have worked for.
+ He warns that “deceivers” have gone out into the world. These are people who teach wrong things about Jesus, especially denying that Jesus truly came as a real human being. The writer says to watch out so they do not lose what they have worked for.
 
 He uses a strong word, **“antichrist.”** In this letter, it does not mean one movie style villain. It describes teaching that is against the message about Jesus, and the people spreading it.
 
@@ -36,5 +37,3 @@ He says he has more to tell them but prefers to speak face to face, and he hopes
 * Love and truth are presented as belonging together, not competing.
 * The letter warns about teaching the writer believes is harmful or untrue.
 * It gives practical guidance about hospitality and boundaries.
-
-[^gl-church]: [glossary](glossary.md#church)

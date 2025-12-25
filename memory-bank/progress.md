@@ -5,7 +5,7 @@ What works:
 - All 66 book pages exist and follow the same section structure.
 - All pages are kept to 500 words or fewer.
 - `SUMMARY.md` provides grouped navigation by section/genre.
-- A glossary page exists for recurring terms.
+- A glossary page exists for recurring terms, and terms are linked inline to their glossary entries.
 
 Known issues:
 
