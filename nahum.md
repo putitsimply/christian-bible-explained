@@ -1,14 +1,18 @@
 # Nahum
 
+## What this book is
+
 Nahum is a short book in the Old Testament. It is mainly about one thing: the coming fall of **Nineveh**, the capital city of **Assyria**.
 
-#### The background
+## What it contains
+
+### The background
 
 Assyria was a powerful empire that had hurt many nations, including God’s people. In the Bible story, Assyria had already conquered the northern kingdom of Israel and caused a lot of suffering. So for many people in Judah (the southern kingdom), Assyria felt scary and unstoppable.
 
 Nahum is presented as a **prophet**, meaning someone who speaks a message they believe comes from God. His message is not mainly “do this, don’t do that,” but “this is what is going to happen.”
 
-#### What happens in the book
+### What happens in the book
 
 **Chapter 1:**\
 Nahum begins by describing God as patient but also serious about justice. The big idea is: evil does not last forever, and no empire is too strong to be held accountable. Nahum says this message is “good news” for people who have been crushed by violence and bullying. At the same time, it is bad news for Nineveh.
@@ -19,8 +23,6 @@ Nahum switches into vivid, action-packed poetry that describes Nineveh being att
 **Chapter 3:**\
 Nahum explains why Nineveh is being judged. He describes the city as built on violence, lies, and cruelty. He also mocks Nineveh’s confidence, basically saying, “You think you are safe, but you are not.” The book ends by saying that many nations will celebrate Nineveh’s fall because so many people had suffered under Assyria’s power.
 
-#### The main point
+## Big ideas
 
 Nahum is meant to comfort the oppressed and warn the powerful. Its message is that cruelty and injustice might look like they are winning for a while, but they do not get the last word. In the Bible’s storyline, the fall of Nineveh shows that even the biggest empire can fall.
-
-(If you want, I can explain how Nahum connects to the story of Jonah, since Jonah also involves Nineveh, but in a very different way.)

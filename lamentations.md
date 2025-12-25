@@ -1,6 +1,10 @@
 # Lamentations
 
+## What this book is
+
 Lamentations is a short book made up of five sad poems. It describes the grief and shock people felt after Jerusalem was destroyed and the temple was burned, which Christians and Jews connect with the Babylonian attack (often dated around 586 BC).
+
+## What it contains
 
 Here is what happens, chapter by chapter:
 
@@ -14,4 +18,8 @@ Here is what happens, chapter by chapter:
 
 **Chapter 5:** This final poem is a community prayer. It lists the people’s troubles and asks God to “restore” them, meaning to bring them back to a stable, right relationship and a better future. It ends without a neat, happy conclusion, which matches the feeling of living through tragedy while still reaching out to God.
 
-Overall, Lamentations is about honest sadness, taking responsibility, and holding onto hope, even when life feels broken.
+## Big ideas
+
+* Grief is shown as something people can express honestly, including anger and questions.
+* The poems connect disaster with moral reflection, while still pleading for compassion.
+* Hope is present, but it is not rushed: the book ends without a simple “everything is fine now.”

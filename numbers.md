@@ -1,6 +1,10 @@
 # Numbers
 
+## What this book is
+
 The book of **Numbers** tells the story of the Israelites (the people who left Egypt in Exodus) as they travel through the desert toward the land they believe God promised them. It is a mix of travel story, leadership problems, and rule setting.
+
+## What it contains
 
 It starts at **Mount Sinai**, where the group has been camped. Moses is told to take a **census**, which means counting the people. This is why the book is called “Numbers.” The census also helps organise the tribes for travel and defence. The Levites (the tribe connected with religious duties) are given special responsibilities for looking after the tabernacle, a portable tent sanctuary used for worship.
 
@@ -18,4 +22,8 @@ Later, the Israelites travel toward the edge of the promised land. There is a st
 
 Near the end, there is a **second census** of the new generation. More rules are given (including fair sharing of land, vows, and special “cities of refuge” for safety and justice). The book finishes with Israel camped near the Jordan River, preparing to enter the land in the next book, Deuteronomy and then Joshua.
 
-Overall, Numbers is about a community learning the hard way that choices, courage, and trust matter, especially when the goal is close but fear gets in the way.
+## Big ideas
+
+* A community can be “close to the goal” but still held back by fear and poor choices.
+* Leadership and responsibility are complicated, especially during crisis and complaint.
+* The book contrasts one generation’s failures with the next generation’s chance to begin again.

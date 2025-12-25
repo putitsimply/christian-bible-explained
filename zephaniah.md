@@ -1,8 +1,12 @@
 # Zephaniah
 
+## What this book is
+
 Zephaniah is a short book in the Old Testament. It is mostly a set of warnings and hopes spoken by a prophet named Zephaniah, during the time of King Josiah in Judah.
 
-#### What happens in Zephaniah
+## What it contains
+
+### What happens in Zephaniah
 
 Zephaniah starts with a big warning. He says a time of judgement is coming, often called “the day of the LORD.” In the Bible, “the LORD” usually means Israel’s God, and “the day” means a time when God acts publicly to put things right. Zephaniah describes it as frightening and world shaking, because it involves punishment for wrong choices and unfair systems.
 
@@ -16,7 +20,7 @@ Then the book shifts toward hope. Zephaniah says that after judgement, God will 
 
 The ending is surprisingly joyful. It pictures God restoring the people, removing their shame, bringing them home, and celebrating over them with love. So the book moves from warning, to a call to change, to a promise that things can be rebuilt after the consequences of wrongdoing.
 
-#### Big ideas
+## Big ideas
 
 * Actions and injustice have consequences.
 * Religion without real fairness and humility is criticised.

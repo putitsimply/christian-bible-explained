@@ -1,6 +1,10 @@
 # John
 
+## What this book is
+
 The book of John is one of the four Gospels, the books that tell the story of Jesus’ life. John’s Gospel is written to help readers understand who Jesus is, and why trusting him matters.
+
+## What it contains
 
 It begins with a poetic introduction that describes Jesus as the “Word,” meaning God’s message and action coming into the world as a real human being. John also introduces John the Baptist, a teacher who points people toward Jesus.
 
@@ -13,3 +17,9 @@ A major part of the book focuses on Jesus’ final week in Jerusalem, around Pas
 John then tells the story of Jesus’ arrest, trial, crucifixion, and death. He emphasizes that Jesus chooses to face this, and that it fits within God’s plan.
 
 Finally, John describes Jesus rising from the dead (which Christians believe happened) and appearing to his followers, including a disciple named Thomas who struggles to believe at first. The book ends by saying these stories were written so readers might believe Jesus is the Messiah (a promised leader and rescuer) and have life through him.
+
+## Big ideas
+
+* John uses “signs” and long conversations to explain what it means to trust Jesus.
+* Big images and metaphors are used to describe who Jesus is and what he offers.
+* The story climaxes in crucifixion and (in Christian belief) resurrection, with a focus on meaning.

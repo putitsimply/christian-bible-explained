@@ -1,8 +1,12 @@
 # Leviticus
 
+## What this book is
+
 Leviticus is the third book of the Bible. It picks up straight after Exodus, when the Israelites are camped near Mount Sinai and have built the special worship tent called the tabernacle (a portable “meeting place” with God).
 
 Most of Leviticus is not a story with lots of action. It is mainly a set of instructions. These instructions are meant to teach the Israelites how to worship, how to live as a community, and how to stay “holy,” meaning set apart for God in the way they behave.
+
+## What it contains
 
 Here’s what happens, in a clear overview:
 
@@ -12,4 +16,8 @@ Here’s what happens, in a clear overview:
 * **The Day of Atonement (Leviticus 16):** This is a major yearly ceremony. “Atonement” means making things right after wrongdoing. The high priest performs special rituals asking for forgiveness for the whole community.
 * **How to live a holy life (Leviticus 17 to 27):** These chapters include rules about justice, honesty, kindness to the poor, sexual behaviour, and not copying harmful practices from surrounding nations. It also includes special festivals and rest days, including the Sabbath and a “Jubilee” system where land and debts were meant to be reset over time.
 
-Overall, Leviticus teaches that worship and everyday life are connected, and that this community is meant to reflect God’s values in practical ways.
+## Big ideas
+
+* Worship is treated as serious and careful, not casual.
+* Community life matters: the rules include justice, honesty, and protection for vulnerable people.
+* Holiness is about everyday behaviour, not only religious ceremonies.

@@ -2,16 +2,17 @@
 
 What works:
 
-- Most individual book pages are already short and age-appropriate.
-- `SUMMARY.md` lists all books in order.
+- All 66 book pages exist and follow the same section structure.
+- All pages are kept to 500 words or fewer.
+- `SUMMARY.md` provides grouped navigation by section/genre.
+- A glossary page exists for recurring terms.
 
 Known issues:
 
-- The New Testament overview page content was incorrect (duplicated Old Testament overview).
-- Navigation is a long flat list, which is harder to browse for students.
-- At least one page exceeded the 500-word target.
+- Ongoing spot-checking is still needed for any wording that sounds too certain about beliefs (keep using “the text says…” / “Christians believe…” where appropriate).
+- Some pages use many bold mini-headings or lists; this is readable, but could be further simplified if desired.
 
 Next steps:
 
-- Spot-check remaining book pages for any factual slips or overly “certain” wording.
-- Optionally add a small glossary page for recurring terms (covenant, prophet, gospel, Messiah, disciple, etc.).
+- Do a final read-through for tone consistency and age-appropriate vocabulary across all pages.
+- Optionally add a short “How to use this guide” section to `README.md` (teacher/student tips).

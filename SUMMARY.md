@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Bible overview (student guide)](README.md)
+* [Glossary (helpful words)](glossary.md)
 
 ## Old Testament
 

@@ -1,6 +1,10 @@
 # Micah
 
+## What this book is
+
 The book of Micah is a short book in the Old Testament. It is written like a set of speeches from Micah, a prophet (someone who speaks God’s message) to the people of Israel and Judah. Micah’s main theme is this: God cares deeply about justice, and he also promises hope after punishment.
+
+## What it contains
 
 Micah begins by saying that serious trouble is coming because the people have been unfaithful and unfair. He points to big problems like worshipping other gods, cheating, and using power to hurt others. He especially criticises wealthy landowners who take property from families, and leaders and judges who accept bribes. Micah says this kind of society is the opposite of what God wants.
 
@@ -13,3 +17,9 @@ Micah also contains strong messages of hope. He says that after judgment, God wi
 One well known part of Micah is a promise about a future ruler coming from Bethlehem. Christians later connect this to Jesus, while Jewish readers may understand it as hope for a future David-like king who would lead with justice.
 
 So overall, Micah is a mix of warning and comfort: it condemns corruption and cruelty, but it also insists that wrongdoing is not the end of the story, and that a better, fairer future is possible.
+
+## Big ideas
+
+* Justice is not optional: worship without fairness is criticised strongly.
+* The book mixes warning (consequences) with hope (restoration after disaster).
+* Different communities connect the “future ruler” passage to different expectations.

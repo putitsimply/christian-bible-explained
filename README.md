@@ -25,10 +25,11 @@ The Bible is a collection of many different writings that were gathered over a l
 
 This guide gives short, neutral summaries of each Bible book. It aims to describe what the books contain and why they matter in history and culture, without asking you to agree with any religious belief.
 
+If you see unfamiliar words, the [Glossary (helpful words)](glossary.md) explains common terms in simple language.
+
 The Christian Bible is usually divided into two big parts:
 
 * **Old Testament**: writings from ancient Israel, including stories of origins and nationhood, laws, worship songs, wisdom writings, and messages from prophets.
 * **New Testament**: writings from the first century that focus on Jesus and the early Christian movement, including biographies (the Gospels), a history book (Acts), letters to churches and leaders, and Revelation.
 
 Different Christian traditions order the books differently, and some include extra books that are not in every Bible. This guide follows the 66-book ordering that is common in Protestant Bibles.
-

@@ -1,12 +1,16 @@
 # Haggai
 
+## What this book is
+
 Haggai is a short book about getting people to restart a stalled project: rebuilding God’s temple in Jerusalem.
 
-#### Setting
+## What it contains
+
+### Setting
 
 The story happens after many Jewish people have returned to Judah from exile in Babylon (exile means being forced to live away from home). They have begun rebuilding their lives, but the temple is still left in ruins. The temple was the main place for worship and community life in Jerusalem.
 
-#### What Haggai says and what happens
+### What Haggai says and what happens
 
 Haggai is a prophet, meaning someone who delivers messages believed to come from God. His messages are dated very specifically and all happen within a few months.
 
@@ -21,6 +25,6 @@ Haggai is a prophet, meaning someone who delivers messages believed to come from
 5. **A hopeful message about leadership and the future**\
    The book ends with a promise to Zerubbabel that God will support him when nations shake and political power shifts. It is a way of saying that larger history is not out of control.
 
-#### Big idea
+## Big ideas
 
 Haggai is about priorities, community responsibility, and encouragement to finish important work even when it feels slow or unimpressive.

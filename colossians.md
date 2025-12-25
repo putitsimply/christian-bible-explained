@@ -1,6 +1,10 @@
 # Colossians
 
+## What this book is
+
 Colossians is a letter in the New Testament. It is traditionally linked to Paul (a Christian leader and missionary), writing to a church in a town called Colossae. The main reason for the letter is that the Christians there were being confused by teachings that mixed Christianity with other ideas and rules, as if Jesus was not enough.
+
+## What it contains
 
 Here is what happens in the letter:
 
@@ -17,3 +21,9 @@ After that, the letter turns practical. Paul says that if they belong to Jesus, 
 Colossians includes advice for households, telling husbands and wives, parents and children, and masters and servants to treat each other with responsibility and fairness. In their world, that was a big deal because it pushed people toward more care and dignity in relationships.
 
 Paul ends by asking them to pray, to be wise in how they speak to outsiders, and he sends greetings from other Christians who are with him.
+
+## Big ideas
+
+* The letter stresses Jesus’ importance, saying Christians do not need “extra” spiritual add-ons.
+* Beliefs are meant to lead to changed behaviour (kindness, forgiveness, self-control).
+* Community unity across differences is treated as essential.

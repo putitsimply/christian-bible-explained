@@ -1,6 +1,10 @@
 # 2 Samuel
 
+## What this book is
+
 **2 Samuel** continues the story of David and shows both his best moments as a leader and his worst moral failures.
+
+## What it contains
 
 After King Saul dies, David is made king of the tribe of Judah, ruling from Hebron. At the same time, Saul’s son Ish-bosheth is made king over the other tribes of Israel. There is a long conflict between the two sides, and over time David grows stronger. When Ish-bosheth is killed, the tribes of Israel come together and anoint David as king over all Israel.
 
@@ -15,3 +19,9 @@ Trouble grows inside David’s household. One of David’s sons, Amnon, harms hi
 Later there is another uprising, and more conflict and violence. Near the end of the book, David orders a census, a count of the people, and a deadly plague follows. David repents again and buys a threshing floor to build an altar, ending the plague. This location later becomes important as the site connected with the temple in Jerusalem.
 
 2 Samuel ends with extra sections including songs, David’s final words, and stories about his “mighty men,” his most loyal and skilled warriors.
+
+## Big ideas
+
+* The book shows leadership strengths, but also the damage caused by power misused.
+* Wrong choices can have long ripple effects through families and society.
+* God’s promise to David becomes important later in Jewish hopes and in Christian belief about Jesus.

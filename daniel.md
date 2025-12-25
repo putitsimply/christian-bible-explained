@@ -1,8 +1,12 @@
 # Daniel
 
-### Daniel
+## What this book is
 
-The book of Daniel is set when many Jewish people have been taken away from their homeland to Babylon (this is called **exile**, which means being forced to live in another country). Daniel and a few other young men, like **Hananiah, Mishael, and Azariah** (often known by their Babylonian names **Shadrach, Meshach, and Abednego**), are trained to work for the Babylonian king. They try to stay loyal to their faith while living in a powerful empire with different beliefs.
+Daniel is set when many Jewish people have been taken away from their homeland to Babylon (this is called **exile**, which means being forced to live in another country). It mixes court stories (life in an empire) with later, highly symbolic visions.
+
+## What it contains
+
+Daniel and a few other young men, like **Hananiah, Mishael, and Azariah** (often known by their Babylonian names **Shadrach, Meshach, and Abednego**), are trained to work for the Babylonian king. They try to stay loyal to their faith while living in a powerful empire with different beliefs.
 
 Early on, Daniel and his friends refuse food that would break their religious rules. They ask for a simple diet instead, and they end up healthier than the others. This shows their commitment and also sets up a big theme of the book: staying faithful under pressure.
 
@@ -13,3 +17,9 @@ Another famous story happens under a later ruler. Daniel keeps praying to God ev
 The second half of Daniel has strange, symbolic visions, like beasts, horns, and mysterious numbers. These visions are often called **apocalyptic** writing, which means a style that uses dramatic symbols to talk about big struggles between good and evil, and about God’s justice in the end. The visions say that evil powers will not last forever, and that in the long run God will set things right.
 
 Overall, Daniel mixes exciting stories with mysterious visions to teach that courage, faithfulness, and hope matter, especially when people feel small compared to governments or empires.
+
+## Big ideas
+
+* Staying loyal to your beliefs can be costly, but the stories highlight courage under pressure.
+* Empires and rulers look powerful, but the book keeps reminding readers that power changes and does not last.
+* The visions use symbols to express hope that injustice and cruelty will not win forever.

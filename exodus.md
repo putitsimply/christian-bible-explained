@@ -1,6 +1,10 @@
 # Exodus
 
+## What this book is
+
 Exodus is the second book of the Christian Bible. It tells how the Israelites (a people group descended from Jacob’s family in Genesis) go from being slaves in Egypt to becoming a community with their own laws and a special agreement with God.
+
+## What it contains
 
 The story starts with the Israelites living in Egypt. Over time, a new Egyptian king (often called “Pharaoh”) becomes afraid they are growing too numerous, so he forces them into harsh slavery. A baby boy named Moses is born during a time when Hebrew baby boys are being killed. Moses survives and is raised in Pharaoh’s household, but later he flees Egypt after killing an Egyptian who was hurting a Hebrew slave.
 
@@ -15,3 +19,9 @@ At Mount Sinai, Moses receives the Ten Commandments and many other laws. These l
 Near the end, there’s a major failure: while Moses is on the mountain, some people make and worship a golden calf. Moses confronts this, and the covenant is renewed.
 
 Finally, God gives detailed instructions for building the tabernacle, a portable worship tent. The book ends with the tabernacle being set up and God’s presence shown as a cloud filling it, suggesting that God will travel with the people.
+
+## Big ideas
+
+* Freedom and identity: the story moves from slavery to becoming a community with shared laws and practices.
+* Covenant: the book centres on a serious agreement about how to live and worship.
+* Trust under pressure: fear, hunger, and conflict keep testing the people on the journey.

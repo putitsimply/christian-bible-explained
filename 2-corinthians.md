@@ -1,6 +1,10 @@
 # 2 Corinthians
 
+## What this book is
+
 2 Corinthians is a letter written by the apostle Paul to the Christian community in the city of Corinth. It happens after 1 Corinthians, and it shows that Paul and the Corinthian church have had a difficult relationship, but they are trying to repair it.
+
+## What it contains
 
 Paul starts by talking about suffering and comfort. He explains that he has been through many hard experiences, but he believes God comforts people so they can comfort others. He also explains why his travel plans changed, because some people in Corinth were upset and thought he was unreliable.
 
@@ -17,3 +21,9 @@ Later, Paul strongly defends his role as an apostle. Some travelling teachers ha
 Near the end, Paul mentions a “thorn in the flesh,” a continuing problem that bothers him. He does not explain exactly what it is, but he says it taught him that God’s strength can be shown through human weakness.
 
 The letter finishes with Paul urging the church to examine themselves, aim for peace, and live in unity.
+
+## Big ideas
+
+* Comfort is described as something people receive and then pass on to others.
+* Leadership is presented as “real” when it is honest and faithful, not flashy or impressive.
+* Reconciliation (repairing relationships) is a central theme, both with God and within the community.

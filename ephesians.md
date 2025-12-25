@@ -1,12 +1,10 @@
 # Ephesians
 
+## What this book is
+
 Ephesians is a letter in the New Testament. It is traditionally linked to the apostle Paul and is written to help Christians understand who they are as a community and how they should live.
 
-#### Big idea
-
-Ephesians says that God brings people into a new family through Jesus, and this should change how they treat each other and how they live day to day.
-
-#### What happens in the letter
+## What it contains
 
 **1) God’s plan and kindness (chapters 1 to 3)**
 
@@ -26,6 +24,8 @@ Ephesians says that God brings people into a new family through Jesus, and this 
 * Near the end, it uses the famous picture of the **armour of God**. This is a metaphor, not literal armour. It means being ready to stand firm in hard times using truth, justice, peace, faith, and a strong focus on what is right.
 * The letter finishes with encouragement to pray and keep going.
 
-#### In one sentence
+## Big ideas
 
-Ephesians explains that God’s grace creates a united community, and it calls that community to live with love, maturity, and courage.
+* Ephesians says that God brings people into a new family through Jesus, and this should change how they treat each other and how they live day to day.
+* The letter stresses unity across differences (especially Jewish and non-Jewish believers).
+* In one sentence: God’s grace creates a united community, and that community is called to live with love, maturity, and courage.

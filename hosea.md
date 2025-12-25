@@ -1,6 +1,10 @@
 # Hosea
 
+## What this book is
+
 Hosea is a book where God uses one prophet’s family story as a living lesson about what was happening between God and the people of Israel (the northern kingdom).
+
+## What it contains
 
 Hosea is told to marry a woman who keeps being unfaithful. That hurts Hosea deeply, but he stays committed and even goes looking for her when she leaves. The point is not that unfaithfulness is fine, it is that Hosea’s painful experience helps people understand something bigger. In the book, Israel is described as being unfaithful to God by running after other gods, trusting political deals instead of God, and living unjustly.
 
@@ -17,3 +21,9 @@ But the book does not stay in “anger mode.” A huge theme in Hosea is that Go
 Hosea warns that if Israel keeps refusing to change, disaster will follow, including invasion and exile (being forced out of the land). Yet near the end, the book turns hopeful. God promises that if the people return, God will forgive, restore them, and help them grow strong again, like a plant that becomes healthy after rain.
 
 So, Hosea is basically: a heartbreak story used to show how damaging betrayal is, mixed with a serious warning about consequences, and a stubborn message that restoration is still possible if people truly change.
+
+## Big ideas
+
+* The book uses a painful relationship as a picture for betrayal and faithfulness.
+* It combines strong warnings with repeated calls to “return” (change direction, not just feel sorry).
+* Hope and restoration are presented as possible, but not without change.

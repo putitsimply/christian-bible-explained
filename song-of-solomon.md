@@ -1,6 +1,10 @@
 # Song of Solomon
 
+## What this book is
+
 Song of Solomon, also called Song of Songs, is a book of poetry about love. It is not a story with battles or kings. Instead, it is a set of love poems where different voices speak, mainly a young woman and a young man, and sometimes a group called “friends” or “daughters of Jerusalem” (like a chorus in a play).
+
+## What it contains
 
 Here is what happens, in a simple timeline:
 
@@ -17,3 +21,9 @@ People interpret the book in different ways:
 * **As an allegory:** an allegory is a story or poem that also stands for something else. Some readers see the lovers as symbolising God’s love for his people, or in Christian teaching, Christ’s love for the church.
 
 Either way, the main focus of Song of Solomon is the beauty, joy, and seriousness of faithful love.
+
+## Big ideas
+
+* Love is described as beautiful, powerful, and worth protecting.
+* Poetry can say things indirectly, using pictures and metaphors rather than plain statements.
+* Readers interpret the book in different ways (romantic poetry, or symbolic/allegorical meanings).

@@ -1,6 +1,10 @@
 # Ecclesiastes
 
+## What this book is
+
 Ecclesiastes is a short book in the Old Testament that reads like a wise teacher thinking out loud about life. The writer is often called “the Teacher” (sometimes linked with King Solomon), and the big question he explores is: What is the point of life if everything ends?
+
+## What it contains
 
 He starts with a punchy idea: so much of life can feel meaningless, like chasing the wind. He looks at different things people usually chase to feel satisfied, and he tests them one by one.
 
@@ -15,3 +19,9 @@ Ecclesiastes also includes some famous reflections about time, including the poe
 Near the end, the Teacher becomes clearer about his conclusion: real meaning is not found in collecting achievements or pleasure. The book finishes by saying the best foundation is to **respect God and live rightly**, because God sees the whole picture, even when humans cannot.
 
 So Ecclesiastes is like a realistic guide for people who wonder, “Is this all there is?” It admits life can be confusing, then points toward humility, gratitude, and living with God in mind.
+
+## Big ideas
+
+* Many things people chase (success, wealth, pleasure) do not guarantee deep meaning.
+* Life can feel unfair and out of control, so the book encourages humility and honesty.
+* Enjoying simple gifts is presented as wise, without pretending they solve everything.

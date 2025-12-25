@@ -1,6 +1,10 @@
 # Job
 
+## What this book is
+
 The book of Job is a story that explores a big question: why do bad things happen to good people?
+
+## What it contains
 
 Job is introduced as a man who is known for doing what is right. He has a large family, lots of animals and land, and a respected place in his community. Then the story shifts to a scene in heaven, where a challenger claims that Job is only faithful because his life is easy. God allows Job to be tested, but with limits.
 
@@ -18,4 +22,8 @@ Job responds by admitting he does not have the knowledge to judge everything God
 
 At the end, God tells Job’s three friends they were wrong to speak so confidently about God’s reasons. Job prays for them. Job’s health returns, and he receives new wealth and a new family life, and he lives a long time.
 
-Overall, Job does not give a simple answer about suffering. Instead, it shows honest grief, challenges easy explanations, and emphasises humility when facing questions that may not have clear answers.
+## Big ideas
+
+* The book challenges the simple idea that suffering is always a punishment for wrongdoing.
+* It treats honest grief and hard questions as part of faith, not the opposite of it.
+* It ends with humility: some “why” questions may not get a neat explanation.

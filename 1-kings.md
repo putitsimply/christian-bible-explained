@@ -1,6 +1,10 @@
 # 1 Kings
 
+## What this book is
+
 **1 Kings** continues the story after King David and focuses on how Israel goes from being one united kingdom to being split in two, mainly because of leadership choices and people turning away from God.
+
+## What it contains
 
 David dies, and his son **Solomon** becomes king after some tense family and political conflict. Early on, Solomon famously asks God for **wisdom** instead of riches or power. A well known story shows his wisdom when he settles a hard case between two women arguing over a baby.
 
@@ -18,3 +22,9 @@ Jeroboam worries people will return to Jerusalem to worship, so he sets up rival
 Later, the focus shifts to the prophet **Elijah** during the reign of **King Ahab** in Israel. Ahab and his wife **Jezebel** promote worship of a god called **Baal**. Elijah announces a drought, survives with help from a widow, and then challenges Baal’s prophets on **Mount Carmel**. The story says God answers with fire, proving Elijah’s message, and rain finally returns. Jezebel then threatens Elijah, and he flees, discouraged, but is strengthened and sent back with new tasks.
 
 Near the end, Ahab commits a serious injustice involving **Naboth’s vineyard**, and Elijah declares that Ahab’s family will face consequences. Ahab later dies in battle, and the book ends with Israel and Judah continuing on separate, troubled paths.
+
+## Big ideas
+
+* The book connects leadership choices with national wellbeing and justice.
+* Worship, power, and politics are tightly linked in the story, often in unhealthy ways.
+* Elijah’s stories highlight conflict between different religious loyalties and what counts as true worship.

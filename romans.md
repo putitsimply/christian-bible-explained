@@ -1,8 +1,12 @@
 # Romans
 
+## What this book is
+
 Romans is a letter in the New Testament written by Paul (a Christian leader and missionary) to the Christian community in Rome. It is not a story like the Gospels. It is more like a carefully argued explanation of what Paul thinks the Christian message means and how it should change people’s lives.
 
-#### What Paul says in Romans
+## What it contains
+
+### What Paul says in Romans
 
 **1) The problem: humans get things wrong**\
 Paul starts by saying that the world is not the way it should be. People often choose selfishness, dishonesty, violence, or unfairness. He argues that this is true for everyone, not just one group. In other words, no one can honestly say, “I have lived perfectly.”
@@ -24,3 +28,9 @@ A big issue in the early church was whether non-Jewish people needed to follow J
 Near the end, Paul gets very practical: love others, be humble, forgive, avoid payback, respect authorities, and try not to cause fights over “disputable” topics like food rules or special days. His key message is that faith should show up in how people treat each other.
 
 Romans is basically Paul’s “big explanation” of Christian beliefs and the kind of community life he thinks should follow.
+
+## Big ideas
+
+* Paul argues that everyone falls short, and that people need mercy rather than bragging about rule-keeping.
+* Trust (faith) is presented as the key way people become “made right” with God.
+* Belief should show up in practical love, humility, and unity across differences.

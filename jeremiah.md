@@ -1,6 +1,10 @@
 # Jeremiah
 
+## What this book is
+
 Jeremiah is a long book about a prophet named Jeremiah, who lives in Judah (the southern kingdom, where Jerusalem is). God tells Jeremiah to warn the people and their leaders that they are heading for disaster because they have turned away from God, treated others unfairly, and trusted in things like political deals, money, and even the Temple building itself as if it were a “good luck charm.”
+
+## What it contains
 
 ### What Jeremiah keeps warning about
 
@@ -23,3 +27,9 @@ One of the biggest hope sections is about a **new covenant**. A covenant is a se
 ### How the book ends
 
 After Jerusalem falls, some survivors flee to Egypt, and Jeremiah ends up going with them, still warning them not to repeat the same mistakes. The book finishes with a mix of sadness, lessons from the disaster, and promises that God’s story with the people is not finished.
+
+## Big ideas
+
+* The book links injustice and false confidence with national disaster.
+* It shows a prophet’s lonely, risky role: speaking an unpopular message.
+* Hope appears through the idea of a “new covenant” (a renewed relationship and changed hearts).

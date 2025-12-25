@@ -1,6 +1,10 @@
 # Joel
 
+## What this book is
+
 The book of Joel is a short book in the Old Testament. It uses a natural disaster, a huge locust plague, as a big warning story about what happens when a whole community ignores what is right.
+
+## What it contains
 
 ### 1) A disaster hits, and everyone is told to pay attention
 
@@ -27,3 +31,9 @@ One of the most famous parts of Joel is a promise that God’s Spirit will be po
 Joel finishes with a picture of God bringing justice: wrongs are answered, violence and cruelty are dealt with, and God’s people are protected. The book ends with an image of God’s presence bringing life, like a source of water that makes dry places flourish.
 
 **Big idea:** Joel uses a crisis to say, “Take a hard look at how you’re living,” but it also says, “It’s not too late to change, rebuild, and find hope.”
+
+## Big ideas
+
+* Crisis is treated as a wake-up call for a whole community, not only individuals.
+* The book mixes warning with hope: change and rebuilding are still possible.
+* A promise about God’s Spirit becomes important later in Christian reading of Acts.

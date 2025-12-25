@@ -1,6 +1,10 @@
 # Nehemiah
 
+## What this book is
+
 Nehemiah is set after many Jewish people had been taken away from Jerusalem to live in Babylon. This time away from their homeland is often called the exile, which means being forced to live somewhere else. Later, the Persian Empire took control, and some Jewish people were allowed to return to Jerusalem. The city existed again, but its protective walls were still broken down, which made it unsafe and embarrassing for a city that was meant to be rebuilt.
+
+## What it contains
 
 Nehemiah is a Jewish man working far away in the Persian king’s palace as a cupbearer, someone trusted to serve the king’s drinks and help protect the king from poisoning. When Nehemiah hears that Jerusalem’s walls are still ruined, he is deeply upset. He prays, then bravely asks the king for permission to go to Jerusalem and rebuild. The king agrees and gives him letters for safe travel and supplies.
 
@@ -13,3 +17,9 @@ Nehemiah also tackles serious social problems. Some wealthy Jewish people were u
 Near the end, Nehemiah returns briefly to Persia, then comes back to Jerusalem and finds old problems returning. He reforms things again, including misuse of temple rooms, people working and trading on the Sabbath, and mixed marriages that were causing conflict about identity and worship.
 
 Overall, Nehemiah is about strong leadership, prayer, teamwork, courage under pressure, and rebuilding both physical walls and community values.
+
+## Big ideas
+
+* Rebuilding a city also means rebuilding trust, justice, and shared values.
+* The story highlights teamwork under pressure and dealing with opposition.
+* Religious practice is connected with fairness (especially around debt and poverty).

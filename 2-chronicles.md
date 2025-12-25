@@ -1,6 +1,10 @@
 # 2 Chronicles
 
+## What this book is
+
 2 Chronicles is a history-style book that retells the story of Judah, the southern kingdom of Israel, from Solomon’s reign through to the Babylonian exile and then a hint of return. It focuses mostly on Judah (especially Jerusalem and the temple), rather than the northern kingdom (Israel).
+
+## What it contains
 
 It starts with King Solomon, David’s son. Solomon becomes famous for asking God for wisdom, building the temple in Jerusalem, and leading a time of wealth and stability. The temple is described as the centre of worship, and there is a big dedication ceremony where Solomon prays and people celebrate.
 
@@ -16,3 +20,9 @@ Several kings stand out for reforms, which means they try to fix problems and br
 The book also includes messages from prophets, who are people believed to speak God’s warnings and guidance. Often the prophets call the leaders and people to change their behaviour, especially to stop idol worship and injustice.
 
 In the later chapters, Judah’s kings become more unfaithful, and the people ignore repeated warnings. Eventually Babylon conquers Jerusalem, the temple is destroyed, and many people are taken away from their land. The book ends with a decree from King Cyrus of Persia allowing the exiled people to go back and rebuild the temple, which points to hope after disaster.
+
+## Big ideas
+
+* Kings are judged mainly by whether they support worship at the temple and live justly.
+* The story repeatedly links reform with renewal, and unfaithfulness with decline and disaster.
+* The ending points to hope after exile: rebuilding is possible.

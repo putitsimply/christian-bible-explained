@@ -1,6 +1,10 @@
 # Malachi
 
+## What this book is
+
 Malachi is the last book in the Old Testament (in most Christian Bibles). It is set after God’s people have returned from exile in Babylon and rebuilt the temple in Jerusalem. Life looks normal again on the outside, but the book says something is badly wrong underneath.
+
+## What it contains
 
 Malachi is written like a series of short arguments between God and the people. God makes a point, the people push back with a question like “How?” or “What do you mean?”, then God answers clearly.
 
@@ -14,3 +18,9 @@ Here is what happens, step by step:
 * **Promise of a coming messenger and a future day of justice.** God says a messenger will come to prepare the way, and that a “day” is coming when evil will be judged and those who honour God will be healed and restored. Malachi ends by saying God will send “Elijah” before that day. Many Christians later connect this idea to John the Baptist, but that connection is an interpretation made in the New Testament, not something Malachi spells out in detail.
 
 Overall, Malachi is a wake-up call: stop going through the motions, start living with honesty, fairness, and faithfulness.
+
+## Big ideas
+
+* The book challenges “going through the motions” in religion while ignoring fairness.
+* It links worship, family life, and social justice as connected, not separate topics.
+* It ends by looking ahead to future change and justice, which later readers interpret in different ways.

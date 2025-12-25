@@ -1,6 +1,10 @@
 # 1 Peter
 
+## What this book is
+
 1 Peter is a letter in the New Testament. It is written to groups of Christians living in different parts of the Roman Empire who were feeling pressured, misunderstood, or treated badly because of their beliefs.
+
+## What it contains
 
 Here is what happens and what the letter teaches:
 
@@ -19,3 +23,9 @@ Later, he encourages the church community to support each other. He says to use 
 Near the end, Peter warns them to stay alert against temptation and fear, pictured as an enemy trying to pull them down. He tells them to stay humble, stick together, and keep going.
 
 He finishes by reminding them that God’s **grace** (meaning God’s undeserved kindness and help) will strengthen them, and he sends greetings from friends.
+
+## Big ideas
+
+* The letter links hope with resilience during suffering and social pressure.
+* It encourages respectful, non-revenge responses even when treated unfairly.
+* Community support and humble leadership are emphasised.

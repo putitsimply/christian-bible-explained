@@ -1,12 +1,16 @@
 # 1 Thessalonians
 
+## What this book is
+
 1 Thessalonians is a short letter in the New Testament. It was written by Paul, along with his co-workers Silas and Timothy, to a group of Christians in a city called Thessalonica (in ancient Greece).
 
-#### What led to the letter
+## What it contains
+
+### What led to the letter
 
 Paul had visited Thessalonica and taught people about Jesus. Soon after, he had to leave, and the new believers faced pressure and bullying because of their faith. Paul worried about them, so he sent Timothy to check on them. Timothy came back with good news: they were still trusting God and trying to live well, even though things were hard. Paul writes this letter to encourage them and answer questions.
 
-#### Main things that happen in the letter
+### Main things that happen in the letter
 
 **1) Paul encourages them and thanks God**\
 Paul is relieved and thankful that they are staying strong. He reminds them that his message was not a trick or a way to get money or power. He says he cared for them like a good parent cares for children.
@@ -43,4 +47,8 @@ He gives lots of quick instructions, like:
 * Keep praying and giving thanks.
 * Test teachings carefully and hold onto what is good.
 
-Overall, 1 Thessalonians is a letter of comfort and steadying advice: keep going, keep loving, live wisely, and don’t lose hope about the future.
+## Big ideas
+
+* Encouragement during pressure: keep going, keep loving, and keep living responsibly.
+* Hope about death and the future is explained to calm fear.
+* Practical community habits matter (work, patience, prayer, kindness).

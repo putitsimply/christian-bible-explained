@@ -1,8 +1,12 @@
 # Psalms
 
+## What this book is
+
 The Book of Psalms is a collection of 150 poems and songs that were used in worship and private prayer in ancient Israel. Instead of telling one single story from start to finish, it’s more like a songbook or prayer journal that covers lots of different life situations.
 
-#### What’s in it
+## What it contains
+
+### What’s in it
 
 * **Songs and prayers to God**: People speak to God with praise, thanks, questions, and requests for help.
 * **Many writers**: A lot are linked to **King David**, but others are linked to leaders, musicians, and worship groups. Some do not name an author.
@@ -13,7 +17,7 @@ The Book of Psalms is a collection of 150 poems and songs that were used in wors
   * **Wisdom**: teaching how to live well.
   * **Royal**: connected to Israel’s king, leadership, and hopes for a good ruler.
 
-#### What happens across the book
+### What happens across the book
 
 Even though it’s not one storyline, you can still notice a “journey” through the collection:
 
@@ -21,7 +25,7 @@ Even though it’s not one storyline, you can still notice a “journey” throu
 * Many psalms then show real struggles, fear, unfairness, enemies, sickness, loneliness, and doubt. The writers often ask, “Why is this happening?” and “How long will this last?”
 * Over time, the collection leans more and more toward **hope and praise**, finishing with a burst of worship in the last few psalms.
 
-#### Big ideas
+## Big ideas
 
 * **You can be honest with God**: The psalms show that faith includes joy and sadness, confidence and confusion.
 * **God is seen as Creator and King**: Many psalms describe God as powerful, just, and caring for people.

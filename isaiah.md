@@ -1,8 +1,12 @@
 # Isaiah
 
+## What this book is
+
 Isaiah is a long book made up of messages, poems, and visions linked to a prophet named Isaiah. A prophet is someone people believed was chosen to deliver God’s message. Most of Isaiah speaks to the kingdom of Judah (where Jerusalem is), during a time when powerful empires threatened them and many leaders were being unfair.
 
-#### What happens in the book
+## What it contains
+
+### What happens in the book
 
 **1) Warnings about what is going wrong (roughly Isaiah 1 to 39)**\
 Isaiah says Judah has serious problems, not just “breaking rules,” but hurting people. He calls out:
@@ -24,6 +28,6 @@ These chapters include poems about a mysterious “servant” who suffers and he
 **3) What a restored community should look like (roughly Isaiah 56 to 66)**\
 The final section focuses on how people should live after restoration: with honesty, fairness, and care for those pushed aside. It also looks forward to a future where peace and justice are fully established. The book ends with big-picture hope, including images of a renewed world where things are set right.
 
-#### Big idea
+## Big ideas
 
 Isaiah is about two connected themes: **justice now** (stop harming others) and **hope ahead** (restoration after failure), with a strong focus on what a truly good society should look like.

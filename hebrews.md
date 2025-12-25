@@ -1,6 +1,10 @@
 # Hebrews
 
-Hebrews is a New Testament book written to encourage a group of Christians who were getting tired, scared, or unsure, and were tempted to give up or go back to older religious practices. We are not certain who wrote it, and it reads more like a thoughtful sermon or speech than a normal letter. ([Encyclopedia Britannica](https://www.britannica.com/topic/Letter-to-the-Hebrews?utm_source=chatgpt.com))
+## What this book is
+
+Hebrews is a New Testament book written to encourage a group of Christians who were getting tired, scared, or unsure, and were tempted to give up or go back to older religious practices. We are not certain who wrote it, and it reads more like a thoughtful sermon or speech than a normal letter.
+
+## What it contains
 
 ### What the writer is trying to do
 
@@ -9,13 +13,13 @@ The big idea is: “Stick with Jesus.” The writer argues that Jesus is greater
 ### Main points, step by step
 
 1. **Jesus is “better” than earlier messengers and leaders.**\
-   The writer compares Jesus to important figures and ideas from the Jewish Scriptures (like angels, Moses, and priests) and keeps saying, in effect, “Jesus is greater, so don’t walk away.” ([BibleProject](https://bibleproject.com/guides/book-of-hebrews/?utm_source=chatgpt.com))
+   The writer compares Jesus to important figures and ideas from the Jewish Scriptures (like angels, Moses, and priests) and keeps saying, in effect, “Jesus is greater, so don’t walk away.”
 2. **A warning about “drifting.”**\
-   The writer says people can slowly drift away if they stop paying attention and stop holding on to what they have learned. It is pictured like a boat quietly floating off course. ([biblegateway.com](https://www.biblegateway.com/passage/?search=Hebrews+2%3A1-9\&version=NLT\&utm_source=chatgpt.com))
+   The writer says people can slowly drift away if they stop paying attention and stop holding on to what they have learned. It is pictured like a boat quietly floating off course.
 3. **Jesus as the “high priest.”**\
-   A high priest was the main religious leader who represented the people before God. Hebrews says Jesus does that job in the best possible way, because he understands human weakness and helps people come close to God. ([BibleProject](https://bibleproject.com/bible/niv/hebrews/8?utm_source=chatgpt.com))
+   A high priest was the main religious leader who represented the people before God. Hebrews says Jesus does that job in the best possible way, because he understands human weakness and helps people come close to God.
 4. **One sacrifice, not repeated sacrifices.**\
-   In the old temple system, sacrifices happened again and again. Hebrews says Jesus’ death was a once and for all sacrifice, meaning it does not need to be repeated. The writer uses this to explain why they should not go back to the old system. ([BibleProject](https://bibleproject.com/guides/book-of-hebrews/?utm_source=chatgpt.com))
+   In the old temple system, sacrifices happened again and again. Hebrews says Jesus’ death was a once and for all sacrifice, meaning it does not need to be repeated. The writer uses this to explain why they should not go back to the old system.
 5. **The famous “faith” chapter (Hebrews 11).**\
    Hebrews lists many earlier believers (like Abraham and Moses) and shows how they kept going through hard times by trusting God’s promises.
 6. **Keep going, even when it is hard (Hebrews 12–13).**\
@@ -24,3 +28,9 @@ The big idea is: “Stick with Jesus.” The writer argues that Jesus is greater
 ### How it ends
 
 Hebrews finishes with encouragement, a blessing, and a few personal notes, including mention of Timothy. The overall message stays the same: don’t give up, keep your trust, and keep living it out.
+
+## Big ideas
+
+* The writer keeps repeating: “Stick with Jesus,” especially when people feel tired or afraid.
+* Jesus is described as greater than earlier leaders, and as someone who helps people come close to God.
+* Faith is pictured as endurance: keep going, help each other, and live wisely.

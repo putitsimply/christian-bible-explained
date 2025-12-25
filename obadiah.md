@@ -1,19 +1,20 @@
 # Obadiah
 
-[![Edom and the Land of Seir – Bible Mapper Atlas](https://tse4.mm.bing.net/th/id/OIP.jPOi1FbHVIf7zOABKeo2LwHaKz?cb=ucfimg2\&pid=Api\&ucfimg=1)](https://biblemapper.com/blog/index.php/2024/02/25/edom-and-the-land-of-seir/?utm_source=chatgpt.com)
+## What this book is
 
-Obadiah is the shortest book in the Old Testament, only 21 verses. It is a message (often called a “prophecy”, meaning a message someone believes comes from God) aimed at a nation called **Edom**, which lived near Judah, on the other side of the Dead Sea. ([BibleProject](https://bibleproject.com/guides/book-of-obadiah/?utm_source=chatgpt.com))
+Obadiah is the shortest book in the Old Testament, only 21 verses. It is written like a strong message against a neighbouring nation called **Edom**. Edom is criticised for how it treated Judah when Jerusalem was attacked.
 
-#### What happens in the book
+## What it contains
 
-**1) Obadiah says Edom will be brought down (Obadiah 1 to 9).**\
-The book begins with an announcement that Edom is going to fall from power. Edom is described as feeling very safe because of its rocky, high places, but the message says that their **pride** has tricked them and they will be humbled. ([BibleProject](https://bibleproject.com/bible/nirv/obadiah/1/?utm_source=chatgpt.com))
+Obadiah is short, but it has a clear flow:
 
-**2) Obadiah explains why Edom is in trouble (Obadiah 10 to 14).**\
-The main reason is how Edom acted when **Jerusalem was attacked and conquered**. Obadiah criticises Edom for standing by instead of helping, and for taking advantage of Judah’s suffering rather than showing care. ([Encyclopedia Britannica](https://www.britannica.com/topic/Book-of-Obadiah?utm_source=chatgpt.com))
+* **Edom will be brought down:** Edom is pictured as feeling safe because of its location and strength, but the message says pride will not protect it.
+* **Why Edom is blamed:** the book accuses Edom of standing by (or even joining in) when Judah was in trouble, and of taking advantage instead of helping.
+* **A bigger idea (“the Day of the Lord”):** this phrase is used in the Bible for a time when God is pictured as stepping in to judge unfairness and set things right. In Obadiah, it means what Edom did will come back on them, and other nations are not “untouchable” either.
+* **Hope after judgement:** the final lines imagine safety and restoration for God’s people, and end with the idea that God’s rule is the final outcome.
 
-**3) The message widens out to a bigger idea: the “Day of the Lord” (Obadiah 15 to 16).**\
-“Day of the Lord” is a Bible phrase for a time when God is pictured as stepping in to judge unfairness and set things right. In Obadiah, the point is that what Edom did will come back on them, and the same kind of justice will apply to other nations too. ([rsc.byu.edu](https://rsc.byu.edu/prophets-prophecies-old-testament/obadiah-121?utm_source=chatgpt.com))
+## Big ideas
 
-**4) The book ends with hope for Judah and a final claim about God’s rule (Obadiah 17 to 21).**\
-After judgement, Obadiah pictures Judah being restored and safe again, and it ends with the line that **“the kingdom will be the Lord’s”**, meaning God’s authority is shown as the final outcome. ([rsc.byu.edu](https://rsc.byu.edu/prophets-prophecies-old-testament/obadiah-121?utm_source=chatgpt.com))
+* Pride and gloating over others’ suffering are treated as serious moral failures.
+* Being a “neighbour” includes responsibility: doing nothing in a crisis can still be wrong.
+* The book combines judgement language with hope that injustice does not have the last word.

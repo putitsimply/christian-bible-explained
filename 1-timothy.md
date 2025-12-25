@@ -1,6 +1,10 @@
 # 1 Timothy
 
+## What this book is
+
 1 Timothy is a letter in the New Testament. It is written like advice from an older Christian leader (Paul) to a younger leader (Timothy), who is helping run a local church, traditionally linked to the city of Ephesus.
+
+## What it contains
 
 Here is what happens in the letter, in order:
 
@@ -24,3 +28,9 @@ It also talks about workers and social relationships, including slaves and maste
 Near the end, the letter strongly warns about the love of money. It says chasing wealth can trap people, while contentment and generosity are better. Timothy is urged to “fight the good fight”, meaning to keep going with courage, faith, and integrity.
 
 The letter finishes with a final reminder to avoid pointless arguments and to guard what Timothy has been trusted to teach.
+
+## Big ideas
+
+* The letter focuses on church teaching, leadership character, and community care.
+* It warns about using religion for status or money.
+* Practical faith includes fairness, responsibility, and generosity.

@@ -1,8 +1,12 @@
 # Zechariah
 
+## What this book is
+
 Zechariah is a book about giving hope to the Jewish people after they returned to Jerusalem from exile (being forced to live away from their homeland). The city and God’s temple were damaged, and the people were tired, worried, and tempted to give up rebuilding.
 
-#### Part 1: Night visions that push the people forward (roughly chapters 1 to 6)
+## What it contains
+
+### Part 1: Night visions that push the people forward (roughly chapters 1 to 6)
 
 Zechariah, a prophet (someone who brings messages meant to come from God), receives a series of strange “visions” (picture-like messages). They use symbols to teach lessons.
 
@@ -17,11 +21,11 @@ Some key visions include:
 
 Zechariah also acts out a symbolic moment by placing a crown on Joshua the high priest, pointing to a future leader who will bring peace and stability.
 
-#### Part 2: Questions about fasting and how to live (chapters 7 to 8)
+### Part 2: Questions about fasting and how to live (chapters 7 to 8)
 
 The people ask if they should keep mourning fasts from the exile period. Zechariah answers that God cares more about how they treat others than about religious rituals alone. The book highlights justice, honesty, kindness to the poor, and not taking advantage of others. It also promises a future where Jerusalem is safe, joyful, and respected.
 
-#### Part 3: Future-focused messages (chapters 9 to 14)
+### Part 3: Future-focused messages (chapters 9 to 14)
 
 The final section shifts into big-picture prophecies about coming trouble and ultimate rescue. It includes famous images later connected by Christians to Jesus, like:
 
@@ -30,3 +34,9 @@ The final section shifts into big-picture prophecies about coming trouble and ul
 * A time of suffering followed by rescue and renewal.
 
 Overall, Zechariah mixes encouragement for rebuilding in the present with strong hope for a better future, calling people to trust God and live rightly while they wait.
+
+## Big ideas
+
+* The book encourages rebuilding and hope after exile, when people feel tired and uncertain.
+* Visions and symbols are used to teach, warn, and motivate.
+* Different traditions connect some images to later hopes about leadership and peace.

@@ -1,8 +1,12 @@
 # Luke
 
+## What this book is
+
 Luke is one of the four “Gospels” in the New Testament. A Gospel is a book that tells the story of Jesus’ life and teachings. Luke is written like a careful history for a reader called Theophilus, to help them understand what Christians believe about Jesus.
 
-**How Luke starts**\
+## What it contains
+
+**How Luke starts**
 Luke begins before Jesus is born. It tells stories about:
 
 * **Zechariah and Elizabeth**, who become the parents of **John the Baptist**.
@@ -36,3 +40,9 @@ Luke tells about:
   Luke includes moments that stress forgiveness and compassion, even at the end.
 
 Then Luke describes Christians’ central belief: that Jesus rises from the dead. Jesus appears to his followers, helps them understand the meaning of what happened, and tells them to share the message. Luke ends with Jesus’ **ascension**, meaning he is taken up into heaven. (Luke’s author continues the story in the book of Acts.)
+
+## Big ideas
+
+* Luke highlights Jesus’ concern for people who are poor, sick, or pushed aside.
+* The book combines stories, teachings, and parables to explain what Jesus is like.
+* The ending leads into Acts, as the movement continues after Jesus.

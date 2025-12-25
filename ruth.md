@@ -1,6 +1,10 @@
 # Ruth
 
+## What this book is
+
 The book of Ruth is a short story set “in the days when the judges ruled,” a time when Israel often felt chaotic and unsafe.
+
+## What it contains
 
 It begins with a family leaving Israel because of a famine. A man named Elimelech, his wife Naomi, and their two sons move to a nearby country called Moab. While they are there, Elimelech dies. The two sons marry Moabite women, Ruth and Orpah, but then both sons also die. Naomi is left with her two daughters in law, and she decides to return home to Bethlehem in Israel.
 
@@ -13,3 +17,9 @@ Naomi realises Boaz is a “family redeemer” (sometimes called a “kinsman-re
 Boaz marries Ruth, and they have a son named Obed. Obed becomes the grandfather of King David. That link matters later because David is an important figure in Jewish history and, for Christians, part of Jesus’ family line.
 
 Overall, Ruth is about loyalty, kindness, and practical care for people in hardship, and it shows how someone seen as an outsider can become fully included in the community.
+
+## Big ideas
+
+* Loyalty and kindness are shown through everyday actions (staying, sharing, protecting).
+* The story pays attention to people who are vulnerable (widows, migrants, the poor).
+* Ruth becomes connected to King David’s family line, which later matters in Christian tradition.

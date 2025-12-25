@@ -1,6 +1,10 @@
 # 2 Peter
 
+## What this book is
+
 2 Peter is a short letter in the New Testament. It is written to Christians to help them stay steady in their faith, especially when confusing teaching is spreading.
+
+## What it contains
 
 ### 1) Grow your character and trust what you have learned (chapter 1)
 
@@ -26,3 +30,9 @@ Some people were saying, “If Jesus is meant to return, why has nothing happene
 It also describes “the day of the Lord,” meaning a future time when God will judge evil and set things right. The goal is not to scare people for fun, but to encourage them to live well now, as if their choices truly matter. It ends with hope for “a new heaven and a new earth,” meaning a renewed world where goodness belongs.
 
 The letter finishes by saying some of Paul’s writings are hard to understand, and warns people not to twist them. It encourages readers to keep growing and stay grounded.
+
+## Big ideas
+
+* Faith is presented as something that should shape character and behaviour over time.
+* The letter warns about teachers who use religion for selfish reasons.
+* Future hope is used to motivate good living now, not panic.
