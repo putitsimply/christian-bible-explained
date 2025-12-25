@@ -1,6 +1,6 @@
 # Joel
 
-*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)[^gl_prophet]
+*Where this book fits:* [Old Testament](old-testament.md) → [Minor prophets](ot-minor-prophets.md)
 
 ## What this book is
 
@@ -39,8 +39,6 @@ Joel finishes with a picture of God bringing justice: wrongs are answered, viole
 * Crisis is treated as a wake-up call for a whole community, not only individuals.
 * The book mixes warning with hope: change and rebuilding are still possible.
 * A promise about God’s Spirit becomes important later in Christian reading of Acts.
-
-[^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
 
 [^gl_worship]: Actions showing devotion to God (prayer, songs, rituals). ([Glossary](glossary.md#worship))
 

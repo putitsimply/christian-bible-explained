@@ -1,6 +1,6 @@
 # Genesis
 
-*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah)](ot-law.md)[^gl_torah]
+*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah)](ot-law.md)
 
 ## What this book is
 
@@ -35,8 +35,6 @@ Genesis ends with Jacob’s family living in Egypt, setting up the story of Exod
 * Themes include trust, failure, forgiveness, and new beginnings.
 
 Genesis is also important in more than one religion. Jewish and Christian communities treat it as Scripture[^gl_scripture], and it is also connected to stories that are important in Islam.
-
-[^gl_torah]: The first five Bible books; also means “instruction” or “law”. ([Glossary](glossary.md#torah))
 
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 

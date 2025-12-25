@@ -1,6 +1,6 @@
 # Leviticus
 
-*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah)](ot-law.md)[^gl_torah]
+*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah)](ot-law.md)
 
 ## What this book is
 
@@ -27,8 +27,6 @@ Here’s what happens, in a clear overview:
 * Holiness is about everyday behaviour, not only religious ceremonies.
 
 Leviticus has had a long influence. Later Jewish practice and later Christian teaching often look back to its ideas about sacrifice, forgiveness, and what it means to live differently from surrounding cultures.
-
-[^gl_torah]: The first five Bible books; also means “instruction” or “law”. ([Glossary](glossary.md#torah))
 
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 

@@ -1,6 +1,6 @@
 # Numbers
 
-*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah)](ot-law.md)[^gl_torah]
+*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah)](ot-law.md)
 
 ## What this book is
 
@@ -32,8 +32,6 @@ Near the end, there is a **second census** of the new generation. More rules are
 * The book contrasts one generation’s failures with the next generation’s chance to begin again.
 
 Numbers also includes reminders that worship[^gl_worship] and everyday life are connected. Even “boring” lists and rules are part of the book’s message about order, fairness, and caring for the whole community.
-
-[^gl_torah]: The first five Bible books; also means “instruction” or “law”. ([Glossary](glossary.md#torah))
 
 [^gl_israel]: Israel can mean the people, land, or a kingdom; Israelites are the people. ([Glossary](glossary.md#israel))
 

@@ -1,6 +1,6 @@
 # Exodus
 
-*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah)](ot-law.md)[^gl_torah]
+*Where this book fits:* [Old Testament](old-testament.md) → [The Law (Torah)](ot-law.md)
 
 ## What this book is
 
@@ -27,8 +27,6 @@ Finally, God gives detailed instructions for building the tabernacle[^gl_taberna
 * Freedom and identity: the story moves from slavery to becoming a community with shared laws and practices.
 * Covenant: the book centres on a serious agreement about how to live and worship.
 * Trust under pressure: fear, hunger, and conflict keep testing the people on the journey.
-
-[^gl_torah]: The first five Bible books; also means “instruction” or “law”. ([Glossary](glossary.md#torah))
 
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
 

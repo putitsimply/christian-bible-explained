@@ -23,14 +23,14 @@ If you already know the name of a Bible book, use the A–Z list below. If you a
 
 * Old Testament
   * [Old Testament (overview)](old-testament.md)
-  * [The Law (Torah)](ot-law.md)[^gl_torah]
+  * [The Law (Torah)](ot-law.md)
   * [History (Old Testament)](ot-history.md)
   * [Poetry and wisdom](ot-wisdom.md)
-  * [Major prophets](ot-major-prophets.md)[^gl_prophet]
+  * [Major prophets](ot-major-prophets.md)
   * [Minor prophets](ot-minor-prophets.md)
 * New Testament
   * [New Testament (overview)](new-testament.md)
-  * [Gospels](nt-gospels.md)[^gl_gospel]
+  * [Gospels](nt-gospels.md)
   * [History (New Testament)](nt-history.md)
   * [Letters (Paul)](nt-paul-letters.md)
   * [Other letters](nt-other-letters.md)
@@ -108,9 +108,3 @@ Books with numbers (like “1 Samuel”) are listed at the top.
 - [Zephaniah](zephaniah.md)
 
 [^gl_bible]: Christian sacred writings: many books and types of writing. ([Glossary](glossary.md#bible))
-
-[^gl_torah]: The first five Bible books; also means “instruction” or “law”. ([Glossary](glossary.md#torah))
-
-[^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
-
-[^gl_gospel]: “Good news”; also the four books about Jesus’ life. ([Glossary](glossary.md#gospel))

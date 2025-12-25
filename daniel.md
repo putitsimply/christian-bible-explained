@@ -1,6 +1,6 @@
 # Daniel
 
-*Where this book fits:* [Old Testament](old-testament.md) → [Major prophets](ot-major-prophets.md)[^gl_prophet]
+*Where this book fits:* [Old Testament](old-testament.md) → [Major prophets](ot-major-prophets.md)
 
 ## What this book is
 
@@ -29,8 +29,6 @@ Overall, Daniel mixes exciting stories with mysterious visions to teach that cou
 * The visions use symbols to express hope that injustice and cruelty will not win forever.
 
 Daniel has been read in many different ways, but the book’s overall message is to keep courage and hope in hard times.
-
-[^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
 
 [^gl_exile]: Being forced to live away from one’s homeland. ([Glossary](glossary.md#exile))
 

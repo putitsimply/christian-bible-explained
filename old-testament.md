@@ -21,7 +21,7 @@ The Old Testament is the first big section of the Christian Bible[^gl_bible]. Ma
 
 ## Explore in this guide
 
-* [The Law (Torah)](ot-law.md)[^gl_torah]
+* [The Law (Torah)](ot-law.md)
 * [History (Old Testament)](ot-history.md)
 * [Poetry and wisdom](ot-wisdom.md)
 * [Major prophets](ot-major-prophets.md)
@@ -50,8 +50,6 @@ Finally, books like Ezra and Nehemiah describe some Israelites returning from ex
 [^gl_prayer]: Speaking to God (silently or aloud). ([Glossary](glossary.md#prayer))
 
 [^gl_prophet]: A person who speaks messages they believe come from God. ([Glossary](glossary.md#prophet))
-
-[^gl_torah]: The first five Bible books; also means “instruction” or “law”. ([Glossary](glossary.md#torah))
 
 [^gl_worship]: Actions showing devotion to God (prayer, songs, rituals). ([Glossary](glossary.md#worship))
 
