@@ -15,7 +15,7 @@ layout:
   metadata:
     visible: true
 ---
-# Bible overview (student guide)
+# Bible overview
 
 The Bible[^gl_bible] is a collection of many different writings that were gathered over a long period of time. It includes stories, laws, poems, prayers[^gl_prayer], wise sayings, letters, and a book full of symbols and visions. Christians treat the Bible as sacred scripture[^gl_scripture], and many parts of it are also important in Judaism.
 

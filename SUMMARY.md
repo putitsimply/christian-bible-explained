@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bible overview (student guide)](README.md)
+* [Bible overview](README.md)
 * [Find a book](find-a-book.md)
 * [Glossary (helpful words)](glossary.md)
 
